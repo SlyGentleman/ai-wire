@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T08:07:48.327332+00:00",
+  "last_updated": "2026-01-14T12:05:01.631639+00:00",
   "entries": [
     {
       "title": "The RAM shortage\u2019s silver lining: Less talk about \u201cAI PCs\u201d",
@@ -130,6 +130,15 @@
         "Google",
         "OpenAI",
         "model"
+      ]
+    },
+    {
+      "title": "UK government told to stop dragging feet on AI nudification ban",
+      "source": "The Register",
+      "published": "Wed, 14 Jan 2026 11:47:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/uk_government_nudification_ban/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -323,16 +332,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/silicon_shield_versus_silicon_winter/",
       "matched_keywords": [
         "Nvidia"
-      ]
-    },
-    {
-      "title": "Great Trains, Not So Great AI Chatbot Security",
-      "source": "Hackaday",
-      "published": "Tue, 13 Jan 2026 16:30:31 +0000",
-      "link": "https://hackaday.com/2026/01/13/great-trains-not-so-great-ai-chatbot-security/",
-      "matched_keywords": [
-        "AI",
-        "ai"
       ]
     }
   ]
