@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T04:15:06.640270+00:00",
+  "last_updated": "2026-01-14T08:07:48.327332+00:00",
   "entries": [
     {
       "title": "The RAM shortage\u2019s silver lining: Less talk about \u201cAI PCs\u201d",
@@ -130,6 +130,16 @@
         "Google",
         "OpenAI",
         "model"
+      ]
+    },
+    {
+      "title": "Anthropic finds $1.5 million to help Python Foundation improve security",
+      "source": "The Register",
+      "published": "Wed, 14 Jan 2026 06:25:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/anthropic_python_security/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
       ]
     },
     {
