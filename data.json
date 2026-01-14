@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T12:05:01.631639+00:00",
+  "last_updated": "2026-01-14T15:03:54.515888+00:00",
   "entries": [
     {
       "title": "The RAM shortage\u2019s silver lining: Less talk about \u201cAI PCs\u201d",
@@ -133,7 +133,25 @@
       ]
     },
     {
-      "title": "UK government told to stop dragging feet on AI nudification ban",
+      "title": "AI's $3T infrastructure binge continues despite lack of clear profits",
+      "source": "The Register",
+      "published": "Wed, 14 Jan 2026 13:41:24 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/ai_investment/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Firefox 147 brings GPU boost, tidier tabs, and video that follows you around",
+      "source": "The Register",
+      "published": "Wed, 14 Jan 2026 13:15:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/firefox_and_tbird_147/",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "Stop dragging feet on AI nudification ban, UK government told",
       "source": "The Register",
       "published": "Wed, 14 Jan 2026 11:47:13 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/uk_government_nudification_ban/",
@@ -312,26 +330,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/block_ai_agent_goose/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Claude joins the ward as Anthropic eyes US healthcare data",
-      "source": "The Register",
-      "published": "Mon, 12 Jan 2026 14:55:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/claude_anthropic_healthcare/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The world is one bad decision away from a silicon ice age",
-      "source": "The Register",
-      "published": "Mon, 12 Jan 2026 12:44:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/silicon_shield_versus_silicon_winter/",
-      "matched_keywords": [
-        "Nvidia"
       ]
     }
   ]
