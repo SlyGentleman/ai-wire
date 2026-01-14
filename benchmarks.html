@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Wire – Benchmarks</title>
+  <style>
+    body { font-family: system-ui, sans-serif; background:#0f1115; color:#e6e6e6; padding:20px; }
+    a { color:#7ab7ff; }
+    table { width:100%; border-collapse:collapse; margin-top:16px; }
+    th, td { padding:8px; border-bottom:1px solid #333; text-align:left; }
+    th { background:#1b1f2a; position:sticky; top:0; }
+    .row { display:flex; gap:12px; align-items:center; margin-top:10px; flex-wrap:wrap; }
+    select, input { padding:6px; }
+    small { color:#aaa; }
+    .pill { display:inline-block; padding:2px 8px; border:1px solid #333; border-radius:999px; font-size:12px; color:#ccc; }
+  </style>
+</head>
+<body>
+  <h1>Benchmarks</h1>
+  <small id="updated">Loading…</small>
+  <div style="margin-top:8px;">
+    <span class="pill">Source: SWE-bench</span>
+  </div>
+
+  <div class="row">
+    <label>Benchmark:
+      <select id="bench"></select>
+    </label>
+
+    <label>Search model:
+      <input id="q" placeholder="e.g., GPT, Claude, DeepSeek" />
+    </label>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Model</th>
+        <th>Score</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+
+  <p style="margin-top:20px;">
+  <a href="index.html">← Back to Daily Signal</a>
+</p>
+
+<hr style="border:1px solid #222; margin:24px 0;">
+
+<p>
+  <a
+  href="https://connect.vestwell.com/gift/stable/yElAJAw4V0GO9TosLGDcHQ"
+  target="_blank"
+  rel="noopener"
+  style="
+    display:inline-block;
+    padding:10px 16px;
+    border:1px solid #444;
+    border-radius:6px;
+    background:#141821;
+    color:#e6e6e6;
+    text-decoration:none;
+  "
+>
+  ❤️ Support this project (Oklahoma ABLE account)
+</a>
+
+</p>
+
+<small style="color:#888;">
+  If this resource is useful to you, your support helps cover basic utilities like electric, water, and internet.
+</small>
+
+
+<script>
+const benchSel = document.getElementById("bench");
+const q = document.getElementById("q");
+const rows = document.getElementById("rows");
+let DATA = null;
+
+function render() {
+  if (!DATA) return;
+  const benchId = benchSel.value;
+  const needle = (q.value || "").toLowerCase();
+
+  const bench = DATA.benchmarks.find(b => b.id === benchId);
+  rows.innerHTML = "";
+
+  const filtered = (bench?.entries || [])
+    .filter(e => !needle || (e.model || "").toLowerCase().includes(needle))
+    .slice()
+    .sort((a,b) => (b.score ?? -1) - (a.score ?? -1));
+
+  filtered.forEach((e, idx) => {
+    const tr = document.createElement("tr");
+    tr.innerHTML = `
+      <td>${idx + 1}</td>
+      <td>${e.model || ""}</td>
+      <td>${e.score ?? ""}</td>
+      <td>${e.date || ""}</td>
+    `;
+    rows.appendChild(tr);
+  });
+}
+
+fetch("benchmarks.json")
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    DATA = data;
+    document.getElementById("updated").textContent =
+      "Last updated: " + data.last_updated;
+
+    data.benchmarks.forEach(b => {
+      const opt = document.createElement("option");
+      opt.value = b.id;
+      opt.textContent = b.name;
+      benchSel.appendChild(opt);
+    });
+
+    benchSel.addEventListener("change", render);
+    q.addEventListener("input", render);
+
+    if (data.benchmarks[0]) benchSel.value = data.benchmarks[0].id;
+    render();
+  })
+  .catch(err => {
+    document.getElementById("updated").textContent =
+      "⚠️ Failed to load benchmarks.json";
+    console.error(err);
+  });
+</script>
+</body>
+</html>

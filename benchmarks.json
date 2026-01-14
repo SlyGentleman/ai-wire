@@ -1,0 +1,4653 @@
+{
+  "last_updated": "2026-01-14T04:25:38.964721+00:00",
+  "sources": [
+    {
+      "id": "swebench",
+      "name": "SWE-bench",
+      "url": "https://www.swebench.com/",
+      "data_url": "https://raw.githubusercontent.com/SWE-bench/swe-bench.github.io/master/data/leaderboards.json"
+    }
+  ],
+  "benchmarks": [
+    {
+      "id": "swebench_bash-only",
+      "name": "SWE-bench bash-only",
+      "unit": "% resolved",
+      "higher_is_better": true,
+      "source_id": "swebench",
+      "entries": [
+        {
+          "model": "Claude 4.5 Opus medium (20251101)",
+          "score": 74.4,
+          "date": "2025-11-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251124_mini-v1.16.0_claude-opus-4-5-20251101/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251124_mini-v1.16.0_claude-opus-4-5-20251101/trajs",
+            "site": "https://www.anthropic.com/news/claude-opus-4-5",
+            "verified": null,
+            "oss": null,
+            "folder": "20251124_mini-v1.16.0_claude-opus-4-5-20251101",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Gemini 3 Pro Preview (2025-11-18)",
+          "score": 74.2,
+          "date": "2025-11-18",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251118_mini-v1.15.0_gemini-3-pro-preview-20251118/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251118_mini-v1.15.0_gemini-3-pro-preview-20251118/trajs",
+            "site": "https://ai.google.dev/gemini-api/docs/models",
+            "verified": null,
+            "oss": null,
+            "folder": "20251118_mini-v1.15.0_gemini-3-pro-preview-20251118",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GPT-5.2 (2025-12-11) (high reasoning)",
+          "score": 71.8,
+          "date": "2025-12-11",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251211_mini-v1.17.2_gpt-5.2-2025-12-11-high/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251211_mini-v1.17.2_gpt-5.2-2025-12-11-high/trajs",
+            "site": "https://platform.openai.com/docs/models/gpt-5",
+            "verified": null,
+            "oss": null,
+            "folder": "20251211_mini-v1.17.2_gpt-5.2-2025-12-11-high",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Claude 4.5 Sonnet (20250929)",
+          "score": 70.6,
+          "date": "2025-09-29",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250929_mini-v1.13.3_sonnet-4-5-20250929/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250929_mini-v1.13.3_sonnet-4-5-20250929/trajs",
+            "site": "https://www.anthropic.com/news/claude-sonnet-4-5",
+            "verified": null,
+            "oss": null,
+            "folder": "20250929_mini-v1.13.3_sonnet-4-5-20250929",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GPT-5.2 (2025-12-11)",
+          "score": 69.0,
+          "date": "2025-12-11",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251211_mini-v1.17.2_gpt-5.2-2025-12-11/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251211_mini-v1.17.2_gpt-5.2-2025-12-11/trajs",
+            "site": "https://platform.openai.com/docs/models/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251211_mini-v1.17.2_gpt-5.2-2025-12-11",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Claude 4 Opus (20250514)",
+          "score": 67.6,
+          "date": "2025-08-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250802_mini-v1.0.0_claude-4-opus-20250514/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250802_mini-v1.0.0_claude-4-opus-20250514/trajs",
+            "site": "https://www.anthropic.com/news/claude-4",
+            "verified": null,
+            "oss": null,
+            "folder": "20250802_mini-v1.0.0_claude-4-opus-20250514",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GPT-5.1-codex (medium reasoning)",
+          "score": 66.0,
+          "date": "2025-11-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251124_mini-v1.16.0_gpt-5.1-codex/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251124_mini-v1.16.0_gpt-5.1-codex/trajs",
+            "site": "https://platform.openai.com/docs/models/gpt-5",
+            "verified": null,
+            "oss": null,
+            "folder": "20251124_mini-v1.16.0_gpt-5.1-codex",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GPT-5.1 (2025-11-13) (medium reasoning)",
+          "score": 66.0,
+          "date": "2025-11-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251120_mini-v1.15.0_gpt-5.1-2025-11-13/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251120_mini-v1.15.0_gpt-5.1-2025-11-13/trajs",
+            "site": "https://platform.openai.com/docs/models/gpt-5",
+            "verified": null,
+            "oss": null,
+            "folder": "20251120_mini-v1.15.0_gpt-5.1-2025-11-13",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GPT-5 (2025-08-07) (medium reasoning)",
+          "score": 65.0,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250807_mini-v1.7.0_gpt-5/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250807_mini-v1.7.0_gpt-5/trajs",
+            "site": "https://platform.openai.com/docs/models/gpt-5",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_mini-v1.7.0_gpt-5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Claude 4 Sonnet (20250514)",
+          "score": 64.93,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_claude-sonnet-4-20250514/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_claude-sonnet-4-20250514/trajs",
+            "site": "https://www.anthropic.com/news/claude-4",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_claude-sonnet-4-20250514",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Kimi K2 Thinking",
+          "score": 63.4,
+          "date": "2025-12-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251210_mini-v1.17.2_kimi-k2-thinking/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251210_mini-v1.17.2_kimi-k2-thinking/trajs",
+            "site": "https://moonshotai.github.io/Kimi-K2/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251210_mini-v1.17.2_kimi-k2-thinking",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Minimax M2",
+          "score": 61.0,
+          "date": "2025-11-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251124_mini-v1.17.0_minimax-m2/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251124_mini-v1.17.0_minimax-m2/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20251124_mini-v1.17.0_minimax-m2",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "DeepSeek V3.2 Reasoner",
+          "score": 60.0,
+          "date": "2025-12-01",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251201_mini-v1.17.1_deepseek-v3.2-reasoner/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251201_mini-v1.17.1_deepseek-v3.2-reasoner/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20251201_mini-v1.17.1_deepseek-v3.2-reasoner",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GPT-5 mini (2025-08-07) (medium reasoning)",
+          "score": 59.8,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250807_mini-v1.7.0_gpt-5-mini/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250807_mini-v1.7.0_gpt-5-mini/trajs",
+            "site": "https://platform.openai.com/docs/models/gpt-5-mini",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_mini-v1.7.0_gpt-5-mini",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "o3 (2025-04-16)",
+          "score": 58.4,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_o3-2025-04-16/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_o3-2025-04-16/trajs",
+            "site": "https://platform.openai.com/docs/models/o3",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_o3-2025-04-16",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Devstral small (2512)",
+          "score": 56.4,
+          "date": "2025-12-09",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251209_mini-v1.17.2_devstral-small-2512/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251209_mini-v1.17.2_devstral-small-2512/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20251209_mini-v1.17.2_devstral-small-2512",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Qwen3-Coder 480B/A35B Instruct",
+          "score": 55.4,
+          "date": "2025-08-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250802_mini-v1.0.0_Qwen3-Coder-480B-A35B-Instruct/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250802_mini-v1.0.0_Qwen3-Coder-480B-A35B-Instruct/trajs",
+            "site": "https://qwenlm.github.io/blog/qwen3-coder/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250802_mini-v1.0.0_qwen3-coder-480b-a35b-instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GLM-4.6 (T=1)",
+          "score": 55.4,
+          "date": "2025-12-01",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251201_mini-v1.17.1_glm-4.6/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251201_mini-v1.17.1_glm-4.6/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20251201_mini-v1.17.1_glm-4.6",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GLM-4.5 (2025-08-22)",
+          "score": 54.2,
+          "date": "2025-08-22",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250822_mini-v1.9.1_glm-4.5/logs/",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250822_mini-v1.9.1_glm-4.5/trajs/",
+            "site": "https://z.ai/blog/glm-4.5",
+            "verified": null,
+            "oss": null,
+            "folder": "20250822_mini-v1.9.1_glm-4.5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Devstral (2512)",
+          "score": 53.8,
+          "date": "2025-12-09",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20251209_mini-v1.17.2_devstral-2512/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20251209_mini-v1.17.2_devstral-2512/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20251209_mini-v1.17.2_devstral-2512",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Gemini 2.5 Pro (2025-05-06)",
+          "score": 53.6,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_gemini-2.5-pro/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_gemini-2.5-pro/trajs",
+            "site": "https://ai.google.dev/gemini-api/docs/models",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_gemini-2.5-pro",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Claude 3.7 Sonnet (20250219)",
+          "score": 52.8,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250720_mini-v0.0.0-claude-3-7-sonnet-20250219/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250720_mini-v0.0.0-claude-3-7-sonnet-20250219/trajs",
+            "site": "https://www.anthropic.com/news/claude-3-7-sonnet",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_mini-v0.0.0-claude-3-7-sonnet-20250219",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "o4-mini (2025-04-16)",
+          "score": 45.0,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250521_o4-mini-20250416/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_o4-mini-2025-04-16/trajs",
+            "site": "https://platform.openai.com/docs/models/o4-mini",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_o4-mini-2025-04-16",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Kimi K2 Instruct",
+          "score": 43.8,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250807_mini-v1.7.0_Kimi-K2-Instruct/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250807_mini-v1.7.0_Kimi-K2-Instruct/trajs",
+            "site": "https://moonshotai.github.io/Kimi-K2/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_mini-v1.7.0_kimi-k2-instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GPT-4.1 (2025-04-14)",
+          "score": 39.58,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_gpt-4.1-2025-04-14/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_gpt-4.1-2025-04-14/trajs",
+            "site": "https://platform.openai.com/docs/models/gpt-4.1",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_gpt-4.1-2025-04-14",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GPT-5 nano (2025-08-07) (medium reasoning)",
+          "score": 34.8,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250807_mini-v1.7.0_gpt-5-nano/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250807_mini-v1.7.0_gpt-5-nano/trajs",
+            "site": "https://platform.openai.com/docs/models/gpt-5-nano",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_mini-v1.7.0_gpt-5-nano",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Gemini 2.5 Flash (2025-04-17)",
+          "score": 28.73,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_gemini-2.5-flash/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_gemini-2.5-flash/trajs",
+            "site": "https://ai.google.dev/gemini-api/docs/models",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_gemini-2.5-flash",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "gpt-oss-120b",
+          "score": 26.0,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250807_mini-v1.7.0_gpt-oss-120b/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250807_mini-v1.7.0_gpt-oss-120b/trajs",
+            "site": "https://platform.openai.com/docs/models/gpt-oss-120b",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_mini-v1.7.0_gpt-oss-120b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GPT-4.1-mini (2025-04-14)",
+          "score": 23.94,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250720_mini-v0.0.0_gpt-4.1-mini-2025-04-14/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250720_mini-v0.0.0_gpt-4.1-mini-2025-04-14/trajs",
+            "site": "https://platform.openai.com/docs/models/gpt-4.1-mini",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_mini-v0.0.0_gpt-4.1-mini-2025-04-14",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GPT-4o (2024-11-20)",
+          "score": 21.62,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250720_mini-v0.0.0-gpt-4o-2024-11-20/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250720_mini-v0.0.0-gpt-4o-2024-11-20/trajs",
+            "site": "https://platform.openai.com/docs/models/gpt-4o",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_mini-v0.0.0-gpt-4o-2024-11-20",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Llama 4 Maverick Instruct",
+          "score": 21.04,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250720_mini-v0.0.0-Llama-4-Maverick-17B-Instruct/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250720_mini-v0.0.0-Llama-4-Maverick-17B-Instruct/trajs",
+            "site": "https://www.together.ai/models/llama-4-maverick",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_mini-v0.0.0-Llama-4-Maverick-17B-Instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Gemini 2.0 flash",
+          "score": 13.52,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_gemini-2.0-flash/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250726_mini-v1.0.0_gemini-2.0-flash/trajs",
+            "site": "https://ai.google.dev/gemini-api/docs/models",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_gemini-2.0-flash",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Llama 4 Scout Instruct",
+          "score": 9.06,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250720_mini-v0.0.0-Llama-4-Scout-17B-Instruct/logs",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250720_mini-v0.0.0-Llama-4-Scout-17B-Instruct/trajs",
+            "site": "https://www.together.ai/models/llama-4-scout",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_mini-v0.0.0-Llama-4-Scout-17B-Instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Qwen2.5-Coder 32B Instruct",
+          "score": 9.0,
+          "date": "2025-08-03",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/bash-only/20250803_mini-v1.0.0_qwen2-5-coder-32b-instruct/",
+            "trajs": "s3://swe-bench-experiments/bash-only/20250803_mini-v1.0.0_qwen2-5-coder-32b-instruct/",
+            "site": "https://qwenlm.github.io/blog/qwen2.5-coder/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250803_mini-v1.0.0_qwen2-5-coder-32b-instruct",
+            "org_logo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "swebench_test",
+      "name": "SWE-bench Test",
+      "unit": "% resolved",
+      "higher_is_better": true,
+      "source_id": "swebench",
+      "entries": [
+        {
+          "model": "Salesforce AI Research SAGE (bash-only)",
+          "score": 44.25,
+          "date": "2025-10-27",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20251027_salesforce_SAGE/logs",
+            "trajs": "s3://swe-bench-experiments/test/20251027_salesforce_SAGE/trajs",
+            "site": "https://www.salesforce.com/blog/sage-swe/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251027_salesforce_SAGE",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Atlassian Rovo Dev (2025-06-05)",
+          "score": 41.98,
+          "date": "2025-06-05",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20250605_atlassian-rovo-dev/logs",
+            "trajs": "s3://swe-bench-experiments/test/20250605_atlassian-rovo-dev/trajs",
+            "site": "https://www.atlassian.com/rovo-dev",
+            "verified": null,
+            "oss": null,
+            "folder": "20250605_atlassian-rovo-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Q Developer Agent (v20250405-dev)",
+          "score": 37.1,
+          "date": "2025-05-22",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20250522_amazon-q-developer-agent-20250405-dev/logs",
+            "trajs": "s3://swe-bench-experiments/test/20250522_amazon-q-developer-agent-20250405-dev/trajs",
+            "site": "https://aws.amazon.com/q/developer/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250522_amazon-q-developer-agent-20250405-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent 1.0 (Claude 3.7 Sonnet)",
+          "score": 33.83,
+          "date": "2025-02-27",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20250227_sweagent-claude-3-7-20250219/logs/",
+            "trajs": "s3://swe-bench-experiments/test/20250227_sweagent-claude-3-7-20250219/trajs/",
+            "site": "https://github.com/swe-agent/swe-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20250227_sweagent-claude-3-7-20250219",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Q Developer Agent (v20241202-dev)",
+          "score": 29.99,
+          "date": "2025-01-31",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20250131_amazon-q-developer-agent-20241202-dev/logs/",
+            "trajs": "s3://swe-bench-experiments/test/20250131_amazon-q-developer-agent-20241202-dev/trajs/",
+            "site": "https://aws.amazon.com/q/developer/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250131_amazon-q-developer-agent-20241202-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + CodeAct v2.1 (claude-3-5-sonnet-20241022)",
+          "score": 29.38,
+          "date": "2024-11-03",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20241103_OpenHands-CodeAct-2.1-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/test/20241103_OpenHands-CodeAct-2.1-sonnet-20241022/trajs",
+            "site": "https://docs.all-hands.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241103_OpenHands-CodeAct-2.1-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AutoCodeRover-v2.0 (Claude-3.5-Sonnet-20241022)",
+          "score": 24.89,
+          "date": "2024-11-21",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20241121_autocoderover-v2.0-claude-3-5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/test/20241121_autocoderover-v2.0-claude-3-5-sonnet-20241022/trajs",
+            "site": "https://www.autocoderover.net/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241121_autocoderover-v2.0-claude-3-5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Honeycomb",
+          "score": 22.06,
+          "date": "2024-08-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240820_honeycomb/logs",
+            "trajs": "s3://swe-bench-experiments/test/20240820_honeycomb/trajs",
+            "site": "https://honeycomb.sh/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240820_honeycomb",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Q Developer Agent (v20240719-dev)",
+          "score": 19.75,
+          "date": "2024-07-21",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240721_amazon-q-developer-agent-20240719-dev/logs",
+            "trajs": "s3://swe-bench-experiments/test/20240721_amazon-q-developer-agent-20240719-dev/trajs",
+            "site": "https://aws.amazon.com/q/developer/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240721_amazon-q-developer-agent-20240719-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Factory Code Droid",
+          "score": 19.27,
+          "date": "2024-06-17",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240617_factory_code_droid/logs",
+            "trajs": null,
+            "site": "https://www.factory.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240617_factory_code_droid",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AutoCodeRover (v20240620) + GPT 4o (2024-05-13)",
+          "score": 18.83,
+          "date": "2024-06-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240628_autocoderover-v20240620/logs",
+            "trajs": null,
+            "site": "https://autocoderover.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240628_autocoderover-v20240620",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude 3.5 Sonnet",
+          "score": 18.13,
+          "date": "2024-06-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240620_sweagent_claude3.5sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/test/20240620_sweagent_claude3.5sonnet/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20240620_sweagent_claude3.5sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AppMap Navie + GPT 4o (2024-05-13)",
+          "score": 14.6,
+          "date": "2024-06-15",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240615_appmap-navie_gpt4o/logs",
+            "trajs": null,
+            "site": "https://appmap.io/navie",
+            "verified": null,
+            "oss": null,
+            "folder": "20240615_appmap-navie_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Q Developer Agent (v20240430-dev)",
+          "score": 13.82,
+          "date": "2024-05-09",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240509_amazon-q-developer-agent-20240430-dev/logs",
+            "trajs": null,
+            "site": "https://aws.amazon.com/q/developer/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240509_amazon-q-developer-agent-20240430-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + GPT 4 (1106)",
+          "score": 12.47,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240402_sweagent_gpt4/logs",
+            "trajs": "s3://swe-bench-experiments/test/20240402_sweagent_gpt4/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_sweagent_gpt4",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + GPT 4o (2024-05-13)",
+          "score": 11.99,
+          "date": "2024-07-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240728_sweagent_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/test/20240728_sweagent_gpt4o/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240728_sweagent_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude 3 Opus",
+          "score": 10.51,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240402_sweagent_claude3opus/logs",
+            "trajs": "s3://swe-bench-experiments/test/20240402_sweagent_claude3opus/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_sweagent_claude3opus",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + Claude 3 Opus",
+          "score": 3.79,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240402_rag_claude3opus/logs",
+            "trajs": null,
+            "site": "https://github.com/SWE-bench/SWE-bench/tree/main/swebench/inference",
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_rag_claude3opus",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + Claude 2",
+          "score": 1.96,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20231010_rag_claude2/logs",
+            "trajs": null,
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_claude2",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + GPT 4 (1106)",
+          "score": 1.31,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20240402_rag_gpt4/logs",
+            "trajs": null,
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_rag_gpt4",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + SWE-Llama 13B",
+          "score": 0.7,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20231010_rag_swellama13b/logs",
+            "trajs": null,
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_swellama13b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + SWE-Llama 7B",
+          "score": 0.7,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20231010_rag_swellama7b/logs",
+            "trajs": null,
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_swellama7b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + ChatGPT 3.5",
+          "score": 0.17,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/test/20231010_rag_gpt35/logs",
+            "trajs": null,
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_gpt35",
+            "org_logo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "swebench_verified",
+      "name": "SWE-bench Verified",
+      "unit": "% resolved",
+      "higher_is_better": true,
+      "source_id": "swebench",
+      "entries": [
+        {
+          "model": "TRAE + Doubao-Seed-Code",
+          "score": 78.8,
+          "date": "2025-09-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250928_trae_doubao_seed_code/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250928_trae_doubao_seed_code/trajs",
+            "site": [
+              "https://github.com/bytedance/trae-agent",
+              "https://seed.bytedance.com/"
+            ],
+            "verified": null,
+            "oss": null,
+            "folder": "20250928_trae_doubao_seed_code",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "live-SWE-agent + Gemini 3 Pro Preview (2025-11-18)",
+          "score": 77.4,
+          "date": "2025-11-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251120_livesweagent_gemini-3-pro-preview/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251120_livesweagent_gemini-3-pro-preview/trajs",
+            "site": "https://github.com/OpenAutoCoder/live-swe-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20251120_livesweagent_gemini-3-pro-preview",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Atlassian Rovo Dev (2025-09-02)",
+          "score": 76.8,
+          "date": "2025-09-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250902_atlassian-rovo-dev/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250902_atlassian-rovo-dev/trajs",
+            "site": "https://www.atlassian.com/rovo-dev",
+            "verified": null,
+            "oss": null,
+            "folder": "20250902_atlassian-rovo-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "EPAM AI/Run Developer Agent v20250719 + Claude 4 Sonnet",
+          "score": 76.8,
+          "date": "2025-08-04",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250804_epam-ai-run-claude-4-sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250804_epam-ai-run-claude-4-sonnet/trajs",
+            "site": "https://www.epam.com/services/artificial-intelligence",
+            "verified": null,
+            "oss": null,
+            "folder": "20250804_epam-ai-run-claude-4-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "ACoder",
+          "score": 76.4,
+          "date": "2025-08-19",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250819_ACoder/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250819_ACoder/trajs",
+            "site": "https://github.com/ACoder-AI/ACoder",
+            "verified": null,
+            "oss": null,
+            "folder": "20250819_ACoder",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Warp",
+          "score": 75.6,
+          "date": "2025-09-01",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250901_warp/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250901_warp/trajs",
+            "site": "https://www.warp.dev",
+            "verified": null,
+            "oss": null,
+            "folder": "20250901_warp",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "TRAE",
+          "score": 75.2,
+          "date": "2025-06-12",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250612_trae/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250612_trae/trajs",
+            "site": "https://github.com/bytedance/trae-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20250612_trae",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Harness AI",
+          "score": 74.8,
+          "date": "2025-07-31",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250731_harness_ai/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250731_harness_ai/trajs",
+            "site": "https://www.harness.io/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250731_harness_ai",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Sonar Foundation Agent + Claude 4.5 Sonnet",
+          "score": 74.8,
+          "date": "2025-11-03",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251103_sonar-foundation-agent_claude-sonnet-4-5/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251103_sonar-foundation-agent_claude-sonnet-4-5/trajs",
+            "site": "https://www.sonarsource.com",
+            "verified": null,
+            "oss": null,
+            "folder": "20251103_sonar-foundation-agent_claude-sonnet-4-5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Lingxi-v1.5_claude-4-sonnet-20250514",
+          "score": 74.6,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250720_Lingxi-v1.5_claude-4-sonnet-20250514/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250720_Lingxi-v1.5_claude-4-sonnet-20250514/trajs",
+            "site": "https://github.com/nimasteryang/Lingxi",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_Lingxi-v1.5_claude-4-sonnet-20250514",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "JoyCode",
+          "score": 74.6,
+          "date": "2025-09-15",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250915_JoyCode/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250915_JoyCode/trajs",
+            "site": "https://github.com/jd-opensource/joycode-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20250915_JoyCode",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Refact.ai Agent",
+          "score": 74.4,
+          "date": "2025-06-03",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250603_Refact_Agent_claude-4-sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250603_Refact_Agent_claude-4-sonnet/trajs",
+            "site": "https://refact.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250603_Refact_Agent_claude-4-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Prometheus-v1.2.1 + GPT-5",
+          "score": 74.4,
+          "date": "2025-10-15",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251015_Prometheus_v1.2.1_gpt5/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251015_Prometheus_v1.2.1_gpt5/trajs",
+            "site": "https://euni.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251015_Prometheus_v1.2.1_gpt5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Claude 4.5 Opus medium (20251101)",
+          "score": 74.4,
+          "date": "2025-11-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251124_mini-v1.16.0_claude-opus-4-5-20251101/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251124_mini-v1.16.0_claude-opus-4-5-20251101/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251124_mini-v1.16.0_claude-opus-4-5-20251101",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Gemini 3 Pro Preview (2025-11-18)",
+          "score": 74.2,
+          "date": "2025-11-18",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251118_mini-v1.15.0_gemini-3-pro-preview-20251118/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251118_mini-v1.15.0_gemini-3-pro-preview-20251118/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251118_mini-v1.15.0_gemini-3-pro-preview-20251118",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Salesforce AI Research SAGE (OpenHands)",
+          "score": 73.8,
+          "date": "2025-11-03",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251103_SalesforceAIResearch_SAGE_OpenHands/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251103_SalesforceAIResearch_SAGE_OpenHands/trajs",
+            "site": "https://www.salesforce.com/blog/sage-swe/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251103_SalesforceAIResearch_SAGE_OpenHands",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Tools + Claude 4 Opus (2025-05-22)",
+          "score": 73.2,
+          "date": "2025-05-22",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250522_tools_claude-4-opus/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250522_tools_claude-4-opus/trajs",
+            "site": "https://www.anthropic.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250522_tools_claude-4-opus",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Salesforce AI Research SAGE (bash-only)",
+          "score": 73.0,
+          "date": "2025-10-21",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251021_SalesforceAIResearch_SAGE_bash_only/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251021_SalesforceAIResearch_SAGE_bash_only/trajs",
+            "site": "https://www.salesforce.com/blog/sage-swe/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251021_SalesforceAIResearch_SAGE_bash_only",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Tools + Claude 4 Sonnet (2025-05-22)",
+          "score": 72.4,
+          "date": "2025-05-22",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250522_tools_claude-4-sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250522_tools_claude-4-sonnet/trajs",
+            "site": "https://www.anthropic.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250522_tools_claude-4-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + GPT-5",
+          "score": 71.8,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250807_openhands_gpt5/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250807_openhands_gpt5/trajs",
+            "site": "https://all-hands.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_openhands_gpt5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GPT-5.2 (2025-12-11) (high reasoning)",
+          "score": 71.8,
+          "date": "2025-12-11",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251211_mini-v1.17.2_gpt-5.2-2025-12-11-high/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251211_mini-v1.17.2_gpt-5.2-2025-12-11-high/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251211_mini-v1.17.2_gpt-5.2-2025-12-11-high",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Prometheus-v1.2 + GPT-5",
+          "score": 71.2,
+          "date": "2025-09-29",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250929_Prometheus_v1.2_gpt5/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250929_Prometheus_v1.2_gpt5/trajs",
+            "site": "https://euni.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250929_Prometheus_v1.2_gpt5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Qodo Command",
+          "score": 71.2,
+          "date": "2025-07-15",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250715_qodo_command/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250715_qodo_command/trajs",
+            "site": "https://www.qodo.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250715_qodo_command",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Bloop",
+          "score": 71.2,
+          "date": "2025-07-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250710_bloop/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250710_bloop/trajs",
+            "site": "https://bloop.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250710_bloop",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Lingxi v1.5 x Kimi K2",
+          "score": 71.2,
+          "date": "2025-10-14",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251014_Lingxi_kimi_k2/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251014_Lingxi_kimi_k2/trajs",
+            "site": "https://github.com/lingxi-agent/Lingxi/tree/master",
+            "verified": null,
+            "oss": null,
+            "folder": "20251014_Lingxi_kimi_k2",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Warp",
+          "score": 71.0,
+          "date": "2025-06-23",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250623_warp/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250623_warp/trajs",
+            "site": "https://www.warp.dev",
+            "verified": null,
+            "oss": null,
+            "folder": "20250623_warp",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Moatless Tools + Claude 4 Sonnet",
+          "score": 70.8,
+          "date": "2025-06-11",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250611_moatless_claude-4-sonnet-20250514/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250611_moatless_claude-4-sonnet-20250514/trajs",
+            "site": "https://github.com/aorwall/moatless-tools",
+            "verified": null,
+            "oss": null,
+            "folder": "20250611_moatless_claude-4-sonnet-20250514",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "TRAE",
+          "score": 70.6,
+          "date": "2025-05-19",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250519_trae/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250519_trae/trajs",
+            "site": "https://www.trae.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250519_trae",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Claude 4.5 Sonnet (20250929)",
+          "score": 70.6,
+          "date": "2025-09-29",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250929_mini-v1.13.3_sonnet-4-5-20250929/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250929_mini-v1.13.3_sonnet-4-5-20250929/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250929_mini-v1.13.3_sonnet-4-5-20250929",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Refact.ai Agent",
+          "score": 70.4,
+          "date": "2025-05-15",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250515_Refact_Agent/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250515_Refact_Agent/trajs",
+            "site": "https://refact.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250515_Refact_Agent",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + Claude 4 Sonnet",
+          "score": 70.4,
+          "date": "2025-05-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250524_openhands_claude_4_sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250524_openhands_claude_4_sonnet/trajs",
+            "site": "https://all-hands.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250524_openhands_claude_4_sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Augment Agent v1",
+          "score": 70.4,
+          "date": "2025-06-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250610_augment_agent_v1/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250610_augment_agent_v1/trajs",
+            "site": "https://www.augmentcode.com",
+            "verified": null,
+            "oss": null,
+            "folder": "20250610_augment_agent_v1",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "devlo",
+          "score": 70.2,
+          "date": "2025-05-19",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250519_devlo/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250519_devlo/trajs",
+            "site": "https://devlo.ai/?utm_source=swe-bench",
+            "verified": null,
+            "oss": null,
+            "folder": "20250519_devlo",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Zencoder (2025-04-30)",
+          "score": 70.0,
+          "date": "2025-04-30",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250430_zencoder_ai/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250430_zencoder_ai/trajs",
+            "site": "https://zencoder.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250430_zencoder_ai",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + Qwen3-Coder-480B-A35B-Instruct",
+          "score": 69.6,
+          "date": "2025-08-05",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250805-openhands-Qwen3-Coder-480B-A35B-Instruct/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250805-openhands-Qwen3-Coder-480B-A35B-Instruct/trajs",
+            "site": "https://qwenlm.github.io/blog/qwen3-coder/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250805_openhands-Qwen3-Coder-480B-A35B-Instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GPT-5.2 (2025-12-11)",
+          "score": 69.0,
+          "date": "2025-12-11",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251211_mini-v1.17.2_gpt-5.2-2025-12-11/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251211_mini-v1.17.2_gpt-5.2-2025-12-11/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251211_mini-v1.17.2_gpt-5.2-2025-12-11",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Nemotron-CORTEXA",
+          "score": 68.2,
+          "date": "2025-05-16",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250516_cortexa_o3/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250516_cortexa_o3/trajs",
+            "site": "https://research.nvidia.com/labs/adlr/cortexa/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250516_cortexa_o3",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GLM-4.6",
+          "score": 68.2,
+          "date": "2025-09-30",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250930_zai_glm4-6/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250930_zai_glm4-6/trajs",
+            "site": "https://chat.z.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250930_zai_glm4-6",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Claude 4 Opus (20250514)",
+          "score": 67.6,
+          "date": "2025-08-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250802_mini-v1.0.0_claude-4-opus-20250514/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250802_mini-v1.0.0_claude-4-opus-20250514/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250802_mini-v1.0.0_claude-4-opus-20250514",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude 4 Sonnet",
+          "score": 66.6,
+          "date": "2025-05-22",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250522_sweagent_claude-4-sonnet-20250514/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250522_sweagent_claude-4-sonnet-20250514/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20250522_sweagent_claude-4-sonnet-20250514",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Aime-coder v1 + Anthopic Claude 3.7 Sonnet",
+          "score": 66.4,
+          "date": "2025-05-14",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250514_aime_coder/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250514_aime_coder/trajs",
+            "site": "https://github.com/SWE-bench/experiments/blob/main/evaluation/verified/20250514_aime_coder/README.md",
+            "verified": null,
+            "oss": null,
+            "folder": "20250514_aime_coder",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GPT-5.1-codex (medium reasoning)",
+          "score": 66.0,
+          "date": "2025-11-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251124_mini-v1.16.0_gpt-5.1-codex/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251124_mini-v1.16.0_gpt-5.1-codex/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251124_mini-v1.16.0_gpt-5.1-codex",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GPT-5.1 (2025-11-13) (medium reasoning)",
+          "score": 66.0,
+          "date": "2025-11-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251120_mini-v1.15.0_gpt-5.1-2025-11-13/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251120_mini-v1.15.0_gpt-5.1-2025-11-13/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251120_mini-v1.15.0_gpt-5.1-2025-11-13",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands",
+          "score": 65.8,
+          "date": "2025-04-15",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250415_openhands/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250415_openhands/trajs",
+            "site": "https://all-hands.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250415_openhands",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Augment Agent v0",
+          "score": 65.4,
+          "date": "2025-03-16",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250316_augment_agent_v0/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250316_augment_agent_v0/trajs",
+            "site": "https://www.augmentcode.com",
+            "verified": null,
+            "oss": null,
+            "folder": "20250316_augment_agent_v0",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Q Developer Agent (v20250405-dev)",
+          "score": 65.4,
+          "date": "2025-04-05",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250405_amazon-q-developer-agent-20250405-dev/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250405_amazon-q-developer-agent-20250405-dev/trajs",
+            "site": "https://aws.amazon.com/q/developer/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250405_amazon-q-developer-agent-20250405-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + Kimi K2",
+          "score": 65.4,
+          "date": "2025-07-16",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250716_openhands_kimi_k2/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250716_openhands_kimi_k2/trajs",
+            "site": "https://all-hands.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250716_openhands_kimi_k2",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GPT-5 (2025-08-07) (medium reasoning)",
+          "score": 65.0,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250807_mini-v1.7.0_gpt-5/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250807_mini-v1.7.0_gpt-5/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_mini-v1.7.0_gpt-5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Claude 4 Sonnet (20250514)",
+          "score": 64.93,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_claude-sonnet-4-20250514/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_claude-sonnet-4-20250514/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_claude-sonnet-4-20250514",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "W&B Programmer O1 crosscheck5",
+          "score": 64.6,
+          "date": "2025-01-17",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250117_wandb_programmer_o1_crosscheck5/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250117_wandb_programmer_o1_crosscheck5/trajs",
+            "site": "https://wandb.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250117_wandb_programmer_o1_crosscheck5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "PatchPilot-v1.1",
+          "score": 64.6,
+          "date": "2025-05-03",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250503_patchpilot-v1.1-o4-mini/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250503_patchpilot-v1.1-o4-mini/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20250503_patchpilot-v1.1-o4-mini",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GLM-4.5",
+          "score": 64.2,
+          "date": "2025-07-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250728_zai_glm4-5/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250728_zai_glm4-5/trajs",
+            "site": "https://chat.z.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250728_zai_glm4-5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AgentScope",
+          "score": 63.4,
+          "date": "2025-02-06",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250206_agentscope/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250206_agentscope/trajs",
+            "site": "https://github.com/modelscope/agentscope",
+            "verified": null,
+            "oss": null,
+            "folder": "20250206_agentscope",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Kimi K2 Thinking",
+          "score": 63.4,
+          "date": "2025-12-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251210_mini-v1.17.2_kimi-k2-thinking/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251210_mini-v1.17.2_kimi-k2-thinking/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251210_mini-v1.17.2_kimi-k2-thinking",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Tools + Claude 3.7 Sonnet (2025-02-24)",
+          "score": 63.2,
+          "date": "2025-02-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250224_tools_claude-3-7-sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250224_tools_claude-3-7-sonnet/trajs",
+            "site": "https://www.anthropic.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250224_tools_claude-3-7-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Blackbox AI Agent",
+          "score": 62.8,
+          "date": "2025-01-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250110_blackboxai_agent_v1.1/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250110_blackboxai_agent_v1.1/trajs",
+            "site": "https://www.blackbox.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250110_blackboxai_agent_v1.1",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "EPAM AI/Run Developer Agent v20250219 + Anthopic Claude 3.5 Sonnet",
+          "score": 62.8,
+          "date": "2025-02-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250228_epam-ai-run-claude-3-5-sonnet/logs/",
+            "trajs": "s3://swe-bench-experiments/verified/20250228_epam-ai-run-claude-3-5-sonnet/trajs",
+            "site": "https://www.epam.com/services/artificial-intelligence",
+            "verified": null,
+            "oss": null,
+            "folder": "20250228_epam-ai-run-claude-3-5-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude 3.7 Sonnet w/ Review Heavy",
+          "score": 62.4,
+          "date": "2025-02-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250225_sweagent_claude-3-7-sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250225_sweagent_claude-3-7-sonnet/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20250225_sweagent_claude-3-7-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "CodeStory Midwit Agent + swe-search",
+          "score": 62.2,
+          "date": "2024-12-21",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241221_codestory_midwit_claude-3-5-sonnet_swe-search/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241221_codestory_midwit_claude-3-5-sonnet_swe-search/trajs",
+            "site": "https://aide.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241221_codestory_midwit_claude-3-5-sonnet_swe-search",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Minimax M2",
+          "score": 61.0,
+          "date": "2025-11-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251124_mini-v1.17.0_minimax-m2/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251124_mini-v1.17.0_minimax-m2/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251124_mini-v1.17.0_minimax-m2",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + 4x Scaled (2024-02-03)",
+          "score": 60.8,
+          "date": "2025-02-03",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250203_openhands_4x_scaled/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250203_openhands_4x_scaled/trajs",
+            "site": "https://all-hands.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250203_openhands_4x_scaled",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "EntroPO + R2E + Qwen3-Coder-30B-A3B-Instruct",
+          "score": 60.4,
+          "date": "2025-09-01",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250901_entroPO_R2E_QwenCoder30BA3B_tts/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250901_entroPO_R2E_QwenCoder30BA3B_tts/trajs",
+            "site": "https://github.com/sherdencooper/R2E-Gym",
+            "verified": null,
+            "oss": null,
+            "folder": "20250901_entroPO_R2E_QwenCoder30BA3B_tts",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Learn-by-interact",
+          "score": 60.2,
+          "date": "2025-01-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250110_learn_by_interact_claude3.5/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250110_learn_by_interact_claude3.5/trajs",
+            "site": "https://arxiv.org/pdf/2501.10893",
+            "verified": null,
+            "oss": null,
+            "folder": "20250110_learn_by_interact_claude3.5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + DeepSeek V3.2 Reasoner",
+          "score": 60.0,
+          "date": "2025-12-01",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251201_mini-v1.17.1_deepseek-v3.2-reasoner/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251201_mini-v1.17.1_deepseek-v3.2-reasoner/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251201_mini-v1.17.1_deepseek-v3.2-reasoner",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GPT-5 mini (2025-08-07) (medium reasoning)",
+          "score": 59.8,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250807_mini-v1.7.0_gpt-5-mini/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250807_mini-v1.7.0_gpt-5-mini/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_mini-v1.7.0_gpt-5-mini",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "DeepSWE-Preview + TTS(Bo16)",
+          "score": 58.8,
+          "date": "2025-06-29",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250629_deepswerl_r2eagent_tts/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250629_deepswerl_r2eagent_tts/trajs",
+            "site": "agentica-project.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250629_deepswerl_r2eagent_tts",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + o3 (2025-04-16)",
+          "score": 58.4,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_o3-2025-04-16/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_o3-2025-04-16/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_o3-2025-04-16",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Nemotron-CORTEXA",
+          "score": 58.2,
+          "date": "2025-04-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250410_cortexa/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250410_cortexa/trajs",
+            "site": "https://research.nvidia.com/labs/adlr/cortexa/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250410_cortexa",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "devlo",
+          "score": 58.2,
+          "date": "2024-12-13",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241213_devlo/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241213_devlo/trajs",
+            "site": "https://devlo.ai/?utm_source=swe-bench",
+            "verified": null,
+            "oss": null,
+            "folder": "20241213_devlo",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Emergent E1 (v2024-12-23)",
+          "score": 57.2,
+          "date": "2024-12-23",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241223_emergent/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241223_emergent/trajs",
+            "site": "https://emergent.sh",
+            "verified": null,
+            "oss": null,
+            "folder": "20241223_emergent",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Gru(2024-12-08)",
+          "score": 57.0,
+          "date": "2024-12-08",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241208_gru/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241208_gru/trajs",
+            "site": "https://gru.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20241208_gru",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Artemis Agent v2 (2025-09-24)",
+          "score": 57.0,
+          "date": "2025-09-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250924_artemis_agent_v2/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250924_artemis_agent_v2/trajs",
+            "site": "https://www.turintech.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250924_artemis_agent_v2",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-Rizzo",
+          "score": 56.6,
+          "date": "2025-04-05",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250405_swe-rizzo_claude37/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250405_swe-rizzo_claude37/trajs",
+            "site": "https://gen42.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250405_swe-rizzo_claude37",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Devstral small (2512)",
+          "score": 56.4,
+          "date": "2025-12-09",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251209_mini-v1.17.2_devstral-small-2512/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251209_mini-v1.17.2_devstral-small-2512/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251209_mini-v1.17.2_devstral-small-2512",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "EPAM AI/Run Developer Agent v20241212 + Anthopic Claude 3.5 Sonnet",
+          "score": 55.4,
+          "date": "2024-12-12",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241212_epam-ai-run-claude-3-5-sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241212_epam-ai-run-claude-3-5-sonnet/trajs",
+            "site": "https://www.epam.com/services/artificial-intelligence",
+            "verified": null,
+            "oss": null,
+            "folder": "20241212_epam-ai-run-claude-3-5-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Qwen3-Coder 480B/A35B Instruct",
+          "score": 55.4,
+          "date": "2025-08-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250802_mini-v1.0.0_Qwen3-Coder-480B-A35B-Instruct/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250802_mini-v1.0.0_Qwen3-Coder-480B-A35B-Instruct/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250802_mini-v1.0.0_qwen3-coder-480b-a35b-instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GLM-4.6 (T=1)",
+          "score": 55.4,
+          "date": "2025-12-01",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251201_mini-v1.17.1_glm-4.6/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251201_mini-v1.17.1_glm-4.6/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251201_mini-v1.17.1_glm-4.6",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Q Developer Agent (v20241202-dev)",
+          "score": 55.0,
+          "date": "2024-12-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241202_amazon-q-developer-agent-20241202-dev/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241202_amazon-q-developer-agent-20241202-dev/trajs",
+            "site": "https://aws.amazon.com/q/developer/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241202_amazon-q-developer-agent-20241202-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "devlo",
+          "score": 54.2,
+          "date": "2024-11-08",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241108_devlo/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241108_devlo/trajs",
+            "site": "https://devlo.ai/?utm_source=swe-bench",
+            "verified": null,
+            "oss": null,
+            "folder": "20241108_devlo",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GLM-4.5 (2025-08-22)",
+          "score": 54.2,
+          "date": "2025-08-22",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250822_mini-v1.9.1_glm-4.5/logs/",
+            "trajs": "s3://swe-bench-experiments/verified/20250822_mini-v1.9.1_glm-4.5/trajs/",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250822_mini-v1.9.1_glm-4.5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Devstral (2512)",
+          "score": 53.8,
+          "date": "2025-12-09",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251209_mini-v1.17.2_devstral-2512/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251209_mini-v1.17.2_devstral-2512/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251209_mini-v1.17.2_devstral-2512",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "FrogBoss-32B-2510",
+          "score": 53.6,
+          "date": "2025-11-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251110_frogboss-32b/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251110_frogboss-32b/trajs",
+            "site": "https://microsoft.github.io/debug-gym/blog/2025/10/bug-pilot/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251110_frogboss-32b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Gemini 2.5 Pro (2025-05-06)",
+          "score": 53.6,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_gemini-2.5-pro/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_gemini-2.5-pro/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_gemini-2.5-pro",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "CodeSweep - SWE-agent - Kimi K2 Instruct",
+          "score": 53.4,
+          "date": "2025-08-04",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250804_codesweep_sweagent_kimi_k2_instruct/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250804_codesweep_sweagent_kimi_k2_instruct/trajs",
+            "site": "https://codesweep.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250804_codesweep_sweagent_kimi_k2_instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Bracket.sh",
+          "score": 53.2,
+          "date": "2025-01-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250120_Bracket/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250120_Bracket/trajs",
+            "site": "https://bracket.sh/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250120_Bracket",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + CodeAct v2.1 (claude-3-5-sonnet-20241022)",
+          "score": 53.0,
+          "date": "2024-10-29",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241029_OpenHands-CodeAct-2.1-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241029_OpenHands-CodeAct-2.1-sonnet-20241022/trajs",
+            "site": "https://docs.all-hands.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241029_OpenHands-CodeAct-2.1-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Claude 3.7 Sonnet (20250219)",
+          "score": 52.8,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250720_mini-v0.0.0-claude-3-7-sonnet-20250219/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250720_mini-v0.0.0-claude-3-7-sonnet-20250219/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_mini-v0.0.0-claude-3-7-sonnet-20250219",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "EntroPO + R2E + Qwen3-Coder-30B-A3B-Instruct",
+          "score": 52.2,
+          "date": "2025-09-01",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250901_entroPO_R2E_QwenCoder30BA3B/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250901_entroPO_R2E_QwenCoder30BA3B/trajs",
+            "site": "https://github.com/sherdencooper/R2E-Gym",
+            "verified": null,
+            "oss": null,
+            "folder": "20250901_entroPO_R2E_QwenCoder30BA3B",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Google Jules + Gemini 2.0 Flash (v20241212-experimental)",
+          "score": 52.2,
+          "date": "2024-12-12",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241212_google_jules_gemini_2.0_flash_experimental/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241212_google_jules_gemini_2.0_flash_experimental/trajs",
+            "site": "https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241212_google_jules_gemini_2.0_flash_experimental",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Engine Labs (2024-11-25)",
+          "score": 51.8,
+          "date": "2024-11-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241125_enginelabs/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241125_enginelabs/trajs",
+            "site": "https://www.enginelabs.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241125_enginelabs",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AutoCodeRover-v2.1 (Claude-3.5-Sonnet-20241022)",
+          "score": 51.6,
+          "date": "2025-01-22",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://www.autocoderover.net/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250122_autocoderover-v2.1-claude-3-5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + Qwen3-Coder-30B-A3B-Instruct",
+          "score": 51.6,
+          "date": "2025-08-05",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250805-openhands-Qwen3-Coder-30B-A3B-Instruct/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250805-openhands-Qwen3-Coder-30B-A3B-Instruct/trajs",
+            "site": "https://qwenlm.github.io/blog/qwen3-coder/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250805_openhands-Qwen3-Coder-30B-A3B-Instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless-1.5 + Claude-3.5 Sonnet (20241022)",
+          "score": 50.8,
+          "date": "2024-12-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241202_agentless-1.5_claude-3.5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241202_agentless-1.5_claude-3.5-sonnet-20241022/trajs",
+            "site": "https://github.com/OpenAutoCoder/Agentless",
+            "verified": null,
+            "oss": null,
+            "folder": "20241202_agentless-1.5_claude-3.5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Solver (2024-10-28)",
+          "score": 50.0,
+          "date": "2024-10-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241028_solver/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241028_solver/trajs",
+            "site": "https://solverai.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241028_solver",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Bytedance MarsCode Agent",
+          "score": 50.0,
+          "date": "2024-11-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241125_marscode-agent-dev/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241125_marscode-agent-dev/trajs",
+            "site": "https://www.marscode.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241125_marscode-agent-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "nFactorial (2024-11-05)",
+          "score": 49.2,
+          "date": "2024-11-05",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241105_nfactorial/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241105_nfactorial/trajs",
+            "site": "https://nfactorial.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241105_nfactorial",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Tools + Claude 3.5 Sonnet (2024-10-22)",
+          "score": 49.0,
+          "date": "2024-10-22",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241022_tools_claude-3-5-sonnet-updated/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241022_tools_claude-3-5-sonnet-updated/trajs",
+            "site": "https://www.anthropic.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241022_tools_claude-3-5-sonnet-updated",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Composio SWE-Kit (2024-10-25)",
+          "score": 48.6,
+          "date": "2024-10-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241025_composio_swekit/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241025_composio_swekit/trajs",
+            "site": "https://github.com/ComposioHQ/composio/tree/master/python/swe/agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20241025_composio_swekit",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AppMap Navie v2",
+          "score": 47.2,
+          "date": "2024-11-06",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241106_navie-2-gpt4o-sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241106_navie-2-gpt4o-sonnet/trajs",
+            "site": "https://appmap.io/navie",
+            "verified": null,
+            "oss": null,
+            "folder": "20241106_navie-2-gpt4o-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Skywork-SWE-32B + TTS(Bo8)",
+          "score": 47.0,
+          "date": "2025-06-16",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250616_Skywork-SWE-32B+TTS_Bo8/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250616_Skywork-SWE-32B+TTS_Bo8/trajs",
+            "site": "https://quixotic-sting-239.notion.site/eb17f379610040ceb54da5d5d24065bd",
+            "verified": null,
+            "oss": null,
+            "folder": "20250616_Skywork-SWE-32B+TTS_Bo8",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + DevStral Small 2505",
+          "score": 46.8,
+          "date": "2025-05-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250520_openhands_devstral_small/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250520_openhands_devstral_small/trajs",
+            "site": "https://all-hands.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250520_openhands_devstral_small",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Emergent E1 (v2024-10-12)",
+          "score": 46.6,
+          "date": "2024-10-23",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241023_emergent/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241023_emergent/trajs",
+            "site": "https://emergent.sh",
+            "verified": null,
+            "oss": null,
+            "folder": "20241023_emergent",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AutoCodeRover-v2.0 (Claude-3.5-Sonnet-20241022)",
+          "score": 46.2,
+          "date": "2024-11-08",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241108_autocoderover-v2.0-claude-3-5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241108_autocoderover-v2.0-claude-3-5-sonnet-20241022/trajs",
+            "site": "https://www.autocoderover.net/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241108_autocoderover-v2.0-claude-3-5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "PatchPilot + Co-PatcheR",
+          "score": 46.0,
+          "date": "2025-05-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250528_patchpilot_Co-PatcheR/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250528_patchpilot_Co-PatcheR/trajs",
+            "site": "https://github.com/ucsb-mlsec/Co-PatcheR",
+            "verified": null,
+            "oss": null,
+            "folder": "20250528_patchpilot_Co-PatcheR",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Solver (2024-09-12)",
+          "score": 45.4,
+          "date": "2024-09-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240924_solver/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240924_solver/trajs",
+            "site": "https://laredolabs.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240924_solver",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Gru(2024-08-24)",
+          "score": 45.2,
+          "date": "2024-08-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240824_gru/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240824_gru/trajs",
+            "site": "https://gru.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20240824_gru",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "FrogMini-14B-2510",
+          "score": 45.0,
+          "date": "2025-11-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20251110_frogmini-14b/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20251110_frogmini-14b/trajs",
+            "site": "https://microsoft.github.io/debug-gym/blog/2025/10/bug-pilot/",
+            "verified": null,
+            "oss": null,
+            "folder": "20251110_frogmini-14b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + o4-mini (2025-04-16)",
+          "score": 45.0,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250521_o4-mini-20250416/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_o4-mini-2025-04-16/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_o4-mini-2025-04-16",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "CodeShellAgent + Gemini 2.0 Flash (Experimental)",
+          "score": 44.2,
+          "date": "2025-01-18",
+          "meta": {
+            "logs": "evaluation/verified/20250118_codeshellagent_gemini_2.0_flash_experimental/logs",
+            "trajs": "evaluation/verified/20250118_codeshellagent_gemini_2.0_flash_experimental/trajs",
+            "site": "https://github.com/WisdomShell/codeshell",
+            "verified": null,
+            "oss": null,
+            "folder": "20250118_codeshellagent_gemini_2.0_flash_experimental",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Kimi K2 Instruct",
+          "score": 43.8,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250807_mini-v1.7.0_Kimi-K2-Instruct/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250807_mini-v1.7.0_Kimi-K2-Instruct/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_mini-v1.7.0_kimi-k2-instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Solver (2024-09-12)",
+          "score": 43.6,
+          "date": "2024-09-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240920_solver/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240920_solver/trajs",
+            "site": "https://laredolabs.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240920_solver",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Nova Premier 1.0 (2025-04-30)",
+          "score": 42.4,
+          "date": "2025-05-27",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250527_amazon.nova-premier-v1.0/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250527_amazon.nova-premier-v1.0/trajs",
+            "site": "aws.amazon.com/nova",
+            "verified": null,
+            "oss": null,
+            "folder": "20250527_amazon.nova-premier-v1.0",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless Lite + O3 Mini (20250214)",
+          "score": 42.4,
+          "date": "2025-02-14",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250214_agentless_lite_o3_mini/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250214_agentless_lite_o3_mini/trajs",
+            "site": "https://github.com/sorendunn/Agentless-Lite",
+            "verified": null,
+            "oss": null,
+            "folder": "20250214_agentless_lite_o3_mini",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "DeepSWE-Preview",
+          "score": 42.2,
+          "date": "2025-06-29",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250629_deepswerl_r2eagent/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250629_deepswerl_r2eagent/trajs",
+            "site": "agentica-project.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250629_deepswerl_r2eagent",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-Exp",
+          "score": 42.0,
+          "date": "2025-08-06",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250806_SWE-Exp_DeepSeek-V3/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250806_SWE-Exp_DeepSeek-V3/trajs",
+            "site": "https://github.com/YerbaPage/SWE-Exp",
+            "verified": null,
+            "oss": null,
+            "folder": "20250806_SWE-Exp_DeepSeek-V3",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "ugaiforge",
+          "score": 41.6,
+          "date": "2025-01-12",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250112_ugaiforge/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250112_ugaiforge/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20250112_ugaiforge",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "nFactorial (2024-10-30)",
+          "score": 41.6,
+          "date": "2024-10-30",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241030_nfactorial/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241030_nfactorial/trajs",
+            "site": "https://nfactorial.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241030_nfactorial",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-RL (Llama3-SWE-RL-70B + Agentless Mini) (20250226)",
+          "score": 41.2,
+          "date": "2025-02-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250226_swerl_llama3_70b/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250226_swerl_llama3_70b/trajs",
+            "site": "https://github.com/facebookresearch/swe-rl",
+            "verified": null,
+            "oss": null,
+            "folder": "20250226_swerl_llama3_70b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Nebius AI Qwen 2.5 72B Generator + LLama 3.1 70B Critic",
+          "score": 40.6,
+          "date": "2024-11-13",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241113_nebius-search-open-weight-models-11-24/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241113_nebius-search-open-weight-models-11-24/trajs",
+            "site": "https://nebius.com/blog/posts/training-and-search-for-software-engineering-agents",
+            "verified": null,
+            "oss": null,
+            "folder": "20241113_nebius-search-open-weight-models-11-24",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Tools + Claude 3.5 Haiku",
+          "score": 40.6,
+          "date": "2024-10-22",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241022_tools_claude-3-5-haiku/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241022_tools_claude-3-5-haiku/trajs",
+            "site": "https://www.anthropic.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241022_tools_claude-3-5-haiku",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Honeycomb",
+          "score": 40.6,
+          "date": "2024-08-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240820_honeycomb/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240820_honeycomb/trajs",
+            "site": "https://honeycomb.sh/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240820_honeycomb",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Composio SWEkit + Claude 3.5 Sonnet (2024-10-16)",
+          "score": 40.6,
+          "date": "2024-10-16",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241016_composio_swekit/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241016_composio_swekit/trajs",
+            "site": "https://github.com/ComposioHQ/composio/tree/master/python/swe/agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20241016_composio_swekit",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + SWE-agent-LM-32B",
+          "score": 40.2,
+          "date": "2025-05-11",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250511_sweagent_lm_32b/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250511_sweagent_lm_32b/trajs",
+            "site": "https://swesmith.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250511_sweagent_lm_32b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "EPAM AI/Run Developer Agent v20241029 + Anthopic Claude 3.5 Sonnet",
+          "score": 39.6,
+          "date": "2024-10-29",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241029_epam-ai-run-claude-3-5-sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241029_epam-ai-run-claude-3-5-sonnet/trajs",
+            "site": "https://www.epam.com/services/artificial-intelligence",
+            "verified": null,
+            "oss": null,
+            "folder": "20241029_epam-ai-run-claude-3-5-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GPT-4.1 (2025-04-14)",
+          "score": 39.58,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_gpt-4.1-2025-04-14/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_gpt-4.1-2025-04-14/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_gpt-4.1-2025-04-14",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Q Developer Agent (v20240719-dev)",
+          "score": 38.8,
+          "date": "2024-07-21",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240721_amazon-q-developer-agent-20240719-dev/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240721_amazon-q-developer-agent-20240719-dev/trajs",
+            "site": "https://aws.amazon.com/q/developer/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240721_amazon-q-developer-agent-20240719-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless-1.5 + GPT 4o (2024-05-13)",
+          "score": 38.8,
+          "date": "2024-10-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241028_agentless-1.5_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241028_agentless-1.5_gpt4o/trajs",
+            "site": "https://github.com/OpenAutoCoder/Agentless",
+            "verified": null,
+            "oss": null,
+            "folder": "20241028_agentless-1.5_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AutoCodeRover (v20240620) + GPT 4o (2024-05-13)",
+          "score": 38.4,
+          "date": "2024-06-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240628_autocoderover-v20240620/logs",
+            "trajs": null,
+            "site": "https://autocoderover.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240628_autocoderover-v20240620",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Skywork-SWE-32B",
+          "score": 38.0,
+          "date": "2025-06-16",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250616_Skywork-SWE-32B/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250616_Skywork-SWE-32B/trajs",
+            "site": "https://quixotic-sting-239.notion.site/eb17f379610040ceb54da5d5d24065bd",
+            "verified": null,
+            "oss": null,
+            "folder": "20250616_Skywork-SWE-32B",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + DevStral Small 2507",
+          "score": 38.0,
+          "date": "2025-07-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250725_sweagent_devstral_small_2507/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250725_sweagent_devstral_small_2507/trajs",
+            "site": "https://swe-agent.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250725_sweagent_devstral_small_2507",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Factory Code Droid",
+          "score": 37.0,
+          "date": "2024-06-17",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240617_factory_code_droid/logs",
+            "trajs": null,
+            "site": "https://www.factory.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240617_factory_code_droid",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GPT-5 nano (2025-08-07) (medium reasoning)",
+          "score": 34.8,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250807_mini-v1.7.0_gpt-5-nano/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250807_mini-v1.7.0_gpt-5-nano/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_mini-v1.7.0_gpt-5-nano",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude 3.5 Sonnet",
+          "score": 33.6,
+          "date": "2024-06-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240620_sweagent_claude3.5sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240620_sweagent_claude3.5sonnet/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240620_sweagent_claude3.5sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-Fixer (Qwen2.5-7b retriever + Qwen2.5-72b editor)",
+          "score": 32.8,
+          "date": "2025-03-06",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250306_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250306_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor/trajs",
+            "site": "https://github.com/InternLM/SWE-Fixer",
+            "verified": null,
+            "oss": null,
+            "folder": "20250306_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "MASAI + GPT 4o (2024-06-12)",
+          "score": 32.6,
+          "date": "2024-06-12",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240612_MASAI_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240612_MASAI_gpt4o/trajs",
+            "site": "https://masai-dev-agent.github.io/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240612_MASAI_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Artemis Agent v1 (2024-11-20)",
+          "score": 32.0,
+          "date": "2024-11-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241120_artemis_agent/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241120_artemis_agent/trajs",
+            "site": "https://www.turintech.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241120_artemis_agent",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "nFactorial (2024-10-07)",
+          "score": 31.6,
+          "date": "2024-10-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241007_nfactorial/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241007_nfactorial/trajs",
+            "site": "https://nfactorial.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241007_nfactorial",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-Fixer (Qwen2.5-7b retriever + Qwen2.5-72b editor) 20241128",
+          "score": 30.2,
+          "date": "2024-11-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241128_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor_20241128/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241128_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor_20241128/trajs",
+            "site": "https://github.com/InternLM/SWE-Fixer",
+            "verified": null,
+            "oss": null,
+            "folder": "20241128_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor_20241128",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Lingma Agent + Lingma SWE-GPT 72b (v0925)",
+          "score": 28.8,
+          "date": "2024-10-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241002_lingma-agent_lingma-swe-gpt-72b/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241002_lingma-agent_lingma-swe-gpt-72b/trajs",
+            "site": "https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT (https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT-v20240925)",
+            "verified": null,
+            "oss": null,
+            "folder": "20241002_lingma-agent_lingma-swe-gpt-72b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Gemini 2.5 Flash (2025-04-17)",
+          "score": 28.73,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_gemini-2.5-flash/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_gemini-2.5-flash/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_gemini-2.5-flash",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "EPAM AI/Run Developer Agent + GPT4o",
+          "score": 27.0,
+          "date": "2024-10-16",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241016_epam-ai-run-gpt-4o/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241016_epam-ai-run-gpt-4o/trajs",
+            "site": "https://www.epam.com/services/artificial-intelligence",
+            "verified": null,
+            "oss": null,
+            "folder": "20241016_epam-ai-run-gpt-4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AppMap Navie + GPT 4o (2024-05-13)",
+          "score": 26.2,
+          "date": "2024-06-15",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240615_appmap-navie_gpt4o/logs",
+            "trajs": null,
+            "site": "https://appmap.io/navie",
+            "verified": null,
+            "oss": null,
+            "folder": "20240615_appmap-navie_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + gpt-oss-120b",
+          "score": 26.0,
+          "date": "2025-08-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250807_mini-v1.7.0_gpt-oss-120b/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250807_mini-v1.7.0_gpt-oss-120b/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250807_mini-v1.7.0_gpt-oss-120b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "nFactorial (2024-10-01)",
+          "score": 25.8,
+          "date": "2024-10-01",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241001_nfactorial/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241001_nfactorial/trajs",
+            "site": "https://nfactorial.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241001_nfactorial",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Q Developer Agent (v20240430-dev)",
+          "score": 25.6,
+          "date": "2024-05-09",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240509_amazon-q-developer-agent-20240430-dev/logs",
+            "trajs": null,
+            "site": "https://aws.amazon.com/q/developer/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240509_amazon-q-developer-agent-20240430-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Lingma Agent + Lingma SWE-GPT 72b (v0918)",
+          "score": 25.0,
+          "date": "2024-09-18",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240918_lingma-agent_lingma-swe-gpt-72b/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240918_lingma-agent_lingma-swe-gpt-72b/trajs",
+            "site": "https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT",
+            "verified": null,
+            "oss": null,
+            "folder": "20240918_lingma-agent_lingma-swe-gpt-72b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "EPAM AI/Run Developer Agent + GPT4o",
+          "score": 24.0,
+          "date": "2024-08-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240820_epam-ai-run-gpt-4o/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240820_epam-ai-run-gpt-4o/trajs",
+            "site": "https://www.epam.com/services/artificial-intelligence",
+            "verified": null,
+            "oss": null,
+            "folder": "20240820_epam-ai-run-gpt-4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GPT-4.1-mini (2025-04-14)",
+          "score": 23.94,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250720_mini-v0.0.0_gpt-4.1-mini-2025-04-14/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250720_mini-v0.0.0_gpt-4.1-mini-2025-04-14/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_mini-v0.0.0_gpt-4.1-mini-2025-04-14",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "MCTS-Refine-7B",
+          "score": 23.2,
+          "date": "2025-06-27",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250627_agentless_MCTS-Refine-7B/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250627_agentless_MCTS-Refine-7B/trajs",
+            "site": "https://mcts-refine.github.io/MCTS-Refine",
+            "verified": null,
+            "oss": null,
+            "folder": "20250627_agentless_MCTS-Refine-7B",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + GPT 4o (2024-05-13)",
+          "score": 23.2,
+          "date": "2024-07-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240728_sweagent_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240728_sweagent_gpt4o/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240728_sweagent_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + GPT 4 (1106)",
+          "score": 22.4,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240402_sweagent_gpt4/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240402_sweagent_gpt4/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_sweagent_gpt4",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + GPT-4o (2024-11-20)",
+          "score": 21.62,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250720_mini-v0.0.0-gpt-4o-2024-11-20/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250720_mini-v0.0.0-gpt-4o-2024-11-20/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_mini-v0.0.0-gpt-4o-2024-11-20",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Llama 4 Maverick Instruct",
+          "score": 21.04,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250720_mini-v0.0.0-Llama-4-Maverick-17B-Instruct/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250720_mini-v0.0.0-Llama-4-Maverick-17B-Instruct/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_mini-v0.0.0-Llama-4-Maverick-17B-Instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Lingma Agent + Lingma SWE-GPT 7b (v0925)",
+          "score": 18.2,
+          "date": "2024-10-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20241002_lingma-agent_lingma-swe-gpt-7b/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20241002_lingma-agent_lingma-swe-gpt-7b/trajs",
+            "site": "https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT (https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT-v20240925)",
+            "verified": null,
+            "oss": null,
+            "folder": "20241002_lingma-agent_lingma-swe-gpt-7b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude 3 Opus",
+          "score": 15.8,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240402_sweagent_claude3opus/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240402_sweagent_claude3opus/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_sweagent_claude3opus",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Gemini 2.0 flash",
+          "score": 13.52,
+          "date": "2025-07-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_gemini-2.0-flash/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250726_mini-v1.0.0_gemini-2.0-flash/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250726_mini-v1.0.0_gemini-2.0-flash",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Lingma Agent + Lingma SWE-GPT 7b (v0918)",
+          "score": 10.2,
+          "date": "2024-09-18",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240918_lingma-agent_lingma-swe-gpt-7b/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20240918_lingma-agent_lingma-swe-gpt-7b/trajs",
+            "site": "https://www.modelscope.cn/models/yingwei/Lingma-SWE-GPT",
+            "verified": null,
+            "oss": null,
+            "folder": "20240918_lingma-agent_lingma-swe-gpt-7b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Llama 4 Scout Instruct",
+          "score": 9.06,
+          "date": "2025-07-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250720_mini-v0.0.0-Llama-4-Scout-17B-Instruct/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250720_mini-v0.0.0-Llama-4-Scout-17B-Instruct/trajs",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250720_mini-v0.0.0-Llama-4-Scout-17B-Instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "mini-SWE-agent + Qwen2.5-Coder 32B Instruct",
+          "score": 9.0,
+          "date": "2025-08-03",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250803_mini-v1.0.0_qwen2-5-coder-32b-instruct/",
+            "trajs": "s3://swe-bench-experiments/verified/20250803_mini-v1.0.0_qwen2-5-coder-32b-instruct/",
+            "site": "https://mini-swe-agent.com/latest/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250803_mini-v1.0.0_qwen2-5-coder-32b-instruct",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + Claude 3 Opus",
+          "score": 7.0,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240402_rag_claude3opus/logs",
+            "trajs": null,
+            "site": "https://github.com/SWE-bench/SWE-bench/tree/main/swebench/inference",
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_rag_claude3opus",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + Claude 2",
+          "score": 4.4,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20231010_rag_claude2/logs",
+            "trajs": null,
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_claude2",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + GPT 4 (1106)",
+          "score": 2.8,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20240402_rag_gpt4/logs",
+            "trajs": null,
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_rag_gpt4",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + SWE-Llama 7B",
+          "score": 1.4,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20231010_rag_swellama7b/logs",
+            "trajs": null,
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_swellama7b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + SWE-Llama 13B",
+          "score": 1.2,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20231010_rag_swellama13b/logs",
+            "trajs": null,
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_swellama13b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + ChatGPT 3.5",
+          "score": 0.4,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20231010_rag_gpt35/logs",
+            "trajs": null,
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_gpt35",
+            "org_logo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "swebench_lite",
+      "name": "SWE-bench Lite",
+      "unit": "% resolved",
+      "higher_is_better": true,
+      "source_id": "swebench",
+      "entries": [
+        {
+          "model": "ExpeRepair-v1.0 + Claude 4 Sonnet",
+          "score": 60.33,
+          "date": "2025-06-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250625_ExpeRepair-v1_claude-4-sonnet-20250514/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250625_ExpeRepair-v1_claude-4-sonnet-20250514/trajs",
+            "site": "https://github.com/ExpeRepair/ExpeRepair",
+            "verified": null,
+            "oss": null,
+            "folder": "20250625_ExpeRepair-v1_claude-4-sonnet-20250514",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Refact.ai Agent",
+          "score": 60.0,
+          "date": "2025-04-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250425_Refact_Agent/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250425_Refact_Agent/trajs",
+            "site": "https://refact.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250425_Refact_Agent",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "KGCompass + Claude 4 Sonnet (20250514)",
+          "score": 58.33,
+          "date": "2025-09-06",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250906_KGCompass_claude-4-sonnet-20250514/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250906_KGCompass_claude-4-sonnet-20250514/trajs",
+            "site": "https://github.com/GLEAM-Lab/KGCompass",
+            "verified": null,
+            "oss": null,
+            "folder": "20250906_KGCompass_claude-4-sonnet-20250514",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude 4 Sonnet",
+          "score": 56.67,
+          "date": "2025-05-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250522_sweagent_claude-4-sonnet-20250514/trajs",
+            "trajs": "s3://swe-bench-experiments/lite/20250522_sweagent_claude-4-sonnet-20250514/logs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20250526_sweagent_claude-4-sonnet-20250514",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Isoform",
+          "score": 55.0,
+          "date": "2025-01-14",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250114_Isoform/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250114_Isoform/trajs",
+            "site": "https://www.isoform.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250114_Isoform",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SemAgent_Multi-v1.0",
+          "score": 51.67,
+          "date": "2025-06-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250625_SemAgent_Multi-v1_Claude3.7Sonnet_Gemini2.5Pro/logs",
+            "trajs": "https://github.com/AnvithPabba/SemAgent_Multi/tree/main/trajs/SWEBench_Lite/20250625_SemAgent_Multi-v1.0_Claude3.7Sonnet_Gemini2.5Pro",
+            "site": "https://arxiv.org/abs/2506.16650",
+            "verified": null,
+            "oss": null,
+            "folder": "20250625_SemAgent_Multi-v1_Claude3.7Sonnet_Gemini2.5Pro",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Isea",
+          "score": 51.33,
+          "date": "2025-09-11",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250911_isea_claude-3.5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250911_isea_claude-3.5-sonnet-20241022/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20250911_isea_claude-3.5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "EntroPO + R2E + Qwen3-Coder-30B-A3B-Instruct",
+          "score": 49.67,
+          "date": "2025-09-01",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250901_entroPO_R2E_QwenCoder30BA3B_tts/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250901_entroPO_R2E_QwenCoder30BA3B_tts/trajs",
+            "site": "https://github.com/sherdencooper/R2E-Gym",
+            "verified": null,
+            "oss": null,
+            "folder": "20250901_entroPO_R2E_QwenCoder30BA3B_tts",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Blackbox AI Agent",
+          "score": 49.0,
+          "date": "2024-12-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241220_blackboxai_agent_v1/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241220_blackboxai_agent_v1/trajs",
+            "site": "https://www.blackbox.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241220_blackboxai_agent_v1",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Codev",
+          "score": 49.0,
+          "date": "2025-05-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250528_Codev/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250528_Codev/trajs",
+            "site": "https://www.co-dev.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250528_Codev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Gru(2024-12-08)",
+          "score": 48.67,
+          "date": "2024-12-08",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241208_gru/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241208_gru/trajs",
+            "site": "https://gru.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20241208_gru",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "ExpeRepair-v1.0",
+          "score": 48.33,
+          "date": "2025-06-13",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250613_ExpeRepair-v1.0/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250613_ExpeRepair-v1.0/trajs",
+            "site": "https://github.com/ExpeRepair/ExpeRepair",
+            "verified": null,
+            "oss": null,
+            "folder": "20250613_ExpeRepair-v1.0",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Globant Code Fixer Agent",
+          "score": 48.33,
+          "date": "2024-11-27",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241127_globant_codefixer_agent/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241127_globant_codefixer_agent/trajs",
+            "site": "https://ai.globant.com/us-en/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241127_globant_codefixer_agent",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude 3.7 Sonnet",
+          "score": 48.0,
+          "date": "2025-02-26",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250226_sweagent_claude-3-7-sonnet-20250219/trajs",
+            "trajs": "s3://swe-bench-experiments/lite/20250226_sweagent_claude-3-7-sonnet-20250219/logs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20250226_sweagent_claude-3-7-sonnet-20250219",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "devlo",
+          "score": 47.33,
+          "date": "2024-11-22",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241122_devlo/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241122_devlo/trajs",
+            "site": "https://devlo.ai/?utm_source=swe-bench",
+            "verified": null,
+            "oss": null,
+            "folder": "20241122_devlo",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "DARS Agent",
+          "score": 47.0,
+          "date": "2025-02-05",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250205_dars_agent_claude_3.5_sonnet_deepseek_r1/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250205_dars_agent_claude_3.5_sonnet_deepseek_r1/trajs",
+            "site": "https://github.com/darsagent/DARS-Agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20250205_dars_agent_claude_3.5_sonnet_deepseek_r1",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "KGCompass + Claude 3.5 Sonnet (20241022)",
+          "score": 46.0,
+          "date": "2025-06-19",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250619_KGCompass_claude-3.5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250619_KGCompass_claude-3.5-sonnet-20241022/trajs",
+            "site": "https://github.com/GLEAM-Lab/KGCompass",
+            "verified": null,
+            "oss": null,
+            "folder": "20250619_KGCompass_claude-3.5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "EntroPO + R2E + Qwen3-Coder-30B-A3B-Instruct",
+          "score": 45.0,
+          "date": "2025-09-01",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250901_entroPO_R2E_QwenCoder30BA3B/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250901_entroPO_R2E_QwenCoder30BA3B/trajs",
+            "site": "https://github.com/sherdencooper/R2E-Gym",
+            "verified": null,
+            "oss": null,
+            "folder": "20250901_entroPO_R2E_QwenCoder30BA3B",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Kodu-v1 + Claude-3.5 Sonnet (20241022)",
+          "score": 44.67,
+          "date": "2024-12-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241207_kodu_sonnet_v1/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241207_kodu_sonnet_v1/trajs",
+            "site": "https://www.kodu.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241207_kodu_sonnet_v1",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "CodeFuse-CGM",
+          "score": 44.0,
+          "date": "2025-03-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250310_codefuse-cgm/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250310_codefuse-cgm/trajs",
+            "site": "https://github.com/codefuse-ai/CodeFuse-CGM",
+            "verified": null,
+            "oss": null,
+            "folder": "20250310_codefuse-cgm",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "CodeStory Aide + Mixed Models",
+          "score": 43.0,
+          "date": "2024-07-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240702_codestory_aide_mixed/logs",
+            "trajs": null,
+            "site": "https://aide.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240702_codestory_aide_mixed",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Lingxi",
+          "score": 42.67,
+          "date": "2025-05-09",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250509_Lingxi_claude-3-5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250509_Lingxi_claude-3-5-sonnet-20241022/trajs",
+            "site": "https://github.com/nimasteryang/Lingxi",
+            "verified": null,
+            "oss": null,
+            "folder": "20250509_Lingxi_claude-3-5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + CodeAct v2.1 (claude-3-5-sonnet-20241022)",
+          "score": 41.67,
+          "date": "2024-10-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241025_OpenHands-CodeAct-2.1-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241025_OpenHands-CodeAct-2.1-sonnet-20241022/trajs",
+            "site": "https://docs.all-hands.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241025_OpenHands-CodeAct-2.1-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Codart AI",
+          "score": 41.67,
+          "date": "2025-05-15",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250515_codartai/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250515_codartai/trajs",
+            "site": "https://srics96.github.io/Codart-AI/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250515_codartai",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "PatchKitty-0.9 + Claude-3.5 Sonnet (20241022)",
+          "score": 41.33,
+          "date": "2024-12-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241220_PatchKitty-0.9_claude-3.5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241220_PatchKitty-0.9_claude-3.5-sonnet-20241022/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20241220_PatchKitty-0.9_claude-3.5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OrcaLoca + Agentless-1.5 + Claude-3.5 Sonnet (20241022)",
+          "score": 41.0,
+          "date": "2025-01-13",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/fishmingyu/OrcarLLM",
+            "verified": null,
+            "oss": null,
+            "folder": "20250113_OrcaLoca",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Composio SWE-Kit (2024-10-30)",
+          "score": 41.0,
+          "date": "2024-10-30",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241030_composio_swekit/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241030_composio_swekit/trajs",
+            "site": "https://github.com/ComposioHQ/composio/tree/master/python/swe/agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20241030_composio_swekit",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless-1.5 + Claude-3.5 Sonnet (20241022)",
+          "score": 40.67,
+          "date": "2024-12-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241202_agentless-1.5_claude-3.5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241202_agentless-1.5_claude-3.5-sonnet-20241022/trajs",
+            "site": "https://github.com/OpenAutoCoder/Agentless",
+            "verified": null,
+            "oss": null,
+            "folder": "20241202_agentless-1.5_claude-3.5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenCSG Starship Agentic Coder + GPT 4 (0806)",
+          "score": 39.67,
+          "date": "2025-01-13",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/verified/20250113_OpenCSG-Starship-Agentic-Coder_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/verified/20250113_OpenCSG-Starship-Agentic-Coder_gpt4o/trajs",
+            "site": "https://opencsg.com/starship",
+            "verified": null,
+            "oss": null,
+            "folder": "20250113_OpenCSG-Starship-Agentic-Coder_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Bytedance MarsCode Agent",
+          "score": 39.33,
+          "date": "2024-09-12",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240912_marscode-agent-dev/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240912_marscode-agent-dev/trajs",
+            "site": "https://www.marscode.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240912_marscode-agent-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Moatless Tools + Claude 3.5 Sonnet (20241022)",
+          "score": 39.0,
+          "date": "2025-01-14",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250114_moatless_claude-3.5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250114_moatless_claude-3.5-sonnet-20241022/trajs",
+            "site": "https://github.com/aorwall/moatless-tools",
+            "verified": null,
+            "oss": null,
+            "folder": "20250114_moatless_claude-3.5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Moatless Tools + Claude 3.5 Sonnet (20241022)",
+          "score": 38.33,
+          "date": "2024-11-17",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241117_moatless_claude-3.5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241117_moatless_claude-3.5-sonnet-20241022/trajs",
+            "site": "https://github.com/aorwall/moatless-tools",
+            "verified": null,
+            "oss": null,
+            "folder": "20241117_moatless_claude-3.5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Honeycomb",
+          "score": 38.33,
+          "date": "2024-08-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240820_honeycomb/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240820_honeycomb/trajs",
+            "site": "https://honeycomb.sh/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240820_honeycomb",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AbanteAI MentatBot + GPT 4o (2024-05-13)",
+          "score": 38.0,
+          "date": "2024-06-27",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240627_abanteai_mentatbot_gpt4o/logs",
+            "trajs": null,
+            "site": "https://mentat.ai/blog/mentatbot-sota-coding-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240627_abanteai_mentatbot_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Patched.Codes Patchwork",
+          "score": 37.0,
+          "date": "2025-01-04",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250104_patched_codes_claude-3.5-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250104_patched_codes_claude-3.5-sonnet-20241022/trajs",
+            "site": "https://github.com/patched-codes/patchwork",
+            "verified": null,
+            "oss": null,
+            "folder": "20250104_patched_codes_claude-3.5-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "KGCompass + DeepSeek V3",
+          "score": 36.67,
+          "date": "2025-06-09",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250609_KGCompass_deepseek-v3/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250609_KGCompass_deepseek-v3/trajs",
+            "site": "https://github.com/GLEAM-Lab/KGCompass",
+            "verified": null,
+            "oss": null,
+            "folder": "20250609_KGCompass_deepseek-v3",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AppMap Navie v2",
+          "score": 36.0,
+          "date": "2024-11-13",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241113_navie-2-gpt4o-sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241113_navie-2-gpt4o-sonnet/trajs",
+            "site": "https://appmap.io/navie",
+            "verified": null,
+            "oss": null,
+            "folder": "20241113_navie-2-gpt4o-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "CodeFuse-AAIS",
+          "score": 35.67,
+          "date": "2025-01-04",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250104_codefuse-aais/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250104_codefuse-aais/trajs",
+            "site": "https://codefuse.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250104_codefuse-aais",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Gru(2024-08-11)",
+          "score": 35.67,
+          "date": "2024-08-11",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240811_gru/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240811_gru/trajs",
+            "site": "https://gru.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20240811_gru",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Isoform",
+          "score": 35.0,
+          "date": "2024-08-29",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240829_Isoform/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240829_Isoform/trajs",
+            "site": "https://isoform.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20240829_Isoform",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SuperCoder2.0",
+          "score": 34.0,
+          "date": "2024-08-06",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240806_SuperCoder2.0/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240806_SuperCoder2.0/trajs",
+            "site": "https://superagi.com/supercoder/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240806_SuperCoder2.0",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Bytedance MarsCode Agent + GPT 4o (2024-05-13)",
+          "score": 34.0,
+          "date": "2024-07-23",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240723_marscode-agent-dev/logs",
+            "trajs": null,
+            "site": "https://www.marscode.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240723_marscode-agent-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Alibaba Lingma Agent",
+          "score": 33.0,
+          "date": "2024-06-22",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240622_Lingma_Agent/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240622_Lingma_Agent/trajs",
+            "site": "https://arxiv.org/abs/2406.01422",
+            "verified": null,
+            "oss": null,
+            "folder": "20240622_Lingma_Agent",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless Lite + O3 Mini (20250214)",
+          "score": 32.33,
+          "date": "2025-02-14",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/sorendunn/Agentless-Lite",
+            "verified": null,
+            "oss": null,
+            "folder": "20250214_agentless_lite_o3_mini",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless-1.5 + GPT 4o (2024-05-13)",
+          "score": 32.0,
+          "date": "2024-10-28",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/OpenAutoCoder/Agentless",
+            "verified": null,
+            "oss": null,
+            "folder": "20241028_agentless-1.5_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Factory Code Droid",
+          "score": 31.33,
+          "date": "2024-06-17",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240617_factory_code_droid/logs",
+            "trajs": null,
+            "site": "https://www.factory.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240617_factory_code_droid",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "CodeShellTester + GPT 4o (2024-05-13)",
+          "score": 31.33,
+          "date": "2024-11-11",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241111_codeshelltester_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241111_codeshelltester_gpt4o/trajs",
+            "site": "https://github.com/WisdomShell/codeshell",
+            "verified": null,
+            "oss": null,
+            "folder": "20241111_codeshelltester_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Moatless Tools + Deepseek V3",
+          "score": 30.67,
+          "date": "2025-01-11",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250111_moatless_deepseek_v3/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250111_moatless_deepseek_v3/trajs",
+            "site": "https://github.com/aorwall/moatless-tools",
+            "verified": null,
+            "oss": null,
+            "folder": "20250111_moatless_deepseek_v3",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AutoCodeRover (v20240620) + GPT 4o (2024-05-13)",
+          "score": 30.67,
+          "date": "2024-06-21",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240621_autocoderover-v20240620/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240621_autocoderover-v20240620/trajs",
+            "site": "https://autocoderover.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240621_autocoderover-v20240620",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Aegis - o3-mini_1.0",
+          "score": 30.33,
+          "date": "2025-02-07",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250207_aegis_o3mini/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250207_aegis_o3mini/trajs",
+            "site": "https://github.com/evandiewald/aegis",
+            "verified": null,
+            "oss": null,
+            "folder": "20250207_aegis_o3mini",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AIGCode Infant-Coder(2024-08-30)",
+          "score": 30.0,
+          "date": "2024-09-08",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240908_infant_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240908_infant_gpt4o/trajs",
+            "site": "https://aigcode.net/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240908_infant_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Kortix AI (claude-3-5-sonnet-20241022)",
+          "score": 30.0,
+          "date": "2024-12-03",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241203_KortixAI-AgentPress-sonnet-20241022/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241203_KortixAI-AgentPress-sonnet-20241022/trajs",
+            "site": "https://www.kortix.ai/",
+            "verified": null,
+            "oss": null,
+            "folder": "20241203_KortixAI-AgentPress-sonnet-20241022",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Q Developer Agent (v20240719-dev)",
+          "score": 29.67,
+          "date": "2024-07-21",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240721_amazon-q-developer-agent-20240719-dev/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240721_amazon-q-developer-agent-20240719-dev/trajs",
+            "site": "https://aws.amazon.com/q/developer/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240721_amazon-q-developer-agent-20240719-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless + RepoGraph + GPT-4o",
+          "score": 29.67,
+          "date": "2024-08-08",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240808_RepoGraph_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240808_RepoGraph_gpt4o/trajs",
+            "site": "https://github.com/ozyyshr/RepoGraph",
+            "verified": null,
+            "oss": null,
+            "folder": "20240808_RepoGraph_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "CodeR + GPT 4 (1106)",
+          "score": 28.33,
+          "date": "2024-06-04",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240604_CodeR/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240604_CodeR/trajs",
+            "site": "https://github.com/NL2Code/CodeR",
+            "verified": null,
+            "oss": null,
+            "folder": "20240604_CodeR",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "reproducedRG",
+          "score": 28.0,
+          "date": "2024-11-17",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241117_reproducedRG_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241117_reproducedRG_gpt4o/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20241117_reproducedRG_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SIMA + GPT 4o (2024-05-13)",
+          "score": 27.67,
+          "date": "2024-07-06",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240706_sima_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240706_sima_gpt4o/trajs",
+            "site": "https://github.com/swe-bench/experiments/tree/main/evaluation/lite/20240706_sima_gpt4o",
+            "verified": null,
+            "oss": null,
+            "folder": "20240706_sima_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "MASAI + GPT 4o (2024-05-13)",
+          "score": 27.33,
+          "date": "2024-06-12",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240612_MASAI_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240612_MASAI_gpt4o/trajs",
+            "site": "https://masai-dev-agent.github.io/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240612_MASAI_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless + GPT 4o (2024-05-13)",
+          "score": 27.33,
+          "date": "2024-06-30",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240630_agentless_gpt4o/logs",
+            "trajs": null,
+            "site": "https://github.com/OpenAutoCoder/Agentless",
+            "verified": null,
+            "oss": null,
+            "folder": "20240630_agentless_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Moatless Tools + Claude 3.5 Sonnet",
+          "score": 26.67,
+          "date": "2024-06-23",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240623_moatless_claude35sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240623_moatless_claude35sonnet/trajs",
+            "site": "https://github.com/aorwall/moatless-tools",
+            "verified": null,
+            "oss": null,
+            "folder": "20240623_moatless_claude35sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands + CodeAct v1.8",
+          "score": 26.67,
+          "date": "2024-07-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240725_opendevin_codeact_v1.8_claude35sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240725_opendevin_codeact_v1.8_claude35sonnet/trajs",
+            "site": "https://docs.all-hands.dev/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240725_opendevin_codeact_v1.8_claude35sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "IBM Research Agent-101",
+          "score": 26.67,
+          "date": "2024-06-12",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240612_IBM_Research_Agent101/logs",
+            "trajs": null,
+            "site": "https://github.com/swe-bench/experiments/tree/main/evaluation/lite/20240612_IBM_Research_Agent101",
+            "verified": null,
+            "oss": null,
+            "folder": "20240612_IBM_Research_Agent101",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Aider + GPT 4o & Claude 3 Opus",
+          "score": 26.33,
+          "date": "2024-05-23",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240523_aider/logs",
+            "trajs": null,
+            "site": "https://github.com/paul-gauthier/aider",
+            "verified": null,
+            "oss": null,
+            "folder": "20240523_aider",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "HyperAgent",
+          "score": 25.33,
+          "date": "2024-09-25",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240925_hyperagent_lite1/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240925_hyperagent_lite1/trajs",
+            "site": "https://arxiv.org/abs/2409.16299",
+            "verified": null,
+            "oss": null,
+            "folder": "20240925_hyperagent_lite1",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-Fixer (Qwen2.5-7b retriever + Qwen2.5-72b editor)",
+          "score": 24.67,
+          "date": "2025-03-06",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250306_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250306_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor/trajs",
+            "site": "https://github.com/InternLM/SWE-Fixer",
+            "verified": null,
+            "oss": null,
+            "folder": "20250306_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Moatless Tools + GPT 4o (2024-05-13)",
+          "score": 24.67,
+          "date": "2024-06-17",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240617_moatless_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240617_moatless_gpt4o/trajs",
+            "site": "https://github.com/aorwall/moatless-tools",
+            "verified": null,
+            "oss": null,
+            "folder": "20240617_moatless_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "IBM AI Agent SWE-1.0 (with open LLMs)",
+          "score": 23.67,
+          "date": "2024-10-16",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241016_IBM-SWE-1.0/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241016_IBM-SWE-1.0/trajs",
+            "site": "https://github.com/swe-bench/experiments/tree/main/evaluation/lite/20241016_IBM-SWE-1.0",
+            "verified": null,
+            "oss": null,
+            "folder": "20241016_IBM-SWE-1.0",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenCSG StarShip CodeGenAgent + GPT 4 (0613)",
+          "score": 23.67,
+          "date": "2024-05-24",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240524_opencsg_starship_gpt4/logs",
+            "trajs": null,
+            "site": "https://opencsg.com/product?class=StarShip",
+            "verified": null,
+            "oss": null,
+            "folder": "20240524_opencsg_starship_gpt4",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-Fixer (Qwen2.5-7b retriever + Qwen2.5-72b editor) 20241128",
+          "score": 23.33,
+          "date": "2024-11-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20241128_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor_20241128/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20241128_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor_20241128/trajs",
+            "site": "https://github.com/InternLM/SWE-Fixer",
+            "verified": null,
+            "oss": null,
+            "folder": "20241128_SWE-Fixer_Qwen2.5-7b-retriever_Qwen2.5-72b-editor_20241128",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude 3.5 Sonnet",
+          "score": 23.0,
+          "date": "2024-06-20",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240620_sweagent_claude3.5sonnet/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240620_sweagent_claude3.5sonnet/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240620_sweagent_claude3.5sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AppMap Navie + GPT 4o (2024-05-13)",
+          "score": 21.67,
+          "date": "2024-06-15",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240615_appmap-navie_gpt4o/logs",
+            "trajs": null,
+            "site": "https://appmap.io/navie",
+            "verified": null,
+            "oss": null,
+            "folder": "20240615_appmap-navie_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Bytedance AutoSE (based on SWE-Agent) + GPT4/GPT4o Mixed (20240828)",
+          "score": 21.67,
+          "date": "2024-08-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240828_autose_mixed/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240828_autose_mixed/trajs",
+            "site": null,
+            "verified": null,
+            "oss": null,
+            "folder": "20240828_autose_mixed",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Amazon Q Developer Agent (v20240430-dev)",
+          "score": 20.33,
+          "date": "2024-05-09",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240509_amazon-q-developer-agent-20240430-dev/logs",
+            "trajs": null,
+            "site": "https://aws.amazon.com/q/developer/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240509_amazon-q-developer-agent-20240430-dev",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "AutoCodeRover (v20240408) + GPT 4 (0125)",
+          "score": 19.0,
+          "date": "2024-05-30",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240530_autocoderover-v20240408/logs",
+            "trajs": null,
+            "site": "https://github.com/nus-apr/auto-code-rover",
+            "verified": null,
+            "oss": null,
+            "folder": "20240530_autocoderover-v20240408",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + GPT 4o (2024-05-13)",
+          "score": 18.33,
+          "date": "2024-07-28",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240728_sweagent_gpt4o/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240728_sweagent_gpt4o/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240728_sweagent_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + GPT 4 (1106)",
+          "score": 18.0,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240402_sweagent_gpt4/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240402_sweagent_gpt4/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_sweagent_gpt4",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "MCTS-Refine-7B",
+          "score": 16.33,
+          "date": "2025-06-27",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20250627_agentless_MCTS-Refine-7B/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20250627_agentless_MCTS-Refine-7B/trajs",
+            "site": "https://mcts-refine.github.io/MCTS-Refine",
+            "verified": null,
+            "oss": null,
+            "folder": "20250627_agentless_MCTS-Refine-7B",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude 3 Opus",
+          "score": 11.67,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240402_sweagent_claude3opus/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20240402_sweagent_claude3opus/trajs",
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_sweagent_claude3opus",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + Claude 3 Opus",
+          "score": 4.33,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240402_rag_claude3opus/logs",
+            "trajs": null,
+            "site": "https://swebench.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_rag_claude3opus",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + Claude 2",
+          "score": 3.0,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20231010_rag_claude2/logs",
+            "trajs": "s3://swe-bench-experiments/lite/20231010_rag_claude2/trajs",
+            "site": "https://swebench.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_claude2",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + GPT 4 (1106)",
+          "score": 2.67,
+          "date": "2024-04-02",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20240402_rag_gpt4/logs",
+            "trajs": null,
+            "site": "https://swebench.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20240402_rag_gpt4",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + SWE-Llama 7B",
+          "score": 1.33,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20231010_rag_swellama7b/logs",
+            "trajs": null,
+            "site": "https://swebench.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_swellama7b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + SWE-Llama 13B",
+          "score": 1.0,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20231010_rag_swellama13b/logs",
+            "trajs": null,
+            "site": "https://swebench.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_swellama13b",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + ChatGPT 3.5",
+          "score": 0.33,
+          "date": "2023-10-10",
+          "meta": {
+            "logs": "s3://swe-bench-experiments/lite/20231010_rag_gpt35/logs",
+            "trajs": null,
+            "site": "https://swebench.com/",
+            "verified": null,
+            "oss": null,
+            "folder": "20231010_rag_gpt35",
+            "org_logo": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "swebench_multimodal",
+      "name": "SWE-bench Multimodal",
+      "unit": "% resolved",
+      "higher_is_better": true,
+      "source_id": "swebench",
+      "entries": [
+        {
+          "model": "GUIRepair + o3 (2025-04-16)",
+          "score": 35.98,
+          "date": "2025-07-01",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://sites.google.com/view/guirepair",
+            "verified": null,
+            "oss": null,
+            "folder": "20250701_GUIRepair_o3",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Codefuse_Pycfuse_SVR",
+          "score": 35.98,
+          "date": "2025-11-17",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/codefuse-ai/codefuse-svr?tab=readme-ov-file",
+            "verified": null,
+            "oss": null,
+            "folder": "20251117_codefuse_pycfuse_svr",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Refact.ai Agent",
+          "score": 35.59,
+          "date": "2025-06-11",
+          "meta": {
+            "logs": false,
+            "trajs": false,
+            "site": "https://refact.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250611_Refact_Agent_claude-4-sonnet",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands-Versa (Claude-Sonnet 4)",
+          "score": 34.43,
+          "date": "2025-05-28",
+          "meta": {
+            "logs": false,
+            "trajs": false,
+            "site": "https://github.com/adityasoni9998/OpenHands-Versa",
+            "verified": null,
+            "oss": null,
+            "folder": "20250528_OpenHands-Versa-claude4",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GUIRepair + o4-mini (2025-04-16)",
+          "score": 33.85,
+          "date": "2025-05-31",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://sites.google.com/view/guirepair",
+            "verified": null,
+            "oss": null,
+            "folder": "20250531_GUIRepair_o4mini",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "OpenHands-Versa (Claude-3.7 Sonnet)",
+          "score": 31.33,
+          "date": "2025-05-09",
+          "meta": {
+            "logs": false,
+            "trajs": false,
+            "site": "https://github.com/adityasoni9998/OpenHands-Versa",
+            "verified": null,
+            "oss": null,
+            "folder": "20250509_OpenHands-Versa_claude3.7",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GUIRepair + GPT 4.1 (2025-04-14)",
+          "score": 31.14,
+          "date": "2025-05-31",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://sites.google.com/view/guirepair",
+            "verified": null,
+            "oss": null,
+            "folder": "20250531_GUIRepair_gpt41",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Zencoder (2025-04-01)",
+          "score": 30.56,
+          "date": "2025-04-01",
+          "meta": {
+            "logs": false,
+            "trajs": false,
+            "site": "https://zencoder.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250401_zencoder",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "GUIRepair + GPT 4o (2024-08-06)",
+          "score": 30.37,
+          "date": "2025-05-31",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://sites.google.com/view/guirepair",
+            "verified": null,
+            "oss": null,
+            "folder": "20250531_GUIRepair_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Globant Code Fixer Agent",
+          "score": 29.59,
+          "date": "2025-03-25",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://ai.globant.com/us-en/",
+            "verified": null,
+            "oss": null,
+            "folder": "20250325_globant_codefixer_agent",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Zencoder (2025-03-10)",
+          "score": 27.08,
+          "date": "2025-03-11",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://zencoder.ai",
+            "verified": null,
+            "oss": null,
+            "folder": "20250311_zencoder",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless Lite + Claude-3.5 Sonnet",
+          "score": 25.34,
+          "date": "2025-02-26",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/sorendunn/Agentless-Lite",
+            "verified": null,
+            "oss": null,
+            "folder": "20250226_agentless_lite_claude3.5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent Multimodal + GPT 4o (2024-08-06)",
+          "score": 12.19,
+          "date": "2024-10-06",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20241006_SWE-agent_M_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + Claude Sonnet 3.5",
+          "score": 12.19,
+          "date": "2024-10-06",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20241006_SWE-agent_claude3.5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent JavaScript + Claude Sonnet 3.5",
+          "score": 11.99,
+          "date": "2024-10-06",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20241006_SWE-agent_JS_claude3.5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent + GPT 4o (2024-08-06)",
+          "score": 11.99,
+          "date": "2024-10-06",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20241006_SWE-agent_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent Multimodal + Claude 3.5 Sonnet",
+          "score": 11.41,
+          "date": "2024-10-06",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20241006_SWE-agent_M_claude3.5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "SWE-agent JavaScript + GPT 4o (2024-08-06)",
+          "score": 9.28,
+          "date": "2024-10-06",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/SWE-agent/SWE-agent",
+            "verified": null,
+            "oss": null,
+            "folder": "20241006_SWE-agent_JS_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless + Claude 3.5 Sonnet",
+          "score": 6.19,
+          "date": "2024-10-06",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/OpenAutoCoder/Agentless",
+            "verified": null,
+            "oss": null,
+            "folder": "20241006_Agentless_claude3.5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + GPT 4o (2024-08-06)",
+          "score": 6.0,
+          "date": "2024-10-06",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/SWE-bench/SWE-bench",
+            "verified": null,
+            "oss": null,
+            "folder": "20241006_RAG_gpt4o",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "RAG + Claude 3.5 Sonnet",
+          "score": 5.03,
+          "date": "2024-10-06",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/SWE-bench/SWE-bench",
+            "verified": null,
+            "oss": null,
+            "folder": "20241006_RAG_claude3.5",
+            "org_logo": null
+          }
+        },
+        {
+          "model": "Agentless + GPT 4o (2024-08-06)",
+          "score": 3.09,
+          "date": "2024-10-06",
+          "meta": {
+            "logs": null,
+            "trajs": null,
+            "site": "https://github.com/OpenAutoCoder/Agentless",
+            "verified": null,
+            "oss": null,
+            "folder": "20241006_Agentless_gpt4o",
+            "org_logo": null
+          }
+        }
+      ]
+    }
+  ]
+}

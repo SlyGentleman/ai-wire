@@ -1,0 +1,329 @@
+{
+  "last_updated": "2026-01-14T04:15:06.640270+00:00",
+  "entries": [
+    {
+      "title": "The RAM shortage\u2019s silver lining: Less talk about \u201cAI PCs\u201d",
+      "source": "Ars Technica",
+      "published": "Tue, 13 Jan 2026 22:34:41 +0000",
+      "link": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Hegseth wants to integrate Musk\u2019s Grok AI into military networks this month",
+      "source": "Ars Technica",
+      "published": "Tue, 13 Jan 2026 21:13:07 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft vows to cover full power costs for energy-hungry AI data centers",
+      "source": "Ars Technica",
+      "published": "Tue, 13 Jan 2026 20:05:14 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/microsoft-vows-to-cover-full-power-costs-for-energy-hungry-ai-data-centers/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google removes some AI health summaries after investigation finds \u201cdangerous\u201d flaws",
+      "source": "Ars Technica",
+      "published": "Mon, 12 Jan 2026 21:47:32 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+      "source": "Ars Technica",
+      "published": "Thu, 08 Jan 2026 18:00:52 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+      "source": "Ars Technica",
+      "published": "Thu, 08 Jan 2026 14:00:07 +0000",
+      "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
+      "source": "Ars Technica",
+      "published": "Wed, 31 Dec 2025 13:15:40 +0000",
+      "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "From prophet to product: How AI came back down to earth in 2025",
+      "source": "Ars Technica",
+      "published": "Wed, 31 Dec 2025 12:00:31 +0000",
+      "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "How AI coding agents work\u2014and what to remember if you use them",
+      "source": "Ars Technica",
+      "published": "Wed, 24 Dec 2025 12:00:27 +0000",
+      "link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI\u2019s new ChatGPT image generator makes faking photos easy",
+      "source": "Ars Technica",
+      "published": "Wed, 17 Dec 2025 22:22:33 +0000",
+      "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Browser extensions with 8 million users collect extended AI conversations",
+      "source": "Ars Technica",
+      "published": "Wed, 17 Dec 2025 15:25:25 +0000",
+      "link": "https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Merriam-Webster\u2019s word of the year delivers a dismissive verdict on junk AI content",
+      "source": "Ars Technica",
+      "published": "Mon, 15 Dec 2025 22:41:43 +0000",
+      "link": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
+      "source": "Ars Technica",
+      "published": "Fri, 12 Dec 2025 22:16:42 +0000",
+      "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "OpenAI releases GPT-5.2 after \u201ccode red\u201d Google threat alert",
+      "source": "Ars Technica",
+      "published": "Thu, 11 Dec 2025 21:27:18 +0000",
+      "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Trump administration sets GPU export rules that put Chinese buyers at the back of the queue",
+      "source": "The Register",
+      "published": "Wed, 14 Jan 2026 03:21:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/us_gpu_export_rules/",
+      "matched_keywords": [
+        "GPU",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Google rekindles relationship with jilted JPEG XL image format",
+      "source": "The Register",
+      "published": "Wed, 14 Jan 2026 00:52:02 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/google_rekindles_relationship_with_jilted/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Popular Python libraries used in Hugging Face models subject to poisoned metadata attack",
+      "source": "The Register",
+      "published": "Tue, 13 Jan 2026 21:17:17 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_python_library_bugs_allow/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Anthropic Claude wants to be your helpful colleague, always looking over your shoulder",
+      "source": "The Register",
+      "published": "Tue, 13 Jan 2026 20:56:31 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/anthropic_previews_claude_cowork_for/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "SK Hynix's $13B packaging facility promises more HBM for the AI bubble",
+      "source": "The Register",
+      "published": "Tue, 13 Jan 2026 19:22:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/sk_hbm_packaging/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Cloud to be an American: Congress votes to kick China off remote GPU services",
+      "source": "The Register",
+      "published": "Tue, 13 Jan 2026 17:43:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/congress_votes_china_gpu_cloud/",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "AI and automation could erase 10.4 million US roles by 2030",
+      "source": "The Register",
+      "published": "Tue, 13 Jan 2026 17:00:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_us_jobs_2030/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Trump says Americans shouldn't 'pick up the tab' for AI datacenter grid upgrades",
+      "source": "The Register",
+      "published": "Tue, 13 Jan 2026 16:50:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/trump_datacenter_power_costs/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Trump may hate renewables, but AI datacenters still fancy cheap solar",
+      "source": "The Register",
+      "published": "Tue, 13 Jan 2026 13:50:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/renewables_ai_datacenters/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Developer writes script to throw AI out of Windows",
+      "source": "The Register",
+      "published": "Tue, 13 Jan 2026 07:23:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/script_removes_ai_from_windows/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Zuck forms Meta Compute to pave the planet with 'hundreds of gigawatts' of AI datacenters",
+      "source": "The Register",
+      "published": "Mon, 12 Jan 2026 22:21:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/meta_compute/",
+      "matched_keywords": [
+        "AI",
+        "Compute"
+      ]
+    },
+    {
+      "title": "Apple hopes to save Siri from laughingstock status with infusion of Google Gemini",
+      "source": "The Register",
+      "published": "Mon, 12 Jan 2026 19:53:41 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/apple_taps_google_gemini_siri/",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Nvidia, Eli Lilly just say yes to making drugs together, using Vera Rubin GPUs",
+      "source": "The Register",
+      "published": "Mon, 12 Jan 2026 19:30:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/nvidia_eli_lilly_ai_drug_lab/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "PC shipments set to hit the buffers as AI guzzles memory",
+      "source": "The Register",
+      "published": "Mon, 12 Jan 2026 18:54:20 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/memory_shortages_price_hikes/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Businesses in 2026: Maybe we should finally look into that AI security stuff",
+      "source": "The Register",
+      "published": "Mon, 12 Jan 2026 18:29:39 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/ai_security_wef_survey/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Don\u2019t bother with the retailer\u2019s website, says Google: Gemini can shop for you",
+      "source": "The Register",
+      "published": "Mon, 12 Jan 2026 18:01:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/google_gemini_agentic_ai_shopping_protocol/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Block CISO: We red-teamed our own AI agent to run an infostealer on an employee laptop",
+      "source": "The Register",
+      "published": "Mon, 12 Jan 2026 16:46:01 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/block_ai_agent_goose/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Claude joins the ward as Anthropic eyes US healthcare data",
+      "source": "The Register",
+      "published": "Mon, 12 Jan 2026 14:55:30 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/claude_anthropic_healthcare/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The world is one bad decision away from a silicon ice age",
+      "source": "The Register",
+      "published": "Mon, 12 Jan 2026 12:44:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/silicon_shield_versus_silicon_winter/",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Great Trains, Not So Great AI Chatbot Security",
+      "source": "Hackaday",
+      "published": "Tue, 13 Jan 2026 16:30:31 +0000",
+      "link": "https://hackaday.com/2026/01/13/great-trains-not-so-great-ai-chatbot-security/",
+      "matched_keywords": [
+        "AI",
+        "ai"
+      ]
+    }
+  ]
+}

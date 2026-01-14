@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Wire – Daily Signal</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #0f1115;
+      color: #e6e6e6;
+      padding: 20px;
+    }
+    h1 { margin-bottom: 0; }
+    small { color: #aaa; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      padding: 8px;
+      border-bottom: 1px solid #333;
+      text-align: left;
+    }
+    th {
+      background: #1b1f2a;
+      position: sticky;
+      top: 0;
+    }
+    a { color: #7ab7ff; }
+  </style>
+</head>
+<body>
+
+<h1>AI Wire</h1>
+<small id="updated">Loading…</small>
+
+<div style="margin:12px 0;">
+  <a href="benchmarks.html"
+     style="
+       display:inline-block;
+       padding:4px 12px;
+       border:1px solid #333;
+       border-radius:999px;
+       text-decoration:none;
+       color:#7ab7ff;
+     ">
+    Benchmarks →
+  </a>
+</div>
+
+
+  <select id="filter" style="margin-top:8px;">
+    <option value="ALL">All</option>
+    <option value="Models">Models & LLMs</option>
+    <option value="Compute">Compute & Chips</option>
+    <option value="Security">Security</option>
+    <option value="Policy">Policy & Regulation</option>
+    <option value="Robotics">Robotics & Hardware</option>
+  </select>
+</div>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Source</th>
+      <th>Category</th>
+    </tr>
+  </thead>
+  <tbody id="rows"></tbody>
+</table>
+
+<p style="margin-top:30px;">
+  <a href="https://connect.vestwell.com/gift/stable/yElAJAw4V0GO9TosLGDcHQ" target="_blank">
+    Support this project
+  </a>
+</p>
+
+<script>
+function categorize(keywords) {
+  const k = keywords.map(x => x.toLowerCase());
+
+  if (k.some(x => ["llm","model","openai","anthropic","google","deepseek"].includes(x)))
+    return "Models";
+
+  if (k.some(x => ["gpu","nvidia","chip","compute"].includes(x)))
+    return "Compute";
+
+  if (k.some(x => ["security","attack","exploit","steal"].includes(x)))
+    return "Security";
+
+  if (k.some(x => ["regulation","policy","ban","law","military"].includes(x)))
+    return "Policy";
+
+  if (k.some(x => ["robot","robotics","humanoid","drone"].includes(x)))
+    return "Robotics";
+
+  return "General";
+}
+
+fetch("data.json")
+  .then(r => r.json())
+  .then(data => {
+    document.getElementById("updated").textContent =
+      "Last updated: " + data.last_updated;
+
+    const rows = document.getElementById("rows");
+    const filter = document.getElementById("filter");
+
+    function render(selected) {
+      rows.innerHTML = "";
+
+      data.entries.forEach(e => {
+        const category = categorize(e.matched_keywords || []);
+        if (selected !== "ALL" && category !== selected) return;
+
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td><a href="${e.link}" target="_blank">${e.title}</a></td>
+          <td>${e.source}</td>
+          <td>${category}</td>
+        `;
+        rows.appendChild(tr);
+      });
+    }
+
+    filter.addEventListener("change", () => {
+      render(filter.value);
+    });
+
+    render("ALL");
+  });
+</script>
+
+<p style="margin-top:20px;">
+  <a href="index.html">← Back to Daily Signal</a>
+</p>
+
+<hr style="border:1px solid #222; margin:24px 0;">
+
+<p>
+  <a
+    href="https://connect.vestwell.com/gift/stable/yElAJAw4V0GO9TosLGDcHQ"
+    target="_blank"
+    rel="noopener"
+    style="
+      display:inline-block;
+      padding:10px 16px;
+      border:1px solid #444;
+      border-radius:6px;
+      background:#141821;
+      color:#e6e6e6;
+      text-decoration:none;
+    "
+  >
+    ❤️ Support this project (Oklahoma ABLE account)
+  </a>
+</p>
+
+<small style="color:#888;">
+  If this resource is useful to you, your support helps cover basic utilities like electric, water, and internet.
+</small>
+
+</body>
+</html>
