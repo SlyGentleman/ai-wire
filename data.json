@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-01-14T15:03:54.515888+00:00",
+  "last_updated": "2026-01-16T12:05:01.253148+00:00",
   "entries": [
+    {
+      "title": "Wikipedia signs AI training deals with Microsoft, Meta, and Amazon",
+      "source": "Ars Technica",
+      "published": "Thu, 15 Jan 2026 15:25:52 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Bandcamp bans purely AI-generated music from its platform",
+      "source": "Ars Technica",
+      "published": "Wed, 14 Jan 2026 17:46:19 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "The RAM shortage\u2019s silver lining: Less talk about \u201cAI PCs\u201d",
       "source": "Ars Technica",
@@ -111,24 +129,150 @@
       ]
     },
     {
-      "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
-      "source": "Ars Technica",
-      "published": "Fri, 12 Dec 2025 22:16:42 +0000",
-      "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
+      "title": "Just because Linus Torvalds vibe codes doesn't mean it's a good idea",
+      "source": "The Register",
+      "published": "Fri, 16 Jan 2026 11:15:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/linus_torvalds_vibe_coding/",
       "matched_keywords": [
-        "AI",
-        "OpenAI"
+        "Google",
+        "LLM"
       ]
     },
     {
-      "title": "OpenAI releases GPT-5.2 after \u201ccode red\u201d Google threat alert",
-      "source": "Ars Technica",
-      "published": "Thu, 11 Dec 2025 21:27:18 +0000",
-      "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
+      "title": "Wikimedia\u2019s 25th birthday gift: Letting more AIs scour pages volunteers created",
+      "source": "The Register",
+      "published": "Fri, 16 Jan 2026 05:17:28 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/wikimedia_25_ai_partner_access/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "TSMC sees no signs of the AI boom slowing for at least two or three years",
+      "source": "The Register",
+      "published": "Fri, 16 Jan 2026 03:38:48 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/tsmc_q4_2025/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI invests in brain-interface biz co-founded by CEO Sam Altman",
+      "source": "The Register",
+      "published": "Fri, 16 Jan 2026 00:13:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/openai_merge_labs_brain_interface_investment/",
+      "matched_keywords": [
+        "OpenAI",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "title": "Open ISA champ SiFive leaps aboard Nvidia's proprietary interconnect bandwagon",
+      "source": "The Register",
+      "published": "Thu, 15 Jan 2026 23:20:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/sifive_nvidia_nvlink/",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Over half of AI projects are shelved due to complex infrastructure",
+      "source": "The Register",
+      "published": "Thu, 15 Jan 2026 23:19:25 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/half_ai_projects_shelved/",
       "matched_keywords": [
         "AI",
-        "Google",
+        "Google"
+      ]
+    },
+    {
+      "title": "Contagious Claude Code bug Anthropic ignored promptly spreads to Cowork",
+      "source": "The Register",
+      "published": "Thu, 15 Jan 2026 19:15:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/anthropics_claude_bug_cowork/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI to serve up ChatGPT on Cerebras\u2019 AI dinner plates in $10B+ deal",
+      "source": "The Register",
+      "published": "Thu, 15 Jan 2026 18:51:02 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/openai_cerebras_ai/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia",
         "OpenAI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Apple, Google pulled into Grok controversy as campaigners demand app store takedown",
+      "source": "The Register",
+      "published": "Thu, 15 Jan 2026 15:50:16 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/apple_google_pulled_into_grok/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Teach an AI to write buggy code, and it starts fantasizing about enslaving humans",
+      "source": "The Register",
+      "published": "Thu, 15 Jan 2026 14:03:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/llm_fine_tuning_misalignment/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Raspberry Pi 5 gets LLM smarts with AI HAT+ 2",
+      "source": "The Register",
+      "published": "Thu, 15 Jan 2026 11:49:31 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/pi_5_ai_hat_2/",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "China's Z.ai claims it trained a model using only Huawei hardware",
+      "source": "The Register",
+      "published": "Thu, 15 Jan 2026 02:27:31 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/zhipu_glm_image_huawei_hardware/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia",
+        "ai",
+        "model"
+      ]
+    },
+    {
+      "title": "AI may be everywhere, but it's nowhere in recent productivity statistics",
+      "source": "The Register",
+      "published": "Thu, 15 Jan 2026 01:13:24 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/forrester_ai_jobs_impact/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google offers bargain: Sell your soul to Gemini, and it'll give you smarter answers",
+      "source": "The Register",
+      "published": "Wed, 14 Jan 2026 21:45:17 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/google_gemini_personalize_responses/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "There was so much fraud on COVID loans, the feds trained an anti-fraud AI on the applications",
+      "source": "The Register",
+      "published": "Wed, 14 Jan 2026 17:53:31 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/feds_antifraud_ai_covid_loans/",
+      "matched_keywords": [
+        "AI",
         "model"
       ]
     },
@@ -160,176 +304,13 @@
       ]
     },
     {
-      "title": "Anthropic finds $1.5 million to help Python Foundation improve security",
-      "source": "The Register",
-      "published": "Wed, 14 Jan 2026 06:25:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/anthropic_python_security/",
+      "title": "Project Fail: Cracking a Laptop BIOS Password Using AI",
+      "source": "Hackaday",
+      "published": "Fri, 16 Jan 2026 00:00:49 +0000",
+      "link": "https://hackaday.com/2026/01/15/project-fail-cracking-a-laptop-bios-password-using-ai/",
       "matched_keywords": [
         "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Trump administration sets GPU export rules that put Chinese buyers at the back of the queue",
-      "source": "The Register",
-      "published": "Wed, 14 Jan 2026 03:21:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/us_gpu_export_rules/",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Google rekindles relationship with jilted JPEG XL image format",
-      "source": "The Register",
-      "published": "Wed, 14 Jan 2026 00:52:02 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/google_rekindles_relationship_with_jilted/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Popular Python libraries used in Hugging Face models subject to poisoned metadata attack",
-      "source": "The Register",
-      "published": "Tue, 13 Jan 2026 21:17:17 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_python_library_bugs_allow/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Anthropic Claude wants to be your helpful colleague, always looking over your shoulder",
-      "source": "The Register",
-      "published": "Tue, 13 Jan 2026 20:56:31 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/anthropic_previews_claude_cowork_for/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "SK Hynix's $13B packaging facility promises more HBM for the AI bubble",
-      "source": "The Register",
-      "published": "Tue, 13 Jan 2026 19:22:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/sk_hbm_packaging/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Cloud to be an American: Congress votes to kick China off remote GPU services",
-      "source": "The Register",
-      "published": "Tue, 13 Jan 2026 17:43:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/congress_votes_china_gpu_cloud/",
-      "matched_keywords": [
-        "GPU"
-      ]
-    },
-    {
-      "title": "AI and automation could erase 10.4 million US roles by 2030",
-      "source": "The Register",
-      "published": "Tue, 13 Jan 2026 17:00:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_us_jobs_2030/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Trump says Americans shouldn't 'pick up the tab' for AI datacenter grid upgrades",
-      "source": "The Register",
-      "published": "Tue, 13 Jan 2026 16:50:05 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/trump_datacenter_power_costs/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Trump may hate renewables, but AI datacenters still fancy cheap solar",
-      "source": "The Register",
-      "published": "Tue, 13 Jan 2026 13:50:05 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/renewables_ai_datacenters/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Developer writes script to throw AI out of Windows",
-      "source": "The Register",
-      "published": "Tue, 13 Jan 2026 07:23:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/script_removes_ai_from_windows/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Zuck forms Meta Compute to pave the planet with 'hundreds of gigawatts' of AI datacenters",
-      "source": "The Register",
-      "published": "Mon, 12 Jan 2026 22:21:05 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/meta_compute/",
-      "matched_keywords": [
-        "AI",
-        "Compute"
-      ]
-    },
-    {
-      "title": "Apple hopes to save Siri from laughingstock status with infusion of Google Gemini",
-      "source": "The Register",
-      "published": "Mon, 12 Jan 2026 19:53:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/apple_taps_google_gemini_siri/",
-      "matched_keywords": [
-        "AI",
-        "Google",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Nvidia, Eli Lilly just say yes to making drugs together, using Vera Rubin GPUs",
-      "source": "The Register",
-      "published": "Mon, 12 Jan 2026 19:30:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/nvidia_eli_lilly_ai_drug_lab/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "PC shipments set to hit the buffers as AI guzzles memory",
-      "source": "The Register",
-      "published": "Mon, 12 Jan 2026 18:54:20 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/memory_shortages_price_hikes/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Businesses in 2026: Maybe we should finally look into that AI security stuff",
-      "source": "The Register",
-      "published": "Mon, 12 Jan 2026 18:29:39 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/ai_security_wef_survey/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Don\u2019t bother with the retailer\u2019s website, says Google: Gemini can shop for you",
-      "source": "The Register",
-      "published": "Mon, 12 Jan 2026 18:01:27 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/google_gemini_agentic_ai_shopping_protocol/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Block CISO: We red-teamed our own AI agent to run an infostealer on an employee laptop",
-      "source": "The Register",
-      "published": "Mon, 12 Jan 2026 16:46:01 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/block_ai_agent_goose/",
-      "matched_keywords": [
-        "AI"
+        "ai"
       ]
     }
   ]
