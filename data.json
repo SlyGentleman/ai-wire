@@ -1,8 +1,26 @@
 {
-  "last_updated": "2026-01-16T12:05:01.253148+00:00",
+  "last_updated": "2026-01-18T12:05:01.411389+00:00",
   "entries": [
     {
-      "title": "Wikipedia signs AI training deals with Microsoft, Meta, and Amazon",
+      "title": "OpenAI to test ads in ChatGPT as it burns through billions",
+      "source": "Ars Technica",
+      "published": "Fri, 16 Jan 2026 21:20:03 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "TSMC says AI demand is \u201cendless\u201d after record Q4 earnings",
+      "source": "Ars Technica",
+      "published": "Fri, 16 Jan 2026 16:55:08 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Wikipedia signs major AI firms to new priority data access deals",
       "source": "Ars Technica",
       "published": "Thu, 15 Jan 2026 15:25:52 +0000",
       "link": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/",
@@ -102,28 +120,56 @@
       ]
     },
     {
-      "title": "OpenAI\u2019s new ChatGPT image generator makes faking photos easy",
-      "source": "Ars Technica",
-      "published": "Wed, 17 Dec 2025 22:22:33 +0000",
-      "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
+      "title": "Not hot on bots, project names and shames AI-created open source software",
+      "source": "The Register",
+      "published": "Sun, 18 Jan 2026 09:33:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/openslopware_is_back/",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Fast Pair, loose security: Bluetooth accessories open to silent hijack",
+      "source": "The Register",
+      "published": "Sat, 17 Jan 2026 12:26:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/17/fast_pair_flaw/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Coming soon: We interrupt this ChatGPT session with a very special message from our sponsors",
+      "source": "The Register",
+      "published": "Sat, 17 Jan 2026 00:41:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/17/openai_chatgpt_ads/",
       "matched_keywords": [
         "OpenAI"
       ]
     },
     {
-      "title": "Browser extensions with 8 million users collect extended AI conversations",
-      "source": "Ars Technica",
-      "published": "Wed, 17 Dec 2025 15:25:25 +0000",
-      "link": "https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/",
+      "title": "Experiment suggests AI chatbot would save insurance agents a whopping 3 minutes a day",
+      "source": "The Register",
+      "published": "Fri, 16 Jan 2026 23:22:23 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/axlerod_ai_saves_insurance_agents_time/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Merriam-Webster\u2019s word of the year delivers a dismissive verdict on junk AI content",
-      "source": "Ars Technica",
-      "published": "Mon, 15 Dec 2025 22:41:43 +0000",
-      "link": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/",
+      "title": "Micron breaks ground on humungous NY DRAM fab after beating bats and tree huggers",
+      "source": "The Register",
+      "published": "Fri, 16 Jan 2026 21:11:39 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/micron_fab_breaks_ground/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Hyperscalers, vendors funding trillion dollar AI spree, but users will have to pay up long term",
+      "source": "The Register",
+      "published": "Fri, 16 Jan 2026 14:18:20 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/hyperscales_and_vendor_fund_trillion/",
       "matched_keywords": [
         "AI"
       ]
@@ -255,62 +301,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/forrester_ai_jobs_impact/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Google offers bargain: Sell your soul to Gemini, and it'll give you smarter answers",
-      "source": "The Register",
-      "published": "Wed, 14 Jan 2026 21:45:17 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/google_gemini_personalize_responses/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "There was so much fraud on COVID loans, the feds trained an anti-fraud AI on the applications",
-      "source": "The Register",
-      "published": "Wed, 14 Jan 2026 17:53:31 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/feds_antifraud_ai_covid_loans/",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "AI's $3T infrastructure binge continues despite lack of clear profits",
-      "source": "The Register",
-      "published": "Wed, 14 Jan 2026 13:41:24 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/ai_investment/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Firefox 147 brings GPU boost, tidier tabs, and video that follows you around",
-      "source": "The Register",
-      "published": "Wed, 14 Jan 2026 13:15:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/firefox_and_tbird_147/",
-      "matched_keywords": [
-        "GPU"
-      ]
-    },
-    {
-      "title": "Stop dragging feet on AI nudification ban, UK government told",
-      "source": "The Register",
-      "published": "Wed, 14 Jan 2026 11:47:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/uk_government_nudification_ban/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Project Fail: Cracking a Laptop BIOS Password Using AI",
-      "source": "Hackaday",
-      "published": "Fri, 16 Jan 2026 00:00:49 +0000",
-      "link": "https://hackaday.com/2026/01/15/project-fail-cracking-a-laptop-bios-password-using-ai/",
-      "matched_keywords": [
-        "AI",
-        "ai"
       ]
     }
   ]
