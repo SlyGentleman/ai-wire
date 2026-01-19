@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18T12:05:01.411389+00:00",
+  "last_updated": "2026-01-19T12:05:01.831955+00:00",
   "entries": [
     {
       "title": "OpenAI to test ads in ChatGPT as it burns through billions",
@@ -117,6 +117,43 @@
       "link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Price, battery life, performance \u2013 that's how you sell PCs",
+      "source": "The Register",
+      "published": "Mon, 19 Jan 2026 11:00:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/price_battery_life_performance_pc/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Hiring at India\u2019s Big Four outsourcers stalls, as AI seemingly makes an impact",
+      "source": "The Register",
+      "published": "Mon, 19 Jan 2026 05:03:54 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/hcl_infosys_tcs_wipro_results/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Mandiant releases quick credential cracker, to hasten the death of a bad protocol",
+      "source": "The Register",
+      "published": "Sun, 18 Jan 2026 23:57:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/infosec_news_in_brief/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Nvidia leans on emulation to squeeze more HPC oomph from AI chips in race against AMD",
+      "source": "The Register",
+      "published": "Sun, 18 Jan 2026 12:21:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/nvidia_fp64_emulation/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
       ]
     },
     {
@@ -268,37 +305,6 @@
       "source": "The Register",
       "published": "Thu, 15 Jan 2026 14:03:27 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/llm_fine_tuning_misalignment/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Raspberry Pi 5 gets LLM smarts with AI HAT+ 2",
-      "source": "The Register",
-      "published": "Thu, 15 Jan 2026 11:49:31 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/pi_5_ai_hat_2/",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "China's Z.ai claims it trained a model using only Huawei hardware",
-      "source": "The Register",
-      "published": "Thu, 15 Jan 2026 02:27:31 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/zhipu_glm_image_huawei_hardware/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia",
-        "ai",
-        "model"
-      ]
-    },
-    {
-      "title": "AI may be everywhere, but it's nowhere in recent productivity statistics",
-      "source": "The Register",
-      "published": "Thu, 15 Jan 2026 01:13:24 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/forrester_ai_jobs_impact/",
       "matched_keywords": [
         "AI"
       ]
