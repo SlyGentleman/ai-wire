@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-01-19T12:05:01.831955+00:00",
+  "last_updated": "2026-01-20T12:05:01.393025+00:00",
   "entries": [
+    {
+      "title": "10 things I learned from burning myself out with AI coding agents",
+      "source": "Ars Technica",
+      "published": "Mon, 19 Jan 2026 12:00:45 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "OpenAI to test ads in ChatGPT as it burns through billions",
       "source": "Ars Technica",
@@ -111,10 +120,37 @@
       ]
     },
     {
-      "title": "How AI coding agents work\u2014and what to remember if you use them",
-      "source": "Ars Technica",
-      "published": "Wed, 24 Dec 2025 12:00:27 +0000",
-      "link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
+      "title": "Global economy shrugs off US tariff shock, tech spending does heavy lifting",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 11:26:17 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/global_economy_shrugs_off_us/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "MPs ask who's responsible when AI crashes the UK finance system",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 10:43:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/treasury_committee_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Akamai CEO wants help to defeat piracy, reckons he can handle edge AI alone",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 04:55:41 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/akamai_ceo_tom_leighton_piracy_interview/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cop cops it after Copilot cops out: West Midlands police chief quits over AI hallucination",
+      "source": "The Register",
+      "published": "Mon, 19 Jan 2026 12:43:43 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/copper_chief_cops_it_after/",
       "matched_keywords": [
         "AI"
       ]
@@ -231,82 +267,12 @@
       ]
     },
     {
-      "title": "TSMC sees no signs of the AI boom slowing for at least two or three years",
-      "source": "The Register",
-      "published": "Fri, 16 Jan 2026 03:38:48 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/tsmc_q4_2025/",
+      "title": "Keebin\u2019 with Kristina: the One with the Ball-Joint Keyboard",
+      "source": "Hackaday",
+      "published": "Mon, 19 Jan 2026 18:00:20 +0000",
+      "link": "https://hackaday.com/2026/01/19/keebin-with-kristina-the-one-with-the-ball-joint-keyboard/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI invests in brain-interface biz co-founded by CEO Sam Altman",
-      "source": "The Register",
-      "published": "Fri, 16 Jan 2026 00:13:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/openai_merge_labs_brain_interface_investment/",
-      "matched_keywords": [
-        "OpenAI",
-        "artificial intelligence"
-      ]
-    },
-    {
-      "title": "Open ISA champ SiFive leaps aboard Nvidia's proprietary interconnect bandwagon",
-      "source": "The Register",
-      "published": "Thu, 15 Jan 2026 23:20:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/sifive_nvidia_nvlink/",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Over half of AI projects are shelved due to complex infrastructure",
-      "source": "The Register",
-      "published": "Thu, 15 Jan 2026 23:19:25 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/half_ai_projects_shelved/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Contagious Claude Code bug Anthropic ignored promptly spreads to Cowork",
-      "source": "The Register",
-      "published": "Thu, 15 Jan 2026 19:15:27 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/anthropics_claude_bug_cowork/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI to serve up ChatGPT on Cerebras\u2019 AI dinner plates in $10B+ deal",
-      "source": "The Register",
-      "published": "Thu, 15 Jan 2026 18:51:02 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/openai_cerebras_ai/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia",
-        "OpenAI",
-        "compute"
-      ]
-    },
-    {
-      "title": "Apple, Google pulled into Grok controversy as campaigners demand app store takedown",
-      "source": "The Register",
-      "published": "Thu, 15 Jan 2026 15:50:16 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/apple_google_pulled_into_grok/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Teach an AI to write buggy code, and it starts fantasizing about enslaving humans",
-      "source": "The Register",
-      "published": "Thu, 15 Jan 2026 14:03:27 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/llm_fine_tuning_misalignment/",
-      "matched_keywords": [
-        "AI"
+        "Model"
       ]
     }
   ]
