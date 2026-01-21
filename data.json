@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-20T12:05:01.393025+00:00",
+  "last_updated": "2026-01-21T12:05:01.560652+00:00",
   "entries": [
     {
       "title": "10 things I learned from burning myself out with AI coding agents",
@@ -120,6 +120,128 @@
       ]
     },
     {
+      "title": "Microsoft CEO: AI sovereignty isn't where it runs, it's who controls it",
+      "source": "The Register",
+      "published": "Wed, 21 Jan 2026 11:45:24 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/nadella_ai_sovereignty_wef/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Curl shutters bug bounty program to remove incentive for submitting AI slop",
+      "source": "The Register",
+      "published": "Wed, 21 Jan 2026 05:29:47 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/curl_ends_bug_bounty/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI will try to guess your age before ChatGPT gets spicy",
+      "source": "The Register",
+      "published": "Wed, 21 Jan 2026 01:37:35 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/openai_bets_on_age_prediction/",
+      "matched_keywords": [
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Anthropic CEO: Selling H200s to China is like giving nukes to North Korea",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 22:10:33 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/anthropic_nvidia_china/",
+      "matched_keywords": [
+        "Anthropic",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Amazon CEO Andy Jassy goes wobbly on AI bubble possibility",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 21:29:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/amazon_ceo_andy_jassy_ai_bubble/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI researchers map models to banish 'demon' persona",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 21:03:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/ai_demon_vs_assistant/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Remember VoidLink, the cloud-targeting Linux malware? An AI agent wrote it",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 18:48:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/voidlink_ai_developed/",
+      "matched_keywords": [
+        "AI",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "title": "OpenAI is still figuring out how to make money, but wants you to believe in it",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 14:34:28 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/openai_money/",
+      "matched_keywords": [
+        "OpenAI",
+        "openai"
+      ]
+    },
+    {
+      "title": "Majority of CEOs report zero payoff from AI splurge",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 14:31:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/pwc_ai_ceo_survey/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI framework flaws put enterprise clouds at risk of takeover",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 14:00:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/ai_framework_flaws_enterprise_clouds/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Windows 11, not AI, kick-started the PC upgrade cycle",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 13:27:16 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/windows_11_pc_refresh/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic quietly fixed flaws in its Git MCP server that allowed for remote code execution",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 13:00:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/anthropic_prompt_injection_flaws/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "For the price of Netflix, crooks can now rent AI to run cybercrime",
+      "source": "The Register",
+      "published": "Tue, 20 Jan 2026 12:32:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/group_ib_ai_cycercrime_subscriptions/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "Global economy shrugs off US tariff shock, tech spending does heavy lifting",
       "source": "The Register",
       "published": "Tue, 20 Jan 2026 11:26:17 GMT",
@@ -180,99 +302,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/infosec_news_in_brief/",
       "matched_keywords": [
         "Google"
-      ]
-    },
-    {
-      "title": "Nvidia leans on emulation to squeeze more HPC oomph from AI chips in race against AMD",
-      "source": "The Register",
-      "published": "Sun, 18 Jan 2026 12:21:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/nvidia_fp64_emulation/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Not hot on bots, project names and shames AI-created open source software",
-      "source": "The Register",
-      "published": "Sun, 18 Jan 2026 09:33:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/openslopware_is_back/",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "Fast Pair, loose security: Bluetooth accessories open to silent hijack",
-      "source": "The Register",
-      "published": "Sat, 17 Jan 2026 12:26:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/17/fast_pair_flaw/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Coming soon: We interrupt this ChatGPT session with a very special message from our sponsors",
-      "source": "The Register",
-      "published": "Sat, 17 Jan 2026 00:41:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/17/openai_chatgpt_ads/",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Experiment suggests AI chatbot would save insurance agents a whopping 3 minutes a day",
-      "source": "The Register",
-      "published": "Fri, 16 Jan 2026 23:22:23 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/axlerod_ai_saves_insurance_agents_time/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Micron breaks ground on humungous NY DRAM fab after beating bats and tree huggers",
-      "source": "The Register",
-      "published": "Fri, 16 Jan 2026 21:11:39 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/micron_fab_breaks_ground/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Hyperscalers, vendors funding trillion dollar AI spree, but users will have to pay up long term",
-      "source": "The Register",
-      "published": "Fri, 16 Jan 2026 14:18:20 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/hyperscales_and_vendor_fund_trillion/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Just because Linus Torvalds vibe codes doesn't mean it's a good idea",
-      "source": "The Register",
-      "published": "Fri, 16 Jan 2026 11:15:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/linus_torvalds_vibe_coding/",
-      "matched_keywords": [
-        "Google",
-        "LLM"
-      ]
-    },
-    {
-      "title": "Wikimedia\u2019s 25th birthday gift: Letting more AIs scour pages volunteers created",
-      "source": "The Register",
-      "published": "Fri, 16 Jan 2026 05:17:28 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/wikimedia_25_ai_partner_access/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Keebin\u2019 with Kristina: the One with the Ball-Joint Keyboard",
-      "source": "Hackaday",
-      "published": "Mon, 19 Jan 2026 18:00:20 +0000",
-      "link": "https://hackaday.com/2026/01/19/keebin-with-kristina-the-one-with-the-ball-joint-keyboard/",
-      "matched_keywords": [
-        "Model"
       ]
     }
   ]
