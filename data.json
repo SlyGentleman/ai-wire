@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-01-21T12:05:01.560652+00:00",
+  "last_updated": "2026-01-22T12:05:01.421071+00:00",
   "entries": [
+    {
+      "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+      "source": "Ars Technica",
+      "published": "Wed, 21 Jan 2026 12:15:23 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "10 things I learned from burning myself out with AI coding agents",
       "source": "Ars Technica",
@@ -120,6 +129,110 @@
       ]
     },
     {
+      "title": "Turing Institute Chief Scientist takes acting CEO role amid defense push",
+      "source": "The Register",
+      "published": "Thu, 22 Jan 2026 11:52:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/turing_institute_acting_ceo/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic writes Constitution for Claude it thinks will soon be proven \u2018misguided\u2019",
+      "source": "The Register",
+      "published": "Thu, 22 Jan 2026 05:48:04 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/anthropic_claude_constitution/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "eBay updates legalese to ban AI-powered shop-bots",
+      "source": "The Register",
+      "published": "Thu, 22 Jan 2026 03:37:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/ebay_updates_legalese_to_ban/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Future jobs in AI will come with a hardhat and boots, tech bigshots argue",
+      "source": "The Register",
+      "published": "Thu, 22 Jan 2026 00:09:44 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/future_ai_jobs_tech_bigshots/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI networking startup Upscale scores $200M to challenge Nvidia's NVSwitch",
+      "source": "The Register",
+      "published": "Thu, 22 Jan 2026 00:07:56 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/upscale_skyhammer_nvidia/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Davos discussion mulls how to keep AI agents from running wild",
+      "source": "The Register",
+      "published": "Wed, 21 Jan 2026 23:04:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/davos_ai_agents_security/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI hasn't delivered the profits it was hyped for, says Deloitte",
+      "source": "The Register",
+      "published": "Wed, 21 Jan 2026 21:50:29 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/deloitte_enterprises_adopting_ai_revenue_lift/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "House GOP wants final say on AI chip exports after Trump gives Nvidia a China hall pass",
+      "source": "The Register",
+      "published": "Wed, 21 Jan 2026 20:53:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/house_gop_ai_chip_exports_trump_china_nvidia/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Trump promises nuclear datacenter permits in 3 weeks, calls Greenland 'big beautiful ice'",
+      "source": "The Register",
+      "published": "Wed, 21 Jan 2026 17:58:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/american_genius_says_dont_panic/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "We come in peace, OpenAI tells locals near gargantuan Stargate facilities",
+      "source": "The Register",
+      "published": "Wed, 21 Jan 2026 16:47:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/stargate_openai_community_plans/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Palantir CEO claims AI will mean western economies won't need immigration",
+      "source": "The Register",
+      "published": "Wed, 21 Jan 2026 15:31:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/palantir_ceo_karp_claims_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "Microsoft CEO: AI sovereignty isn't where it runs, it's who controls it",
       "source": "The Register",
       "published": "Wed, 21 Jan 2026 11:45:24 GMT",
@@ -233,75 +346,12 @@
       ]
     },
     {
-      "title": "For the price of Netflix, crooks can now rent AI to run cybercrime",
-      "source": "The Register",
-      "published": "Tue, 20 Jan 2026 12:32:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/group_ib_ai_cycercrime_subscriptions/",
+      "title": "Repair and Reverse-Engineering of Nespresso Vertuo Next Coffee Machines",
+      "source": "Hackaday",
+      "published": "Wed, 21 Jan 2026 21:00:06 +0000",
+      "link": "https://hackaday.com/2026/01/21/repair-and-reverse-engineering-of-nespresso-vertuo-next-coffee-machines/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Global economy shrugs off US tariff shock, tech spending does heavy lifting",
-      "source": "The Register",
-      "published": "Tue, 20 Jan 2026 11:26:17 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/global_economy_shrugs_off_us/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "MPs ask who's responsible when AI crashes the UK finance system",
-      "source": "The Register",
-      "published": "Tue, 20 Jan 2026 10:43:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/treasury_committee_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Akamai CEO wants help to defeat piracy, reckons he can handle edge AI alone",
-      "source": "The Register",
-      "published": "Tue, 20 Jan 2026 04:55:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/akamai_ceo_tom_leighton_piracy_interview/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cop cops it after Copilot cops out: West Midlands police chief quits over AI hallucination",
-      "source": "The Register",
-      "published": "Mon, 19 Jan 2026 12:43:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/copper_chief_cops_it_after/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Price, battery life, performance \u2013 that's how you sell PCs",
-      "source": "The Register",
-      "published": "Mon, 19 Jan 2026 11:00:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/price_battery_life_performance_pc/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Hiring at India\u2019s Big Four outsourcers stalls, as AI seemingly makes an impact",
-      "source": "The Register",
-      "published": "Mon, 19 Jan 2026 05:03:54 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/hcl_infosys_tcs_wipro_results/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Mandiant releases quick credential cracker, to hasten the death of a bad protocol",
-      "source": "The Register",
-      "published": "Sun, 18 Jan 2026 23:57:05 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/infosec_news_in_brief/",
-      "matched_keywords": [
-        "Google"
+        "model"
       ]
     }
   ]
