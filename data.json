@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-24T12:05:01.887833+00:00",
+  "last_updated": "2026-01-25T12:05:01.689416+00:00",
   "entries": [
     {
       "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
@@ -126,6 +126,16 @@
       "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "How an experienced developer teamed up with Claude to create Elo programming language",
+      "source": "The Register",
+      "published": "Sat, 24 Jan 2026 14:14:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/24/human_ai_pair_programming_elo/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
       ]
     },
     {
