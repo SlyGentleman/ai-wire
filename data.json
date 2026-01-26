@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25T12:05:01.689416+00:00",
+  "last_updated": "2026-01-26T12:05:01.444204+00:00",
   "entries": [
     {
       "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
@@ -129,6 +129,24 @@
       ]
     },
     {
+      "title": "When AI 'builds a browser,' check the repo before believing the hype",
+      "source": "The Register",
+      "published": "Mon, 26 Jan 2026 12:01:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/cursor_opinion/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Oracle AI sailed the world on Royal Navy flagship via cloud-at-the-edge kit",
+      "source": "The Register",
+      "published": "Mon, 26 Jan 2026 10:15:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/royal_navy_oracle_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "How an experienced developer teamed up with Claude to create Elo programming language",
       "source": "The Register",
       "published": "Sat, 24 Jan 2026 14:14:09 GMT",
@@ -231,21 +249,13 @@
       ]
     },
     {
-      "title": "Notepad will now tell you all the ways Microsoft has enshittified it",
-      "source": "The Register",
-      "published": "Thu, 22 Jan 2026 13:55:47 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/microsoft_notepad_update/",
+      "title": "LLM-Generated Newspaper Provides Ultimate in Niche Publications",
+      "source": "Hackaday",
+      "published": "Mon, 26 Jan 2026 09:00:56 +0000",
+      "link": "https://hackaday.com/2026/01/26/llm-generated-newspaper-provides-ultimate-in-niche-publications/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Turing Institute Chief Scientist takes acting CEO role amid defense push",
-      "source": "The Register",
-      "published": "Thu, 22 Jan 2026 11:52:49 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/turing_institute_acting_ceo/",
-      "matched_keywords": [
-        "AI"
+        "LLM",
+        "llm"
       ]
     }
   ]
