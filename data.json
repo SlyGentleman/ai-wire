@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-01-26T12:05:01.444204+00:00",
+  "last_updated": "2026-01-27T12:05:01.613417+00:00",
   "entries": [
+    {
+      "title": "OpenAI spills technical details about how its AI coding agent works",
+      "source": "Ars Technica",
+      "published": "Mon, 26 Jan 2026 23:05:17 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
     {
       "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
       "source": "Ars Technica",
@@ -120,12 +130,95 @@
       ]
     },
     {
-      "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
-      "source": "Ars Technica",
-      "published": "Thu, 08 Jan 2026 14:00:07 +0000",
-      "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+      "title": "'Ralph Wiggum' loop prompts Claude to vibe-clone commercial software for $10 an hour",
+      "source": "The Register",
+      "published": "Tue, 27 Jan 2026 10:45:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/ralph_wiggum_claude_loops/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Salesforce AI buffet won't stay all-you-can-eat forever",
+      "source": "The Register",
+      "published": "Tue, 27 Jan 2026 09:30:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/salesforce_ai_gartner/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Vibe coding may be hazardous to open source",
+      "source": "The Register",
+      "published": "Mon, 26 Jan 2026 23:51:28 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/vibe_coding_hazardous_open_source/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "How one developer used Claude to build a memory-safe extension of C",
+      "source": "The Register",
+      "published": "Mon, 26 Jan 2026 21:30:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/trapc_claude_c_memory_safe_robin_rowe/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft's Maia 200 promises Blackwell levels of performance for two-thirds the power",
+      "source": "The Register",
+      "published": "Mon, 26 Jan 2026 21:09:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/microsoft_maia_200/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Claude can now disgorge interface elements from other apps",
+      "source": "The Register",
+      "published": "Mon, 26 Jan 2026 19:15:35 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/claude_mcp_apps_arrives/",
+      "matched_keywords": [
+        "Anthropic",
+        "Model"
+      ]
+    },
+    {
+      "title": "AI adoption at work flatlined in Q4, says Gallup",
+      "source": "The Register",
+      "published": "Mon, 26 Jan 2026 17:37:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/workplace_ai_adoption_falls_flat/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Keep it simple, stupid: Agentic AI tools choke on complexity",
+      "source": "The Register",
+      "published": "Mon, 26 Jan 2026 17:16:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/agentic_ai_tools_complecity/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Sandia boffins let three AI agents loose in the lab. Science, not chaos, ensued",
+      "source": "The Register",
+      "published": "Mon, 26 Jan 2026 14:00:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/sandia_ai_agents_feature/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "EU looking into Elon Musk's X after Grok produces deepfake sex images",
+      "source": "The Register",
+      "published": "Mon, 26 Jan 2026 13:17:54 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/ec_open_new_investigation_into/",
+      "matched_keywords": [
+        "model"
       ]
     },
     {
@@ -185,77 +278,12 @@
       ]
     },
     {
-      "title": "Intel puts consumer chip production on back burner as datacenters make a run on Xeons",
-      "source": "The Register",
-      "published": "Fri, 23 Jan 2026 01:41:23 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/intel_earnings_q4_2025/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Former crypto-mining company building 430 MW datacenter in secret location for secret client",
-      "source": "The Register",
-      "published": "Fri, 23 Jan 2026 01:24:03 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/applied_digital_secret_datacenter/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI conference's papers contaminated by AI hallucinations",
-      "source": "The Register",
-      "published": "Thu, 22 Jan 2026 21:52:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/neurips_papers_contaiminated_ai_hallucinations/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Female-dominated careers among most exposed to AI disruption",
-      "source": "The Register",
-      "published": "Thu, 22 Jan 2026 18:56:27 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/female_dominated_careers_ai_disruption/",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "Palantir helps Ukraine train interceptor drone brains",
-      "source": "The Register",
-      "published": "Thu, 22 Jan 2026 17:46:01 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/ukraine_interceptor_drone_palantir/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "PowerShell architect retires after decades at the prompt",
-      "source": "The Register",
-      "published": "Thu, 22 Jan 2026 17:28:34 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/powershell_snover_retires/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Cursor used agents to write a browser, proving AI can write shoddy code at scale",
-      "source": "The Register",
-      "published": "Thu, 22 Jan 2026 16:23:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/cursor_ai_wrote_a_browser/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "LLM-Generated Newspaper Provides Ultimate in Niche Publications",
+      "title": "Keebin\u2019 with Kristina: the One with the Split with the Num Pad",
       "source": "Hackaday",
-      "published": "Mon, 26 Jan 2026 09:00:56 +0000",
-      "link": "https://hackaday.com/2026/01/26/llm-generated-newspaper-provides-ultimate-in-niche-publications/",
+      "published": "Mon, 26 Jan 2026 18:00:53 +0000",
+      "link": "https://hackaday.com/2026/01/26/keebin-with-kristina-the-one-with-the-split-with-the-num-pad/",
       "matched_keywords": [
-        "LLM",
-        "llm"
+        "Model"
       ]
     }
   ]
