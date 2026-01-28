@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T12:05:01.613417+00:00",
+  "last_updated": "2026-01-28T12:05:01.314774+00:00",
   "entries": [
     {
       "title": "OpenAI spills technical details about how its AI coding agent works",
@@ -121,12 +121,98 @@
       ]
     },
     {
-      "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
-      "source": "Ars Technica",
-      "published": "Thu, 08 Jan 2026 18:00:52 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+      "title": "How agentic AI can strain modern memory hierarchies",
+      "source": "The Register",
+      "published": "Wed, 28 Jan 2026 12:00:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/how_agentic_ai_strains_modern_memory_heirarchies/",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Microsoft Azure OpenAI Service takes an unscheduled day off in Sweden",
+      "source": "The Register",
+      "published": "Wed, 28 Jan 2026 10:27:22 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/azure_openai_service_sweden/",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Nudify app proliferation shows naked ambition of Apple and Google",
+      "source": "The Register",
+      "published": "Tue, 27 Jan 2026 21:19:33 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/nudify_app_proliferation_shows_naked/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Penguin in your pocket: Nexphone dual boots into Linux, Windows 11",
+      "source": "The Register",
+      "published": "Tue, 27 Jan 2026 18:57:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/nex_brax_dualboot_fondleslabs/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Clawdbot sheds skin to become Moltbot, can't slough off security issues",
+      "source": "The Register",
+      "published": "Tue, 27 Jan 2026 18:45:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/clawdbot_moltbot_security_concerns/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "European firms push on with AI pilots even as payoff doubts grow",
+      "source": "The Register",
+      "published": "Tue, 27 Jan 2026 18:15:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/emea_ai_idc_lenovo/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Salesforce signs $5.6B deal to inject agentic AI into the US Army",
+      "source": "The Register",
+      "published": "Tue, 27 Jan 2026 17:55:19 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/salesforce_5b_deal_agentic_ai_us_army/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Pope warns flock to raise their faces, protect their voices in fightback against AI",
+      "source": "The Register",
+      "published": "Tue, 27 Jan 2026 16:37:30 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/pope_warns_flock_to_raise/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Watchdog says US weather alerts are getting lost in translation",
+      "source": "The Register",
+      "published": "Tue, 27 Jan 2026 13:40:47 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/nws_gao_ai_translation/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Japan doubles down on Trump's Genesis AI supercomputing effort",
+      "source": "The Register",
+      "published": "Tue, 27 Jan 2026 12:43:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/japan_ai_genesis/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia",
+        "compute"
       ]
     },
     {
@@ -228,62 +314,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/cursor_opinion/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Oracle AI sailed the world on Royal Navy flagship via cloud-at-the-edge kit",
-      "source": "The Register",
-      "published": "Mon, 26 Jan 2026 10:15:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/royal_navy_oracle_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "How an experienced developer teamed up with Claude to create Elo programming language",
-      "source": "The Register",
-      "published": "Sat, 24 Jan 2026 14:14:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/24/human_ai_pair_programming_elo/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Bill Gates-backed startup aims to revive Moore's Law with optical transistors",
-      "source": "The Register",
-      "published": "Sat, 24 Jan 2026 11:30:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/24/neurophos_hopes_to_revive_moores_law/",
-      "matched_keywords": [
-        "compute"
-      ]
-    },
-    {
-      "title": "China\u2019s Deepin Linux gets a slick desktop - and, yes, built-in AI",
-      "source": "The Register",
-      "published": "Fri, 23 Jan 2026 18:13:48 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/deepin_25010/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI-powered cyberattack kits are 'just a matter of time,' warns Google exec",
-      "source": "The Register",
-      "published": "Fri, 23 Jan 2026 17:10:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/ai_cyberattack_google_security/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Keebin\u2019 with Kristina: the One with the Split with the Num Pad",
-      "source": "Hackaday",
-      "published": "Mon, 26 Jan 2026 18:00:53 +0000",
-      "link": "https://hackaday.com/2026/01/26/keebin-with-kristina-the-one-with-the-split-with-the-num-pad/",
-      "matched_keywords": [
-        "Model"
       ]
     }
   ]
