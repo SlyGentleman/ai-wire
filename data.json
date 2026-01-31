@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-01-28T12:05:01.314774+00:00",
+  "last_updated": "2026-01-31T12:05:01.391296+00:00",
   "entries": [
+    {
+      "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
+      "source": "Ars Technica",
+      "published": "Fri, 30 Jan 2026 22:12:26 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Developers say AI coding tools work\u2014and that's precisely what worries them",
+      "source": "Ars Technica",
+      "published": "Fri, 30 Jan 2026 19:04:15 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+      "source": "Ars Technica",
+      "published": "Thu, 29 Jan 2026 15:19:56 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
+      "source": "Ars Technica",
+      "published": "Wed, 28 Jan 2026 17:21:29 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
+      "source": "Ars Technica",
+      "published": "Wed, 28 Jan 2026 12:30:44 +0000",
+      "link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "OpenAI spills technical details about how its AI coding agent works",
       "source": "Ars Technica",
@@ -75,243 +122,246 @@
       ]
     },
     {
-      "title": "Bandcamp bans purely AI-generated music from its platform",
-      "source": "Ars Technica",
-      "published": "Wed, 14 Jan 2026 17:46:19 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/",
+      "title": "'Hey! I\u2019m chatting here!\u2019 Fugazi answers doom NYC\u2019s AI bot",
+      "source": "The Register",
+      "published": "Fri, 30 Jan 2026 21:58:31 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/nyc_bot_fugazi_doom/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "The RAM shortage\u2019s silver lining: Less talk about \u201cAI PCs\u201d",
-      "source": "Ars Technica",
-      "published": "Tue, 13 Jan 2026 22:34:41 +0000",
-      "link": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Hegseth wants to integrate Musk\u2019s Grok AI into military networks this month",
-      "source": "Ars Technica",
-      "published": "Tue, 13 Jan 2026 21:13:07 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft vows to cover full power costs for energy-hungry AI data centers",
-      "source": "Ars Technica",
-      "published": "Tue, 13 Jan 2026 20:05:14 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/microsoft-vows-to-cover-full-power-costs-for-energy-hungry-ai-data-centers/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google removes some AI health summaries after investigation finds \u201cdangerous\u201d flaws",
-      "source": "Ars Technica",
-      "published": "Mon, 12 Jan 2026 21:47:32 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+      "title": "Ex-Googler nailed for stealing AI secrets for Chinese startups",
+      "source": "The Register",
+      "published": "Fri, 30 Jan 2026 21:26:51 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/google_engineer_convicted_ai_secrets_china/",
       "matched_keywords": [
         "AI",
         "Google"
       ]
     },
     {
-      "title": "How agentic AI can strain modern memory hierarchies",
+      "title": "Feeling taxed by layoffs, IRS turns to AI helpers",
       "source": "The Register",
-      "published": "Wed, 28 Jan 2026 12:00:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/how_agentic_ai_strains_modern_memory_heirarchies/",
+      "published": "Fri, 30 Jan 2026 18:01:30 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/irs_ai_helpers/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Backblaze says AI traffic and neoclouds could shape future networks",
+      "source": "The Register",
+      "published": "Fri, 30 Jan 2026 16:38:48 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/backblaze_ai_traffic_bandwidth/",
       "matched_keywords": [
         "AI",
         "model"
       ]
     },
     {
-      "title": "Microsoft Azure OpenAI Service takes an unscheduled day off in Sweden",
+      "title": "Autonomous cars, drones cheerfully obey prompt injection by road sign",
       "source": "The Register",
-      "published": "Wed, 28 Jan 2026 10:27:22 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/azure_openai_service_sweden/",
+      "published": "Fri, 30 Jan 2026 14:27:43 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/road_sign_hijack_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Want digital sovereignty? That'll be 1% of your GDP into AI infrastructure please",
+      "source": "The Register",
+      "published": "Fri, 30 Jan 2026 13:42:46 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/1pc_gdp_ai_gartner/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI gives ChatGPT models the chop \u2013 two weeks' notice, take it or leave it",
+      "source": "The Register",
+      "published": "Fri, 30 Jan 2026 12:59:53 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/openai_gpt_deprecations/",
       "matched_keywords": [
         "OpenAI"
       ]
     },
     {
-      "title": "Nudify app proliferation shows naked ambition of Apple and Google",
+      "title": "Deciphering the alphabet soup of agentic AI protocols",
       "source": "The Register",
-      "published": "Tue, 27 Jan 2026 21:19:33 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/nudify_app_proliferation_shows_naked/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Penguin in your pocket: Nexphone dual boots into Linux, Windows 11",
-      "source": "The Register",
-      "published": "Tue, 27 Jan 2026 18:57:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/nex_brax_dualboot_fondleslabs/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Clawdbot sheds skin to become Moltbot, can't slough off security issues",
-      "source": "The Register",
-      "published": "Tue, 27 Jan 2026 18:45:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/clawdbot_moltbot_security_concerns/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "European firms push on with AI pilots even as payoff doubts grow",
-      "source": "The Register",
-      "published": "Tue, 27 Jan 2026 18:15:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/emea_ai_idc_lenovo/",
+      "published": "Fri, 30 Jan 2026 07:00:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/agnetic_ai_protocols_mcp_utcp_a2a_etc/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Salesforce signs $5.6B deal to inject agentic AI into the US Army",
+      "title": "Musk distracts from struggling car biz with fantastical promise to make 1 million humanoid robots a year",
       "source": "The Register",
-      "published": "Tue, 27 Jan 2026 17:55:19 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/salesforce_5b_deal_agentic_ai_us_army/",
+      "published": "Thu, 29 Jan 2026 21:25:52 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/truth_telling_man_always_tells_truth/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Pope warns flock to raise their faces, protect their voices in fightback against AI",
-      "source": "The Register",
-      "published": "Tue, 27 Jan 2026 16:37:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/pope_warns_flock_to_raise/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Watchdog says US weather alerts are getting lost in translation",
-      "source": "The Register",
-      "published": "Tue, 27 Jan 2026 13:40:47 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/nws_gao_ai_translation/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Japan doubles down on Trump's Genesis AI supercomputing effort",
-      "source": "The Register",
-      "published": "Tue, 27 Jan 2026 12:43:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/japan_ai_genesis/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia",
         "compute"
       ]
     },
     {
-      "title": "'Ralph Wiggum' loop prompts Claude to vibe-clone commercial software for $10 an hour",
+      "title": "Google's Project Genie could put even more game developers out of work",
       "source": "The Register",
-      "published": "Tue, 27 Jan 2026 10:45:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/ralph_wiggum_claude_loops/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Salesforce AI buffet won't stay all-you-can-eat forever",
-      "source": "The Register",
-      "published": "Tue, 27 Jan 2026 09:30:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/salesforce_ai_gartner/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Vibe coding may be hazardous to open source",
-      "source": "The Register",
-      "published": "Mon, 26 Jan 2026 23:51:28 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/vibe_coding_hazardous_open_source/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "How one developer used Claude to build a memory-safe extension of C",
-      "source": "The Register",
-      "published": "Mon, 26 Jan 2026 21:30:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/trapc_claude_c_memory_safe_robin_rowe/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft's Maia 200 promises Blackwell levels of performance for two-thirds the power",
-      "source": "The Register",
-      "published": "Mon, 26 Jan 2026 21:09:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/microsoft_maia_200/",
+      "published": "Thu, 29 Jan 2026 21:20:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/googles_project_genie_ai/",
       "matched_keywords": [
         "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Claude can now disgorge interface elements from other apps",
-      "source": "The Register",
-      "published": "Mon, 26 Jan 2026 19:15:35 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/claude_mcp_apps_arrives/",
-      "matched_keywords": [
-        "Anthropic",
-        "Model"
-      ]
-    },
-    {
-      "title": "AI adoption at work flatlined in Q4, says Gallup",
-      "source": "The Register",
-      "published": "Mon, 26 Jan 2026 17:37:00 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/workplace_ai_adoption_falls_flat/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Keep it simple, stupid: Agentic AI tools choke on complexity",
-      "source": "The Register",
-      "published": "Mon, 26 Jan 2026 17:16:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/agentic_ai_tools_complecity/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Sandia boffins let three AI agents loose in the lab. Science, not chaos, ensued",
-      "source": "The Register",
-      "published": "Mon, 26 Jan 2026 14:00:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/sandia_ai_agents_feature/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "EU looking into Elon Musk's X after Grok produces deepfake sex images",
-      "source": "The Register",
-      "published": "Mon, 26 Jan 2026 13:17:54 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/ec_open_new_investigation_into/",
-      "matched_keywords": [
+        "Google",
         "model"
       ]
     },
     {
-      "title": "When AI 'builds a browser,' check the repo before believing the hype",
+      "title": "Agents gone wild! Companies give untrustworthy bots keys to the kingdom",
       "source": "The Register",
-      "published": "Mon, 26 Jan 2026 12:01:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/cursor_opinion/",
+      "published": "Thu, 29 Jan 2026 18:31:37 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/ai_agent_identity_security/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Dow Chemical says AI is the element behind 4,500 job cuts",
+      "source": "The Register",
+      "published": "Thu, 29 Jan 2026 18:23:32 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/dow_chemical_ai_layoffs/",
+      "matched_keywords": [
+        "AI",
+        "ai"
+      ]
+    },
+    {
+      "title": "AI datacenter boom triples US gas power builds, filling the air with more CO2",
+      "source": "The Register",
+      "published": "Thu, 29 Jan 2026 17:39:55 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/ai_datacenter_boom_tripled_us_gas_power_builds/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "To stop crims, Google starts dismantling residential proxy network they use to hide",
+      "source": "The Register",
+      "published": "Thu, 29 Jan 2026 17:00:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/google_ipidea_crime_network/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "IBM says AI is insane in the mainframe as z17 sales surge",
+      "source": "The Register",
+      "published": "Thu, 29 Jan 2026 15:43:22 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/ibm_q4_2025/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Banker claims Oracle may slash up to 30,000 jobs, sell health unit to pay for AI build-out",
+      "source": "The Register",
+      "published": "Thu, 29 Jan 2026 14:18:41 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/oracle_td_cowen_note/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Meta to pour the GDP of Kenya into AI infrastructure push in 2026",
+      "source": "The Register",
+      "published": "Thu, 29 Jan 2026 13:21:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/meta_2026_infrastructure_spend/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Latest Vivaldi release surfs a wave of anti-AI sentiment",
+      "source": "The Register",
+      "published": "Thu, 29 Jan 2026 12:18:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/vivaldi_release_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Irony alert: Anthropic helps UK.gov to build chatbot for job seekers",
+      "source": "The Register",
+      "published": "Thu, 29 Jan 2026 10:11:40 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/irony_alert_anthropic_helps_ukgov/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "title": "Microsoft investors sweat cloud giant's OpenAI exposure",
+      "source": "The Register",
+      "published": "Thu, 29 Jan 2026 02:37:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/microsoft_earnings_q2_2026/",
+      "matched_keywords": [
+        "GPU",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Google to foist Gemini pane on Chrome users in automated browsing push",
+      "source": "The Register",
+      "published": "Thu, 29 Jan 2026 00:34:18 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/chrome_gemini_pane/",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "model"
+      ]
+    },
+    {
+      "title": "ServiceNow boasts about years of sweat equity that went into making its AI agents smarter",
+      "source": "The Register",
+      "published": "Wed, 28 Jan 2026 22:40:37 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/servicenow_ai_agents/",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Claude Code's prying AIs read off-limits secret files",
+      "source": "The Register",
+      "published": "Wed, 28 Jan 2026 20:42:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/claude_code_ai_secrets_files/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Microsoft plans more server farms, despite water worries",
+      "source": "The Register",
+      "published": "Wed, 28 Jan 2026 18:30:52 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/microsoft_more_server_farms/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Yes, you can build an AI agent - here\u2019s how, using LangFlow",
+      "source": "The Register",
+      "published": "Wed, 28 Jan 2026 16:59:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/a_beginners_guide_to_ai_agents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Surviving the RAM Price Squeeze With Linux In-Kernel Memory Compression",
+      "source": "Hackaday",
+      "published": "Sat, 31 Jan 2026 09:00:06 +0000",
+      "link": "https://hackaday.com/2026/01/31/surviving-the-ram-price-squeeze-with-linux-in-kernel-memory-compression/",
       "matched_keywords": [
         "AI"
       ]
