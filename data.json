@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T12:05:01.391296+00:00",
+  "last_updated": "2026-02-01T12:05:01.382790+00:00",
   "entries": [
     {
       "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
@@ -119,6 +119,16 @@
       "link": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "NASA taps Claude to conjure Mars rover's travel plan",
+      "source": "The Register",
+      "published": "Sat, 31 Jan 2026 13:13:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/31/nasa_taps_claude_to_conjure/",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
       ]
     },
     {
@@ -337,33 +347,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/claude_code_ai_secrets_files/",
       "matched_keywords": [
         "Anthropic"
-      ]
-    },
-    {
-      "title": "Microsoft plans more server farms, despite water worries",
-      "source": "The Register",
-      "published": "Wed, 28 Jan 2026 18:30:52 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/microsoft_more_server_farms/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Yes, you can build an AI agent - here\u2019s how, using LangFlow",
-      "source": "The Register",
-      "published": "Wed, 28 Jan 2026 16:59:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/a_beginners_guide_to_ai_agents/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Surviving the RAM Price Squeeze With Linux In-Kernel Memory Compression",
-      "source": "Hackaday",
-      "published": "Sat, 31 Jan 2026 09:00:06 +0000",
-      "link": "https://hackaday.com/2026/01/31/surviving-the-ram-price-squeeze-with-linux-in-kernel-memory-compression/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
