@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T12:05:01.382790+00:00",
+  "last_updated": "2026-02-02T12:05:01.791971+00:00",
   "entries": [
     {
       "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
@@ -122,6 +122,33 @@
       ]
     },
     {
+      "title": "India dangles 20-year tax holiday for clouds that serve offshore users",
+      "source": "The Register",
+      "published": "Mon, 02 Feb 2026 01:12:24 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/asia_tech_news_roundup/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Open-source AI is a global security nightmare waiting to happen, say researchers",
+      "source": "The Register",
+      "published": "Sun, 01 Feb 2026 23:40:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/01/opensource_ai_is_a_global/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI security startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues.",
+      "source": "The Register",
+      "published": "Sun, 01 Feb 2026 14:14:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "NASA taps Claude to conjure Mars rover's travel plan",
       "source": "The Register",
       "published": "Sat, 31 Jan 2026 13:13:05 GMT",
@@ -132,7 +159,7 @@
       ]
     },
     {
-      "title": "'Hey! I\u2019m chatting here!\u2019 Fugazi answers doom NYC\u2019s AI bot",
+      "title": "'Hey! I'm chatting here!' Fugazi answers doom NYC's AI bot",
       "source": "The Register",
       "published": "Fri, 30 Jan 2026 21:58:31 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/nyc_bot_fugazi_doom/",
@@ -296,57 +323,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/vivaldi_release_ai/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Irony alert: Anthropic helps UK.gov to build chatbot for job seekers",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 10:11:40 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/irony_alert_anthropic_helps_ukgov/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "artificial intelligence"
-      ]
-    },
-    {
-      "title": "Microsoft investors sweat cloud giant's OpenAI exposure",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 02:37:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/microsoft_earnings_q2_2026/",
-      "matched_keywords": [
-        "GPU",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Google to foist Gemini pane on Chrome users in automated browsing push",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 00:34:18 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/chrome_gemini_pane/",
-      "matched_keywords": [
-        "AI",
-        "Google",
-        "model"
-      ]
-    },
-    {
-      "title": "ServiceNow boasts about years of sweat equity that went into making its AI agents smarter",
-      "source": "The Register",
-      "published": "Wed, 28 Jan 2026 22:40:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/servicenow_ai_agents/",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Claude Code's prying AIs read off-limits secret files",
-      "source": "The Register",
-      "published": "Wed, 28 Jan 2026 20:42:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/claude_code_ai_secrets_files/",
-      "matched_keywords": [
-        "Anthropic"
       ]
     }
   ]
