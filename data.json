@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T12:05:01.791971+00:00",
+  "last_updated": "2026-02-03T12:05:01.474668+00:00",
   "entries": [
     {
       "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
@@ -113,10 +113,75 @@
       ]
     },
     {
-      "title": "Wikipedia signs major AI firms to new priority data access deals",
-      "source": "Ars Technica",
-      "published": "Thu, 15 Jan 2026 15:25:52 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/",
+      "title": "Firefox makes AI optional, like it probably should have been all along",
+      "source": "The Register",
+      "published": "Tue, 03 Feb 2026 11:08:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/firefox_ai_kill_switch/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "DIY AI bot farm OpenClaw is a security 'dumpster fire'",
+      "source": "The Register",
+      "published": "Tue, 03 Feb 2026 10:14:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/openclaw_security_problems/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "South Korea enlists AI to spot pump and dump schemes on social media, or in Spam",
+      "source": "The Register",
+      "published": "Tue, 03 Feb 2026 04:42:37 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/south_korea_ai_stock_fraud/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Elon Musk merges xAI into SpaceX to spread universal consciousness via a sentient sun",
+      "source": "The Register",
+      "published": "Tue, 03 Feb 2026 01:02:44 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/musk_spacex_xai_merge_hallucination_burning_man/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "DRAM prices expected to double in Q1 as AI ambitions push memory fabs to their limit",
+      "source": "The Register",
+      "published": "Mon, 02 Feb 2026 19:32:59 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/dram_prices_expected_to_double/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Oracle's first general on-prem release of its .ai database iteration draws skeptics",
+      "source": "The Register",
+      "published": "Mon, 02 Feb 2026 17:47:56 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/oracles_on_prem_ai_database/",
+      "matched_keywords": [
+        "AI",
+        "ai"
+      ]
+    },
+    {
+      "title": "Snowflake bets $200M that OpenAI makes databases more chatty",
+      "source": "The Register",
+      "published": "Mon, 02 Feb 2026 16:09:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/snowflake_200m_openai/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Microsoft spends billions on AI, converts just 3.3% of Copilot Chat users",
+      "source": "The Register",
+      "published": "Mon, 02 Feb 2026 14:01:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/microsoft_ai_spend_copilot/",
       "matched_keywords": [
         "AI"
       ]
@@ -224,105 +289,13 @@
       ]
     },
     {
-      "title": "Deciphering the alphabet soup of agentic AI protocols",
-      "source": "The Register",
-      "published": "Fri, 30 Jan 2026 07:00:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/agnetic_ai_protocols_mcp_utcp_a2a_etc/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Musk distracts from struggling car biz with fantastical promise to make 1 million humanoid robots a year",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 21:25:52 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/truth_telling_man_always_tells_truth/",
-      "matched_keywords": [
-        "compute"
-      ]
-    },
-    {
-      "title": "Google's Project Genie could put even more game developers out of work",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 21:20:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/googles_project_genie_ai/",
-      "matched_keywords": [
-        "AI",
-        "Google",
-        "model"
-      ]
-    },
-    {
-      "title": "Agents gone wild! Companies give untrustworthy bots keys to the kingdom",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 18:31:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/ai_agent_identity_security/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Dow Chemical says AI is the element behind 4,500 job cuts",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 18:23:32 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/dow_chemical_ai_layoffs/",
+      "title": "[Yang-Hui He] Presents to The Royal Institution About AI and Mathematics",
+      "source": "Hackaday",
+      "published": "Tue, 03 Feb 2026 06:00:17 +0000",
+      "link": "https://hackaday.com/2026/02/02/yang-hui-he-presents-to-the-royal-institution-about-ai-and-mathematics/",
       "matched_keywords": [
         "AI",
         "ai"
-      ]
-    },
-    {
-      "title": "AI datacenter boom triples US gas power builds, filling the air with more CO2",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 17:39:55 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/ai_datacenter_boom_tripled_us_gas_power_builds/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "To stop crims, Google starts dismantling residential proxy network they use to hide",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 17:00:00 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/google_ipidea_crime_network/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "IBM says AI is insane in the mainframe as z17 sales surge",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 15:43:22 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/ibm_q4_2025/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Banker claims Oracle may slash up to 30,000 jobs, sell health unit to pay for AI build-out",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 14:18:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/oracle_td_cowen_note/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Meta to pour the GDP of Kenya into AI infrastructure push in 2026",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 13:21:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/meta_2026_infrastructure_spend/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Latest Vivaldi release surfs a wave of anti-AI sentiment",
-      "source": "The Register",
-      "published": "Thu, 29 Jan 2026 12:18:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/vivaldi_release_ai/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
