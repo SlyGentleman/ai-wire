@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-02-03T12:05:01.474668+00:00",
+  "last_updated": "2026-02-04T12:05:02.125324+00:00",
   "entries": [
+    {
+      "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
+      "source": "Ars Technica",
+      "published": "Tue, 03 Feb 2026 22:44:15 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
+      "source": "Ars Technica",
+      "published": "Tue, 03 Feb 2026 12:00:01 +0000",
+      "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
       "source": "Ars Technica",
@@ -104,10 +124,64 @@
       ]
     },
     {
-      "title": "TSMC says AI demand is \u201cendless\u201d after record Q4 earnings",
-      "source": "Ars Technica",
-      "published": "Fri, 16 Jan 2026 16:55:08 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
+      "title": "Clouds rush to deliver OpenClaw-as-a-service offerings",
+      "source": "The Register",
+      "published": "Wed, 04 Feb 2026 05:28:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/cloud_hosted_openclaw/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "For once, Supermicro has dodged drama and just delivered datacenters",
+      "source": "The Register",
+      "published": "Wed, 04 Feb 2026 02:52:40 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/for_once_supermicro_has_dodged/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Too much AI for some, too little for others: Why AMD can't win with investors",
+      "source": "The Register",
+      "published": "Wed, 04 Feb 2026 02:11:57 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/amd_q4_fy_2025/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI agents can't yet pull off fully autonomous cyberattacks \u2013 but they are already very helpful to crims",
+      "source": "The Register",
+      "published": "Tue, 03 Feb 2026 23:57:55 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/autonomous_cyberattacks_not_real_yet/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "GitHub ponders kill switch for pull requests to stop AI slop",
+      "source": "The Register",
+      "published": "Tue, 03 Feb 2026 20:32:23 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/github_kill_switch_pull_requests_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Snowflake plugs PostgreSQL into its AI Data Cloud",
+      "source": "The Register",
+      "published": "Tue, 03 Feb 2026 18:06:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/snowflake_postgresql_ai_data/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK names Barnsley as first Tech Town to see whether AI can fix... well, anything",
+      "source": "The Register",
+      "published": "Tue, 03 Feb 2026 12:25:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/barnsley_ai_town/",
       "matched_keywords": [
         "AI"
       ]
@@ -184,118 +258,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/microsoft_ai_spend_copilot/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "India dangles 20-year tax holiday for clouds that serve offshore users",
-      "source": "The Register",
-      "published": "Mon, 02 Feb 2026 01:12:24 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/asia_tech_news_roundup/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Open-source AI is a global security nightmare waiting to happen, say researchers",
-      "source": "The Register",
-      "published": "Sun, 01 Feb 2026 23:40:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/01/opensource_ai_is_a_global/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI security startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues.",
-      "source": "The Register",
-      "published": "Sun, 01 Feb 2026 14:14:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "NASA taps Claude to conjure Mars rover's travel plan",
-      "source": "The Register",
-      "published": "Sat, 31 Jan 2026 13:13:05 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/31/nasa_taps_claude_to_conjure/",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "'Hey! I'm chatting here!' Fugazi answers doom NYC's AI bot",
-      "source": "The Register",
-      "published": "Fri, 30 Jan 2026 21:58:31 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/nyc_bot_fugazi_doom/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ex-Googler nailed for stealing AI secrets for Chinese startups",
-      "source": "The Register",
-      "published": "Fri, 30 Jan 2026 21:26:51 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/google_engineer_convicted_ai_secrets_china/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Feeling taxed by layoffs, IRS turns to AI helpers",
-      "source": "The Register",
-      "published": "Fri, 30 Jan 2026 18:01:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/irs_ai_helpers/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Backblaze says AI traffic and neoclouds could shape future networks",
-      "source": "The Register",
-      "published": "Fri, 30 Jan 2026 16:38:48 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/backblaze_ai_traffic_bandwidth/",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Autonomous cars, drones cheerfully obey prompt injection by road sign",
-      "source": "The Register",
-      "published": "Fri, 30 Jan 2026 14:27:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/road_sign_hijack_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Want digital sovereignty? That'll be 1% of your GDP into AI infrastructure please",
-      "source": "The Register",
-      "published": "Fri, 30 Jan 2026 13:42:46 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/1pc_gdp_ai_gartner/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI gives ChatGPT models the chop \u2013 two weeks' notice, take it or leave it",
-      "source": "The Register",
-      "published": "Fri, 30 Jan 2026 12:59:53 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/openai_gpt_deprecations/",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "[Yang-Hui He] Presents to The Royal Institution About AI and Mathematics",
-      "source": "Hackaday",
-      "published": "Tue, 03 Feb 2026 06:00:17 +0000",
-      "link": "https://hackaday.com/2026/02/02/yang-hui-he-presents-to-the-royal-institution-about-ai-and-mathematics/",
-      "matched_keywords": [
-        "AI",
-        "ai"
       ]
     }
   ]
