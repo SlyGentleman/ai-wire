@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-02-04T12:05:02.125324+00:00",
+  "last_updated": "2026-02-05T12:05:01.177853+00:00",
   "entries": [
+    {
+      "title": "Should AI chatbots have ads? Anthropic says no.",
+      "source": "Ars Technica",
+      "published": "Wed, 04 Feb 2026 21:15:07 +0000",
+      "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
     {
       "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
       "source": "Ars Technica",
@@ -106,21 +116,128 @@
       ]
     },
     {
-      "title": "10 things I learned from burning myself out with AI coding agents",
-      "source": "Ars Technica",
-      "published": "Mon, 19 Jan 2026 12:00:45 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
+      "title": "n8n security woes roll on as new critical flaws bypass December fix",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 11:38:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/n8n_security_woes_roll_on/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "OpenAI to test ads in ChatGPT as it burns through billions",
-      "source": "Ars Technica",
-      "published": "Fri, 16 Jan 2026 21:20:03 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
+      "title": "Britain courts private cash to fund 'golden age' of nuclear-powered AI",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 09:30:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/uk_private_finance_smr/",
       "matched_keywords": [
-        "OpenAI"
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Three clues that your LLM may be poisoned with a sleeper-agent back door",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 07:32:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/llm_poisoned_how_to_tell/",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Satya Nadella decides Microsoft needs an engineering quality czar",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 05:46:17 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_appoints_quality_chief/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "AI\u2019s lust for memory drags down the smartphone industry, and Qualcomm with it",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 04:21:31 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/qualcomm_q1_2026/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "It's bubble or nothing for Google as search giant looks to plow ~$180B into datacenters this year",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 01:32:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/alphabet_google_q4_2025/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Bots are taking over the internet and AI users are to blame",
+      "source": "The Register",
+      "published": "Wed, 04 Feb 2026 22:55:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/ai_bot_traffic_web_browsers/",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Positron: we don\u2019t need no fancy HBM to compete with Nvidia\u2019s Rubin",
+      "source": "The Register",
+      "published": "Wed, 04 Feb 2026 22:06:19 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/positron_hbm_no_need/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "AWS intruder achieved admin access in under 10 minutes thanks to AI assist, researchers say",
+      "source": "The Register",
+      "published": "Wed, 04 Feb 2026 21:09:42 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/aws_cloud_breakin_ai_assist/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic cements its position as the not-OpenAI with no-ads pledge",
+      "source": "The Register",
+      "published": "Wed, 04 Feb 2026 20:37:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/anthropic_no_advertising_in_claude/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Rise of AI means companies could pass on SaaS",
+      "source": "The Register",
+      "published": "Wed, 04 Feb 2026 18:00:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/ai_replace_saas/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "US Army looks for robots that can clean up chemical and bioweapons messes",
+      "source": "The Register",
+      "published": "Wed, 04 Feb 2026 17:16:59 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/army_bots_cleanup_ai_biological_chemical/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft actually does something useful, adds Sysmon to Windows",
+      "source": "The Register",
+      "published": "Wed, 04 Feb 2026 13:33:28 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/microsoft_adds_sysmon_to_windows/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -178,86 +295,12 @@
       ]
     },
     {
-      "title": "UK names Barnsley as first Tech Town to see whether AI can fix... well, anything",
-      "source": "The Register",
-      "published": "Tue, 03 Feb 2026 12:25:05 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/barnsley_ai_town/",
+      "title": "Keebin\u2019 with Kristina: the One with the RollerMouse Keyboard",
+      "source": "Hackaday",
+      "published": "Wed, 04 Feb 2026 18:00:55 +0000",
+      "link": "https://hackaday.com/2026/02/04/keebin-with-kristina-the-one-with-the-rollermouse-keyboard/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Firefox makes AI optional, like it probably should have been all along",
-      "source": "The Register",
-      "published": "Tue, 03 Feb 2026 11:08:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/firefox_ai_kill_switch/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "DIY AI bot farm OpenClaw is a security 'dumpster fire'",
-      "source": "The Register",
-      "published": "Tue, 03 Feb 2026 10:14:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/openclaw_security_problems/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "South Korea enlists AI to spot pump and dump schemes on social media, or in Spam",
-      "source": "The Register",
-      "published": "Tue, 03 Feb 2026 04:42:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/south_korea_ai_stock_fraud/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Elon Musk merges xAI into SpaceX to spread universal consciousness via a sentient sun",
-      "source": "The Register",
-      "published": "Tue, 03 Feb 2026 01:02:44 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/musk_spacex_xai_merge_hallucination_burning_man/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "DRAM prices expected to double in Q1 as AI ambitions push memory fabs to their limit",
-      "source": "The Register",
-      "published": "Mon, 02 Feb 2026 19:32:59 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/dram_prices_expected_to_double/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Oracle's first general on-prem release of its .ai database iteration draws skeptics",
-      "source": "The Register",
-      "published": "Mon, 02 Feb 2026 17:47:56 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/oracles_on_prem_ai_database/",
-      "matched_keywords": [
-        "AI",
-        "ai"
-      ]
-    },
-    {
-      "title": "Snowflake bets $200M that OpenAI makes databases more chatty",
-      "source": "The Register",
-      "published": "Mon, 02 Feb 2026 16:09:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/snowflake_200m_openai/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Microsoft spends billions on AI, converts just 3.3% of Copilot Chat users",
-      "source": "The Register",
-      "published": "Mon, 02 Feb 2026 14:01:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/microsoft_ai_spend_copilot/",
-      "matched_keywords": [
-        "AI"
+        "Model"
       ]
     }
   ]
