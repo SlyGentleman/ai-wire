@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-02-05T12:05:01.177853+00:00",
+  "last_updated": "2026-02-06T12:05:02.088536+00:00",
   "entries": [
+    {
+      "title": "AI companies want you to stop chatting with bots and start managing them",
+      "source": "Ars Technica",
+      "published": "Thu, 05 Feb 2026 22:47:54 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+      "source": "Ars Technica",
+      "published": "Thu, 05 Feb 2026 17:46:59 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Increase of AI bots on the Internet sparks arms race",
+      "source": "Ars Technica",
+      "published": "Thu, 05 Feb 2026 14:21:20 +0000",
+      "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Should AI chatbots have ads? Anthropic says no.",
       "source": "Ars Technica",
@@ -98,19 +128,97 @@
       ]
     },
     {
-      "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
-      "source": "Ars Technica",
-      "published": "Thu, 22 Jan 2026 15:56:33 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
+      "title": "Romanian rail workers accused of bribery turned to ChatGPT for legal tips",
+      "source": "The Register",
+      "published": "Fri, 06 Feb 2026 11:39:43 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/romanian_rail_workers_chatgpt/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
-      "source": "Ars Technica",
-      "published": "Wed, 21 Jan 2026 12:15:23 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+      "title": "DWP considers chatbot work coaches as AI-fueled job losses loom",
+      "source": "The Register",
+      "published": "Fri, 06 Feb 2026 10:53:59 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/dwp_chatbot_testing/",
+      "matched_keywords": [
+        "AI",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "title": "Atlassian swears it can handle AI without blowing out costs, or being swamped",
+      "source": "The Register",
+      "published": "Fri, 06 Feb 2026 03:45:26 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/atlassian_q2_2026/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Amazon can't build AI capacity fast enough, throws another $200B at the problem",
+      "source": "The Register",
+      "published": "Fri, 06 Feb 2026 02:13:16 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/amazon_earnings_q4_2025/",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "OpenAI chases business bucks with confusingly named Frontier platform",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 20:20:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/openai_debuts_frontier_platform/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Anthropic apes OpenAI with cheeky chatbot commercials",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 18:31:43 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/anthropic_superbowl_openai_chatgpt_ads/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Microsoft declares 'reliability' a priority for Visual Studio AI",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 16:16:28 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_visual_studio_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK's 'world-first' deepfake detection framework unlikely to stop the fakes, says expert",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 14:38:44 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/uk_government_deepfake_framework/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft sets Copilot agents loose on your OneDrive files",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 14:15:53 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_onedrive_agents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Curse of AI to push up PC prices as memory and CPU shortages bite",
+      "source": "The Register",
+      "published": "Thu, 05 Feb 2026 13:14:52 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/pc_prices_rising/",
       "matched_keywords": [
         "AI"
       ]
@@ -238,69 +346,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/microsoft_adds_sysmon_to_windows/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Clouds rush to deliver OpenClaw-as-a-service offerings",
-      "source": "The Register",
-      "published": "Wed, 04 Feb 2026 05:28:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/cloud_hosted_openclaw/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "For once, Supermicro has dodged drama and just delivered datacenters",
-      "source": "The Register",
-      "published": "Wed, 04 Feb 2026 02:52:40 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/for_once_supermicro_has_dodged/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Too much AI for some, too little for others: Why AMD can't win with investors",
-      "source": "The Register",
-      "published": "Wed, 04 Feb 2026 02:11:57 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/amd_q4_fy_2025/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI agents can't yet pull off fully autonomous cyberattacks \u2013 but they are already very helpful to crims",
-      "source": "The Register",
-      "published": "Tue, 03 Feb 2026 23:57:55 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/autonomous_cyberattacks_not_real_yet/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "GitHub ponders kill switch for pull requests to stop AI slop",
-      "source": "The Register",
-      "published": "Tue, 03 Feb 2026 20:32:23 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/github_kill_switch_pull_requests_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Snowflake plugs PostgreSQL into its AI Data Cloud",
-      "source": "The Register",
-      "published": "Tue, 03 Feb 2026 18:06:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/snowflake_postgresql_ai_data/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Keebin\u2019 with Kristina: the One with the RollerMouse Keyboard",
-      "source": "Hackaday",
-      "published": "Wed, 04 Feb 2026 18:00:55 +0000",
-      "link": "https://hackaday.com/2026/02/04/keebin-with-kristina-the-one-with-the-rollermouse-keyboard/",
-      "matched_keywords": [
-        "Model"
       ]
     }
   ]
