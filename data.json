@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-02-06T12:05:02.088536+00:00",
+  "last_updated": "2026-02-07T12:05:01.712652+00:00",
   "entries": [
+    {
+      "title": "Sixteen Claude AI agents working together created a new C compiler",
+      "source": "Ars Technica",
+      "published": "Fri, 06 Feb 2026 23:40:58 +0000",
+      "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "AI companies want you to stop chatting with bots and start managing them",
       "source": "Ars Technica",
@@ -119,12 +128,32 @@
       ]
     },
     {
-      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
-      "source": "Ars Technica",
-      "published": "Thu, 22 Jan 2026 22:46:30 +0000",
-      "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+      "title": "AI video company arouses fury by boasting about replacing creative jobs",
+      "source": "The Register",
+      "published": "Fri, 06 Feb 2026 21:45:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/higgsfield_ai_job_loss/",
+      "matched_keywords": [
+        "AI",
+        "ai"
+      ]
+    },
+    {
+      "title": "Let there be light! DARPA seeking physics-defying photonic computers to supercharge AI",
+      "source": "The Register",
+      "published": "Fri, 06 Feb 2026 18:34:03 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/darpa_seeking_physicsdefying_photonic_computers/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Four horsemen of the AI-pocalypse line up capex bigger than Israel's GDP",
+      "source": "The Register",
+      "published": "Fri, 06 Feb 2026 17:44:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/ai_capex_plans/",
+      "matched_keywords": [
+        "AI",
+        "Google"
       ]
     },
     {
@@ -319,33 +348,6 @@
         "Anthropic",
         "OpenAI",
         "model"
-      ]
-    },
-    {
-      "title": "Rise of AI means companies could pass on SaaS",
-      "source": "The Register",
-      "published": "Wed, 04 Feb 2026 18:00:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/ai_replace_saas/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "US Army looks for robots that can clean up chemical and bioweapons messes",
-      "source": "The Register",
-      "published": "Wed, 04 Feb 2026 17:16:59 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/army_bots_cleanup_ai_biological_chemical/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft actually does something useful, adds Sysmon to Windows",
-      "source": "The Register",
-      "published": "Wed, 04 Feb 2026 13:33:28 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/microsoft_adds_sysmon_to_windows/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
