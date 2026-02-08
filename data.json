@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T12:05:01.712652+00:00",
+  "last_updated": "2026-02-08T12:05:01.553772+00:00",
   "entries": [
     {
       "title": "Sixteen Claude AI agents working together created a new C compiler",
@@ -125,6 +125,25 @@
       "matched_keywords": [
         "AI",
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Machine learning could yield faster, cheaper lithium-ion battery development",
+      "source": "The Register",
+      "published": "Sun, 08 Feb 2026 09:25:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/08/machine_learning_battery_development/",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "Whether they are building agents or folding proteins, LLMs need a friend",
+      "source": "The Register",
+      "published": "Sat, 07 Feb 2026 15:00:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/07/ai_companion_bots_vishal_sikka_interview/",
+      "matched_keywords": [
+        "AI",
+        "LLM"
       ]
     },
     {
@@ -327,27 +346,6 @@
       "matched_keywords": [
         "AI",
         "Nvidia"
-      ]
-    },
-    {
-      "title": "AWS intruder achieved admin access in under 10 minutes thanks to AI assist, researchers say",
-      "source": "The Register",
-      "published": "Wed, 04 Feb 2026 21:09:42 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/aws_cloud_breakin_ai_assist/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic cements its position as the not-OpenAI with no-ads pledge",
-      "source": "The Register",
-      "published": "Wed, 04 Feb 2026 20:37:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/anthropic_no_advertising_in_claude/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI",
-        "model"
       ]
     }
   ]
