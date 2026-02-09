@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T12:05:01.553772+00:00",
+  "last_updated": "2026-02-09T12:05:01.686044+00:00",
   "entries": [
     {
       "title": "Sixteen Claude AI agents working together created a new C compiler",
@@ -125,6 +125,33 @@
       "matched_keywords": [
         "AI",
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Indian police commissioner wants ID cards for AI agents",
+      "source": "The Register",
+      "published": "Mon, 09 Feb 2026 04:08:59 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/asia_tech_news_roundup/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Telcos aren't saying how they fought back against China's Salt Typhoon attacks",
+      "source": "The Register",
+      "published": "Sun, 08 Feb 2026 22:25:30 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/08/infosec_news_in_brief/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Containers, cloud, blockchain, AI \u2013 it's all the same old BS, says veteran Red Hatter",
+      "source": "The Register",
+      "published": "Sun, 08 Feb 2026 12:30:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/08/waves_of_tech_bs/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -278,74 +305,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/n8n_security_woes_roll_on/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Britain courts private cash to fund 'golden age' of nuclear-powered AI",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 09:30:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/uk_private_finance_smr/",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "Three clues that your LLM may be poisoned with a sleeper-agent back door",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 07:32:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/llm_poisoned_how_to_tell/",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "Satya Nadella decides Microsoft needs an engineering quality czar",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 05:46:17 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_appoints_quality_chief/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "AI\u2019s lust for memory drags down the smartphone industry, and Qualcomm with it",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 04:21:31 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/qualcomm_q1_2026/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "It's bubble or nothing for Google as search giant looks to plow ~$180B into datacenters this year",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 01:32:00 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/alphabet_google_q4_2025/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Bots are taking over the internet and AI users are to blame",
-      "source": "The Register",
-      "published": "Wed, 04 Feb 2026 22:55:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/ai_bot_traffic_web_browsers/",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Positron: we don\u2019t need no fancy HBM to compete with Nvidia\u2019s Rubin",
-      "source": "The Register",
-      "published": "Wed, 04 Feb 2026 22:06:19 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/positron_hbm_no_need/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
       ]
     }
   ]
