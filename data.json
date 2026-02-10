@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T12:05:01.686044+00:00",
+  "last_updated": "2026-02-10T12:05:01.962463+00:00",
   "entries": [
     {
       "title": "Sixteen Claude AI agents working together created a new C compiler",
@@ -128,6 +128,140 @@
       ]
     },
     {
+      "title": "AI vastly reduced stress of IPv6 migrations in university experiment",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 11:56:55 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ipv6_generative_ai_experiment/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Frankfurt to dethrone London as colocation king by 2031",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 10:45:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/frankfurt_colocation_king/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "British Army splashes $86M on AI gear to speed up the battlefield kill chain",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 10:00:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/mod_project_asgard/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Edinburgh councillors pull the plug on 'green' AI datacenter",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 09:15:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/edinburgh_green_ai_datacenter/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cisco challenges Broadcom, Nvidia with a 102.4T switch of its own",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 08:30:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/cisco_challenges_broadcom_nvidia_switch_chips/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "OpenAI introduces ads...for the people!",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 01:03:44 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/openai_ads/",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Microsoft boffins figured out how to break LLM safety guardrails with one simple prompt",
+      "source": "The Register",
+      "published": "Mon, 09 Feb 2026 23:27:01 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/microsoft_one_prompt_attack/",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "Google soaks up 1GW of Texas sunshine to power $185B AI spending spree",
+      "source": "The Register",
+      "published": "Mon, 09 Feb 2026 21:23:29 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/google_power_solar/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "AI chatbots are no better at medical advice than a search engine",
+      "source": "The Register",
+      "published": "Mon, 09 Feb 2026 20:58:02 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/ai_chatbots_medical_advice_sucks/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Discord to start assuming all users are underage unless they prove otherwise",
+      "source": "The Register",
+      "published": "Mon, 09 Feb 2026 20:42:30 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/discord_demands_id_proof_of_age/",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "'Roaring cougars' lunched on OpenAI in Super Bowl ad battle, but ai.com wins the day",
+      "source": "The Register",
+      "published": "Mon, 09 Feb 2026 18:59:01 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/superbowl_ad_reach_anthropic_beat_openai/",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI",
+        "ai"
+      ]
+    },
+    {
+      "title": "Anthropic's Claude Opus 4.6 spends $20K trying to write a C compiler",
+      "source": "The Register",
+      "published": "Mon, 09 Feb 2026 17:05:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/claude_opus_46_compiler/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "AI.com goes for $70M as crypto boss bets big on buzzword bubble",
+      "source": "The Register",
+      "published": "Mon, 09 Feb 2026 16:49:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/70m_aicom_domain_sale/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Brussels eyes crowbar for Meta's WhatsApp AI lockout",
+      "source": "The Register",
+      "published": "Mon, 09 Feb 2026 12:46:38 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/brussels_eyes_crowbar_for_metas/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "Indian police commissioner wants ID cards for AI agents",
       "source": "The Register",
       "published": "Mon, 09 Feb 2026 04:08:59 GMT",
@@ -203,108 +337,12 @@
       ]
     },
     {
-      "title": "Romanian rail workers accused of bribery turned to ChatGPT for legal tips",
-      "source": "The Register",
-      "published": "Fri, 06 Feb 2026 11:39:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/romanian_rail_workers_chatgpt/",
+      "title": "Keebin\u2019 with Kristina: the One with the Height-Adjustable Key Caps",
+      "source": "Hackaday",
+      "published": "Mon, 09 Feb 2026 18:00:41 +0000",
+      "link": "https://hackaday.com/2026/02/09/keebin-with-kristina-the-one-with-the-height-adjustable-key-caps/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "DWP considers chatbot work coaches as AI-fueled job losses loom",
-      "source": "The Register",
-      "published": "Fri, 06 Feb 2026 10:53:59 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/dwp_chatbot_testing/",
-      "matched_keywords": [
-        "AI",
-        "artificial intelligence"
-      ]
-    },
-    {
-      "title": "Atlassian swears it can handle AI without blowing out costs, or being swamped",
-      "source": "The Register",
-      "published": "Fri, 06 Feb 2026 03:45:26 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/atlassian_q2_2026/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Amazon can't build AI capacity fast enough, throws another $200B at the problem",
-      "source": "The Register",
-      "published": "Fri, 06 Feb 2026 02:13:16 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/amazon_earnings_q4_2025/",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "OpenAI chases business bucks with confusingly named Frontier platform",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 20:20:27 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/openai_debuts_frontier_platform/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Anthropic apes OpenAI with cheeky chatbot commercials",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 18:31:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/anthropic_superbowl_openai_chatgpt_ads/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "Microsoft declares 'reliability' a priority for Visual Studio AI",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 16:16:28 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_visual_studio_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK's 'world-first' deepfake detection framework unlikely to stop the fakes, says expert",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 14:38:44 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/uk_government_deepfake_framework/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft sets Copilot agents loose on your OneDrive files",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 14:15:53 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_onedrive_agents/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Curse of AI to push up PC prices as memory and CPU shortages bite",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 13:14:52 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/pc_prices_rising/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "n8n security woes roll on as new critical flaws bypass December fix",
-      "source": "The Register",
-      "published": "Thu, 05 Feb 2026 11:38:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/n8n_security_woes_roll_on/",
-      "matched_keywords": [
-        "AI"
+        "Model"
       ]
     }
   ]
