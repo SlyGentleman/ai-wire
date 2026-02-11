@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T12:05:01.962463+00:00",
+  "last_updated": "2026-02-11T12:05:01.877982+00:00",
   "entries": [
     {
       "title": "Sixteen Claude AI agents working together created a new C compiler",
@@ -128,6 +128,102 @@
       ]
     },
     {
+      "title": "One in five Euro datacenters AI-ready as builders battle land and labor blues",
+      "source": "The Register",
+      "published": "Wed, 11 Feb 2026 11:17:46 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/ai_datacenters_bcs/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "As OpenAI and Claude fight over ads, Google says \u2018show me the money\u2019",
+      "source": "The Register",
+      "published": "Wed, 11 Feb 2026 07:41:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/google_openai_advertising_approaches/",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Open Compute taps IOWN to help design distributed datacenters and a 'computing continuum'",
+      "source": "The Register",
+      "published": "Wed, 11 Feb 2026 03:46:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/iown_ocp_ai_computing_continuum/",
+      "matched_keywords": [
+        "AI",
+        "Compute",
+        "GPU"
+      ]
+    },
+    {
+      "title": "Cisco looses Splunk to probe and tame its growing agentic menagerie",
+      "source": "The Register",
+      "published": "Wed, 11 Feb 2026 00:58:53 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/cisco_agentic_ai_update/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI connector for Google Calendar makes convenient malware launchpad, researchers show",
+      "source": "The Register",
+      "published": "Wed, 11 Feb 2026 00:24:51 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/claude_desktop_extensions_prompt_injection/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "AI can predict your future salary based on your photo, boffins claim",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 21:24:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ai_face_analysis_mba_pay/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cadence heard you wanted some AI in your AI so it used AI to design an AI chip",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 20:31:43 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/cadences_agentic_chip_design_tool/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "AI agents spill secrets just by previewing malicious links",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 17:55:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ai_agents_messaging_apps_data_leak/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Trump to hyperscalers: your datacenters, your power bill",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 15:18:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/trump_wants_no_ai_friction/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Apple, Google agree to loosen grip on UK app stores",
+      "source": "The Register",
+      "published": "Tue, 10 Feb 2026 12:34:21 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/apple_google_uk_app_stores/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
       "title": "AI vastly reduced stress of IPv6 migrations in university experiment",
       "source": "The Register",
       "published": "Tue, 10 Feb 2026 11:56:55 GMT",
@@ -250,99 +346,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/70m_aicom_domain_sale/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Brussels eyes crowbar for Meta's WhatsApp AI lockout",
-      "source": "The Register",
-      "published": "Mon, 09 Feb 2026 12:46:38 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/brussels_eyes_crowbar_for_metas/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Indian police commissioner wants ID cards for AI agents",
-      "source": "The Register",
-      "published": "Mon, 09 Feb 2026 04:08:59 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/asia_tech_news_roundup/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Telcos aren't saying how they fought back against China's Salt Typhoon attacks",
-      "source": "The Register",
-      "published": "Sun, 08 Feb 2026 22:25:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/08/infosec_news_in_brief/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Containers, cloud, blockchain, AI \u2013 it's all the same old BS, says veteran Red Hatter",
-      "source": "The Register",
-      "published": "Sun, 08 Feb 2026 12:30:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/08/waves_of_tech_bs/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Machine learning could yield faster, cheaper lithium-ion battery development",
-      "source": "The Register",
-      "published": "Sun, 08 Feb 2026 09:25:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/08/machine_learning_battery_development/",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "Whether they are building agents or folding proteins, LLMs need a friend",
-      "source": "The Register",
-      "published": "Sat, 07 Feb 2026 15:00:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/07/ai_companion_bots_vishal_sikka_interview/",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "AI video company arouses fury by boasting about replacing creative jobs",
-      "source": "The Register",
-      "published": "Fri, 06 Feb 2026 21:45:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/higgsfield_ai_job_loss/",
-      "matched_keywords": [
-        "AI",
-        "ai"
-      ]
-    },
-    {
-      "title": "Let there be light! DARPA seeking physics-defying photonic computers to supercharge AI",
-      "source": "The Register",
-      "published": "Fri, 06 Feb 2026 18:34:03 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/darpa_seeking_physicsdefying_photonic_computers/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Four horsemen of the AI-pocalypse line up capex bigger than Israel's GDP",
-      "source": "The Register",
-      "published": "Fri, 06 Feb 2026 17:44:05 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/ai_capex_plans/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Keebin\u2019 with Kristina: the One with the Height-Adjustable Key Caps",
-      "source": "Hackaday",
-      "published": "Mon, 09 Feb 2026 18:00:41 +0000",
-      "link": "https://hackaday.com/2026/02/09/keebin-with-kristina-the-one-with-the-height-adjustable-key-caps/",
-      "matched_keywords": [
-        "Model"
       ]
     }
   ]
