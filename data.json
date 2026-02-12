@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-02-11T12:05:01.877982+00:00",
+  "last_updated": "2026-02-12T12:05:01.178730+00:00",
   "entries": [
+    {
+      "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
+      "source": "Ars Technica",
+      "published": "Wed, 11 Feb 2026 20:44:19 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Sixteen Claude AI agents working together created a new C compiler",
       "source": "Ars Technica",
@@ -118,17 +127,94 @@
       ]
     },
     {
-      "title": "OpenAI spills technical details about how its AI coding agent works",
-      "source": "Ars Technica",
-      "published": "Mon, 26 Jan 2026 23:05:17 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+      "title": "Feeling brave? Ministry of Defence seeks \u00a3300K digital boss to manage \u00a34.6B spend",
+      "source": "The Register",
+      "published": "Thu, 12 Feb 2026 10:15:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/mod_recruits_tech_head/",
       "matched_keywords": [
-        "AI",
-        "OpenAI"
+        "AI"
       ]
     },
     {
-      "title": "One in five Euro datacenters AI-ready as builders battle land and labor blues",
+      "title": "Google: China's APT31 used Gemini to plan cyberattacks against US orgs",
+      "source": "The Register",
+      "published": "Thu, 12 Feb 2026 07:00:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/google_china_apt31_gemini/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Cisco hikes prices to cover memory cost rises, says you don\u2019t much care",
+      "source": "The Register",
+      "published": "Thu, 12 Feb 2026 04:45:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/cisco_q2_2026/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft warns that poisoned AI buttons and links may betray your trust",
+      "source": "The Register",
+      "published": "Thu, 12 Feb 2026 01:07:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/microsoft_ai_recommendation_poisoning/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic promises its datacenters totally won't drive up your utility bill",
+      "source": "The Register",
+      "published": "Thu, 12 Feb 2026 00:47:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/anthropic_power_promises/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "Compute",
+        "Google",
+        "Model"
+      ]
+    },
+    {
+      "title": "AI spurs employees to work harder, faster, and with fewer breaks, study finds",
+      "source": "The Register",
+      "published": "Wed, 11 Feb 2026 19:51:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/ai_makes_employees_work_harder/",
+      "matched_keywords": [
+        "AI",
+        "ai"
+      ]
+    },
+    {
+      "title": "T-Mobile announces its network is now full of AI by rolling out real-time translation",
+      "source": "The Register",
+      "published": "Wed, 11 Feb 2026 19:28:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/tmobile_network_ai_translate_live_calls/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Posting AI-generated caricatures on social media is risky, infosec killjoys warn",
+      "source": "The Register",
+      "published": "Wed, 11 Feb 2026 18:56:40 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/ai_caricatures_social_media_bad_security/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Attending GTC? Join The Register for an exclusive dinner on scaling AI data platforms",
+      "source": "The Register",
+      "published": "Wed, 11 Feb 2026 17:50:33 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/attending_gtc_join_register/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Only one in five Euro datacenters AI-ready as builders battle land and labor blues",
       "source": "The Register",
       "published": "Wed, 11 Feb 2026 11:17:46 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/ai_datacenters_bcs/",
@@ -228,122 +314,6 @@
       "source": "The Register",
       "published": "Tue, 10 Feb 2026 11:56:55 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ipv6_generative_ai_experiment/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Frankfurt to dethrone London as colocation king by 2031",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 10:45:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/frankfurt_colocation_king/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "British Army splashes $86M on AI gear to speed up the battlefield kill chain",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 10:00:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/mod_project_asgard/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Edinburgh councillors pull the plug on 'green' AI datacenter",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 09:15:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/edinburgh_green_ai_datacenter/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cisco challenges Broadcom, Nvidia with a 102.4T switch of its own",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 08:30:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/cisco_challenges_broadcom_nvidia_switch_chips/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "OpenAI introduces ads...for the people!",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 01:03:44 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/openai_ads/",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Microsoft boffins figured out how to break LLM safety guardrails with one simple prompt",
-      "source": "The Register",
-      "published": "Mon, 09 Feb 2026 23:27:01 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/microsoft_one_prompt_attack/",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "Google soaks up 1GW of Texas sunshine to power $185B AI spending spree",
-      "source": "The Register",
-      "published": "Mon, 09 Feb 2026 21:23:29 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/google_power_solar/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "AI chatbots are no better at medical advice than a search engine",
-      "source": "The Register",
-      "published": "Mon, 09 Feb 2026 20:58:02 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/ai_chatbots_medical_advice_sucks/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Discord to start assuming all users are underage unless they prove otherwise",
-      "source": "The Register",
-      "published": "Mon, 09 Feb 2026 20:42:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/discord_demands_id_proof_of_age/",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "'Roaring cougars' lunched on OpenAI in Super Bowl ad battle, but ai.com wins the day",
-      "source": "The Register",
-      "published": "Mon, 09 Feb 2026 18:59:01 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/superbowl_ad_reach_anthropic_beat_openai/",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI",
-        "ai"
-      ]
-    },
-    {
-      "title": "Anthropic's Claude Opus 4.6 spends $20K trying to write a C compiler",
-      "source": "The Register",
-      "published": "Mon, 09 Feb 2026 17:05:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/claude_opus_46_compiler/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "AI.com goes for $70M as crypto boss bets big on buzzword bubble",
-      "source": "The Register",
-      "published": "Mon, 09 Feb 2026 16:49:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/70m_aicom_domain_sale/",
       "matched_keywords": [
         "AI"
       ]
