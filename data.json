@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-02-12T12:05:01.178730+00:00",
+  "last_updated": "2026-02-15T12:05:01.945242+00:00",
   "entries": [
+    {
+      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+      "source": "Ars Technica",
+      "published": "Thu, 12 Feb 2026 22:56:02 +0000",
+      "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+      "matched_keywords": [
+        "Nvidia",
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+      "source": "Ars Technica",
+      "published": "Thu, 12 Feb 2026 19:42:08 +0000",
+      "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
     {
       "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
       "source": "Ars Technica",
@@ -108,22 +128,149 @@
       ]
     },
     {
-      "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
-      "source": "Ars Technica",
-      "published": "Wed, 28 Jan 2026 17:21:29 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/",
+      "title": "How AI could eat itself: Competitors can probe models to steal their secrets and clone them",
+      "source": "The Register",
+      "published": "Sat, 14 Feb 2026 11:02:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/14/ai_risk_distillation_attacks/",
+      "matched_keywords": [
+        "AI",
+        "DeepSeek",
+        "Google",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "ServiceNow can't seem to keep its wallet closed, snaps up small AI analytics company",
+      "source": "The Register",
+      "published": "Sat, 14 Feb 2026 00:12:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/14/servicenow_buys_pyramid_analytics_to/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic wants comp-sci students to vibe code their way through college",
+      "source": "The Register",
+      "published": "Fri, 13 Feb 2026 21:42:44 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/anthropic_claudeifies_comp_sci_courses/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Trump's Genesis Mission gets its first set of 26 sure-to-succeed objectives",
+      "source": "The Register",
+      "published": "Fri, 13 Feb 2026 18:18:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/trumps_genesis_mission/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Broadband rollouts feel the burn from AI memory frenzy",
+      "source": "The Register",
+      "published": "Fri, 13 Feb 2026 15:03:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/ai_memory_router_prices/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Misconfigured AI could trigger the next national infrastructure meltdown",
+      "source": "The Register",
+      "published": "Fri, 13 Feb 2026 14:38:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/gartner_ai_infrastructure/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Investors shove another $30B into the Anthropic money furnace",
+      "source": "The Register",
+      "published": "Fri, 13 Feb 2026 14:02:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/anthropic_series_g/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "OK, so Anthropic's AI built a C compiler. That don't impress me much",
+      "source": "The Register",
+      "published": "Fri, 13 Feb 2026 11:00:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/anthropic_c_compiler/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Samsung says it's first to ship HBM4, a day after Micron revealed its own sales",
+      "source": "The Register",
+      "published": "Fri, 13 Feb 2026 03:45:37 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/samsung_and_micron_start_shipping/",
       "matched_keywords": [
         "AI",
         "Nvidia"
       ]
     },
     {
-      "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
-      "source": "Ars Technica",
-      "published": "Wed, 28 Jan 2026 12:30:44 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
+      "title": "Cloudflare turns websites into faster food for AI agents",
+      "source": "The Register",
+      "published": "Fri, 13 Feb 2026 00:12:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/cloudflare_markdown_for_ai_crawlers/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "AI to make call center agents 'superheroes,' not unemployed, says industry CEO",
+      "source": "The Register",
+      "published": "Fri, 13 Feb 2026 00:06:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/call_center_ai_superheroes/",
+      "matched_keywords": [
+        "AI",
+        "ai"
+      ]
+    },
+    {
+      "title": "30+ Chrome extensions disguised as AI chatbots steal users' API keys, emails, other sensitive data",
+      "source": "The Register",
+      "published": "Thu, 12 Feb 2026 22:59:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/30_chrome_extensions_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI dishes out its first model on a plate of Cerebras silicon",
+      "source": "The Register",
+      "published": "Thu, 12 Feb 2026 22:32:01 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/openai_model_cerebras/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia",
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "AI agent seemingly tries to shame open source developer for rejected pull request",
+      "source": "The Register",
+      "published": "Thu, 12 Feb 2026 20:47:03 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/ai_bot_developer_rejected_pull_request/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Elon Musk paints exodus of xAI co-founders as 'evolution'",
+      "source": "The Register",
+      "published": "Thu, 12 Feb 2026 14:46:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/musk_xai_departures/",
+      "matched_keywords": [
+        "artificial intelligence"
       ]
     },
     {
@@ -174,148 +321,6 @@
         "Compute",
         "Google",
         "Model"
-      ]
-    },
-    {
-      "title": "AI spurs employees to work harder, faster, and with fewer breaks, study finds",
-      "source": "The Register",
-      "published": "Wed, 11 Feb 2026 19:51:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/ai_makes_employees_work_harder/",
-      "matched_keywords": [
-        "AI",
-        "ai"
-      ]
-    },
-    {
-      "title": "T-Mobile announces its network is now full of AI by rolling out real-time translation",
-      "source": "The Register",
-      "published": "Wed, 11 Feb 2026 19:28:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/tmobile_network_ai_translate_live_calls/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Posting AI-generated caricatures on social media is risky, infosec killjoys warn",
-      "source": "The Register",
-      "published": "Wed, 11 Feb 2026 18:56:40 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/ai_caricatures_social_media_bad_security/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Attending GTC? Join The Register for an exclusive dinner on scaling AI data platforms",
-      "source": "The Register",
-      "published": "Wed, 11 Feb 2026 17:50:33 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/attending_gtc_join_register/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Only one in five Euro datacenters AI-ready as builders battle land and labor blues",
-      "source": "The Register",
-      "published": "Wed, 11 Feb 2026 11:17:46 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/ai_datacenters_bcs/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "As OpenAI and Claude fight over ads, Google says \u2018show me the money\u2019",
-      "source": "The Register",
-      "published": "Wed, 11 Feb 2026 07:41:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/google_openai_advertising_approaches/",
-      "matched_keywords": [
-        "AI",
-        "Google",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Open Compute taps IOWN to help design distributed datacenters and a 'computing continuum'",
-      "source": "The Register",
-      "published": "Wed, 11 Feb 2026 03:46:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/iown_ocp_ai_computing_continuum/",
-      "matched_keywords": [
-        "AI",
-        "Compute",
-        "GPU"
-      ]
-    },
-    {
-      "title": "Cisco looses Splunk to probe and tame its growing agentic menagerie",
-      "source": "The Register",
-      "published": "Wed, 11 Feb 2026 00:58:53 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/cisco_agentic_ai_update/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI connector for Google Calendar makes convenient malware launchpad, researchers show",
-      "source": "The Register",
-      "published": "Wed, 11 Feb 2026 00:24:51 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/claude_desktop_extensions_prompt_injection/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "AI can predict your future salary based on your photo, boffins claim",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 21:24:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ai_face_analysis_mba_pay/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cadence heard you wanted some AI in your AI so it used AI to design an AI chip",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 20:31:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/cadences_agentic_chip_design_tool/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "AI agents spill secrets just by previewing malicious links",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 17:55:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ai_agents_messaging_apps_data_leak/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Trump to hyperscalers: your datacenters, your power bill",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 15:18:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/trump_wants_no_ai_friction/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Apple, Google agree to loosen grip on UK app stores",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 12:34:21 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/apple_google_uk_app_stores/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "AI vastly reduced stress of IPv6 migrations in university experiment",
-      "source": "The Register",
-      "published": "Tue, 10 Feb 2026 11:56:55 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ipv6_generative_ai_experiment/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
