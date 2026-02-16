@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T12:05:01.945242+00:00",
+  "last_updated": "2026-02-16T12:05:01.604042+00:00",
   "entries": [
     {
       "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
@@ -28,6 +28,15 @@
       "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
       "matched_keywords": [
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
+      "source": "Ars Technica",
+      "published": "Tue, 10 Feb 2026 19:40:21 +0000",
+      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -125,6 +134,64 @@
       "matched_keywords": [
         "AI",
         "Anthropic"
+      ]
+    },
+    {
+      "title": "Keir Starmer declares 'months' timeline for social media age clampdown in UK",
+      "source": "The Register",
+      "published": "Mon, 16 Feb 2026 10:46:51 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/starmer_social_media/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+      "source": "The Register",
+      "published": "Mon, 16 Feb 2026 10:14:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "US appears open to reversing some China tech bans",
+      "source": "The Register",
+      "published": "Mon, 16 Feb 2026 04:35:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/asia_tech_news_roundup/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI grabs OpenClaw creator Peter Steinberger to build personal agents",
+      "source": "The Register",
+      "published": "Mon, 16 Feb 2026 01:56:23 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/open_ai_grabs_openclaw/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Infosec exec sold eight zero-day exploit kits to Russia, says DoJ",
+      "source": "The Register",
+      "published": "Sun, 15 Feb 2026 23:22:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/15/exl3harris_exec_sold_8_zeroday/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "GPT-5 bests human judges in legal smack down",
+      "source": "The Register",
+      "published": "Sun, 15 Feb 2026 14:32:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/15/gpt5_bests_human_judges_in/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI",
+        "ai"
       ]
     },
     {
@@ -271,56 +338,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/musk_xai_departures/",
       "matched_keywords": [
         "artificial intelligence"
-      ]
-    },
-    {
-      "title": "Feeling brave? Ministry of Defence seeks \u00a3300K digital boss to manage \u00a34.6B spend",
-      "source": "The Register",
-      "published": "Thu, 12 Feb 2026 10:15:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/mod_recruits_tech_head/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google: China's APT31 used Gemini to plan cyberattacks against US orgs",
-      "source": "The Register",
-      "published": "Thu, 12 Feb 2026 07:00:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/google_china_apt31_gemini/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Cisco hikes prices to cover memory cost rises, says you don\u2019t much care",
-      "source": "The Register",
-      "published": "Thu, 12 Feb 2026 04:45:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/cisco_q2_2026/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft warns that poisoned AI buttons and links may betray your trust",
-      "source": "The Register",
-      "published": "Thu, 12 Feb 2026 01:07:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/microsoft_ai_recommendation_poisoning/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic promises its datacenters totally won't drive up your utility bill",
-      "source": "The Register",
-      "published": "Thu, 12 Feb 2026 00:47:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/anthropic_power_promises/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "Compute",
-        "Google",
-        "Model"
       ]
     }
   ]
