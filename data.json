@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T12:05:01.604042+00:00",
+  "last_updated": "2026-02-18T12:05:01.602906+00:00",
   "entries": [
     {
       "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
@@ -127,13 +127,179 @@
       ]
     },
     {
-      "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
-      "source": "Ars Technica",
-      "published": "Thu, 29 Jan 2026 15:19:56 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
+      "title": "HackerOne 'updating' Ts&amp;Cs after bug hunters question if they're training AI",
+      "source": "The Register",
+      "published": "Wed, 18 Feb 2026 11:00:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/hackerone_ai_policy/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Palo Alto CEO says AI isn\u2019t great for business, yet",
+      "source": "The Register",
+      "published": "Wed, 18 Feb 2026 04:52:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/palo_alto_q2_26/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Indian conglomerate Adani plans very slow $100 billion AI datacenter build",
+      "source": "The Register",
+      "published": "Wed, 18 Feb 2026 02:16:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/india_ai_summit_adani_datacenters/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic's latest Sonnet gets better at using computers, amid bouts of existential angst",
+      "source": "The Register",
+      "published": "Wed, 18 Feb 2026 01:38:32 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/anthropic_debuts_sonnet_4_6/",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "China-linked snoops have been exploiting Dell 0-day since mid-2024, using 'ghost NICs' to avoid detection",
+      "source": "The Register",
+      "published": "Wed, 18 Feb 2026 00:05:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/dell_0day_brickstorm_campaign/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Gemini lies to user about health info, says it wanted to make him feel better",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 22:59:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/google_gemini_lie_placate_user/",
       "matched_keywords": [
         "AI",
-        "Anthropic"
+        "Google"
+      ]
+    },
+    {
+      "title": "Infosys bows to its master, signs deal with Anthropic",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 22:11:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/anthropic_infosys_partnership/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "GPU who? Meta to deploy Nvidia CPUs at large scale",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 21:16:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/meta_nvidia_cpu/",
+      "matched_keywords": [
+        "GPU",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "AI gets all the good stuff, including Micron's speedy 28 GB/s PCIe 6.0 SSD",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 19:55:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/micron_pcie_6/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI bit barns grow climate emergency by turning up the gas",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 18:54:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/ai_datacenters_driving_up_emissions/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "European Parliament bars lawmakers from using AI tools",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 17:28:54 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/european_parliament_bars_lawmakers_from/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Flush with potential? Activist investor insists Japanese toilet giant is an AI sleeper",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 16:56:52 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/palliser_capital_toto/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "CIOs told: Prove your AI pays off \u2013 or pay the price",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 12:01:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/no_roi_no_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ireland joins regulator smackdown after X's Grok AI accused of undressing people",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 11:08:36 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/ireland_dpc_x_grok_probe/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Capita taps Microsoft Copilot to dig it out from UK pensions backlog",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 10:31:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/capita_microsoft_copilot_pensions/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "GitHub previews Agentic Workflows as part of continuous AI concept",
+      "source": "The Register",
+      "published": "Tue, 17 Feb 2026 09:48:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/github_previews_agentic_workflows/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "KPMG partner in Oz turned to AI to pass an exam on... AI",
+      "source": "The Register",
+      "published": "Mon, 16 Feb 2026 15:54:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/kpmg_partner_in_oz_turned/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Why AI writing is so generic, boring, and dangerous: Semantic ablation",
+      "source": "The Register",
+      "published": "Mon, 16 Feb 2026 14:02:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google patches Chrome zero-day as in-the-wild exploits surface",
+      "source": "The Register",
+      "published": "Mon, 16 Feb 2026 12:39:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/chromes_zeroday/",
+      "matched_keywords": [
+        "Google"
       ]
     },
     {
@@ -143,201 +309,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/starmer_social_media/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
-      "source": "The Register",
-      "published": "Mon, 16 Feb 2026 10:14:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "US appears open to reversing some China tech bans",
-      "source": "The Register",
-      "published": "Mon, 16 Feb 2026 04:35:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/asia_tech_news_roundup/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI grabs OpenClaw creator Peter Steinberger to build personal agents",
-      "source": "The Register",
-      "published": "Mon, 16 Feb 2026 01:56:23 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/open_ai_grabs_openclaw/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Infosec exec sold eight zero-day exploit kits to Russia, says DoJ",
-      "source": "The Register",
-      "published": "Sun, 15 Feb 2026 23:22:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/15/exl3harris_exec_sold_8_zeroday/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "GPT-5 bests human judges in legal smack down",
-      "source": "The Register",
-      "published": "Sun, 15 Feb 2026 14:32:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/15/gpt5_bests_human_judges_in/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI",
-        "ai"
-      ]
-    },
-    {
-      "title": "How AI could eat itself: Competitors can probe models to steal their secrets and clone them",
-      "source": "The Register",
-      "published": "Sat, 14 Feb 2026 11:02:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/14/ai_risk_distillation_attacks/",
-      "matched_keywords": [
-        "AI",
-        "DeepSeek",
-        "Google",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "ServiceNow can't seem to keep its wallet closed, snaps up small AI analytics company",
-      "source": "The Register",
-      "published": "Sat, 14 Feb 2026 00:12:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/14/servicenow_buys_pyramid_analytics_to/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic wants comp-sci students to vibe code their way through college",
-      "source": "The Register",
-      "published": "Fri, 13 Feb 2026 21:42:44 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/anthropic_claudeifies_comp_sci_courses/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Trump's Genesis Mission gets its first set of 26 sure-to-succeed objectives",
-      "source": "The Register",
-      "published": "Fri, 13 Feb 2026 18:18:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/trumps_genesis_mission/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Broadband rollouts feel the burn from AI memory frenzy",
-      "source": "The Register",
-      "published": "Fri, 13 Feb 2026 15:03:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/ai_memory_router_prices/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Misconfigured AI could trigger the next national infrastructure meltdown",
-      "source": "The Register",
-      "published": "Fri, 13 Feb 2026 14:38:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/gartner_ai_infrastructure/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Investors shove another $30B into the Anthropic money furnace",
-      "source": "The Register",
-      "published": "Fri, 13 Feb 2026 14:02:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/anthropic_series_g/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "OK, so Anthropic's AI built a C compiler. That don't impress me much",
-      "source": "The Register",
-      "published": "Fri, 13 Feb 2026 11:00:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/anthropic_c_compiler/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Samsung says it's first to ship HBM4, a day after Micron revealed its own sales",
-      "source": "The Register",
-      "published": "Fri, 13 Feb 2026 03:45:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/samsung_and_micron_start_shipping/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Cloudflare turns websites into faster food for AI agents",
-      "source": "The Register",
-      "published": "Fri, 13 Feb 2026 00:12:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/cloudflare_markdown_for_ai_crawlers/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI to make call center agents 'superheroes,' not unemployed, says industry CEO",
-      "source": "The Register",
-      "published": "Fri, 13 Feb 2026 00:06:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/call_center_ai_superheroes/",
-      "matched_keywords": [
-        "AI",
-        "ai"
-      ]
-    },
-    {
-      "title": "30+ Chrome extensions disguised as AI chatbots steal users' API keys, emails, other sensitive data",
-      "source": "The Register",
-      "published": "Thu, 12 Feb 2026 22:59:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/30_chrome_extensions_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI dishes out its first model on a plate of Cerebras silicon",
-      "source": "The Register",
-      "published": "Thu, 12 Feb 2026 22:32:01 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/openai_model_cerebras/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia",
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "AI agent seemingly tries to shame open source developer for rejected pull request",
-      "source": "The Register",
-      "published": "Thu, 12 Feb 2026 20:47:03 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/ai_bot_developer_rejected_pull_request/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Elon Musk paints exodus of xAI co-founders as 'evolution'",
-      "source": "The Register",
-      "published": "Thu, 12 Feb 2026 14:46:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/musk_xai_departures/",
-      "matched_keywords": [
-        "artificial intelligence"
       ]
     }
   ]
