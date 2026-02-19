@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-02-18T12:05:01.602906+00:00",
+  "last_updated": "2026-02-19T12:05:01.593925+00:00",
   "entries": [
+    {
+      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
+      "source": "Ars Technica",
+      "published": "Fri, 13 Feb 2026 19:40:21 +0000",
+      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
       "source": "Ars Technica",
@@ -28,15 +37,6 @@
       "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
       "matched_keywords": [
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
-      "source": "Ars Technica",
-      "published": "Tue, 10 Feb 2026 19:40:21 +0000",
-      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-      "matched_keywords": [
-        "AI"
       ]
     },
     {
@@ -122,6 +122,92 @@
       "source": "Ars Technica",
       "published": "Fri, 30 Jan 2026 19:04:15 +0000",
       "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI chatbots waffle on GOV.UK queries, then get facts wrong when told to zip it",
+      "source": "The Register",
+      "published": "Thu, 19 Feb 2026 10:16:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/chatbots_too_chatty_government/",
+      "matched_keywords": [
+        "AI",
+        "Artificial intelligence",
+        "ai"
+      ]
+    },
+    {
+      "title": "Agile Manifesto turns 25 \u2013 just in time for vibe coding to test it",
+      "source": "The Register",
+      "published": "Thu, 19 Feb 2026 09:30:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/jon_kern_vibe_coding/",
+      "matched_keywords": [
+        "AI",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "title": "Poland bans camera-packing cars made in China from military bases",
+      "source": "The Register",
+      "published": "Thu, 19 Feb 2026 05:55:25 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/poland_china_car_ban/",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "Indian think tank finds strong hiring for the kind of jobs AI puts at risk",
+      "source": "The Register",
+      "published": "Thu, 19 Feb 2026 01:49:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/ai_impact_tech_jobs_india/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google presses play on 30-second Gemini musical slop generator",
+      "source": "The Register",
+      "published": "Wed, 18 Feb 2026 21:24:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/google_musical_slop/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Google digs deep to power AI expansion with 150 MW geothermal deal",
+      "source": "The Register",
+      "published": "Wed, 18 Feb 2026 19:41:33 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/google_ormat_geothermal_datacenter_deal/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "6,000 execs struggle to find the AI productivity boom",
+      "source": "The Register",
+      "published": "Wed, 18 Feb 2026 15:07:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/ai_productivity_survey/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Your AI-generated password isn't random, it just looks that way",
+      "source": "The Register",
+      "published": "Wed, 18 Feb 2026 14:06:36 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/generating_passwords_with_llms/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Godot maintainers struggle with 'draining and demoralizing' AI slop submissions",
+      "source": "The Register",
+      "published": "Wed, 18 Feb 2026 13:10:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/godot_maintainers_struggle_with_draining/",
       "matched_keywords": [
         "AI"
       ]
@@ -235,78 +321,6 @@
       "source": "The Register",
       "published": "Tue, 17 Feb 2026 16:56:52 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/palliser_capital_toto/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "CIOs told: Prove your AI pays off \u2013 or pay the price",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 12:01:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/no_roi_no_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ireland joins regulator smackdown after X's Grok AI accused of undressing people",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 11:08:36 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/ireland_dpc_x_grok_probe/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Capita taps Microsoft Copilot to dig it out from UK pensions backlog",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 10:31:50 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/capita_microsoft_copilot_pensions/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "GitHub previews Agentic Workflows as part of continuous AI concept",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 09:48:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/github_previews_agentic_workflows/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "KPMG partner in Oz turned to AI to pass an exam on... AI",
-      "source": "The Register",
-      "published": "Mon, 16 Feb 2026 15:54:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/kpmg_partner_in_oz_turned/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Why AI writing is so generic, boring, and dangerous: Semantic ablation",
-      "source": "The Register",
-      "published": "Mon, 16 Feb 2026 14:02:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google patches Chrome zero-day as in-the-wild exploits surface",
-      "source": "The Register",
-      "published": "Mon, 16 Feb 2026 12:39:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/chromes_zeroday/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Keir Starmer declares 'months' timeline for social media age clampdown in UK",
-      "source": "The Register",
-      "published": "Mon, 16 Feb 2026 10:46:51 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/starmer_social_media/",
       "matched_keywords": [
         "AI"
       ]
