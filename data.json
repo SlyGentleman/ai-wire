@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T12:05:01.593925+00:00",
+  "last_updated": "2026-02-20T12:05:01.172898+00:00",
   "entries": [
     {
       "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
@@ -127,6 +127,98 @@
       ]
     },
     {
+      "title": "From Agile to AI: Anniversary workshop says test-driven development ideal for AI coding",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 11:11:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/from_agile_to_ai_anniversary/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ex-Google engineers accused of helping themselves to chip security secrets",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 10:45:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/google_ip_theft_charges/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Snyk CEO bails, wants someone with more AI experience to replace him",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 05:07:25 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/snyk_ceo_stands_down/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "India\u2019s top telco tackles AI with $110 billion build plan and proven fast market dominance playbook",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 03:11:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/jio_ai_plans_india_summit/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI agents abound, unbound by rules or safety disclosures",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 01:01:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ai_agents_abound_unbound_by/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google germinates Gemini 3.1 Pro in ongoing AI model race",
+      "source": "The Register",
+      "published": "Thu, 19 Feb 2026 19:57:48 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/google_germinates_gemini_31_pro/",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "model"
+      ]
+    },
+    {
+      "title": "Don't believe the hyperscalers! AI can't cure the climate crisis",
+      "source": "The Register",
+      "published": "Thu, 19 Feb 2026 18:23:34 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/ai_climate_crisis_claims/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Android malware taps Gemini to navigate infected devices",
+      "source": "The Register",
+      "published": "Thu, 19 Feb 2026 16:04:52 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/genai_malware_android/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "US tech giants open their wallets for AI-friendly politicians",
+      "source": "The Register",
+      "published": "Thu, 19 Feb 2026 13:59:31 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/us_tech_giants_pacs_for_politicos/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI agents can't teach themselves new tricks \u2013 only people can",
+      "source": "The Register",
+      "published": "Thu, 19 Feb 2026 12:07:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/ai_agents_cant_teach_themselves/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "AI chatbots waffle on GOV.UK queries, then get facts wrong when told to zip it",
       "source": "The Register",
       "published": "Thu, 19 Feb 2026 10:16:27 GMT",
@@ -222,107 +314,13 @@
       ]
     },
     {
-      "title": "Palo Alto CEO says AI isn\u2019t great for business, yet",
-      "source": "The Register",
-      "published": "Wed, 18 Feb 2026 04:52:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/palo_alto_q2_26/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Indian conglomerate Adani plans very slow $100 billion AI datacenter build",
-      "source": "The Register",
-      "published": "Wed, 18 Feb 2026 02:16:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/india_ai_summit_adani_datacenters/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic's latest Sonnet gets better at using computers, amid bouts of existential angst",
-      "source": "The Register",
-      "published": "Wed, 18 Feb 2026 01:38:32 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/anthropic_debuts_sonnet_4_6/",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "China-linked snoops have been exploiting Dell 0-day since mid-2024, using 'ghost NICs' to avoid detection",
-      "source": "The Register",
-      "published": "Wed, 18 Feb 2026 00:05:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/dell_0day_brickstorm_campaign/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Gemini lies to user about health info, says it wanted to make him feel better",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 22:59:50 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/google_gemini_lie_placate_user/",
+      "title": "Microsoft Uses Plagiarized AI Slop Flowchart to Explain How Git Works",
+      "source": "Hackaday",
+      "published": "Fri, 20 Feb 2026 03:00:15 +0000",
+      "link": "https://hackaday.com/2026/02/19/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-git-works/",
       "matched_keywords": [
         "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Infosys bows to its master, signs deal with Anthropic",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 22:11:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/anthropic_infosys_partnership/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "GPU who? Meta to deploy Nvidia CPUs at large scale",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 21:16:49 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/meta_nvidia_cpu/",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "AI gets all the good stuff, including Micron's speedy 28 GB/s PCIe 6.0 SSD",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 19:55:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/micron_pcie_6/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI bit barns grow climate emergency by turning up the gas",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 18:54:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/ai_datacenters_driving_up_emissions/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "European Parliament bars lawmakers from using AI tools",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 17:28:54 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/european_parliament_bars_lawmakers_from/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Flush with potential? Activist investor insists Japanese toilet giant is an AI sleeper",
-      "source": "The Register",
-      "published": "Tue, 17 Feb 2026 16:56:52 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/palliser_capital_toto/",
-      "matched_keywords": [
-        "AI"
+        "ai"
       ]
     }
   ]
