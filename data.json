@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T12:05:01.172898+00:00",
+  "last_updated": "2026-02-22T12:05:01.179832+00:00",
   "entries": [
     {
       "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
@@ -124,6 +124,91 @@
       "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "SerpApi says Google is the pot calling the kettle black when it comes to scraping",
+      "source": "The Register",
+      "published": "Sat, 21 Feb 2026 00:56:04 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/21/serpapi_google_scraping_lawsuit/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "The idea of using a Raspberry Pi to run OpenClaw makes no sense",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 23:31:20 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/raspberry_pi_meme_stock_disorder/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic: No, absolutely not, you may not use third-party harnesses with Claude subs",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 21:54:40 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/anthropic_clarifies_ban_third_party_claude_access/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "AI coding assistant Cline compromised to create more OpenClaw chaos",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 20:05:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/openclaw_snuck_into_cline_package/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cerebras plans humongous AI supercomputer in India backed by UAE",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 19:32:16 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/india_ai_supercomputer_cerebras_uae/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia",
+        "compute"
+      ]
+    },
+    {
+      "title": "Amazon's vibe-coding tool Kiro reportedly vibed too hard and brought down AWS",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 17:52:41 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/amazon_denies_kiro_agentic_ai_behind_outage/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Accenture tells staffers: If you want a promotion, use AI at work",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 14:15:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/accenture_tells_staffers_want_promotion/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Hard drives already sold out for this year \u2013 AI to blame",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 14:00:19 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ai_blamed_again_as_hard_drives_sell_out/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "EFF policy says bots can code but humans must write the docs",
+      "source": "The Register",
+      "published": "Fri, 20 Feb 2026 12:55:56 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/eff_demands_human_documentation_as/",
+      "matched_keywords": [
+        "LLM"
       ]
     },
     {
@@ -265,62 +350,6 @@
       "matched_keywords": [
         "AI",
         "Google"
-      ]
-    },
-    {
-      "title": "Google digs deep to power AI expansion with 150 MW geothermal deal",
-      "source": "The Register",
-      "published": "Wed, 18 Feb 2026 19:41:33 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/google_ormat_geothermal_datacenter_deal/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "6,000 execs struggle to find the AI productivity boom",
-      "source": "The Register",
-      "published": "Wed, 18 Feb 2026 15:07:27 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/ai_productivity_survey/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Your AI-generated password isn't random, it just looks that way",
-      "source": "The Register",
-      "published": "Wed, 18 Feb 2026 14:06:36 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/generating_passwords_with_llms/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Godot maintainers struggle with 'draining and demoralizing' AI slop submissions",
-      "source": "The Register",
-      "published": "Wed, 18 Feb 2026 13:10:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/godot_maintainers_struggle_with_draining/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "HackerOne 'updating' Ts&amp;Cs after bug hunters question if they're training AI",
-      "source": "The Register",
-      "published": "Wed, 18 Feb 2026 11:00:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/hackerone_ai_policy/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft Uses Plagiarized AI Slop Flowchart to Explain How Git Works",
-      "source": "Hackaday",
-      "published": "Fri, 20 Feb 2026 03:00:15 +0000",
-      "link": "https://hackaday.com/2026/02/19/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-git-works/",
-      "matched_keywords": [
-        "AI",
-        "ai"
       ]
     }
   ]
