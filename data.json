@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T12:05:01.179832+00:00",
+  "last_updated": "2026-02-23T12:05:01.458079+00:00",
   "entries": [
     {
       "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
@@ -122,6 +122,33 @@
       "source": "Ars Technica",
       "published": "Fri, 30 Jan 2026 19:04:15 +0000",
       "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AWS says more than 600 FortiGate firewalls hit in AI-augmented campaign",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 11:41:47 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/aws_fortigate_firewalls/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Infosys chair says AI will clean up legacy systems \u2013 then make more of them",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 04:13:36 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/asia_tech_news_roundup/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Attacker gets into France's database listing all bank accounts, makes off with 1.2 million records",
+      "source": "The Register",
+      "published": "Sun, 22 Feb 2026 23:26:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/22/french_bank_hack/",
       "matched_keywords": [
         "AI"
       ]
@@ -301,55 +328,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/ai_agents_cant_teach_themselves/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "AI chatbots waffle on GOV.UK queries, then get facts wrong when told to zip it",
-      "source": "The Register",
-      "published": "Thu, 19 Feb 2026 10:16:27 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/chatbots_too_chatty_government/",
-      "matched_keywords": [
-        "AI",
-        "Artificial intelligence",
-        "ai"
-      ]
-    },
-    {
-      "title": "Agile Manifesto turns 25 \u2013 just in time for vibe coding to test it",
-      "source": "The Register",
-      "published": "Thu, 19 Feb 2026 09:30:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/jon_kern_vibe_coding/",
-      "matched_keywords": [
-        "AI",
-        "artificial intelligence"
-      ]
-    },
-    {
-      "title": "Poland bans camera-packing cars made in China from military bases",
-      "source": "The Register",
-      "published": "Thu, 19 Feb 2026 05:55:25 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/poland_china_car_ban/",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "Indian think tank finds strong hiring for the kind of jobs AI puts at risk",
-      "source": "The Register",
-      "published": "Thu, 19 Feb 2026 01:49:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/ai_impact_tech_jobs_india/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google presses play on 30-second Gemini musical slop generator",
-      "source": "The Register",
-      "published": "Wed, 18 Feb 2026 21:24:50 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/google_musical_slop/",
-      "matched_keywords": [
-        "AI",
-        "Google"
       ]
     }
   ]
