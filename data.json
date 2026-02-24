@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T12:05:01.458079+00:00",
+  "last_updated": "2026-02-24T12:05:01.164896+00:00",
   "entries": [
     {
       "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
@@ -127,6 +127,135 @@
       ]
     },
     {
+      "title": "West Midlands Police earn red card over Copilot's imaginary football match",
+      "source": "The Register",
+      "published": "Tue, 24 Feb 2026 11:32:56 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/west_midlands_police_copilot/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Intel backs SambaNova's $350M bid to challenge GPUs in AI inference",
+      "source": "The Register",
+      "published": "Tue, 24 Feb 2026 11:00:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/sambanova_intel_funding/",
+      "matched_keywords": [
+        "AI",
+        "GPU",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "UK tech hit by double trouble: Fewer foreign techies amid skills squeeze",
+      "source": "The Register",
+      "published": "Tue, 24 Feb 2026 10:15:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/brit_tech_firms_face_falling/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic accuses China's AI labs of ripping off content - just like it did",
+      "source": "The Register",
+      "published": "Tue, 24 Feb 2026 00:45:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/anthropic_misanthropic_chinese_ai_labs/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "IBM stock dives after Anthropic points out AI can rewrite COBOL fast",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 23:53:03 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/ibm_share_dive_anthropic_cobol/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Google Antigravity falls to Earth under OpenClaw-fueled compute load",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 20:49:37 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/google_antigravity_compute_burden/",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "compute"
+      ]
+    },
+    {
+      "title": "Nvidia superchip infusion finally coming to Windows PCs, report says",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 19:59:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/nvidia_soc_pc/",
+      "matched_keywords": [
+        "GPU",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Infosec community panics as Anthropic rolls out Claude code security checker",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 19:50:01 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/claude_code_security_panic/",
+      "matched_keywords": [
+        "Anthropic",
+        "ai"
+      ]
+    },
+    {
+      "title": "Microsoft execs worry AI will eat entry level coding jobs",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 18:01:42 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/microsoft_ai_entry_level_russinovich_hanselman/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Indie web browser Ladybird flutters toward Rust with a little help from AI",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 17:43:52 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/ladybird_goes_rusty/",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Global regulators say AI image tools don't get a free pass on privacy rules",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 16:03:38 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/privacy_watchdogs_ai_images/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Gemini users say their chat histories have quietly vanished",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 14:44:38 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/gemini_users_say_their_chat/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Altman: You think AI is wasted energy? Try raising 100 billion humans",
+      "source": "The Register",
+      "published": "Mon, 23 Feb 2026 12:56:30 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/sam_altman_ai_efficiency/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
       "title": "AWS says more than 600 FortiGate firewalls hit in AI-augmented campaign",
       "source": "The Register",
       "published": "Mon, 23 Feb 2026 11:41:47 GMT",
@@ -225,107 +354,6 @@
       "source": "The Register",
       "published": "Fri, 20 Feb 2026 14:00:19 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ai_blamed_again_as_hard_drives_sell_out/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "EFF policy says bots can code but humans must write the docs",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 12:55:56 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/eff_demands_human_documentation_as/",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "From Agile to AI: Anniversary workshop says test-driven development ideal for AI coding",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 11:11:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/from_agile_to_ai_anniversary/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ex-Google engineers accused of helping themselves to chip security secrets",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 10:45:49 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/google_ip_theft_charges/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Snyk CEO bails, wants someone with more AI experience to replace him",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 05:07:25 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/snyk_ceo_stands_down/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "India\u2019s top telco tackles AI with $110 billion build plan and proven fast market dominance playbook",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 03:11:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/jio_ai_plans_india_summit/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI agents abound, unbound by rules or safety disclosures",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 01:01:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ai_agents_abound_unbound_by/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google germinates Gemini 3.1 Pro in ongoing AI model race",
-      "source": "The Register",
-      "published": "Thu, 19 Feb 2026 19:57:48 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/google_germinates_gemini_31_pro/",
-      "matched_keywords": [
-        "AI",
-        "Google",
-        "model"
-      ]
-    },
-    {
-      "title": "Don't believe the hyperscalers! AI can't cure the climate crisis",
-      "source": "The Register",
-      "published": "Thu, 19 Feb 2026 18:23:34 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/ai_climate_crisis_claims/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Android malware taps Gemini to navigate infected devices",
-      "source": "The Register",
-      "published": "Thu, 19 Feb 2026 16:04:52 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/genai_malware_android/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "US tech giants open their wallets for AI-friendly politicians",
-      "source": "The Register",
-      "published": "Thu, 19 Feb 2026 13:59:31 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/us_tech_giants_pacs_for_politicos/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI agents can't teach themselves new tricks \u2013 only people can",
-      "source": "The Register",
-      "published": "Thu, 19 Feb 2026 12:07:05 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/ai_agents_cant_teach_themselves/",
       "matched_keywords": [
         "AI"
       ]
