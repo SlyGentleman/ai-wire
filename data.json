@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T12:05:01.164896+00:00",
+  "last_updated": "2026-02-25T12:05:01.928715+00:00",
   "entries": [
     {
       "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
@@ -127,6 +127,101 @@
       ]
     },
     {
+      "title": "Recycling biz reckons AI features are destroying smartphone resale values",
+      "source": "The Register",
+      "published": "Wed, 25 Feb 2026 11:22:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/ai_secondhand_phones/",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "OpenAI says Chinese cops used ChatGPT to plan and track smear ops against opponents",
+      "source": "The Register",
+      "published": "Wed, 25 Feb 2026 10:01:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/chinese_law_enforcement_chatgpt_abuse/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Orbital datacenters are a pie-in-the-sky idea: Gartner",
+      "source": "The Register",
+      "published": "Wed, 25 Feb 2026 02:47:54 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/gartner_orbiting_datacenter_peak_insanity/",
+      "matched_keywords": [
+        "compute"
+      ]
+    },
+    {
+      "title": "Workday CEO's AI talk can't shake off weaker sales forecast",
+      "source": "The Register",
+      "published": "Wed, 25 Feb 2026 01:02:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/workday_q4_2026/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "It's only Tuesday and AI chip startups have already soaked up $1.1B in funding",
+      "source": "The Register",
+      "published": "Wed, 25 Feb 2026 00:08:56 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/ai_chips_vc_funding_1point1billion/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Amazon would rather blame its own engineers than its AI",
+      "source": "The Register",
+      "published": "Tue, 24 Feb 2026 22:54:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/amazon_blame_human_not_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI has gotten good at finding bugs, not so good at swatting them",
+      "source": "The Register",
+      "published": "Tue, 24 Feb 2026 22:36:53 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/ai_finding_bugs/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "'Merica-made Mac Minis marked for manufacturing",
+      "source": "The Register",
+      "published": "Tue, 24 Feb 2026 19:26:56 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/apple_mac_mini_us/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Rogue devs of sideloaded Android apps beg for freedom from Google\u2019s verification regime",
+      "source": "The Register",
+      "published": "Tue, 24 Feb 2026 19:09:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/google_android_developer_verification_plan/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "AMD copy-pastes 6 GW chips-for-stock deal in new Meta agreement",
+      "source": "The Register",
+      "published": "Tue, 24 Feb 2026 16:19:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/amd_copypastes_openai_6gw_chipsforstock/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
       "title": "West Midlands Police earn red card over Copilot's imaginary football match",
       "source": "The Register",
       "published": "Tue, 24 Feb 2026 11:32:56 GMT",
@@ -151,6 +246,15 @@
       "source": "The Register",
       "published": "Tue, 24 Feb 2026 10:15:15 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/brit_tech_firms_face_falling/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft teases \u2018reimagined SharePoint experience\u2019 with added AI",
+      "source": "The Register",
+      "published": "Tue, 24 Feb 2026 07:03:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/microsoft_365_roadmap_update/",
       "matched_keywords": [
         "AI"
       ]
@@ -265,97 +369,12 @@
       ]
     },
     {
-      "title": "Infosys chair says AI will clean up legacy systems \u2013 then make more of them",
-      "source": "The Register",
-      "published": "Mon, 23 Feb 2026 04:13:36 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/asia_tech_news_roundup/",
+      "title": "Keebin\u2019 with Kristina: the One With the Uni-body That Does the Splits",
+      "source": "Hackaday",
+      "published": "Tue, 24 Feb 2026 18:00:41 +0000",
+      "link": "https://hackaday.com/2026/02/24/keebin-with-kristina-the-one-with-the-uni-body-that-does-the-splits/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Attacker gets into France's database listing all bank accounts, makes off with 1.2 million records",
-      "source": "The Register",
-      "published": "Sun, 22 Feb 2026 23:26:50 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/22/french_bank_hack/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "SerpApi says Google is the pot calling the kettle black when it comes to scraping",
-      "source": "The Register",
-      "published": "Sat, 21 Feb 2026 00:56:04 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/21/serpapi_google_scraping_lawsuit/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "The idea of using a Raspberry Pi to run OpenClaw makes no sense",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 23:31:20 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/raspberry_pi_meme_stock_disorder/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic: No, absolutely not, you may not use third-party harnesses with Claude subs",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 21:54:40 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/anthropic_clarifies_ban_third_party_claude_access/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "AI coding assistant Cline compromised to create more OpenClaw chaos",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 20:05:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/openclaw_snuck_into_cline_package/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cerebras plans humongous AI supercomputer in India backed by UAE",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 19:32:16 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/india_ai_supercomputer_cerebras_uae/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia",
-        "compute"
-      ]
-    },
-    {
-      "title": "Amazon's vibe-coding tool Kiro reportedly vibed too hard and brought down AWS",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 17:52:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/amazon_denies_kiro_agentic_ai_behind_outage/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Accenture tells staffers: If you want a promotion, use AI at work",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 14:15:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/accenture_tells_staffers_want_promotion/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Hard drives already sold out for this year \u2013 AI to blame",
-      "source": "The Register",
-      "published": "Fri, 20 Feb 2026 14:00:19 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ai_blamed_again_as_hard_drives_sell_out/",
-      "matched_keywords": [
-        "AI"
+        "Model"
       ]
     }
   ]
