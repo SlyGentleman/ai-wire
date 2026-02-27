@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T12:05:01.600067+00:00",
+  "last_updated": "2026-02-27T12:05:01.571237+00:00",
   "entries": [
     {
       "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
@@ -118,10 +118,77 @@
       ]
     },
     {
-      "title": "Developers say AI coding tools work\u2014and that's precisely what worries them",
-      "source": "Ars Technica",
-      "published": "Fri, 30 Jan 2026 19:04:15 +0000",
-      "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
+      "title": "Anthropic to Pentagon: Autonomous weapons could hurt US troops and civilians",
+      "source": "The Register",
+      "published": "Fri, 27 Feb 2026 02:33:48 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/anthropic_pentagon_response/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Jack Dorsey\u2019s fintech outfit Block announces 40% layoffs, blames AI, gets 23% stock bump",
+      "source": "The Register",
+      "published": "Fri, 27 Feb 2026 00:33:20 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/block_q4_2025_ai_layoffs/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ServiceNow boasts its AI bot is resolving 90% of its own help desk tickets",
+      "source": "The Register",
+      "published": "Thu, 26 Feb 2026 23:22:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/servicenow_ai_bot_helpdesk_tickets/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Burger King turns to AI to flame broil employees who aren't friendly enough",
+      "source": "The Register",
+      "published": "Thu, 26 Feb 2026 20:57:46 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/burger_kings_new_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI models still suck at math",
+      "source": "The Register",
+      "published": "Thu, 26 Feb 2026 20:42:33 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/ai_models_get_better_at/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic launches new marketing blog, pretends it's being 'written' by 'retired' LLM",
+      "source": "The Register",
+      "published": "Thu, 26 Feb 2026 18:26:33 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/anthropic_claude_opus_3_blog/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "LLM",
+        "model"
+      ]
+    },
+    {
+      "title": "Rapid AI-driven development makes security unattainable, warns Veracode",
+      "source": "The Register",
+      "published": "Thu, 26 Feb 2026 15:26:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/veracode_security_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Top cloud providers to outspend Ireland's GDP on AI in 2026",
+      "source": "The Register",
+      "published": "Thu, 26 Feb 2026 14:55:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/trendforce_cloud_ai_spend/",
       "matched_keywords": [
         "AI"
       ]
@@ -274,81 +341,6 @@
       "matched_keywords": [
         "AI",
         "LLM"
-      ]
-    },
-    {
-      "title": "OpenAI says Chinese cops used ChatGPT to plan and track smear ops against opponents",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 10:01:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/chinese_law_enforcement_chatgpt_abuse/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Orbital datacenters are a pie-in-the-sky idea: Gartner",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 02:47:54 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/gartner_orbiting_datacenter_peak_insanity/",
-      "matched_keywords": [
-        "compute"
-      ]
-    },
-    {
-      "title": "Workday CEO's AI talk can't shake off weaker sales forecast",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 01:02:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/workday_q4_2026/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "It's only Tuesday and AI chip startups have already soaked up $1.1B in funding",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 00:08:56 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/ai_chips_vc_funding_1point1billion/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Amazon would rather blame its own engineers than its AI",
-      "source": "The Register",
-      "published": "Tue, 24 Feb 2026 22:54:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/amazon_blame_human_not_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI has gotten good at finding bugs, not so good at swatting them",
-      "source": "The Register",
-      "published": "Tue, 24 Feb 2026 22:36:53 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/ai_finding_bugs/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "'Merica-made Mac Minis marked for manufacturing",
-      "source": "The Register",
-      "published": "Tue, 24 Feb 2026 19:26:56 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/apple_mac_mini_us/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Rogue devs of sideloaded Android apps beg for freedom from Google\u2019s verification regime",
-      "source": "The Register",
-      "published": "Tue, 24 Feb 2026 19:09:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/google_android_developer_verification_plan/",
-      "matched_keywords": [
-        "Google"
       ]
     }
   ]
