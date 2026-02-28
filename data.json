@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-02-27T12:05:01.571237+00:00",
+  "last_updated": "2026-02-28T12:05:01.795117+00:00",
   "entries": [
+    {
+      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+      "source": "Ars Technica",
+      "published": "Sat, 28 Feb 2026 01:26:41 +0000",
+      "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
     {
       "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
       "source": "Ars Technica",
@@ -109,10 +118,38 @@
       ]
     },
     {
-      "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
-      "source": "Ars Technica",
-      "published": "Fri, 30 Jan 2026 22:12:26 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
+      "title": "Trump orders purge of 'woke' Anthropic from government",
+      "source": "The Register",
+      "published": "Fri, 27 Feb 2026 22:39:31 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/trump_orders_purge_of_anthropic/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "PCs and phones to get more boring and expensive in 2026 thanks to memory drought",
+      "source": "The Register",
+      "published": "Fri, 27 Feb 2026 22:03:19 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/memory_drought_pcs_phones_suck/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Amazon and Nvidia open their wallets to lock in OpenAI's business while SoftBank keeps the lights on",
+      "source": "The Register",
+      "published": "Fri, 27 Feb 2026 20:08:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/amazon_nvidia_softbank_openai_megadeal/",
+      "matched_keywords": [
+        "Nvidia",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Oak Ridge spawns institute to curb AI datacenter power surge",
+      "source": "The Register",
+      "published": "Fri, 27 Feb 2026 18:56:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/oak_ridge_datacenter_power/",
       "matched_keywords": [
         "AI"
       ]
@@ -155,7 +192,7 @@
       ]
     },
     {
-      "title": "AI models still suck at math",
+      "title": "AI models suck slightly less at math than they did last year",
       "source": "The Register",
       "published": "Thu, 26 Feb 2026 20:42:33 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/ai_models_get_better_at/",
@@ -250,97 +287,13 @@
       ]
     },
     {
-      "title": "OpenAI asks its friends to tell their friends about Frontier",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 19:24:04 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/openai_asks_its_friends_to/",
+      "title": "AI Assistant Uses ESP32",
+      "source": "Hackaday",
+      "published": "Sat, 28 Feb 2026 00:00:29 +0000",
+      "link": "https://hackaday.com/2026/02/27/ai-assistant-uses-esp32/",
       "matched_keywords": [
         "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "All your bots are belong to US if you don't play ball, DoD tells Anthropic",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 18:43:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/pentagon_threatens_anthropic/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Hardly anybody bought Samsung's last smartphones for AI. It hopes this year's models change that",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 18:00:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/samsung_galaxy_s26_launch/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft boss on AI content: 'Nobody wants anything that is sloppy'",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 16:30:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/microsoft_boss_on_ai_content/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cloudflare experiment ports most of Next.js API 'in one week' with AI",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 16:14:05 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/cloudflare_nextjs_api_ai/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Firefox 148 adds master switch for browser bot bother",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 15:31:29 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/firefox_tbird_148/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Execs love AI, just not enough to pay for user training",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 15:24:02 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/few_firms_investing_in_the/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Worried Europeans can now cut Azure's phone cord completely",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 13:14:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/microsoft_azure_local/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Bcachefs creator insists his custom LLM is female and 'fully conscious'",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 12:30:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/bcachefs_creator_ai/",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "Recycling biz reckons AI features are destroying smartphone resale values",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 11:22:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/ai_secondhand_phones/",
-      "matched_keywords": [
-        "AI",
-        "LLM"
+        "ai"
       ]
     }
   ]
