@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-02-28T12:05:01.795117+00:00",
+  "last_updated": "2026-03-01T12:05:01.345081+00:00",
   "entries": [
     {
-      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
       "source": "Ars Technica",
       "published": "Sat, 28 Feb 2026 01:26:41 +0000",
       "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
@@ -113,6 +113,24 @@
       "source": "Ars Technica",
       "published": "Tue, 03 Feb 2026 12:00:01 +0000",
       "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenClaw, but in containers: Meet NanoClaw",
+      "source": "The Register",
+      "published": "Sun, 01 Mar 2026 11:30:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/01/nanoclaw_container_openclaw/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SaaS-pocalypse chatter is doomster pr0n. It would be nice if enterprise IT were boring again",
+      "source": "The Register",
+      "published": "Sun, 01 Mar 2026 08:38:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/01/saaspocalypse_opinion/",
       "matched_keywords": [
         "AI"
       ]
@@ -275,25 +293,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/llms_killed_privacy_star/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Google catches Beijing spies using Sheets to spread espionage across 4 continents",
-      "source": "The Register",
-      "published": "Wed, 25 Feb 2026 20:41:03 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/google_and_friends_disrupt_unc2814/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "AI Assistant Uses ESP32",
-      "source": "Hackaday",
-      "published": "Sat, 28 Feb 2026 00:00:29 +0000",
-      "link": "https://hackaday.com/2026/02/27/ai-assistant-uses-esp32/",
-      "matched_keywords": [
-        "AI",
-        "ai"
       ]
     }
   ]
