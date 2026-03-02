@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T12:05:01.345081+00:00",
+  "last_updated": "2026-03-02T12:05:01.552876+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -113,6 +113,44 @@
       "source": "Ars Technica",
       "published": "Tue, 03 Feb 2026 12:00:01 +0000",
       "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft's Project Silica promises eternal storage. It can't get there from here",
+      "source": "The Register",
+      "published": "Mon, 02 Mar 2026 10:13:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/microsoft_project_silica_opinion/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI\u2019s Altman says Pentagon set \u2018scary precedent\u2019 binning Anthropic",
+      "source": "The Register",
+      "published": "Mon, 02 Mar 2026 05:27:53 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/open_ai_dow_anthropic_ai_ethics/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Lenovo shows off snap-together laptop with removable keyboard, screen, and ports",
+      "source": "The Register",
+      "published": "Sun, 01 Mar 2026 23:01:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/01/lenovo_shows_off_modular_laptop/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AWS Middle East disrupted after \u2018objects struck datacenter\u2019 amid Iran war",
+      "source": "The Register",
+      "published": "Sun, 01 Mar 2026 22:49:04 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/01/asia_tech_news_roundup/",
       "matched_keywords": [
         "AI"
       ]
@@ -244,53 +282,6 @@
       "source": "The Register",
       "published": "Thu, 26 Feb 2026 14:55:15 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/trendforce_cloud_ai_spend/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Britain's creaking courts to use Copilot for transcriptions",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 09:30:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/copilot_courts_system/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AMD puts $250M into Nutanix to get it building an AI stack for its GPUs",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 05:55:54 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/nutanix_q2_2026/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia hasn't made a cent in China lately \u2013 and might not need to given $120B profit",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 01:28:47 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/nvidia_q4_2026/",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Claude collaboration tools left the door wide open to remote code execution",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 00:33:20 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/clade_code_cves/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "LLMs killed the privacy star, we can't rewind, we've gone too far",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 00:14:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/llms_killed_privacy_star/",
       "matched_keywords": [
         "AI"
       ]
