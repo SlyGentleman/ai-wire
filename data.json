@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T12:05:01.552876+00:00",
+  "last_updated": "2026-03-03T12:05:01.860352+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -118,6 +118,54 @@
       ]
     },
     {
+      "title": "Chrome Gemini panel became privilege escalator for rogue extensions",
+      "source": "The Register",
+      "published": "Tue, 03 Mar 2026 11:39:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/google_chrome_bug_gemini/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Claude having artificially intelligent hiccups and access lockouts for over two hours",
+      "source": "The Register",
+      "published": "Tue, 03 Mar 2026 05:25:52 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/claude_outage/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Huawei brings its flatpack AI datacenters, packed full of Chinese chips, to the world",
+      "source": "The Register",
+      "published": "Tue, 03 Mar 2026 02:49:25 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/huawei_takes_ai_datacenters_global/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia burns $4B to light up American photonics manufacturing",
+      "source": "The Register",
+      "published": "Mon, 02 Mar 2026 23:33:43 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/nvidia_4b_us_photonics_manufacturing/",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Qualcomm, Nvidia ready for 'AI-native' 6G, if only the world knew what it was",
+      "source": "The Register",
+      "published": "Mon, 02 Mar 2026 18:17:29 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/qualcomm_nvidia_ai_native_6g/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
       "title": "Microsoft's Project Silica promises eternal storage. It can't get there from here",
       "source": "The Register",
       "published": "Mon, 02 Mar 2026 10:13:06 GMT",
@@ -211,79 +259,13 @@
       ]
     },
     {
-      "title": "Anthropic to Pentagon: Autonomous weapons could hurt US troops and civilians",
-      "source": "The Register",
-      "published": "Fri, 27 Feb 2026 02:33:48 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/anthropic_pentagon_response/",
+      "title": "Building a Dependency-Free GPT on a Custom OS",
+      "source": "Hackaday",
+      "published": "Tue, 03 Mar 2026 09:00:07 +0000",
+      "link": "https://hackaday.com/2026/03/03/building-a-dependency-free-gpt-on-a-custom-os/",
       "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Jack Dorsey\u2019s fintech outfit Block announces 40% layoffs, blames AI, gets 23% stock bump",
-      "source": "The Register",
-      "published": "Fri, 27 Feb 2026 00:33:20 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/block_q4_2025_ai_layoffs/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ServiceNow boasts its AI bot is resolving 90% of its own help desk tickets",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 23:22:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/servicenow_ai_bot_helpdesk_tickets/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Burger King turns to AI to flame broil employees who aren't friendly enough",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 20:57:46 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/burger_kings_new_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI models suck slightly less at math than they did last year",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 20:42:33 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/ai_models_get_better_at/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic launches new marketing blog, pretends it's being 'written' by 'retired' LLM",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 18:26:33 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/anthropic_claude_opus_3_blog/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
         "LLM",
         "model"
-      ]
-    },
-    {
-      "title": "Rapid AI-driven development makes security unattainable, warns Veracode",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 15:26:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/veracode_security_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Top cloud providers to outspend Ireland's GDP on AI in 2026",
-      "source": "The Register",
-      "published": "Thu, 26 Feb 2026 14:55:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/trendforce_cloud_ai_spend/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
