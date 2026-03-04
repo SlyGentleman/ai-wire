@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T12:05:01.860352+00:00",
+  "last_updated": "2026-03-04T12:05:01.461370+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -109,10 +109,94 @@
       ]
     },
     {
-      "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
-      "source": "Ars Technica",
-      "published": "Tue, 03 Feb 2026 12:00:01 +0000",
-      "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
+      "title": "Doomscrollers despair after Oracle hiccup knocks TikTok offline in US",
+      "source": "The Register",
+      "published": "Wed, 04 Mar 2026 11:44:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/oracle_cloud_outage_tiktok/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Google feels the need for security speed, so will ship Chrome updates every two weeks",
+      "source": "The Register",
+      "published": "Wed, 04 Mar 2026 02:01:55 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/google_speeds_chrome_release_cadence/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "OpenAI says its latest model is less likely to beat around the bush",
+      "source": "The Register",
+      "published": "Wed, 04 Mar 2026 00:17:28 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/openai_dow_reset_gpt53_instant/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Nvidia-backed photonics startup Ayar Labs fills its wallet to mass-produce CPO chiplets",
+      "source": "The Register",
+      "published": "Tue, 03 Mar 2026 23:20:28 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/ayar_labs_500m/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Dev stunned by $82K Gemini bill after unknown API key thief goes to town",
+      "source": "The Register",
+      "published": "Tue, 03 Mar 2026 23:19:03 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/gemini_api_key_82314_dollar_charge/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Chat at your own risk! Data brokers are selling deeply personal bot transcripts",
+      "source": "The Register",
+      "published": "Tue, 03 Mar 2026 20:59:17 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/chatbot_data_harvesting_personal_info/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "CIOs say AI adoption is moving faster than they can manage",
+      "source": "The Register",
+      "published": "Tue, 03 Mar 2026 14:22:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/cios_say_ai_adoption_too_fast/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AWS backs Open VSX as Rust survey shows VS Code decline",
+      "source": "The Register",
+      "published": "Tue, 03 Mar 2026 14:05:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/open_vsx_aws/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite",
+      "source": "The Register",
+      "published": "Tue, 03 Mar 2026 14:01:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/perplexity_comet_browser_hole_cal_invite/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft reportedly eyes E7 tier to make AI agents pay their way \u2013 like the humans they'll replace",
+      "source": "The Register",
+      "published": "Tue, 03 Mar 2026 12:39:55 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/microsoft_365_e7_rumors/",
       "matched_keywords": [
         "AI"
       ]
@@ -163,109 +247,6 @@
       "matched_keywords": [
         "AI",
         "Nvidia"
-      ]
-    },
-    {
-      "title": "Microsoft's Project Silica promises eternal storage. It can't get there from here",
-      "source": "The Register",
-      "published": "Mon, 02 Mar 2026 10:13:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/microsoft_project_silica_opinion/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI\u2019s Altman says Pentagon set \u2018scary precedent\u2019 binning Anthropic",
-      "source": "The Register",
-      "published": "Mon, 02 Mar 2026 05:27:53 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/open_ai_dow_anthropic_ai_ethics/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Lenovo shows off snap-together laptop with removable keyboard, screen, and ports",
-      "source": "The Register",
-      "published": "Sun, 01 Mar 2026 23:01:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/01/lenovo_shows_off_modular_laptop/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AWS Middle East disrupted after \u2018objects struck datacenter\u2019 amid Iran war",
-      "source": "The Register",
-      "published": "Sun, 01 Mar 2026 22:49:04 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/01/asia_tech_news_roundup/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenClaw, but in containers: Meet NanoClaw",
-      "source": "The Register",
-      "published": "Sun, 01 Mar 2026 11:30:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/01/nanoclaw_container_openclaw/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "SaaS-pocalypse chatter is doomster pr0n. It would be nice if enterprise IT were boring again",
-      "source": "The Register",
-      "published": "Sun, 01 Mar 2026 08:38:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/01/saaspocalypse_opinion/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Trump orders purge of 'woke' Anthropic from government",
-      "source": "The Register",
-      "published": "Fri, 27 Feb 2026 22:39:31 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/trump_orders_purge_of_anthropic/",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "PCs and phones to get more boring and expensive in 2026 thanks to memory drought",
-      "source": "The Register",
-      "published": "Fri, 27 Feb 2026 22:03:19 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/memory_drought_pcs_phones_suck/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Amazon and Nvidia open their wallets to lock in OpenAI's business while SoftBank keeps the lights on",
-      "source": "The Register",
-      "published": "Fri, 27 Feb 2026 20:08:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/amazon_nvidia_softbank_openai_megadeal/",
-      "matched_keywords": [
-        "Nvidia",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Oak Ridge spawns institute to curb AI datacenter power surge",
-      "source": "The Register",
-      "published": "Fri, 27 Feb 2026 18:56:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/oak_ridge_datacenter_power/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Building a Dependency-Free GPT on a Custom OS",
-      "source": "Hackaday",
-      "published": "Tue, 03 Mar 2026 09:00:07 +0000",
-      "link": "https://hackaday.com/2026/03/03/building-a-dependency-free-gpt-on-a-custom-os/",
-      "matched_keywords": [
-        "LLM",
-        "model"
       ]
     }
   ]
