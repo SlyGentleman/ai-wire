@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T12:05:01.461370+00:00",
+  "last_updated": "2026-03-05T12:05:01.729984+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -109,6 +109,109 @@
       ]
     },
     {
+      "title": "CERN sends AI-trained robot mice scurrying through LHC beam pipes",
+      "source": "The Register",
+      "published": "Thu, 05 Mar 2026 11:00:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/robot_mice_lhc/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Supposedly big-brained execs are outsourcing decisionmaking to AI",
+      "source": "The Register",
+      "published": "Thu, 05 Mar 2026 09:00:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/execs_rely_on_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google embraces third party app stores and payments to put Epic Games case behind it",
+      "source": "The Register",
+      "published": "Thu, 05 Mar 2026 04:48:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/google_play_store_concessios/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Broadcom says AI companies can\u2019t make their own silicon any time soon",
+      "source": "The Register",
+      "published": "Thu, 05 Mar 2026 04:03:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/broadcom_q1_2026/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Malware-laced OpenClaw installers get Bing AI search boost",
+      "source": "The Register",
+      "published": "Wed, 04 Mar 2026 20:50:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/fake_openclaw_installers_malware/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "HR may have to cajole and soothe reluctant employees to get them to use AI",
+      "source": "The Register",
+      "published": "Wed, 04 Mar 2026 20:02:18 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/gartner_ai_hr_help/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI doctor's assistant is easily swayed to change prescriptions, give bad medical advice",
+      "source": "The Register",
+      "published": "Wed, 04 Mar 2026 18:33:55 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/ai_doctor_easily_swayed/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Flex appeal: UK datacenter cuts AI power draw 40% on command",
+      "source": "The Register",
+      "published": "Wed, 04 Mar 2026 14:37:35 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/demo_shows_datacenters_can_reduce/",
+      "matched_keywords": [
+        "AI",
+        "GPU"
+      ]
+    },
+    {
+      "title": "Kaspersky dismisses claims Coruna iPhone exploit kit is connected to NSA-linked operation",
+      "source": "The Register",
+      "published": "Wed, 04 Mar 2026 14:18:57 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/kaspersky_dismisses_claims_that_coruna/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Google stuffs Gemini into Android Studio Panda 2 to build apps from prompts",
+      "source": "The Register",
+      "published": "Wed, 04 Mar 2026 14:06:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/android_studio_panda_2/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Gram: Zed, but with AI and chat features removed",
+      "source": "The Register",
+      "published": "Wed, 04 Mar 2026 13:06:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/gram_cut_down_zed/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "Doomscrollers despair after Oracle hiccup knocks TikTok offline in US",
       "source": "The Register",
       "published": "Wed, 04 Mar 2026 11:44:08 GMT",
@@ -209,44 +312,6 @@
       "matched_keywords": [
         "AI",
         "Google"
-      ]
-    },
-    {
-      "title": "Claude having artificially intelligent hiccups and access lockouts for over two hours",
-      "source": "The Register",
-      "published": "Tue, 03 Mar 2026 05:25:52 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/claude_outage/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Huawei brings its flatpack AI datacenters, packed full of Chinese chips, to the world",
-      "source": "The Register",
-      "published": "Tue, 03 Mar 2026 02:49:25 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/huawei_takes_ai_datacenters_global/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia burns $4B to light up American photonics manufacturing",
-      "source": "The Register",
-      "published": "Mon, 02 Mar 2026 23:33:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/nvidia_4b_us_photonics_manufacturing/",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Qualcomm, Nvidia ready for 'AI-native' 6G, if only the world knew what it was",
-      "source": "The Register",
-      "published": "Mon, 02 Mar 2026 18:17:29 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/qualcomm_nvidia_ai_native_6g/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
       ]
     }
   ]
