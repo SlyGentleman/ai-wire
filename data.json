@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T12:05:01.729984+00:00",
+  "last_updated": "2026-03-06T12:05:01.969654+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -98,14 +98,77 @@
       ]
     },
     {
-      "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
-      "source": "Ars Technica",
-      "published": "Tue, 03 Feb 2026 22:44:15 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
+      "title": "Altman said no to military AI abuses \u2013 then signed Pentagon deal anyway",
+      "source": "The Register",
+      "published": "Fri, 06 Mar 2026 09:01:46 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/openai_dod_deal/",
       "matched_keywords": [
         "AI",
-        "Nvidia",
+        "Anthropic",
         "OpenAI"
+      ]
+    },
+    {
+      "title": "China\u2019s rubber-stamp parliament rubber stamps tech independence plan",
+      "source": "The Register",
+      "published": "Fri, 06 Mar 2026 01:23:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/china_two_sessions_tech_independence/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Chardet dispute shows how AI will kill software licensing, argues Bruce Perens",
+      "source": "The Register",
+      "published": "Fri, 06 Mar 2026 01:00:43 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/ai_kills_software_licensing/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google says spyware makers and China-linked groups dominated zero-day attacks last year",
+      "source": "The Register",
+      "published": "Thu, 05 Mar 2026 23:52:24 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/zero_day_attacks_enterprise_tech_record/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Okta CEO \u2018paranoid\u2019 as vibe coders stir SaaS-pocalypse fears",
+      "source": "The Register",
+      "published": "Thu, 05 Mar 2026 22:16:18 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/okta_ceo_paranoid_as_vibe/",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "Munificent 7 vow to spare US households from AI's rising energy costs",
+      "source": "The Register",
+      "published": "Thu, 05 Mar 2026 18:32:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/munificent_7_pledge_on_energy/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft Copilot to hijack your browser... for your own convenience",
+      "source": "The Register",
+      "published": "Thu, 05 Mar 2026 13:26:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/microsoft_adds_a_sidepane_for/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK watchdog eyes Meta's smart glasses after workers say they 'see everything'",
+      "source": "The Register",
+      "published": "Thu, 05 Mar 2026 12:18:03 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/ico_meta_glasses/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -221,97 +284,22 @@
       ]
     },
     {
-      "title": "Google feels the need for security speed, so will ship Chrome updates every two weeks",
-      "source": "The Register",
-      "published": "Wed, 04 Mar 2026 02:01:55 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/google_speeds_chrome_release_cadence/",
+      "title": "Prevent your Denon Receiver Turning on From Rogue Nvidia Shield CEC Requests",
+      "source": "Hackaday",
+      "published": "Fri, 06 Mar 2026 00:00:21 +0000",
+      "link": "https://hackaday.com/2026/03/05/prevent-your-denon-receiver-turning-on-from-rogue-nvidia-shield-cec-requests/",
       "matched_keywords": [
-        "Google"
+        "Nvidia",
+        "nvidia"
       ]
     },
     {
-      "title": "OpenAI says its latest model is less likely to beat around the bush",
-      "source": "The Register",
-      "published": "Wed, 04 Mar 2026 00:17:28 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/openai_dow_reset_gpt53_instant/",
+      "title": "Keebin\u2019 with Kristina: the One With the Beginner\u2019s Guide to Split Keyboards",
+      "source": "Hackaday",
+      "published": "Thu, 05 Mar 2026 18:00:02 +0000",
+      "link": "https://hackaday.com/2026/03/05/keebin-with-kristina-the-one-with-the-beginners-guide-to-split-keyboards/",
       "matched_keywords": [
-        "AI",
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "Nvidia-backed photonics startup Ayar Labs fills its wallet to mass-produce CPO chiplets",
-      "source": "The Register",
-      "published": "Tue, 03 Mar 2026 23:20:28 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/ayar_labs_500m/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Dev stunned by $82K Gemini bill after unknown API key thief goes to town",
-      "source": "The Register",
-      "published": "Tue, 03 Mar 2026 23:19:03 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/gemini_api_key_82314_dollar_charge/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Chat at your own risk! Data brokers are selling deeply personal bot transcripts",
-      "source": "The Register",
-      "published": "Tue, 03 Mar 2026 20:59:17 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/chatbot_data_harvesting_personal_info/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "CIOs say AI adoption is moving faster than they can manage",
-      "source": "The Register",
-      "published": "Tue, 03 Mar 2026 14:22:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/cios_say_ai_adoption_too_fast/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AWS backs Open VSX as Rust survey shows VS Code decline",
-      "source": "The Register",
-      "published": "Tue, 03 Mar 2026 14:05:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/open_vsx_aws/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite",
-      "source": "The Register",
-      "published": "Tue, 03 Mar 2026 14:01:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/perplexity_comet_browser_hole_cal_invite/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft reportedly eyes E7 tier to make AI agents pay their way \u2013 like the humans they'll replace",
-      "source": "The Register",
-      "published": "Tue, 03 Mar 2026 12:39:55 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/microsoft_365_e7_rumors/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Chrome Gemini panel became privilege escalator for rogue extensions",
-      "source": "The Register",
-      "published": "Tue, 03 Mar 2026 11:39:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/google_chrome_bug_gemini/",
-      "matched_keywords": [
-        "AI",
-        "Google"
+        "Model"
       ]
     }
   ]
