@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T12:05:01.969654+00:00",
+  "last_updated": "2026-03-08T11:05:01.186604+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -88,13 +88,100 @@
       ]
     },
     {
-      "title": "Should AI chatbots have ads? Anthropic says no.",
-      "source": "Ars Technica",
-      "published": "Wed, 04 Feb 2026 21:15:07 +0000",
-      "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+      "title": "AI agents now help attackers, including North Korea, manage their drudge work",
+      "source": "The Register",
+      "published": "Sun, 08 Mar 2026 11:00:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/08/deploy_and_manage_attack_infrastructure/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Unpacking the deceptively simple science of tokenomics",
+      "source": "The Register",
+      "published": "Sat, 07 Mar 2026 12:12:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/07/ai_inference_economics/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Brits fear AI will strip the human touch from public services",
+      "source": "The Register",
+      "published": "Sat, 07 Mar 2026 11:01:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/07/ai_public_sector_poll/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Oracle and OpenAI's Texas Stargate datacenter expansion reportedly on the skids",
+      "source": "The Register",
+      "published": "Sat, 07 Mar 2026 00:51:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/07/openai_oracle_dc/",
+      "matched_keywords": [
+        "Nvidia",
+        "OpenAI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Anthropic bods rework AI damage yardstick, find scant labor impact",
+      "source": "The Register",
+      "published": "Sat, 07 Mar 2026 00:07:18 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/07/anthropic_bods_rework_ai_damage/",
       "matched_keywords": [
         "AI",
         "Anthropic"
+      ]
+    },
+    {
+      "title": "Don\u2019t blame AI yet for poor jobs numbers, analysts say",
+      "source": "The Register",
+      "published": "Fri, 06 Mar 2026 23:24:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/dont_blame_ai_for_unemployment_yet/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits",
+      "source": "The Register",
+      "published": "Fri, 06 Mar 2026 20:41:44 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/firefox_bugs_anthropic_ai/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic sues US government after unprecedented national security designation",
+      "source": "The Register",
+      "published": "Fri, 06 Mar 2026 14:37:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/anthropic_left_with_no_other/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Washington reportedly moves to tighten leash on AI chip exports",
+      "source": "The Register",
+      "published": "Fri, 06 Mar 2026 13:51:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/us_ai_chips_restrictions/",
+      "matched_keywords": [
+        "AI",
+        "GPU",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "UK peers warn weakening AI copyright law could hammer creative industries",
+      "source": "The Register",
+      "published": "Fri, 06 Mar 2026 13:31:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/lords_ai_copyright/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -207,99 +294,6 @@
         "AI",
         "Anthropic",
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Malware-laced OpenClaw installers get Bing AI search boost",
-      "source": "The Register",
-      "published": "Wed, 04 Mar 2026 20:50:49 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/fake_openclaw_installers_malware/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "HR may have to cajole and soothe reluctant employees to get them to use AI",
-      "source": "The Register",
-      "published": "Wed, 04 Mar 2026 20:02:18 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/gartner_ai_hr_help/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI doctor's assistant is easily swayed to change prescriptions, give bad medical advice",
-      "source": "The Register",
-      "published": "Wed, 04 Mar 2026 18:33:55 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/ai_doctor_easily_swayed/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Flex appeal: UK datacenter cuts AI power draw 40% on command",
-      "source": "The Register",
-      "published": "Wed, 04 Mar 2026 14:37:35 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/demo_shows_datacenters_can_reduce/",
-      "matched_keywords": [
-        "AI",
-        "GPU"
-      ]
-    },
-    {
-      "title": "Kaspersky dismisses claims Coruna iPhone exploit kit is connected to NSA-linked operation",
-      "source": "The Register",
-      "published": "Wed, 04 Mar 2026 14:18:57 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/kaspersky_dismisses_claims_that_coruna/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Google stuffs Gemini into Android Studio Panda 2 to build apps from prompts",
-      "source": "The Register",
-      "published": "Wed, 04 Mar 2026 14:06:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/android_studio_panda_2/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Gram: Zed, but with AI and chat features removed",
-      "source": "The Register",
-      "published": "Wed, 04 Mar 2026 13:06:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/gram_cut_down_zed/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Doomscrollers despair after Oracle hiccup knocks TikTok offline in US",
-      "source": "The Register",
-      "published": "Wed, 04 Mar 2026 11:44:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/oracle_cloud_outage_tiktok/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Prevent your Denon Receiver Turning on From Rogue Nvidia Shield CEC Requests",
-      "source": "Hackaday",
-      "published": "Fri, 06 Mar 2026 00:00:21 +0000",
-      "link": "https://hackaday.com/2026/03/05/prevent-your-denon-receiver-turning-on-from-rogue-nvidia-shield-cec-requests/",
-      "matched_keywords": [
-        "Nvidia",
-        "nvidia"
-      ]
-    },
-    {
-      "title": "Keebin\u2019 with Kristina: the One With the Beginner\u2019s Guide to Split Keyboards",
-      "source": "Hackaday",
-      "published": "Thu, 05 Mar 2026 18:00:02 +0000",
-      "link": "https://hackaday.com/2026/03/05/keebin-with-kristina-the-one-with-the-beginners-guide-to-split-keyboards/",
-      "matched_keywords": [
-        "Model"
       ]
     }
   ]
