@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T11:05:01.186604+00:00",
+  "last_updated": "2026-03-09T11:05:01.664135+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -83,6 +83,15 @@
       "source": "Ars Technica",
       "published": "Thu, 05 Feb 2026 14:21:20 +0000",
       "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Beijing warns of more chip supply worries after Nexperia China claims it was cut off from SAP",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 01:13:48 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/asia_tech_news_roundup/",
       "matched_keywords": [
         "AI"
       ]
@@ -241,59 +250,21 @@
       ]
     },
     {
-      "title": "Microsoft Copilot to hijack your browser... for your own convenience",
-      "source": "The Register",
-      "published": "Thu, 05 Mar 2026 13:26:49 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/microsoft_adds_a_sidepane_for/",
+      "title": "Building an Analogue Computer to Simulate Neurons",
+      "source": "Hackaday",
+      "published": "Mon, 09 Mar 2026 05:00:00 +0000",
+      "link": "https://hackaday.com/2026/03/08/building-an-analogue-computer-to-simulate-neurons/",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "How Usable is Windows 98 in 2026?",
+      "source": "Hackaday",
+      "published": "Sun, 08 Mar 2026 20:00:00 +0000",
+      "link": "https://hackaday.com/2026/03/08/how-usable-is-windows-98-in-2026/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "UK watchdog eyes Meta's smart glasses after workers say they 'see everything'",
-      "source": "The Register",
-      "published": "Thu, 05 Mar 2026 12:18:03 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/ico_meta_glasses/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "CERN sends AI-trained robot mice scurrying through LHC beam pipes",
-      "source": "The Register",
-      "published": "Thu, 05 Mar 2026 11:00:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/robot_mice_lhc/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Supposedly big-brained execs are outsourcing decisionmaking to AI",
-      "source": "The Register",
-      "published": "Thu, 05 Mar 2026 09:00:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/execs_rely_on_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google embraces third party app stores and payments to put Epic Games case behind it",
-      "source": "The Register",
-      "published": "Thu, 05 Mar 2026 04:48:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/google_play_store_concessios/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Broadcom says AI companies can\u2019t make their own silicon any time soon",
-      "source": "The Register",
-      "published": "Thu, 05 Mar 2026 04:03:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/broadcom_q1_2026/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
       ]
     }
   ]
