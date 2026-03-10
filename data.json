@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T11:05:01.664135+00:00",
+  "last_updated": "2026-03-10T11:05:01.198750+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -83,6 +83,116 @@
       "source": "Ars Technica",
       "published": "Thu, 05 Feb 2026 14:21:20 +0000",
       "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Brit competition cops warn AI agents may not be 'faithful servants' to consumers",
+      "source": "The Register",
+      "published": "Tue, 10 Mar 2026 09:30:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/cma_ai_agents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Palantir\u2019s lethal AI weaponry deployed to find chairs for US government staff",
+      "source": "The Register",
+      "published": "Tue, 10 Mar 2026 01:25:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/palantir_usda_seating_software/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic debuts pricey and sluggish automated Code Review tool",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 23:06:33 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/anthropic_debuts_code_review/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AI vs AI: Agent hacked McKinsey's chatbot and gained full read-write access in just two hours",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 22:22:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/mckinsey_ai_chatbot_hacked/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Moody humans should let AI handle bad public feedback first, study finds",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 20:19:29 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/ai_negative_reviews/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft taps Claude to make Copilot Cowork a better agent",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 19:26:41 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/microsoft_taps_claude_copilot_cowork/",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Amazon tells FCC to bin SpaceX's million-satellite datacenter dream",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 18:08:19 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/amazon_petitions_to_block_spacexs/",
+      "matched_keywords": [
+        "compute"
+      ]
+    },
+    {
+      "title": "'AI brain fry' affects employees managing too many agents",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 17:13:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/ai_brain_fry_managing_agents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft 365 confirms new premium tier, stuffed with AI and few discounts",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 16:28:37 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/microsoft_adds_a_premium_tier/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ex-Meta execs pop up on Nscale board as rent-a-GPU firm raises $2B",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 13:40:22 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/nscale_board_picks/",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 11:58:46 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/claude_legacy_code_vulns/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Musk's Grok sparks outrage after chatbot makes offensive jibes about football disasters",
+      "source": "The Register",
+      "published": "Mon, 09 Mar 2026 11:14:52 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/grok_football_controvery/",
       "matched_keywords": [
         "AI"
       ]
@@ -185,86 +295,13 @@
       ]
     },
     {
-      "title": "UK peers warn weakening AI copyright law could hammer creative industries",
-      "source": "The Register",
-      "published": "Fri, 06 Mar 2026 13:31:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/lords_ai_copyright/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Altman said no to military AI abuses \u2013 then signed Pentagon deal anyway",
-      "source": "The Register",
-      "published": "Fri, 06 Mar 2026 09:01:46 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/openai_dod_deal/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "China\u2019s rubber-stamp parliament rubber stamps tech independence plan",
-      "source": "The Register",
-      "published": "Fri, 06 Mar 2026 01:23:00 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/china_two_sessions_tech_independence/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Chardet dispute shows how AI will kill software licensing, argues Bruce Perens",
-      "source": "The Register",
-      "published": "Fri, 06 Mar 2026 01:00:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/ai_kills_software_licensing/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google says spyware makers and China-linked groups dominated zero-day attacks last year",
-      "source": "The Register",
-      "published": "Thu, 05 Mar 2026 23:52:24 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/zero_day_attacks_enterprise_tech_record/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Okta CEO \u2018paranoid\u2019 as vibe coders stir SaaS-pocalypse fears",
-      "source": "The Register",
-      "published": "Thu, 05 Mar 2026 22:16:18 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/okta_ceo_paranoid_as_vibe/",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "Munificent 7 vow to spare US households from AI's rising energy costs",
-      "source": "The Register",
-      "published": "Thu, 05 Mar 2026 18:32:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/munificent_7_pledge_on_energy/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Building an Analogue Computer to Simulate Neurons",
+      "title": "Ask Hackaday: What Will An LLM Be Good For In The Plateau of Productivity?",
       "source": "Hackaday",
-      "published": "Mon, 09 Mar 2026 05:00:00 +0000",
-      "link": "https://hackaday.com/2026/03/08/building-an-analogue-computer-to-simulate-neurons/",
+      "published": "Mon, 09 Mar 2026 17:00:57 +0000",
+      "link": "https://hackaday.com/2026/03/09/ask-hackaday-what-will-an-llm-be-good-for-in-the-plateau-of-productivity/",
       "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "How Usable is Windows 98 in 2026?",
-      "source": "Hackaday",
-      "published": "Sun, 08 Mar 2026 20:00:00 +0000",
-      "link": "https://hackaday.com/2026/03/08/how-usable-is-windows-98-in-2026/",
-      "matched_keywords": [
-        "AI"
+        "LLM",
+        "llm"
       ]
     }
   ]
