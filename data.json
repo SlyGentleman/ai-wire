@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T11:05:01.198750+00:00",
+  "last_updated": "2026-03-11T11:05:01.506271+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -83,6 +83,88 @@
       "source": "Ars Technica",
       "published": "Thu, 05 Feb 2026 14:21:20 +0000",
       "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Your datacenter's power architecture called. It's not happy",
+      "source": "The Register",
+      "published": "Wed, 11 Mar 2026 11:00:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/your_datacenters_power_architecture_called/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI has made the Command Line Interface more important and powerful than ever before",
+      "source": "The Register",
+      "published": "Wed, 11 Mar 2026 07:28:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/ai_needs_command_line_interface/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Oracle says AI coding tools are helping it dodge the SaaSpocalypse",
+      "source": "The Register",
+      "published": "Wed, 11 Mar 2026 05:24:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/oracle_says_ai_coding_tools/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AIOps is so powerful, vendors are building tools to clean up after agents break your infrastructure",
+      "source": "The Register",
+      "published": "Tue, 10 Mar 2026 23:31:29 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/agentic_ai_rollback_recovery_cohesity/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Amazon insists AI coding isn't source of outages",
+      "source": "The Register",
+      "published": "Tue, 10 Mar 2026 19:44:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/amazon_ai_coding_outages/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI nonsense finds new home as Meta acquires Moltbook",
+      "source": "The Register",
+      "published": "Tue, 10 Mar 2026 19:21:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/ai_nonsense_finds_new_home/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI datacenters may gulp a New York City's worth of water on hot days",
+      "source": "The Register",
+      "published": "Tue, 10 Mar 2026 17:07:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/us_datacenters_water_consumption/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "JetBrains launches AI agent IDE built on the corpse of abandoned Fleet",
+      "source": "The Register",
+      "published": "Tue, 10 Mar 2026 16:38:30 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/jetbrains_previews_air_proclaims_new/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Sorry, kids. Memory crunch threatens to kneecap Chromebook shipments",
+      "source": "The Register",
+      "published": "Tue, 10 Mar 2026 14:23:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/memory_chromebooks_pcs/",
       "matched_keywords": [
         "AI"
       ]
@@ -186,122 +268,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/claude_legacy_code_vulns/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Musk's Grok sparks outrage after chatbot makes offensive jibes about football disasters",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 11:14:52 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/grok_football_controvery/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Beijing warns of more chip supply worries after Nexperia China claims it was cut off from SAP",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 01:13:48 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/asia_tech_news_roundup/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI agents now help attackers, including North Korea, manage their drudge work",
-      "source": "The Register",
-      "published": "Sun, 08 Mar 2026 11:00:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/08/deploy_and_manage_attack_infrastructure/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Unpacking the deceptively simple science of tokenomics",
-      "source": "The Register",
-      "published": "Sat, 07 Mar 2026 12:12:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/07/ai_inference_economics/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Brits fear AI will strip the human touch from public services",
-      "source": "The Register",
-      "published": "Sat, 07 Mar 2026 11:01:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/07/ai_public_sector_poll/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Oracle and OpenAI's Texas Stargate datacenter expansion reportedly on the skids",
-      "source": "The Register",
-      "published": "Sat, 07 Mar 2026 00:51:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/07/openai_oracle_dc/",
-      "matched_keywords": [
-        "Nvidia",
-        "OpenAI",
-        "compute"
-      ]
-    },
-    {
-      "title": "Anthropic bods rework AI damage yardstick, find scant labor impact",
-      "source": "The Register",
-      "published": "Sat, 07 Mar 2026 00:07:18 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/07/anthropic_bods_rework_ai_damage/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Don\u2019t blame AI yet for poor jobs numbers, analysts say",
-      "source": "The Register",
-      "published": "Fri, 06 Mar 2026 23:24:00 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/dont_blame_ai_for_unemployment_yet/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits",
-      "source": "The Register",
-      "published": "Fri, 06 Mar 2026 20:41:44 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/firefox_bugs_anthropic_ai/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic sues US government after unprecedented national security designation",
-      "source": "The Register",
-      "published": "Fri, 06 Mar 2026 14:37:50 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/anthropic_left_with_no_other/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Washington reportedly moves to tighten leash on AI chip exports",
-      "source": "The Register",
-      "published": "Fri, 06 Mar 2026 13:51:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/us_ai_chips_restrictions/",
-      "matched_keywords": [
-        "AI",
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Ask Hackaday: What Will An LLM Be Good For In The Plateau of Productivity?",
-      "source": "Hackaday",
-      "published": "Mon, 09 Mar 2026 17:00:57 +0000",
-      "link": "https://hackaday.com/2026/03/09/ask-hackaday-what-will-an-llm-be-good-for-in-the-plateau-of-productivity/",
-      "matched_keywords": [
-        "LLM",
-        "llm"
       ]
     }
   ]
