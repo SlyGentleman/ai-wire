@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T11:05:01.506271+00:00",
+  "last_updated": "2026-03-12T11:05:01.214431+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -88,6 +88,99 @@
       ]
     },
     {
+      "title": "So much for power to the people \u2013 AI datacenters could jump UK grid queue",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 10:15:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/uk_datacenter_grid_priority/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Whitehall seeks lone C++ coder to keep airport passenger model flying",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 09:30:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/100k_tender_napam/",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "Meta reveals four Broadcom-built custom AI chips, claims some outperform commercial silicon",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 04:49:37 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/meta_custom_chips/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "China\u2019s CERT warns OpenClaw can inflict nasty wounds",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 01:37:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/china_cert_openclaw_security_warning/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Atlassian to shed ten percent of staff, because AI",
+      "source": "The Register",
+      "published": "Wed, 11 Mar 2026 23:37:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/atlassian_layoffs/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Perplexity Comet hurtling toward Amazon ban",
+      "source": "The Register",
+      "published": "Wed, 11 Mar 2026 23:26:18 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/perplexity_comet_amazon_ban/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Iran plots 'infrastructure warfare' against US tech giants",
+      "source": "The Register",
+      "published": "Wed, 11 Mar 2026 22:18:44 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/iran_threatens_us_tech_companies/",
+      "matched_keywords": [
+        "Google",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Meta, international cops use handcuffs and AI to stop scammers",
+      "source": "The Register",
+      "published": "Wed, 11 Mar 2026 17:21:30 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/meta_international_cops_ai_scammers/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ayar Labs taps Wiwynn to cram 1,024 GPUs into a photonic rack system",
+      "source": "The Register",
+      "published": "Wed, 11 Mar 2026 13:01:20 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/ayar_labs_wiwynn_photonics/",
+      "matched_keywords": [
+        "GPU",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Microsoft ships VS Code weekly, adds Autopilot mode so AI can wreak havoc without bothering you",
+      "source": "The Register",
+      "published": "Wed, 11 Mar 2026 12:38:57 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/visual_studio_code_moves_to/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
       "title": "Your datacenter's power architecture called. It's not happy",
       "source": "The Register",
       "published": "Wed, 11 Mar 2026 11:00:08 GMT",
@@ -165,107 +258,6 @@
       "source": "The Register",
       "published": "Tue, 10 Mar 2026 14:23:11 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/memory_chromebooks_pcs/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Brit competition cops warn AI agents may not be 'faithful servants' to consumers",
-      "source": "The Register",
-      "published": "Tue, 10 Mar 2026 09:30:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/cma_ai_agents/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Palantir\u2019s lethal AI weaponry deployed to find chairs for US government staff",
-      "source": "The Register",
-      "published": "Tue, 10 Mar 2026 01:25:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/palantir_usda_seating_software/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic debuts pricey and sluggish automated Code Review tool",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 23:06:33 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/anthropic_debuts_code_review/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AI vs AI: Agent hacked McKinsey's chatbot and gained full read-write access in just two hours",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 22:22:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/mckinsey_ai_chatbot_hacked/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Moody humans should let AI handle bad public feedback first, study finds",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 20:19:29 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/ai_negative_reviews/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft taps Claude to make Copilot Cowork a better agent",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 19:26:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/microsoft_taps_claude_copilot_cowork/",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Amazon tells FCC to bin SpaceX's million-satellite datacenter dream",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 18:08:19 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/amazon_petitions_to_block_spacexs/",
-      "matched_keywords": [
-        "compute"
-      ]
-    },
-    {
-      "title": "'AI brain fry' affects employees managing too many agents",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 17:13:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/ai_brain_fry_managing_agents/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft 365 confirms new premium tier, stuffed with AI and few discounts",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 16:28:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/microsoft_adds_a_premium_tier/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ex-Meta execs pop up on Nscale board as rent-a-GPU firm raises $2B",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 13:40:22 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/nscale_board_picks/",
-      "matched_keywords": [
-        "GPU"
-      ]
-    },
-    {
-      "title": "Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns",
-      "source": "The Register",
-      "published": "Mon, 09 Mar 2026 11:58:46 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/claude_legacy_code_vulns/",
       "matched_keywords": [
         "AI"
       ]
