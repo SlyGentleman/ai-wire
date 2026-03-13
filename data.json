@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T11:05:01.214431+00:00",
+  "last_updated": "2026-03-13T11:05:01.978185+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -79,12 +79,96 @@
       ]
     },
     {
-      "title": "Increase of AI bots on the Internet sparks arms race",
-      "source": "Ars Technica",
-      "published": "Thu, 05 Feb 2026 14:21:20 +0000",
-      "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+      "title": "AI Burning Man happens next week \u2013 here's what <i>The Register</i> expects at GTC 2026",
+      "source": "The Register",
+      "published": "Fri, 13 Mar 2026 06:30:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nvidia_gtc_2026_preview_tobias_mann_register/",
+      "matched_keywords": [
+        "AI",
+        "GPU",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Prince of PDFs, Adobe CEO Shantanu Narayen, to step down after 18 years",
+      "source": "The Register",
+      "published": "Fri, 13 Mar 2026 04:22:47 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/adobe_q1_2026/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Pentagon AI chief praises Palantir tech for speeding battlefield strikes",
+      "source": "The Register",
+      "published": "Fri, 13 Mar 2026 01:00:30 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Rogue AI agents can work together to hack systems and steal secrets",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 23:49:32 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/rogue_ai_agents_worked_together/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Perplexity: Everything is Computer, everything is AI, Computer is everything, AI is us",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 22:39:04 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/perplexity_extends_cloud_computer_to_enterprise/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft Copilot now boarding your health information",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 19:17:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/microsoft_copilot_health/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Oracle tops up restructuring fund for FY26 by $500M",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 16:00:39 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/oracle_increases_restructuring_fund_for/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Musk makes the Macrohard joke again",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 15:33:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/musk_macrohard/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Users protest as Google Antigravity price floats upward",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 14:36:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/users_protest_as_google_antigravity/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Fresh indie broadband provider incoming as Google's fiber biz and Stonepeak\u2019s Astound merge",
+      "source": "The Register",
+      "published": "Thu, 12 Mar 2026 13:22:57 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/googles_fiber_biz_and_stonepeaks/",
+      "matched_keywords": [
+        "Google"
       ]
     },
     {
@@ -190,76 +274,13 @@
       ]
     },
     {
-      "title": "AI has made the Command Line Interface more important and powerful than ever before",
-      "source": "The Register",
-      "published": "Wed, 11 Mar 2026 07:28:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/ai_needs_command_line_interface/",
+      "title": "Controlling Vintage Mac OS With AI",
+      "source": "Hackaday",
+      "published": "Thu, 12 Mar 2026 15:30:50 +0000",
+      "link": "https://hackaday.com/2026/03/12/controlling-vintage-mac-os-with-ai/",
       "matched_keywords": [
         "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Oracle says AI coding tools are helping it dodge the SaaSpocalypse",
-      "source": "The Register",
-      "published": "Wed, 11 Mar 2026 05:24:49 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/oracle_says_ai_coding_tools/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AIOps is so powerful, vendors are building tools to clean up after agents break your infrastructure",
-      "source": "The Register",
-      "published": "Tue, 10 Mar 2026 23:31:29 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/agentic_ai_rollback_recovery_cohesity/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Amazon insists AI coding isn't source of outages",
-      "source": "The Register",
-      "published": "Tue, 10 Mar 2026 19:44:45 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/amazon_ai_coding_outages/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI nonsense finds new home as Meta acquires Moltbook",
-      "source": "The Register",
-      "published": "Tue, 10 Mar 2026 19:21:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/ai_nonsense_finds_new_home/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI datacenters may gulp a New York City's worth of water on hot days",
-      "source": "The Register",
-      "published": "Tue, 10 Mar 2026 17:07:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/us_datacenters_water_consumption/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "JetBrains launches AI agent IDE built on the corpse of abandoned Fleet",
-      "source": "The Register",
-      "published": "Tue, 10 Mar 2026 16:38:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/jetbrains_previews_air_proclaims_new/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Sorry, kids. Memory crunch threatens to kneecap Chromebook shipments",
-      "source": "The Register",
-      "published": "Tue, 10 Mar 2026 14:23:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/memory_chromebooks_pcs/",
-      "matched_keywords": [
-        "AI"
+        "ai"
       ]
     }
   ]
