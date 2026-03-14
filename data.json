@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T11:05:01.978185+00:00",
+  "last_updated": "2026-03-14T11:05:02.039095+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -68,18 +68,45 @@
       ]
     },
     {
-      "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
-      "source": "Ars Technica",
-      "published": "Thu, 05 Feb 2026 17:46:59 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
+      "title": "Claude charts a new course with charts, of course",
+      "source": "The Register",
+      "published": "Fri, 13 Mar 2026 22:36:24 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/claude_charts_a_new_course/",
       "matched_keywords": [
         "AI",
-        "Anthropic",
-        "OpenAI"
+        "Anthropic"
       ]
     },
     {
-      "title": "AI Burning Man happens next week \u2013 here's what <i>The Register</i> expects at GTC 2026",
+      "title": "Azure startup credits don't apply to Claude via Azure AI Foundry, reader finds \u2013 after $1,600 charge",
+      "source": "The Register",
+      "published": "Fri, 13 Mar 2026 13:13:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/a_cautionary_tale_azure_startup_credits/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "NanoClaw latches onto Docker Sandboxes for safer AI agents",
+      "source": "The Register",
+      "published": "Fri, 13 Mar 2026 11:50:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nanoclaw_latches_onto_docker_sandboxes/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google rushes Chrome update fixing two zero-days already under attack",
+      "source": "The Register",
+      "published": "Fri, 13 Mar 2026 11:25:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/google_zeroday_chrome_update/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "AI Burning Man happens next week \u2013what to expect at Nvidia GTC 2026",
       "source": "The Register",
       "published": "Fri, 13 Mar 2026 06:30:06 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nvidia_gtc_2026_preview_tobias_mann_register/",
@@ -233,54 +260,6 @@
       "matched_keywords": [
         "Google",
         "Nvidia"
-      ]
-    },
-    {
-      "title": "Meta, international cops use handcuffs and AI to stop scammers",
-      "source": "The Register",
-      "published": "Wed, 11 Mar 2026 17:21:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/meta_international_cops_ai_scammers/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ayar Labs taps Wiwynn to cram 1,024 GPUs into a photonic rack system",
-      "source": "The Register",
-      "published": "Wed, 11 Mar 2026 13:01:20 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/ayar_labs_wiwynn_photonics/",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Microsoft ships VS Code weekly, adds Autopilot mode so AI can wreak havoc without bothering you",
-      "source": "The Register",
-      "published": "Wed, 11 Mar 2026 12:38:57 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/visual_studio_code_moves_to/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Your datacenter's power architecture called. It's not happy",
-      "source": "The Register",
-      "published": "Wed, 11 Mar 2026 11:00:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/your_datacenters_power_architecture_called/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Controlling Vintage Mac OS With AI",
-      "source": "Hackaday",
-      "published": "Thu, 12 Mar 2026 15:30:50 +0000",
-      "link": "https://hackaday.com/2026/03/12/controlling-vintage-mac-os-with-ai/",
-      "matched_keywords": [
-        "AI",
-        "ai"
       ]
     }
   ]
