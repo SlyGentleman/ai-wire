@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T11:05:02.039095+00:00",
+  "last_updated": "2026-03-15T11:05:01.888911+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -250,16 +250,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/perplexity_comet_amazon_ban/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Iran plots 'infrastructure warfare' against US tech giants",
-      "source": "The Register",
-      "published": "Wed, 11 Mar 2026 22:18:44 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/iran_threatens_us_tech_companies/",
-      "matched_keywords": [
-        "Google",
-        "Nvidia"
       ]
     }
   ]
