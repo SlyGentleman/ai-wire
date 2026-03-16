@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T11:05:01.888911+00:00",
+  "last_updated": "2026-03-16T11:05:01.569857+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -65,6 +65,35 @@
       "matched_keywords": [
         "AI",
         "OpenAI"
+      ]
+    },
+    {
+      "title": "India tests whether AI can stop trains hitting elephants",
+      "source": "The Register",
+      "published": "Mon, 16 Mar 2026 00:57:33 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/asia_tech_news_roundup/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Outsourcer Telus admits to attack \u2013 may have lost a petabyte of data to ShinyHunters",
+      "source": "The Register",
+      "published": "Sun, 15 Mar 2026 23:24:51 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/15/telus_breach_starbucks_attack/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia GTC will be full of surprises - just not for the consumer class",
+      "source": "The Register",
+      "published": "Sun, 15 Mar 2026 22:00:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/15/nvidia_gtc_will_be_full/",
+      "matched_keywords": [
+        "AI",
+        "GPU",
+        "Nvidia"
       ]
     },
     {
@@ -196,60 +225,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/googles_fiber_biz_and_stonepeaks/",
       "matched_keywords": [
         "Google"
-      ]
-    },
-    {
-      "title": "So much for power to the people \u2013 AI datacenters could jump UK grid queue",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 10:15:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/uk_datacenter_grid_priority/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Whitehall seeks lone C++ coder to keep airport passenger model flying",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 09:30:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/100k_tender_napam/",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "Meta reveals four Broadcom-built custom AI chips, claims some outperform commercial silicon",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 04:49:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/meta_custom_chips/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "China\u2019s CERT warns OpenClaw can inflict nasty wounds",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 01:37:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/china_cert_openclaw_security_warning/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Atlassian to shed ten percent of staff, because AI",
-      "source": "The Register",
-      "published": "Wed, 11 Mar 2026 23:37:27 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/atlassian_layoffs/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Perplexity Comet hurtling toward Amazon ban",
-      "source": "The Register",
-      "published": "Wed, 11 Mar 2026 23:26:18 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/perplexity_comet_amazon_ban/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
