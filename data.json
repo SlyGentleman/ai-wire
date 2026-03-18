@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T11:05:01.569857+00:00",
+  "last_updated": "2026-03-18T11:05:01.559453+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -58,173 +58,211 @@
       ]
     },
     {
-      "title": "AI companies want you to stop chatting with bots and start managing them",
-      "source": "Ars Technica",
-      "published": "Thu, 05 Feb 2026 22:47:54 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "India tests whether AI can stop trains hitting elephants",
+      "title": "Europe's cloud minnows tell Brussels to stop big tech 'sovereignty-washing'",
       "source": "The Register",
-      "published": "Mon, 16 Mar 2026 00:57:33 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/asia_tech_news_roundup/",
+      "published": "Wed, 18 Mar 2026 09:30:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/cispe_sovereignty_washing/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Outsourcer Telus admits to attack \u2013 may have lost a petabyte of data to ShinyHunters",
+      "title": "Alibaba Cloud hikes prices by up to 34%, blames hardware costs and AI demand",
       "source": "The Register",
-      "published": "Sun, 15 Mar 2026 23:24:51 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/15/telus_breach_starbucks_attack/",
+      "published": "Wed, 18 Mar 2026 06:59:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/alibaba_cloud_hikes_prices_by/",
+      "matched_keywords": [
+        "AI",
+        "Compute"
+      ]
+    },
+    {
+      "title": "Water company wasted $200k on bad answers from an AI model \u2013 so built its own slop filtering system",
+      "source": "The Register",
+      "published": "Wed, 18 Mar 2026 06:31:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/rozum_ai/",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Linux Foundation kicks off effort to shield FOSS maintainers from AI slop bug reports",
+      "source": "The Register",
+      "published": "Wed, 18 Mar 2026 04:05:45 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/linux_foundation_ai_slop_defense/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Nvidia GTC will be full of surprises - just not for the consumer class",
+      "title": "Nvidia's on-again off-again H200 sales in China are now on again",
       "source": "The Register",
-      "published": "Sun, 15 Mar 2026 22:00:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/15/nvidia_gtc_will_be_full/",
+      "published": "Tue, 17 Mar 2026 23:34:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/nvidia_h200_china_sales_resume/",
       "matched_keywords": [
-        "AI",
-        "GPU",
         "Nvidia"
       ]
     },
     {
-      "title": "Claude charts a new course with charts, of course",
+      "title": "World<s>Coin</s>'s newest pitch: Scan your eyeballs to prove AI agents really represent you",
       "source": "The Register",
-      "published": "Fri, 13 Mar 2026 22:36:24 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/claude_charts_a_new_course/",
+      "published": "Tue, 17 Mar 2026 20:26:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/worldcoin_identity_ai_agents_whatever/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Mistral boasts code-proofing agent offers champagne performance on a <i>budget bi\u00e8re</i>",
+      "source": "The Register",
+      "published": "Tue, 17 Mar 2026 18:53:26 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/mistral_leanstral_ai_code_verification_tool/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Chips...in...spaaaace - courtesy of Nvidia",
+      "source": "The Register",
+      "published": "Tue, 17 Mar 2026 17:11:44 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/nvidia_chips_in_spaaaaaace/",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "HPE adds Blackwell, Rubin systems to Nvidia-backed sovereign AI push",
+      "source": "The Register",
+      "published": "Tue, 17 Mar 2026 16:22:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/hpe_adds_blackwell_rubin_systems/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Gartner suggests Friday afternoon Copilot ban because tired users may be too lazy to check its mistakes",
+      "source": "The Register",
+      "published": "Tue, 17 Mar 2026 04:37:40 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/gartner_copilot_security_mitigations/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Bank built its own threat hunting agent because vendors can\u2019t keep pace with new threats",
+      "source": "The Register",
+      "published": "Tue, 17 Mar 2026 02:37:16 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/commonwealth_bank_ai_defense/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI still doesn't work very well, businesses are faking it, and a reckoning is coming",
+      "source": "The Register",
+      "published": "Tue, 17 Mar 2026 00:38:54 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia's DLSS 5 promises to bring you out the other side of the uncanny valley",
+      "source": "The Register",
+      "published": "Mon, 16 Mar 2026 21:35:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/nvidia_dlss5_uncanny_valley/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Nvidia wraps its NemoClaw around OpenClaw for the sake of security",
+      "source": "The Register",
+      "published": "Mon, 16 Mar 2026 20:15:28 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/nvidia_wraps_its_nemoclaw_around/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Nvidia powers further into the CPU market with new rack systems packing 256 Vera processors",
+      "source": "The Register",
+      "published": "Mon, 16 Mar 2026 19:35:32 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/nvidia_vera_cpu_rack/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Nvidia slaps $20B Groq tech into massive new LPX racks to speed AI response time",
+      "source": "The Register",
+      "published": "Mon, 16 Mar 2026 19:30:56 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/nvidia_lpx_groq_3/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Former Microsoft dev trains AI to survive the arcade's most chaotic stress test",
+      "source": "The Register",
+      "published": "Mon, 16 Mar 2026 16:50:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/ai_robotron_dave_plummer/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI finally delivers those elusive productivity gains... for cybercriminals",
+      "source": "The Register",
+      "published": "Mon, 16 Mar 2026 16:40:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/interpol_ai_fraud/",
+      "matched_keywords": [
+        "AI",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "title": "Digital fruit fly brain model walks and cleans its feelers",
+      "source": "The Register",
+      "published": "Mon, 16 Mar 2026 14:35:23 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/digital_fruit_fly_brain_model/",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "Free Software Foundation calls for free-range LLMs rather than factory-farmed AI",
+      "source": "The Register",
+      "published": "Mon, 16 Mar 2026 14:19:33 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/free_software_foundation_urges_ai/",
       "matched_keywords": [
         "AI",
         "Anthropic"
       ]
     },
     {
-      "title": "Azure startup credits don't apply to Claude via Azure AI Foundry, reader finds \u2013 after $1,600 charge",
+      "title": "ServiceNow boss warns AI could push grad unemployment past 30%",
       "source": "The Register",
-      "published": "Fri, 13 Mar 2026 13:13:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/a_cautionary_tale_azure_startup_credits/",
+      "published": "Mon, 16 Mar 2026 12:59:34 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/servicenow_grad_jobs_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK splashes \u00a345M on AI supercomputer to help crack fusion power",
+      "source": "The Register",
+      "published": "Mon, 16 Mar 2026 11:05:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/uk_splurges_45m_on_ai/",
       "matched_keywords": [
         "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "NanoClaw latches onto Docker Sandboxes for safer AI agents",
-      "source": "The Register",
-      "published": "Fri, 13 Mar 2026 11:50:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nanoclaw_latches_onto_docker_sandboxes/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google rushes Chrome update fixing two zero-days already under attack",
-      "source": "The Register",
-      "published": "Fri, 13 Mar 2026 11:25:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/google_zeroday_chrome_update/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "AI Burning Man happens next week \u2013what to expect at Nvidia GTC 2026",
-      "source": "The Register",
-      "published": "Fri, 13 Mar 2026 06:30:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nvidia_gtc_2026_preview_tobias_mann_register/",
-      "matched_keywords": [
-        "AI",
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Prince of PDFs, Adobe CEO Shantanu Narayen, to step down after 18 years",
-      "source": "The Register",
-      "published": "Fri, 13 Mar 2026 04:22:47 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/adobe_q1_2026/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Pentagon AI chief praises Palantir tech for speeding battlefield strikes",
-      "source": "The Register",
-      "published": "Fri, 13 Mar 2026 01:00:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Rogue AI agents can work together to hack systems and steal secrets",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 23:49:32 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/rogue_ai_agents_worked_together/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Perplexity: Everything is Computer, everything is AI, Computer is everything, AI is us",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 22:39:04 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/perplexity_extends_cloud_computer_to_enterprise/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft Copilot now boarding your health information",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 19:17:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/microsoft_copilot_health/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Oracle tops up restructuring fund for FY26 by $500M",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 16:00:39 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/oracle_increases_restructuring_fund_for/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Musk makes the Macrohard joke again",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 15:33:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/musk_macrohard/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Users protest as Google Antigravity price floats upward",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 14:36:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/users_protest_as_google_antigravity/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Fresh indie broadband provider incoming as Google's fiber biz and Stonepeak\u2019s Astound merge",
-      "source": "The Register",
-      "published": "Thu, 12 Mar 2026 13:22:57 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/googles_fiber_biz_and_stonepeaks/",
-      "matched_keywords": [
-        "Google"
+        "model"
       ]
     }
   ]
