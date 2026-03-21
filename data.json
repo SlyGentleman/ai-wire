@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T11:05:01.282899+00:00",
+  "last_updated": "2026-03-21T11:05:01.150964+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -40,12 +40,22 @@
       ]
     },
     {
-      "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
-      "source": "Ars Technica",
-      "published": "Wed, 11 Feb 2026 20:44:19 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
+      "title": "WSL graphics driver update brings better GPU support for Linux apps",
+      "source": "The Register",
+      "published": "Fri, 20 Mar 2026 16:40:04 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/linux_directx_and_opengl/",
       "matched_keywords": [
-        "OpenAI"
+        "GPU"
+      ]
+    },
+    {
+      "title": "Supermicro co-founder arrested, charged over $2.5B Nvidia GPU sales to China",
+      "source": "The Register",
+      "published": "Fri, 20 Mar 2026 11:57:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/supermicro_nvidia_gpu_charges/",
+      "matched_keywords": [
+        "GPU",
+        "Nvidia"
       ]
     },
     {
@@ -216,58 +226,13 @@
       ]
     },
     {
-      "title": "Meatbags vs machines: DeepMind plans hackathon to draw line between human and AI brains",
-      "source": "The Register",
-      "published": "Wed, 18 Mar 2026 16:51:16 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/google_deepmind_agi_hackathon/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Systemd 260 kills SysV, tells AI not to misbehave",
-      "source": "The Register",
-      "published": "Wed, 18 Mar 2026 15:15:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/systemd_260/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI for software developers is in a 'dangerous state'",
-      "source": "The Register",
-      "published": "Wed, 18 Mar 2026 12:53:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/ai_for_software_developers_qcon/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "IBM CEO pay pack jumps 51% for 2025 in target smash and grab",
-      "source": "The Register",
-      "published": "Wed, 18 Mar 2026 12:26:59 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/ibm_ceo_pay_pack_jumps/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Europe's cloud minnows tell Brussels to stop big tech 'sovereignty-washing'",
-      "source": "The Register",
-      "published": "Wed, 18 Mar 2026 09:30:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/cispe_sovereignty_washing/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Keebin\u2019 with Kristina: the One With the Ultra-Thin Split",
+      "title": "Slug Algorithm for On-GPU Rendering of Fonts with B\u00e9zier Curves now in Public Domain",
       "source": "Hackaday",
-      "published": "Thu, 19 Mar 2026 17:20:35 +0000",
-      "link": "https://hackaday.com/2026/03/19/keebin-with-kristina-the-one-with-the-ultra-thin-split/",
+      "published": "Sat, 21 Mar 2026 02:00:35 +0000",
+      "link": "https://hackaday.com/2026/03/20/slug-algorithm-for-on-gpu-rendering-of-fonts-with-bezier-curves-now-in-public-domain/",
       "matched_keywords": [
-        "Model"
+        "GPU",
+        "gpu"
       ]
     }
   ]
