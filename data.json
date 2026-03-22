@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T11:05:01.150964+00:00",
+  "last_updated": "2026-03-22T11:05:01.361751+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -223,16 +223,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/gtc_storage_hitatchi_ibm_seagate/",
       "matched_keywords": [
         "Nvidia"
-      ]
-    },
-    {
-      "title": "Slug Algorithm for On-GPU Rendering of Fonts with B\u00e9zier Curves now in Public Domain",
-      "source": "Hackaday",
-      "published": "Sat, 21 Mar 2026 02:00:35 +0000",
-      "link": "https://hackaday.com/2026/03/20/slug-algorithm-for-on-gpu-rendering-of-fonts-with-bezier-curves-now-in-public-domain/",
-      "matched_keywords": [
-        "GPU",
-        "gpu"
       ]
     }
   ]
