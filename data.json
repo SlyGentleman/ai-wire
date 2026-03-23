@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T11:05:01.361751+00:00",
+  "last_updated": "2026-03-23T11:05:01.431469+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -37,6 +37,24 @@
       "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Australia to datacenter operators: BYO energy, pay your way, build green, or stay home",
+      "source": "The Register",
+      "published": "Mon, 23 Mar 2026 00:43:26 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/asia_tech_news_roundup/",
+      "matched_keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "CERN eggheads burn AI into silicon to stem data deluge",
+      "source": "The Register",
+      "published": "Sun, 22 Mar 2026 11:11:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -167,62 +185,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/ai_skeptic_labels/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Google offers \u2018vibe design\u2019 tool that you can shout at to create a UI",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 05:54:29 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/google_stitch_vibe_design_update/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Tencent says small clouds can\u2019t get hardware, so big clouds can hike prices",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 00:47:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/tencent_q4_2025/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic's Claude claws its way towards the top of the AI market",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 00:28:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/anthropic_claude_market_share/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Okta made a nightmare micromanager for your AI agents",
-      "source": "The Register",
-      "published": "Wed, 18 Mar 2026 23:05:31 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/okta_agent_micromanager/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "State snoops and spyware vendors planting info-stealing malware on iPhones, Google warns",
-      "source": "The Register",
-      "published": "Wed, 18 Mar 2026 21:39:04 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/darksword_exploit_kit_steals_iphone/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Storage vendors orbit the Nvidia sun at GTC",
-      "source": "The Register",
-      "published": "Wed, 18 Mar 2026 18:14:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/gtc_storage_hitatchi_ibm_seagate/",
-      "matched_keywords": [
-        "Nvidia"
       ]
     }
   ]
