@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T11:05:01.431469+00:00",
+  "last_updated": "2026-03-24T11:05:01.943577+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -37,6 +37,117 @@
       "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "SAP already shifting focus from ERP migration disaster in pursuit of AI-driven growth",
+      "source": "The Register",
+      "published": "Tue, 24 Mar 2026 10:15:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/sap_commercial_focus/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Windows boss promises to heal the operating system's self-inflicted wounds",
+      "source": "The Register",
+      "published": "Tue, 24 Mar 2026 09:30:18 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/windows_boss_promises/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Telling an AI model that it\u2019s an expert programmer makes it a worse programmer",
+      "source": "The Register",
+      "published": "Tue, 24 Mar 2026 00:20:29 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/ai_models_persona_prompting/",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Claude attacks were 'Rorschach test' for infosec community, scaring former NSA boss",
+      "source": "The Register",
+      "published": "Mon, 23 Mar 2026 22:50:21 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/claude_attacks_rorschach_rsac_rob_joyce/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Snowflake's ongoing pitch: bring AI to data rather than data to AI",
+      "source": "The Register",
+      "published": "Mon, 23 Mar 2026 21:45:24 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/snowflake_ai_data_project_snowwork/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "If you love your boss, imagine how much more you'll love their AI twin",
+      "source": "The Register",
+      "published": "Mon, 23 Mar 2026 19:53:19 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/ai_boss_bots_not_welcome/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI agents are 'gullible' and easy to turn into your minions",
+      "source": "The Register",
+      "published": "Mon, 23 Mar 2026 17:50:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/pwning_everyones_ai_agents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SoftBank to build massive AI datacenter on former US nuclear weapons site",
+      "source": "The Register",
+      "published": "Mon, 23 Mar 2026 17:29:23 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/softbank_to_put_mega_server/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google unleashes Gemini AI agents on the dark web",
+      "source": "The Register",
+      "published": "Mon, 23 Mar 2026 15:05:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/google_dark_web_ai/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Smooth criminals talking their way into cloud environments, Google says",
+      "source": "The Register",
+      "published": "Mon, 23 Mar 2026 15:00:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/voice_phishing_skyrockets_as_smooth/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "We tested Intel's new chips for cash-strapped hardcore PC users and they're impressive",
+      "source": "The Register",
+      "published": "Mon, 23 Mar 2026 13:00:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/intel_arrow_lake_refresh_review/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "RSAC 2026: Uncle Sam backs out, and AI agents are everywhere",
+      "source": "The Register",
+      "published": "Mon, 23 Mar 2026 12:24:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_2026_san_francisco/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -81,108 +192,6 @@
       "source": "The Register",
       "published": "Fri, 20 Mar 2026 09:30:07 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/sashiko_code_review_linux/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Meta\u2019s latest AI improves its terrible content moderation, just a little",
-      "source": "The Register",
-      "published": "Fri, 20 Mar 2026 04:16:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/meta_ai_content_moderation/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Alibaba has made 470,000 AI chips, admits they\u2019re inferior and may always be",
-      "source": "The Register",
-      "published": "Fri, 20 Mar 2026 01:25:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/alibaba_q3_2025/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Decoding Nvidia's Groq-powered LPX and the rest of its new rack systems",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 23:41:36 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/nvidia_lpx_deep_dive/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "OpenAI tries to build its coding cred, acquires Python toolmaker Astral",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 21:13:00 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/openai_aims_for_the_stars/",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Google gives Android users a way to install unverified apps if they prove they really, really want to",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 18:30:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/google_android_unverified_apps/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "PwC will say goodbye to staff who aren't convinced about AI",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 14:59:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/pwc_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK blinks on AI copyright carve-out after star-studded revolt",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 13:33:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/uk_ai_copyright/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google says it will let UK publishers opt out of AI overviews",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 13:31:24 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/google_opts_for_optout_on/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Fixing Claude with Claude: Anthropic reports on AI site reliability engineering",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 12:22:57 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/anthropic_claude_sre/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Microsoft startup credits are the gift that keeps on billing unsuspecting users",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 11:00:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/microsoft_startup_credits/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Struggling to put your AI aversion into words? Here's a handy glossary",
-      "source": "The Register",
-      "published": "Thu, 19 Mar 2026 07:30:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/ai_skeptic_labels/",
       "matched_keywords": [
         "AI"
       ]
