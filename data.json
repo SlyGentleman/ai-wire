@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T11:05:01.943577+00:00",
+  "last_updated": "2026-03-25T11:05:01.433325+00:00",
   "entries": [
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -37,6 +37,110 @@
       "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Nothing screams casual career pivot like joining the UK Ministry of Defence for a cool \u00a3162K",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 09:30:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/uk_defense_ministry_digi_officer/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Enterprise PCs are unreliable, unpatched, and unloved compared to Macs",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 07:29:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/omnissa_digital_workspace_report/",
+      "matched_keywords": [
+        "Google",
+        "compute"
+      ]
+    },
+    {
+      "title": "Alibaba delivers RISC-V server chip optimized to run China\u2019s top AI models",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 03:52:48 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/alibaba_damo_xuantie_c950_chip/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "HP stuffs OpenAI LLM into new laptops to make them either more useful at work, or a bit creepy",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 00:06:36 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/hp_iq_laptop_ai/",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "LLM",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "AI-pilled Arm CEO teases mystery products that will turn it into a money machine",
+      "source": "The Register",
+      "published": "Tue, 24 Mar 2026 23:21:04 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/arm_ceo_boasts_new_silicon/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "EFF has a new boss to lead the fight against privacy-sucking forces of doom",
+      "source": "The Register",
+      "published": "Tue, 24 Mar 2026 21:00:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/eff_nicole_ozer_new_chief_interview/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
+      "source": "The Register",
+      "published": "Tue, 24 Mar 2026 18:32:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/ai_job_unbundling/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Arm rolls its own 136-core AGI CPU to chase AI hype train",
+      "source": "The Register",
+      "published": "Tue, 24 Mar 2026 17:00:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/arm_agi_cpu/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Datadog bets DIY AI will mean it dodges the SaaSpocalypse",
+      "source": "The Register",
+      "published": "Tue, 24 Mar 2026 16:08:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/datadog_revising_custom_model/",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Microslop stuffs AI photo restyling powers into OneDrive",
+      "source": "The Register",
+      "published": "Tue, 24 Mar 2026 13:05:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/onedrive_ai_restyle/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Mozilla introduces cq, describing it as 'Stack Overflow for agents'",
+      "source": "The Register",
+      "published": "Tue, 24 Mar 2026 11:52:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/mozilla_introduces_cq_stack_overflow/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -146,52 +250,6 @@
       "source": "The Register",
       "published": "Mon, 23 Mar 2026 12:24:50 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_2026_san_francisco/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Australia to datacenter operators: BYO energy, pay your way, build green, or stay home",
-      "source": "The Register",
-      "published": "Mon, 23 Mar 2026 00:43:26 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/asia_tech_news_roundup/",
-      "matched_keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "CERN eggheads burn AI into silicon to stem data deluge",
-      "source": "The Register",
-      "published": "Sun, 22 Mar 2026 11:11:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "WSL graphics driver update brings better GPU support for Linux apps",
-      "source": "The Register",
-      "published": "Fri, 20 Mar 2026 16:40:04 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/linux_directx_and_opengl/",
-      "matched_keywords": [
-        "GPU"
-      ]
-    },
-    {
-      "title": "Supermicro co-founder arrested, charged over $2.5B Nvidia GPU sales to China",
-      "source": "The Register",
-      "published": "Fri, 20 Mar 2026 11:57:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/supermicro_nvidia_gpu_charges/",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Sashiko: AI code review system for the Linux kernel spots bugs humans miss",
-      "source": "The Register",
-      "published": "Fri, 20 Mar 2026 09:30:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/sashiko_code_review_linux/",
       "matched_keywords": [
         "AI"
       ]
