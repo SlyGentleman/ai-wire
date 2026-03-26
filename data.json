@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-03-25T11:05:01.433325+00:00",
+  "last_updated": "2026-03-26T11:05:01.922211+00:00",
   "entries": [
+    {
+      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+      "source": "Ars Technica",
+      "published": "Wed, 25 Mar 2026 15:49:17 +0000",
+      "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
     {
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
       "source": "Ars Technica",
@@ -31,12 +40,87 @@
       ]
     },
     {
-      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
-      "source": "Ars Technica",
-      "published": "Thu, 12 Feb 2026 19:42:08 +0000",
-      "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+      "title": "Datacenter batteries are selling years in advance, because AI, says Panasonic",
+      "source": "The Register",
+      "published": "Thu, 26 Mar 2026 00:58:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/panasonic_datacenter_energy_plans/",
       "matched_keywords": [
-        "Google"
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "GitHub hits CTRL-Z, decides it will train its AI with user data after all",
+      "source": "The Register",
+      "published": "Thu, 26 Mar 2026 00:13:36 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/github_ai_training_policy_changes/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI supply chain attacks don\u2019t even require malware\u2026just post poisoned documentation",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 20:50:59 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/ai_agents_supply_chain_attack_context_hub/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Jen Easterly, cybersecurity's 'relentless optimist,' hopes feds come back to RSAC next year",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 19:39:29 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jen_easterly_interview/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Meta cuts about 700 jobs as it shifts spending to AI",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 18:27:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/meta_cuts_700/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Oracle: AI agents can reason, decide and act - liability question remains",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 17:47:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/oracles_apps_and_agents_push/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI now gets to decide which type of product assassin it will become",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 16:36:56 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/openai_kills_sora_product_assassin/",
+      "matched_keywords": [
+        "Google",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Microsoft and Nvidia claim AI can speed approval of new atomic plants",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 14:35:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/microsoft_nvidia_ai_nuclear/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "JetBrains shifts to agentic dev with Central, retires pair programming",
+      "source": "The Register",
+      "published": "Wed, 25 Mar 2026 13:29:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jetbrains_central/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -68,7 +152,7 @@
       ]
     },
     {
-      "title": "HP stuffs OpenAI LLM into new laptops to make them either more useful at work, or a bit creepy",
+      "title": "HP stuffs OpenAI LLM into new laptops in bid for small biz",
       "source": "The Register",
       "published": "Wed, 25 Mar 2026 00:06:36 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/hp_iq_laptop_ai/",
@@ -157,99 +241,6 @@
       "source": "The Register",
       "published": "Tue, 24 Mar 2026 09:30:18 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/windows_boss_promises/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Telling an AI model that it\u2019s an expert programmer makes it a worse programmer",
-      "source": "The Register",
-      "published": "Tue, 24 Mar 2026 00:20:29 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/ai_models_persona_prompting/",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Claude attacks were 'Rorschach test' for infosec community, scaring former NSA boss",
-      "source": "The Register",
-      "published": "Mon, 23 Mar 2026 22:50:21 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/claude_attacks_rorschach_rsac_rob_joyce/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Snowflake's ongoing pitch: bring AI to data rather than data to AI",
-      "source": "The Register",
-      "published": "Mon, 23 Mar 2026 21:45:24 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/snowflake_ai_data_project_snowwork/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "If you love your boss, imagine how much more you'll love their AI twin",
-      "source": "The Register",
-      "published": "Mon, 23 Mar 2026 19:53:19 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/ai_boss_bots_not_welcome/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI agents are 'gullible' and easy to turn into your minions",
-      "source": "The Register",
-      "published": "Mon, 23 Mar 2026 17:50:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/pwning_everyones_ai_agents/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "SoftBank to build massive AI datacenter on former US nuclear weapons site",
-      "source": "The Register",
-      "published": "Mon, 23 Mar 2026 17:29:23 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/softbank_to_put_mega_server/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google unleashes Gemini AI agents on the dark web",
-      "source": "The Register",
-      "published": "Mon, 23 Mar 2026 15:05:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/google_dark_web_ai/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Smooth criminals talking their way into cloud environments, Google says",
-      "source": "The Register",
-      "published": "Mon, 23 Mar 2026 15:00:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/voice_phishing_skyrockets_as_smooth/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "We tested Intel's new chips for cash-strapped hardcore PC users and they're impressive",
-      "source": "The Register",
-      "published": "Mon, 23 Mar 2026 13:00:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/intel_arrow_lake_refresh_review/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "RSAC 2026: Uncle Sam backs out, and AI agents are everywhere",
-      "source": "The Register",
-      "published": "Mon, 23 Mar 2026 12:24:50 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_2026_san_francisco/",
       "matched_keywords": [
         "AI"
       ]
