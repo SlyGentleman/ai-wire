@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T11:05:01.922211+00:00",
+  "last_updated": "2026-03-27T11:05:01.978595+00:00",
   "entries": [
     {
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
@@ -37,6 +37,91 @@
         "Nvidia",
         "OpenAI",
         "model"
+      ]
+    },
+    {
+      "title": "China's not thrilled its AI experts want to leave the country",
+      "source": "The Register",
+      "published": "Fri, 27 Mar 2026 01:41:33 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/china_ai_regulation/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic tweaks timed usage limits to discourage Claude demand during peak hours",
+      "source": "The Register",
+      "published": "Thu, 26 Mar 2026 22:15:37 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/anthropic_tweaks_usage_limits/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AI companies lick their chops as FCC proposes forcing call center onshoring",
+      "source": "The Register",
+      "published": "Thu, 26 Mar 2026 22:11:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/ai_companies_lick_their_chops/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Using AI to code does not mean your code is more secure",
+      "source": "The Register",
+      "published": "Thu, 26 Mar 2026 19:38:41 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/ai_coding_assistant_not_more_secure/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Staff too scared of the AI axe to pick it up, Forrester finds",
+      "source": "The Register",
+      "published": "Thu, 26 Mar 2026 16:33:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/workplace_ai_forrester/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Linear moves sideways to agentic AI as CEO declares issue tracking dead",
+      "source": "The Register",
+      "published": "Thu, 26 Mar 2026 14:32:26 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/linear_agent/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
+      "source": "The Register",
+      "published": "Thu, 26 Mar 2026 13:40:26 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Three more charged over alleged Nvidia GPU smuggling scheme to China",
+      "source": "The Register",
+      "published": "Thu, 26 Mar 2026 13:03:19 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/gpu_china_smuggling_charges/",
+      "matched_keywords": [
+        "AI",
+        "GPU",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Brit lawmaker targeted by AI deepfake fails to get answers from US Big Tech",
+      "source": "The Register",
+      "published": "Thu, 26 Mar 2026 11:49:29 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/brit_law_maker_fails_to/",
+      "matched_keywords": [
+        "AI",
+        "Google"
       ]
     },
     {
@@ -177,70 +262,6 @@
       "source": "The Register",
       "published": "Tue, 24 Mar 2026 21:00:08 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/eff_nicole_ozer_new_chief_interview/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks",
-      "source": "The Register",
-      "published": "Tue, 24 Mar 2026 18:32:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/ai_job_unbundling/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Arm rolls its own 136-core AGI CPU to chase AI hype train",
-      "source": "The Register",
-      "published": "Tue, 24 Mar 2026 17:00:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/arm_agi_cpu/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Datadog bets DIY AI will mean it dodges the SaaSpocalypse",
-      "source": "The Register",
-      "published": "Tue, 24 Mar 2026 16:08:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/datadog_revising_custom_model/",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Microslop stuffs AI photo restyling powers into OneDrive",
-      "source": "The Register",
-      "published": "Tue, 24 Mar 2026 13:05:49 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/onedrive_ai_restyle/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Mozilla introduces cq, describing it as 'Stack Overflow for agents'",
-      "source": "The Register",
-      "published": "Tue, 24 Mar 2026 11:52:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/mozilla_introduces_cq_stack_overflow/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "SAP already shifting focus from ERP migration disaster in pursuit of AI-driven growth",
-      "source": "The Register",
-      "published": "Tue, 24 Mar 2026 10:15:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/sap_commercial_focus/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Windows boss promises to heal the operating system's self-inflicted wounds",
-      "source": "The Register",
-      "published": "Tue, 24 Mar 2026 09:30:18 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/windows_boss_promises/",
       "matched_keywords": [
         "AI"
       ]
