@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T11:05:01.978595+00:00",
+  "last_updated": "2026-03-28T11:05:01.325622+00:00",
   "entries": [
     {
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
@@ -37,6 +37,25 @@
         "Nvidia",
         "OpenAI",
         "model"
+      ]
+    },
+    {
+      "title": "Microsoft takes up residence next to OpenAI, Oracle at Crusoe's 900 MW Texas datacenter expansion",
+      "source": "The Register",
+      "published": "Fri, 27 Mar 2026 20:03:20 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/microsoft_ai_crusoe/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "source": "The Register",
+      "published": "Fri, 27 Mar 2026 18:25:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -204,64 +223,6 @@
       "source": "The Register",
       "published": "Wed, 25 Mar 2026 13:29:10 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jetbrains_central/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nothing screams casual career pivot like joining the UK Ministry of Defence for a cool \u00a3162K",
-      "source": "The Register",
-      "published": "Wed, 25 Mar 2026 09:30:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/uk_defense_ministry_digi_officer/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Enterprise PCs are unreliable, unpatched, and unloved compared to Macs",
-      "source": "The Register",
-      "published": "Wed, 25 Mar 2026 07:29:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/omnissa_digital_workspace_report/",
-      "matched_keywords": [
-        "Google",
-        "compute"
-      ]
-    },
-    {
-      "title": "Alibaba delivers RISC-V server chip optimized to run China\u2019s top AI models",
-      "source": "The Register",
-      "published": "Wed, 25 Mar 2026 03:52:48 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/alibaba_damo_xuantie_c950_chip/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "HP stuffs OpenAI LLM into new laptops in bid for small biz",
-      "source": "The Register",
-      "published": "Wed, 25 Mar 2026 00:06:36 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/hp_iq_laptop_ai/",
-      "matched_keywords": [
-        "AI",
-        "Google",
-        "LLM",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "AI-pilled Arm CEO teases mystery products that will turn it into a money machine",
-      "source": "The Register",
-      "published": "Tue, 24 Mar 2026 23:21:04 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/arm_ceo_boasts_new_silicon/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "EFF has a new boss to lead the fight against privacy-sucking forces of doom",
-      "source": "The Register",
-      "published": "Tue, 24 Mar 2026 21:00:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/eff_nicole_ozer_new_chief_interview/",
       "matched_keywords": [
         "AI"
       ]
