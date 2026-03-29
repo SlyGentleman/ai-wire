@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T11:05:01.325622+00:00",
+  "last_updated": "2026-03-29T11:05:01.430503+00:00",
   "entries": [
     {
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
@@ -36,6 +36,16 @@
       "matched_keywords": [
         "Nvidia",
         "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Anthropic struggling with Chinese competition, its own safety obsession",
+      "source": "The Register",
+      "published": "Sat, 28 Mar 2026 14:01:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/28/miss_anthropic_not_those_who/",
+      "matched_keywords": [
+        "Anthropic",
         "model"
       ]
     },
@@ -225,6 +235,16 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jetbrains_central/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Turning Tesla Model 3\u2019s Computer Into a Desktop PC",
+      "source": "Hackaday",
+      "published": "Sat, 28 Mar 2026 17:00:31 +0000",
+      "link": "https://hackaday.com/2026/03/28/turning-tesla-model-3s-computer-into-a-desktop-pc/",
+      "matched_keywords": [
+        "Model",
+        "model"
       ]
     }
   ]
