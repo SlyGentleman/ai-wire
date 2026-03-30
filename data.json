@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T11:05:01.430503+00:00",
+  "last_updated": "2026-03-30T11:05:01.873671+00:00",
   "entries": [
     {
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
@@ -37,6 +37,24 @@
         "Nvidia",
         "OpenAI",
         "model"
+      ]
+    },
+    {
+      "title": "Google is to journalism what Vikings were to monks. Now their man will run the BBC",
+      "source": "The Register",
+      "published": "Mon, 30 Mar 2026 09:03:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/bbc_opinion/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "AI will write code, but prepare to babysit it \u2013 and be sure you speak its language",
+      "source": "The Register",
+      "published": "Sun, 29 Mar 2026 23:00:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/29/ai_will_write_code_but/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -206,45 +224,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/oracles_apps_and_agents_push/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "OpenAI now gets to decide which type of product assassin it will become",
-      "source": "The Register",
-      "published": "Wed, 25 Mar 2026 16:36:56 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/openai_kills_sora_product_assassin/",
-      "matched_keywords": [
-        "Google",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Microsoft and Nvidia claim AI can speed approval of new atomic plants",
-      "source": "The Register",
-      "published": "Wed, 25 Mar 2026 14:35:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/microsoft_nvidia_ai_nuclear/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "JetBrains shifts to agentic dev with Central, retires pair programming",
-      "source": "The Register",
-      "published": "Wed, 25 Mar 2026 13:29:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jetbrains_central/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Turning Tesla Model 3\u2019s Computer Into a Desktop PC",
-      "source": "Hackaday",
-      "published": "Sat, 28 Mar 2026 17:00:31 +0000",
-      "link": "https://hackaday.com/2026/03/28/turning-tesla-model-3s-computer-into-a-desktop-pc/",
-      "matched_keywords": [
-        "Model",
-        "model"
       ]
     }
   ]
