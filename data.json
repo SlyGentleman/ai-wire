@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T11:05:01.948156+00:00",
+  "last_updated": "2026-04-01T11:05:02.128911+00:00",
   "entries": [
     {
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
@@ -29,14 +29,89 @@
       ]
     },
     {
-      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-      "source": "Ars Technica",
-      "published": "Thu, 12 Feb 2026 22:56:02 +0000",
-      "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+      "title": "AI server farms heat up the neighborhood for miles around, paper finds",
+      "source": "The Register",
+      "published": "Wed, 01 Apr 2026 10:30:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/ai_datacenter_heat_islands/",
       "matched_keywords": [
-        "Nvidia",
-        "OpenAI",
-        "model"
+        "AI"
+      ]
+    },
+    {
+      "title": "Claude Code source leak reveals how much info Anthropic can hoover up about you and your system",
+      "source": "The Register",
+      "published": "Wed, 01 Apr 2026 07:00:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Gmail celebrates 22 years by finally letting users change their addresses",
+      "source": "The Register",
+      "published": "Tue, 31 Mar 2026 19:59:16 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/gmail_change_account/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Oracle cuts jobs across sales, engineering, security",
+      "source": "The Register",
+      "published": "Tue, 31 Mar 2026 17:42:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/oracle_cuts_jobs/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic goes nude, exposes Claude Code source by accident",
+      "source": "The Register",
+      "published": "Tue, 31 Mar 2026 17:02:34 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/anthropic_claude_code_source_code/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Leaked memo suggests Red Hat's chugging the AI Kool-Aid",
+      "source": "The Register",
+      "published": "Tue, 31 Mar 2026 16:15:16 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/red_hat_ai_dev/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Arm says agentic AI needs a new kind of CPU. Intel's DC chief isn't buying it",
+      "source": "The Register",
+      "published": "Tue, 31 Mar 2026 13:00:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/intel_arm_agi_cpu/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Ubuntu 26.04 beta arrives packing GNOME 50, which no longer supports Google Drive",
+      "source": "The Register",
+      "published": "Tue, 31 Mar 2026 12:20:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/ubuntu_2604_beta/",
+      "matched_keywords": [
+        "Google",
+        "google"
+      ]
+    },
+    {
+      "title": "Anthropic admits Claude Code users hitting usage limits 'way faster than expected'",
+      "source": "The Register",
+      "published": "Tue, 31 Mar 2026 11:45:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
       ]
     },
     {
@@ -131,43 +206,6 @@
       "source": "The Register",
       "published": "Fri, 27 Mar 2026 18:25:14 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "China's not thrilled its AI experts want to leave the country",
-      "source": "The Register",
-      "published": "Fri, 27 Mar 2026 01:41:33 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/china_ai_regulation/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic tweaks timed usage limits to discourage Claude demand during peak hours",
-      "source": "The Register",
-      "published": "Thu, 26 Mar 2026 22:15:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/anthropic_tweaks_usage_limits/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AI companies lick their chops as FCC proposes forcing call center onshoring",
-      "source": "The Register",
-      "published": "Thu, 26 Mar 2026 22:11:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/ai_companies_lick_their_chops/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Using AI to code does not mean your code is more secure",
-      "source": "The Register",
-      "published": "Thu, 26 Mar 2026 19:38:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/ai_coding_assistant_not_more_secure/",
       "matched_keywords": [
         "AI"
       ]
