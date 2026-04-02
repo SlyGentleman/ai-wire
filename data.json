@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T11:05:02.128911+00:00",
+  "last_updated": "2026-04-02T11:05:01.282676+00:00",
   "entries": [
     {
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
@@ -24,6 +24,84 @@
       "source": "Ars Technica",
       "published": "Fri, 13 Feb 2026 19:40:21 +0000",
       "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI search is atomizing our information, warns government digital designer",
+      "source": "The Register",
+      "published": "Thu, 02 Apr 2026 10:53:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/ai_search_is_atomising_content/",
+      "matched_keywords": [
+        "AI",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "title": "AI recruiting biz Mercor says it was 'one of thousands' hit in LiteLLM supply-chain attack",
+      "source": "The Register",
+      "published": "Thu, 02 Apr 2026 00:02:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/mercor_supply_chain_attack/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google's TurboQuant saves memory, but won't save us from DRAM-pricing hell",
+      "source": "The Register",
+      "published": "Wed, 01 Apr 2026 22:17:22 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/googles_turboquant_reality/",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "ai",
+        "google"
+      ]
+    },
+    {
+      "title": "Live and Let AI: Former CIA officer says human spies matter more in the LLM age",
+      "source": "The Register",
+      "published": "Wed, 01 Apr 2026 21:20:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/live_and_let_ai_excia/",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Amazon security boss: AI makes pentesting 40% more efficient",
+      "source": "The Register",
+      "published": "Wed, 01 Apr 2026 20:00:21 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/amazon_security_boss_ai_efficiency/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Renewables reached nearly 50% of global electricity capacity last year",
+      "source": "The Register",
+      "published": "Wed, 01 Apr 2026 16:53:20 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI gets $122B to 'just build things' as the world blows them up",
+      "source": "The Register",
+      "published": "Wed, 01 Apr 2026 16:26:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/openai_122_billion/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "One in seven Americans are ready for an AI boss, but they might not trust it",
+      "source": "The Register",
+      "published": "Wed, 01 Apr 2026 11:29:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/americans_ai_boss/",
       "matched_keywords": [
         "AI"
       ]
@@ -141,73 +219,6 @@
       "matched_keywords": [
         "AI",
         "OpenAI"
-      ]
-    },
-    {
-      "title": "SAP looking to pull more external data into its AI platform with Reltio acquisition",
-      "source": "The Register",
-      "published": "Mon, 30 Mar 2026 14:36:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/sap_reltio/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "South Korean AI chip startup Rebellions eyes new shores for rack-scale invasion",
-      "source": "The Register",
-      "published": "Mon, 30 Mar 2026 13:01:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/rebellions_ai_rackscale/",
-      "matched_keywords": [
-        "AI",
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Google is to journalism what Vikings were to monks. Now their man will run the BBC",
-      "source": "The Register",
-      "published": "Mon, 30 Mar 2026 09:03:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/bbc_opinion/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "AI will write code, but prepare to babysit it \u2013 and be sure you speak its language",
-      "source": "The Register",
-      "published": "Sun, 29 Mar 2026 23:00:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/29/ai_will_write_code_but/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic struggling with Chinese competition, its own safety obsession",
-      "source": "The Register",
-      "published": "Sat, 28 Mar 2026 14:01:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/28/miss_anthropic_not_those_who/",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "Microsoft takes up residence next to OpenAI, Oracle at Crusoe's 900 MW Texas datacenter expansion",
-      "source": "The Register",
-      "published": "Fri, 27 Mar 2026 20:03:20 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/microsoft_ai_crusoe/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "source": "The Register",
-      "published": "Fri, 27 Mar 2026 18:25:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
