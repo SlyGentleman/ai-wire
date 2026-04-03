@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-04-02T11:05:01.282676+00:00",
+  "last_updated": "2026-04-03T11:05:02.126651+00:00",
   "entries": [
+    {
+      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "source": "Ars Technica",
+      "published": "Thu, 02 Apr 2026 17:00:11 +0000",
+      "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+      "matched_keywords": [
+        "GPU",
+        "Nvidia"
+      ]
+    },
     {
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
       "source": "Ars Technica",
@@ -20,10 +30,67 @@
       ]
     },
     {
-      "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
-      "source": "Ars Technica",
-      "published": "Fri, 13 Feb 2026 19:40:21 +0000",
-      "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+      "title": "AI models will deceive you to save their own kind",
+      "source": "The Register",
+      "published": "Thu, 02 Apr 2026 23:11:51 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/ai_models_will_deceive_you/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google battles Chinese open-weights models with Gemma 4",
+      "source": "The Register",
+      "published": "Thu, 02 Apr 2026 21:15:41 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/googles_gemma_4_open_weights/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Microsoft shivs OpenAI with three new AI models for speech and images",
+      "source": "The Register",
+      "published": "Thu, 02 Apr 2026 20:07:40 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/microsoft_models_homegrown_ai_models/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "US military contractor open sources tool for validating hidden communications networks",
+      "source": "The Register",
+      "published": "Thu, 02 Apr 2026 18:08:52 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/maude_hcs_rtx_raytheon_hcn/",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "Even Microsoft knows Copilot shouldn't be trusted with anything important",
+      "source": "The Register",
+      "published": "Thu, 02 Apr 2026 17:04:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/copilot_terms_of_service/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "IBM wants Arm software on its mainframes to better support AI",
+      "source": "The Register",
+      "published": "Thu, 02 Apr 2026 16:32:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/ibm_arm_software_mainframes_ai_support/",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Cloudflare previews 'EmDash' \u2013 an AI-driven rebuild of WordPress in TypeScript",
+      "source": "The Register",
+      "published": "Thu, 02 Apr 2026 14:04:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/cloudflare_previews_emdash_an_aidriven/",
       "matched_keywords": [
         "AI"
       ]
@@ -173,52 +240,12 @@
       ]
     },
     {
-      "title": "Ubuntu 26.04 beta arrives packing GNOME 50, which no longer supports Google Drive",
-      "source": "The Register",
-      "published": "Tue, 31 Mar 2026 12:20:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/ubuntu_2604_beta/",
+      "title": "The Raspberry Pi 4 With 3 GB RAM is No Joke",
+      "source": "Hackaday",
+      "published": "Thu, 02 Apr 2026 23:00:56 +0000",
+      "link": "https://hackaday.com/2026/04/02/the-raspberry-pi-4-with-3-gb-ram-is-no-joke/",
       "matched_keywords": [
-        "Google",
-        "google"
-      ]
-    },
-    {
-      "title": "Anthropic admits Claude Code users hitting usage limits 'way faster than expected'",
-      "source": "The Register",
-      "published": "Tue, 31 Mar 2026 11:45:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Usage pricing leaving software vendors guessing what lands on the invoice",
-      "source": "The Register",
-      "published": "Tue, 31 Mar 2026 11:00:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/usagebased_billing_muddles_software_vendor_pricing/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Memory-makers' shares are down. Some RAM prices have eased. Blaming Google is not a good idea",
-      "source": "The Register",
-      "published": "Tue, 31 Mar 2026 05:46:40 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/google_turboquant_memory_market_impact/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "OpenAI patches ChatGPT flaw that smuggled data over DNS",
-      "source": "The Register",
-      "published": "Mon, 30 Mar 2026 19:36:29 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/openai_chatgpt_dns_data_snuggling_flaw/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
+        "model"
       ]
     }
   ]
