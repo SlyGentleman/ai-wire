@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T11:05:01.893876+00:00",
+  "last_updated": "2026-04-07T11:05:02.076123+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -39,6 +39,71 @@
       ]
     },
     {
+      "title": "OpenInfra General Manager talks sovereignty, governments deploying tech 'kill switches'",
+      "source": "The Register",
+      "published": "Tue, 07 Apr 2026 10:27:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/thierry_carrez_on_sovereignty_interview/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Apple's chips are the core of a new landscape, but its biggest win is Windows",
+      "source": "The Register",
+      "published": "Tue, 07 Apr 2026 09:31:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/opinion_column_apple_vs_microsoft/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic reveals $30bn run rate and plans to use 3.5GW of new Google AI chips",
+      "source": "The Register",
+      "published": "Tue, 07 Apr 2026 01:09:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/broadcom_google_chip_deal_anthropic_customer/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "Google"
+      ]
+    },
+    {
+      "title": "AI agents found vulns in this popular Linux and Unix print server",
+      "source": "The Register",
+      "published": "Mon, 06 Apr 2026 23:03:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/ai_agents_cups_server_rce/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI slop got better, so now maintainers have more work",
+      "source": "The Register",
+      "published": "Mon, 06 Apr 2026 22:16:32 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/ai_coding_tools_more_work/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AMD's AI director slams Claude Code for becoming dumber and lazier since last update",
+      "source": "The Register",
+      "published": "Mon, 06 Apr 2026 20:27:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic closes door on subscription use of OpenClaw",
+      "source": "The Register",
+      "published": "Mon, 06 Apr 2026 19:37:36 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_closes_door_on_subscription/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Anthropic sure has a mess on its hands thanks to that Claude Code source leak",
       "source": "The Register",
       "published": "Mon, 06 Apr 2026 00:02:52 GMT",
@@ -48,7 +113,7 @@
       ]
     },
     {
-      "title": "AI agents promise to 'run the business,' but who is liable if things go wrong?",
+      "title": "If an AI agent screws up while running your business, there's nobody to sue",
       "source": "The Register",
       "published": "Sun, 05 Apr 2026 10:00:11 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/05/ai_agents_liability/",
@@ -67,7 +132,7 @@
       ]
     },
     {
-      "title": "Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup",
+      "title": "AI will make anyone a 10x programmer, but with 10x the cleanup",
       "source": "The Register",
       "published": "Sat, 04 Apr 2026 13:13:15 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/04/all_things_ai_conference/",
@@ -228,55 +293,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "OpenAI gets $122B to 'just build things' as the world blows them up",
-      "source": "The Register",
-      "published": "Wed, 01 Apr 2026 16:26:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/openai_122_billion/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "One in seven Americans are ready for an AI boss, but they might not trust it",
-      "source": "The Register",
-      "published": "Wed, 01 Apr 2026 11:29:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/americans_ai_boss/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI server farms heat up the neighborhood for miles around, paper finds",
-      "source": "The Register",
-      "published": "Wed, 01 Apr 2026 10:30:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/ai_datacenter_heat_islands/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Claude Code source leak reveals how much info Anthropic can hoover up about you and your system",
-      "source": "The Register",
-      "published": "Wed, 01 Apr 2026 07:00:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Despite Penalties, Lawyers Can\u2019t Stop Using AI",
-      "source": "Hackaday",
-      "published": "Sun, 05 Apr 2026 17:00:59 +0000",
-      "link": "https://hackaday.com/2026/04/05/despite-penalties-lawyers-cant-stop-using-ai/",
-      "matched_keywords": [
-        "AI",
-        "LLM",
-        "ai"
       ]
     }
   ]
