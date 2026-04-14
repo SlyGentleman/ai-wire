@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T11:05:01.677998+00:00",
+  "last_updated": "2026-04-14T11:05:01.729036+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -30,122 +30,129 @@
       ]
     },
     {
-      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-      "source": "Ars Technica",
-      "published": "Sat, 28 Feb 2026 01:26:41 +0000",
-      "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+      "title": "Man suspected of Molotov attack on Sam Altman's home charged with attempted murder",
+      "source": "The Register",
+      "published": "Tue, 14 Apr 2026 09:50:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/altman_attempted_murder/",
       "matched_keywords": [
-        "Google"
+        "OpenAI"
       ]
     },
     {
-      "title": "UK to spend \u00a315M on AI-powered crime mapping in knife violence crackdown",
+      "title": "When the IBM PC and shoulder pads were big, Japan led the chip industry. It's trying to get back there now",
       "source": "The Register",
-      "published": "Thu, 09 Apr 2026 09:30:17 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/uk_ai_crime_mapping/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Meta's latest model is as open as Zuckerberg's private school",
-      "source": "The Register",
-      "published": "Wed, 08 Apr 2026 23:06:42 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/meta_muse_spark/",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Atlassian gussies up Confluence for the AI era",
-      "source": "The Register",
-      "published": "Wed, 08 Apr 2026 22:02:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/atlassian_brings_ai_and_agents/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Call your existing automation \u2018zero-token architecture\u2019 to become an instant agentic AI wiz",
-      "source": "The Register",
-      "published": "Wed, 08 Apr 2026 20:21:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/automation_zerotoken_architecture_ai/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Nvidia's Rubin GPU is likely to be late thanks to memory shortage and technical challenges",
-      "source": "The Register",
-      "published": "Wed, 08 Apr 2026 18:31:20 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/nvidia_supply_chain/",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Talk ain't cheap: DARPA offers grants for new AI-to-AI communication protocol",
-      "source": "The Register",
-      "published": "Wed, 08 Apr 2026 16:26:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/darpa_wants_ai_agent_communication/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Supermicro launches probe after staff charged with China export violations",
-      "source": "The Register",
-      "published": "Wed, 08 Apr 2026 14:15:35 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/supermicro_china_chip_smuggling/",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Investors are going nuclear to keep UK's AI datacenters fed",
-      "source": "The Register",
-      "published": "Wed, 08 Apr 2026 11:21:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/nuclear_investors_ai_demand/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Virtual SG-41 project brings Nazi cipher machine to life in the browser",
-      "source": "The Register",
-      "published": "Wed, 08 Apr 2026 09:15:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/virtual_sg41/",
+      "published": "Tue, 14 Apr 2026 07:30:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/japan_semiconductor_industry_comeback_rapidus/",
       "matched_keywords": [
         "model"
       ]
     },
     {
-      "title": "UK's grand plan to fuel AI with public data faces uphill battle",
+      "title": "The votes are in: AI will hurt elections and relationships",
       "source": "The Register",
-      "published": "Wed, 08 Apr 2026 08:30:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/national_data_library_plan/",
+      "published": "Tue, 14 Apr 2026 00:05:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/ai_report_2026_stanford_hai/",
+      "matched_keywords": [
+        "AI",
+        "Artificial intelligence"
+      ]
+    },
+    {
+      "title": "Cloudflare revamps CLI as agents take over the internet",
+      "source": "The Register",
+      "published": "Mon, 13 Apr 2026 20:59:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/cloudflare_expanding_wrangler_cli_functionality/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Japan relaxes privacy laws to make itself the \u2018easiest country to develop AI\u2019",
+      "title": "Claude is getting worse, according to Claude",
       "source": "The Register",
-      "published": "Wed, 08 Apr 2026 04:48:21 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/",
+      "published": "Mon, 13 Apr 2026 20:35:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/claude_outage_quality_complaints/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "How ServiceNow gets customers to gorge at the AI trough",
+      "source": "The Register",
+      "published": "Mon, 13 Apr 2026 20:05:02 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/servicenow_ai_everywhere/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Anthropic: All your zero-days are belong to Mythos",
+      "title": "Fake Linux leader using Slack to con devs into giving up their secrets",
       "source": "The Register",
-      "published": "Tue, 07 Apr 2026 23:50:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/",
+      "published": "Mon, 13 Apr 2026 18:48:44 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/linux_foundation_social_engineering/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "WARNING: Oracle's AI obsession could mean higher prices and worse support",
+      "source": "The Register",
+      "published": "Mon, 13 Apr 2026 16:36:39 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/oracle_job_losses_ai_impact_support/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Claude Code cache chaos creates quota complaints",
+      "source": "The Register",
+      "published": "Mon, 13 Apr 2026 15:14:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/claude_code_cache_confusion/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Notepad sheds Copilot from toolbar as Microsoft gives subtlety a try",
+      "source": "The Register",
+      "published": "Mon, 13 Apr 2026 15:01:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/microsoft_notepad_copilot_icon/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "What happened when AI ran into the cold hard reality of the legal profession",
+      "source": "The Register",
+      "published": "Mon, 13 Apr 2026 08:44:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/ai_attorneys/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "China wants AI to prepare school lessons and mark homework",
+      "source": "The Register",
+      "published": "Mon, 13 Apr 2026 02:09:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/asia_tech_news_roundup/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Linux 7.0 debuts as Linus Torvalds ponders AI's bug-finding powers",
+      "source": "The Register",
+      "published": "Mon, 13 Apr 2026 00:10:17 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/linux_kernel_7_releaseed/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic's mysterious Mythos AI threatens to upend the infosec world",
+      "source": "The Register",
+      "published": "Sun, 12 Apr 2026 23:12:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/12/anthropic_mythos_kettle_podcast/",
       "matched_keywords": [
         "AI",
         "Anthropic",
@@ -153,132 +160,79 @@
       ]
     },
     {
-      "title": "Cloudflare, GoDaddy team up to curb AI bot brigades",
+      "title": "I vibe coded a feed reading web app. It was enlightening and uncomfortable",
       "source": "The Register",
-      "published": "Tue, 07 Apr 2026 21:32:59 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/cloudflare_godaddy_ai_bot_blocking/",
+      "published": "Sun, 12 Apr 2026 14:45:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/12/vibe_coding_works/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "AWS CEO: It's funny when people ask me if AI is overhyped",
+      "title": "Growing void between enterprise and frontier AI puts open weights models in the spotlight",
       "source": "The Register",
-      "published": "Tue, 07 Apr 2026 21:21:28 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/aws_garman_humanx_ai_underhyped/",
+      "published": "Sun, 12 Apr 2026 10:51:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/12/ai_open_weights_models/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Hundreds of orgs compromised daily in Microsoft device code phishing attacks",
-      "source": "The Register",
-      "published": "Tue, 07 Apr 2026 20:19:42 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/microsoft_device_code_phishing/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Intel gets trapped in Elon\u2019s reality distortion field as it joins in megafab delusions",
-      "source": "The Register",
-      "published": "Tue, 07 Apr 2026 19:36:48 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/intel_elon_space_delusion/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "US cybercrime losses pass $20B for first time as AI boosts online fraud",
-      "source": "The Register",
-      "published": "Tue, 07 Apr 2026 17:59:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/cybercrime_losses_reach_alltime_high/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Stack Overflow abandons redesign after loyalists criticize it",
-      "source": "The Register",
-      "published": "Tue, 07 Apr 2026 16:26:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/stack_overflow_retires_redesign_beta/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Artemis II snaps eclipse, Earthset shots on first crewed lunar flyby since Apollo",
-      "source": "The Register",
-      "published": "Tue, 07 Apr 2026 15:53:39 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/artemis_ii_astronauts_snap_pics_moon/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Break, no fix: Apple and Samsung make repairs hard",
-      "source": "The Register",
-      "published": "Tue, 07 Apr 2026 15:08:52 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/apple_samsung_repairability/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Only 28% of AI infrastructure projects fully pay off, survey finds",
-      "source": "The Register",
-      "published": "Tue, 07 Apr 2026 13:13:36 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/ai_returns_gartner/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "No-Nvidia interconnect club delivers 2.0 spec before v1.0 silicon ships",
-      "source": "The Register",
-      "published": "Tue, 07 Apr 2026 12:00:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/ualink_2_specs/",
-      "matched_keywords": [
-        "GPU",
+        "AI",
+        "Google",
         "Nvidia"
       ]
     },
     {
-      "title": "OpenInfra General Manager talks sovereignty, governments deploying tech 'kill switches'",
+      "title": "How Salesforce and ServiceNow are squaring off in the battle for the helpdesk",
       "source": "The Register",
-      "published": "Tue, 07 Apr 2026 10:27:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/thierry_carrez_on_sovereignty_interview/",
+      "published": "Sat, 11 Apr 2026 14:45:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/11/salesforce_vs_servicenow_itsm_battle/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Apple's chips are the core of a new landscape, but its biggest win is Windows",
+      "title": "Snowflake manager explains the 'Spider-Man' theory of AI agent data access",
       "source": "The Register",
-      "published": "Tue, 07 Apr 2026 09:31:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/opinion_column_apple_vs_microsoft/",
+      "published": "Fri, 10 Apr 2026 22:05:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/ai_agents_spider_man_snowflake/",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Anthropic reveals $30bn run rate and plans to use 3.5GW of new Google AI chips",
+      "title": "Microsoft's Copilot strategy is just more user abuse from Redmond, says Mozilla",
       "source": "The Register",
-      "published": "Tue, 07 Apr 2026 01:09:00 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/broadcom_google_chip_deal_anthropic_customer/",
+      "published": "Fri, 10 Apr 2026 16:43:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/mozilla_microsofts_copilot_strategy/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Suits won't quit AI spending, even if they can't prove it's working",
+      "source": "The Register",
+      "published": "Fri, 10 Apr 2026 12:10:22 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/ai_roi_kpmg/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Project Glasswing and open source software: The good, the bad, and the ugly",
+      "source": "The Register",
+      "published": "Fri, 10 Apr 2026 11:30:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/project_glasswing/",
       "matched_keywords": [
         "AI",
         "Anthropic",
-        "Google"
+        "model"
       ]
     },
     {
-      "title": "2001: An Air Quality Odyssey",
+      "title": "Reverse-Engineering Human Cognition and Decision Making in a Modern Age",
       "source": "Hackaday",
-      "published": "Wed, 08 Apr 2026 15:30:40 +0000",
-      "link": "https://hackaday.com/2026/04/08/2001-an-air-quality-odyssey/",
+      "published": "Mon, 13 Apr 2026 17:00:18 +0000",
+      "link": "https://hackaday.com/2026/04/13/the-use-of-llm-chatbots-and-human-cognitive-surrender/",
       "matched_keywords": [
-        "artificial intelligence"
+        "llm"
       ]
     }
   ]
