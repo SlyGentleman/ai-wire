@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T11:05:01.549412+00:00",
+  "last_updated": "2026-04-17T11:05:01.500931+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -30,6 +30,118 @@
       ]
     },
     {
+      "title": "Claude Opus wrote a Chrome exploit for $2,283",
+      "source": "The Register",
+      "published": "Fri, 17 Apr 2026 07:02:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "IOWN Global Forum targets datacenter interconnects to scatter AI infrastructure",
+      "source": "The Register",
+      "published": "Fri, 17 Apr 2026 06:15:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/iown_use_cases/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "IPv6 carried half of internet traffic \u2013 for one day, according to Google",
+      "source": "The Register",
+      "published": "Fri, 17 Apr 2026 02:04:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/ipv6_50_percent_google/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researchers say",
+      "source": "The Register",
+      "published": "Thu, 16 Apr 2026 22:45:37 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_mcp_design_flaw/",
+      "matched_keywords": [
+        "Anthropic",
+        "Model"
+      ]
+    },
+    {
+      "title": "Mozilla throws Thunderbolt at enterprise AI providers",
+      "source": "The Register",
+      "published": "Thu, 16 Apr 2026 21:35:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/mozilla_thunderbolt_enterprise_ai_client/",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Anthropic squeezes enterprises by ejecting bundled tokens from seat deal",
+      "source": "The Register",
+      "published": "Thu, 16 Apr 2026 20:25:43 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_ejects_bundled_tokens_enterprise/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "If you want into Anthropic's Claude club, you may have to show ID",
+      "source": "The Register",
+      "published": "Thu, 16 Apr 2026 17:49:59 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_claude_id_verification_persona/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "DuckDB uses RDBMS to attack classic 'small changes' problem in lakehouses",
+      "source": "The Register",
+      "published": "Thu, 16 Apr 2026 16:15:32 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/duckdb_uses_rdbms_lakehouse/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Brussels tells Google to hand rivals its search crown jewels as privacy row brews",
+      "source": "The Register",
+      "published": "Thu, 16 Apr 2026 14:37:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/brussels_tells_google_to_open/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Make crappy moves around AI and face voter backlash, govts warned",
+      "source": "The Register",
+      "published": "Thu, 16 Apr 2026 14:17:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/steer_ai_into_delivering_common_good_govts_told/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Visual Studio 18.5 lands with AI debugging at a price, devs still feeling blue",
+      "source": "The Register",
+      "published": "Thu, 16 Apr 2026 13:53:24 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/visual_studio_185/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Git identity spoof fools Claude into giving bad code the nod",
+      "source": "The Register",
+      "published": "Thu, 16 Apr 2026 12:57:22 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/git_identity_spoof_claude/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Obsolete Google nag drowns out vital bar information at Swedish concert hall",
       "source": "The Register",
       "published": "Thu, 16 Apr 2026 09:15:07 GMT",
@@ -48,7 +160,7 @@
       ]
     },
     {
-      "title": "Anthropic's Project Glasswing CVE tally is still anyone's guess",
+      "title": "Nobody knows how many CVEs Anthropic's Project Glasswing has actually found",
       "source": "The Register",
       "published": "Wed, 15 Apr 2026 21:33:35 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/project_glasswing_cves/",
@@ -112,92 +224,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/salesforce_headless_360/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Waymo's self-driving cars face their toughest test yet: London",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 08:45:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/waymo_london/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Agents hooked into GitHub can steal creds \u2013 but Anthropic, Google, and Microsoft haven't warned users",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 08:01:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/claude_gemini_copilot_agents_hijacked/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "Google"
-      ]
-    },
-    {
-      "title": "The only technology that died more times than VR is AI, and that seems to have worked out",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 07:03:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/hardware_metaverse_will_happen/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI-powered mainframe exits are a bubble set to pop",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 03:00:55 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/gartner_mainframe_exit_analysis/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Claude Code routines promise mildly clever cron jobs",
-      "source": "The Register",
-      "published": "Tue, 14 Apr 2026 22:40:49 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/claude_code_routines/",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Commvault has a Ctrl+Z for rogue AI agents",
-      "source": "The Register",
-      "published": "Tue, 14 Apr 2026 20:57:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/commvault_has_a_ctrlz_for/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia slaps forehead: I know what quantum is missing \u2013 it's AI!",
-      "source": "The Register",
-      "published": "Tue, 14 Apr 2026 18:58:24 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/nvidia_ai_quantum_computing/",
-      "matched_keywords": [
-        "AI",
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Man suspected of Molotov attack on Sam Altman's home charged with attempted murder",
-      "source": "The Register",
-      "published": "Tue, 14 Apr 2026 09:50:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/altman_attempted_murder/",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "AI For The Skeptics:  Attempting To Do Something Useful With It",
-      "source": "Hackaday",
-      "published": "Wed, 15 Apr 2026 17:00:50 +0000",
-      "link": "https://hackaday.com/2026/04/15/ai-for-the-skeptics-attempting-to-do-something-useful-with-it/",
-      "matched_keywords": [
-        "AI",
-        "ai"
       ]
     }
   ]
