@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T11:05:01.500931+00:00",
+  "last_updated": "2026-04-18T11:05:01.423136+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,34 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Cloudflare can remember it for you wholesale",
+      "source": "The Register",
+      "published": "Sat, 18 Apr 2026 08:30:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/18/cloudflare_agent_memory/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Atlassian\u2019s new data collection policy protects rich customers while AI eats the rest",
+      "source": "The Register",
+      "published": "Sat, 18 Apr 2026 07:30:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams",
+      "source": "The Register",
+      "published": "Fri, 17 Apr 2026 20:38:02 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/anthropic_debuts_claude_design/",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
       ]
     },
     {
@@ -208,22 +236,21 @@
       ]
     },
     {
-      "title": "Not all networks can handle AI traffic \u2013 and experts are sounding alarms",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 15:40:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/networks_not_ready_for_ai_challenges/",
+      "title": "Electric Wind-Up Plane Uses Supercapacitors For Free Flight Fun",
+      "source": "Hackaday",
+      "published": "Sat, 18 Apr 2026 08:00:02 +0000",
+      "link": "https://hackaday.com/2026/04/18/electric-wind-up-plane-uses-supercapacitors-for-free-flight-fun/",
       "matched_keywords": [
-        "AI",
-        "compute"
+        "model"
       ]
     },
     {
-      "title": "Headless 360: Salesforce's latest pitch to let AI do the dev work",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 12:16:22 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/salesforce_headless_360/",
+      "title": "FRED Comes to Hobby Operating Systems (and Linux)",
+      "source": "Hackaday",
+      "published": "Sat, 18 Apr 2026 02:00:41 +0000",
+      "link": "https://hackaday.com/2026/04/17/fred-comes-to-hobby-operating-systems-and-linux/",
       "matched_keywords": [
-        "AI"
+        "model"
       ]
     }
   ]
