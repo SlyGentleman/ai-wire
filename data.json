@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T11:05:01.423136+00:00",
+  "last_updated": "2026-04-19T11:05:01.536456+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -231,24 +231,6 @@
       "source": "The Register",
       "published": "Wed, 15 Apr 2026 16:46:12 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/llms_inherit_bad_traits/",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "Electric Wind-Up Plane Uses Supercapacitors For Free Flight Fun",
-      "source": "Hackaday",
-      "published": "Sat, 18 Apr 2026 08:00:02 +0000",
-      "link": "https://hackaday.com/2026/04/18/electric-wind-up-plane-uses-supercapacitors-for-free-flight-fun/",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "FRED Comes to Hobby Operating Systems (and Linux)",
-      "source": "Hackaday",
-      "published": "Sat, 18 Apr 2026 02:00:41 +0000",
-      "link": "https://hackaday.com/2026/04/17/fred-comes-to-hobby-operating-systems-and-linux/",
       "matched_keywords": [
         "model"
       ]
