@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T11:05:01.536456+00:00",
+  "last_updated": "2026-04-20T11:05:01.919473+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,60 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Growing AI power slurpage prompts MPs to examine low-energy computing",
+      "source": "The Register",
+      "published": "Mon, 20 Apr 2026 09:23:41 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/mps_probe_low_energy_computing/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI quota inflation is no token effort. It's baked in",
+      "source": "The Register",
+      "published": "Mon, 20 Apr 2026 08:25:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/inflation_ai_quota/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Next.js developer Vercel warns of customer credential compromise",
+      "source": "The Register",
+      "published": "Mon, 20 Apr 2026 07:31:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/vercel_context_ai_security_incident/",
+      "matched_keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Indonesia\u2019s game rating system paused amid claims it leaked developer creds and glimpses of major new titles",
+      "source": "The Register",
+      "published": "Mon, 20 Apr 2026 02:07:30 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/asia_tech_news_roundup/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Just like phishing for gullible humans, prompt injecting AIs is here to stay",
+      "source": "The Register",
+      "published": "Sun, 19 Apr 2026 23:00:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/19/just_like_phishing_for_gullible/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "I meant to do that! AI vendors shrug off responsibility for vulns",
+      "source": "The Register",
+      "published": "Sun, 19 Apr 2026 11:07:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/19/ai_vendors_response_to_security/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -176,63 +230,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/google_sweden_bork/",
       "matched_keywords": [
         "Google"
-      ]
-    },
-    {
-      "title": "Google Chrome lacks protection against one of the most basic and common ways to track users online",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 00:28:39 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/google_chrome_lacks_browser_fingerprinting/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Nobody knows how many CVEs Anthropic's Project Glasswing has actually found",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 21:33:35 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/project_glasswing_cves/",
-      "matched_keywords": [
-        "Anthropic",
-        "LLM",
-        "model"
-      ]
-    },
-    {
-      "title": "Don't let the bot play doctor! AI gets early diagnoses wrong 80% of the time",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 21:07:21 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/ai_gets_early_medical_diagnosis/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Customers revolt as GitHub Copilot 'fixes' rate limits",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 20:25:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/github_copilot_rate_limiting_bug/",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Shoe company says it's getting into AI infrastructure and yes this is the top",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 20:06:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/allbirds_ai_longislandicedtea_blockchain_lolol/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Bad teacher bots can leave hidden marks on model students",
-      "source": "The Register",
-      "published": "Wed, 15 Apr 2026 16:46:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/llms_inherit_bad_traits/",
-      "matched_keywords": [
-        "model"
       ]
     }
   ]
