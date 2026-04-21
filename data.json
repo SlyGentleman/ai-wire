@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T11:05:01.919473+00:00",
+  "last_updated": "2026-04-21T11:05:01.281334+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,62 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Claude Desktop changes app access settings for browsers you don't even have installed yet",
+      "source": "The Register",
+      "published": "Mon, 20 Apr 2026 19:56:55 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/anthropic_claude_desktop_spyware_allegation/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Schmoozebots: Study finds flattery will get AI everywhere",
+      "source": "The Register",
+      "published": "Mon, 20 Apr 2026 16:07:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/chatbots_win_trust_by_sounding/",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "One of Europe's sovereign cloud picks may not be so-sovereign after all",
+      "source": "The Register",
+      "published": "Mon, 20 Apr 2026 15:50:46 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/europe_picks_4_sovereign_cloud/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "New Android development tool designed for robots, not humans",
+      "source": "The Register",
+      "published": "Mon, 20 Apr 2026 15:24:54 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/google_previews_android_cli/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "AI is reshaping Britain's datacenter map away from London",
+      "source": "The Register",
+      "published": "Mon, 20 Apr 2026 12:38:39 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/ai_is_reshaping_britains_datacenter/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK.gov kicks off half-a-billion quid sovereign AI venture with \u00a380M invite",
+      "source": "The Register",
+      "published": "Mon, 20 Apr 2026 12:13:03 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/ukgov_kicks_off_500m_ai/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -128,108 +184,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/iown_use_cases/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "IPv6 carried half of internet traffic \u2013 for one day, according to Google",
-      "source": "The Register",
-      "published": "Fri, 17 Apr 2026 02:04:50 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/ipv6_50_percent_google/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researchers say",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 22:45:37 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_mcp_design_flaw/",
-      "matched_keywords": [
-        "Anthropic",
-        "Model"
-      ]
-    },
-    {
-      "title": "Mozilla throws Thunderbolt at enterprise AI providers",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 21:35:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/mozilla_thunderbolt_enterprise_ai_client/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Anthropic squeezes enterprises by ejecting bundled tokens from seat deal",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 20:25:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_ejects_bundled_tokens_enterprise/",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "If you want into Anthropic's Claude club, you may have to show ID",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 17:49:59 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_claude_id_verification_persona/",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "DuckDB uses RDBMS to attack classic 'small changes' problem in lakehouses",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 16:15:32 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/duckdb_uses_rdbms_lakehouse/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Brussels tells Google to hand rivals its search crown jewels as privacy row brews",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 14:37:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/brussels_tells_google_to_open/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Make crappy moves around AI and face voter backlash, govts warned",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 14:17:27 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/steer_ai_into_delivering_common_good_govts_told/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Visual Studio 18.5 lands with AI debugging at a price, devs still feeling blue",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 13:53:24 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/visual_studio_185/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Git identity spoof fools Claude into giving bad code the nod",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 12:57:22 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/git_identity_spoof_claude/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Obsolete Google nag drowns out vital bar information at Swedish concert hall",
-      "source": "The Register",
-      "published": "Thu, 16 Apr 2026 09:15:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/google_sweden_bork/",
-      "matched_keywords": [
-        "Google"
       ]
     }
   ]
