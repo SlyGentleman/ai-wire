@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T11:05:01.281334+00:00",
+  "last_updated": "2026-04-22T11:05:01.697426+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,80 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Forget call centers, local energy prices mean Britain's latest offshoring wave is AI projects",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 09:15:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/brit_firms_look_to_deploy/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Oil crisis? What oil crisis? IT spending de-coupled from wider war shock",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 08:30:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/oil_crisis_what_oil_crisis/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Mythos found 271 Firefox flaws \u2013 but none a human couldn\u2019t spot",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 04:32:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/mozilla_firefox_mythos_future_defenders/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "Magnificent irony as Meta staff unhappy about running surveillance software on work PCs",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 02:54:02 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic tests how devs react to yanking Claude Code from Pro plan",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 00:16:57 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_removes_claude_code_pro/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Apple has an opportunity to rediscover humanity in its push toward AI",
+      "source": "The Register",
+      "published": "Tue, 21 Apr 2026 22:06:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/apple_ternus_rediscover_humanity/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic bakes memory fixes into Bun 1.1.13 as developers complain of leaks",
+      "source": "The Register",
+      "published": "Tue, 21 Apr 2026 15:27:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/anthropics_bun_1113_released_with_memory_fixes/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AI-assisted intruders pwned Vercel via OAuth abuse and a pilfered employee account",
+      "source": "The Register",
+      "published": "Tue, 21 Apr 2026 12:17:43 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/vercel_ceo_points_to_aidriven/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -110,80 +184,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/vercel_context_ai_security_incident/",
       "matched_keywords": [
         "ai"
-      ]
-    },
-    {
-      "title": "Indonesia\u2019s game rating system paused amid claims it leaked developer creds and glimpses of major new titles",
-      "source": "The Register",
-      "published": "Mon, 20 Apr 2026 02:07:30 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/asia_tech_news_roundup/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Just like phishing for gullible humans, prompt injecting AIs is here to stay",
-      "source": "The Register",
-      "published": "Sun, 19 Apr 2026 23:00:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/19/just_like_phishing_for_gullible/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "I meant to do that! AI vendors shrug off responsibility for vulns",
-      "source": "The Register",
-      "published": "Sun, 19 Apr 2026 11:07:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/19/ai_vendors_response_to_security/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cloudflare can remember it for you wholesale",
-      "source": "The Register",
-      "published": "Sat, 18 Apr 2026 08:30:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/18/cloudflare_agent_memory/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Atlassian\u2019s new data collection policy protects rich customers while AI eats the rest",
-      "source": "The Register",
-      "published": "Sat, 18 Apr 2026 07:30:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams",
-      "source": "The Register",
-      "published": "Fri, 17 Apr 2026 20:38:02 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/anthropic_debuts_claude_design/",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "Claude Opus wrote a Chrome exploit for $2,283",
-      "source": "The Register",
-      "published": "Fri, 17 Apr 2026 07:02:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "IOWN Global Forum targets datacenter interconnects to scatter AI infrastructure",
-      "source": "The Register",
-      "published": "Fri, 17 Apr 2026 06:15:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/iown_use_cases/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
