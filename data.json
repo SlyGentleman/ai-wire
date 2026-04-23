@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T11:05:01.697426+00:00",
+  "last_updated": "2026-04-23T11:05:01.382839+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,114 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Google Meet or Google Mute? Even CEOs get borked sometimes",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 10:15:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/google_cloud_next_videoconf_issues/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Stale gov.uk pages are feeding AI overviews old data and Brits are believing it",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 08:45:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/stale_govuk_pages_are_feeding/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 21:39:44 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "SK Hynix\u2019s aspirations for \u2019Merica-made HBM inch closer to reality",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 20:28:25 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/sk_hynix_indiana/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "OpenAI now lets you screenshot your privacy in the foot",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 19:56:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/openai_chronicle_no_privacy_screenshot/",
+      "matched_keywords": [
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Workday, Rippling, and Slack flunk data access test, claims Fivetran",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 16:40:21 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/workday_rippling_slack_flunk_fivetran_data_access_test/",
+      "matched_keywords": [
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "title": "Grafana offers AI assistant for free, warns users not to go mad",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 12:57:02 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/grafana_goes_free_with_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Right to repair champ Framework punts modular 13in laptop with Core Ultra Series 3",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 12:31:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/framework_punts_modular_13in_laptop/",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "Google claims to have all the answers for enterprise AI agent sprawl",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 12:03:32 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_enterprise/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Google unleashes even more AI security agents to fight the baddies",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 12:01:43 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_unleashes_even_more_ai/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Forget one chip to rule them all: With TPU 8, Google has an AI arms race to win",
+      "source": "The Register",
+      "published": "Wed, 22 Apr 2026 12:00:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_tpu8_dual_track_training_inference/",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "model"
       ]
     },
     {
@@ -104,85 +212,21 @@
       ]
     },
     {
-      "title": "Claude Desktop changes app access settings for browsers you don't even have installed yet",
-      "source": "The Register",
-      "published": "Mon, 20 Apr 2026 19:56:55 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/anthropic_claude_desktop_spyware_allegation/",
+      "title": "Autonomous Coin Flipper Flips Expensive Coin",
+      "source": "Hackaday",
+      "published": "Wed, 22 Apr 2026 20:00:45 +0000",
+      "link": "https://hackaday.com/2026/04/22/autonomous-coin-flipper-flips-expensive-coin/",
       "matched_keywords": [
-        "Anthropic"
+        "AI"
       ]
     },
     {
-      "title": "Schmoozebots: Study finds flattery will get AI everywhere",
-      "source": "The Register",
-      "published": "Mon, 20 Apr 2026 16:07:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/chatbots_win_trust_by_sounding/",
+      "title": "AI For The Skeptics: The Universal Function For Some Things Only",
+      "source": "Hackaday",
+      "published": "Wed, 22 Apr 2026 17:00:39 +0000",
+      "link": "https://hackaday.com/2026/04/22/ai-for-the-skeptics-the-universal-function-for-some-things-only/",
       "matched_keywords": [
         "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "One of Europe's sovereign cloud picks may not be so-sovereign after all",
-      "source": "The Register",
-      "published": "Mon, 20 Apr 2026 15:50:46 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/europe_picks_4_sovereign_cloud/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "New Android development tool designed for robots, not humans",
-      "source": "The Register",
-      "published": "Mon, 20 Apr 2026 15:24:54 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/google_previews_android_cli/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "AI is reshaping Britain's datacenter map away from London",
-      "source": "The Register",
-      "published": "Mon, 20 Apr 2026 12:38:39 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/ai_is_reshaping_britains_datacenter/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK.gov kicks off half-a-billion quid sovereign AI venture with \u00a380M invite",
-      "source": "The Register",
-      "published": "Mon, 20 Apr 2026 12:13:03 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/ukgov_kicks_off_500m_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Growing AI power slurpage prompts MPs to examine low-energy computing",
-      "source": "The Register",
-      "published": "Mon, 20 Apr 2026 09:23:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/mps_probe_low_energy_computing/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI quota inflation is no token effort. It's baked in",
-      "source": "The Register",
-      "published": "Mon, 20 Apr 2026 08:25:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/inflation_ai_quota/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Next.js developer Vercel warns of customer credential compromise",
-      "source": "The Register",
-      "published": "Mon, 20 Apr 2026 07:31:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/vercel_context_ai_security_incident/",
-      "matched_keywords": [
         "ai"
       ]
     }
