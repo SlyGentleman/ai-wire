@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T11:05:01.382839+00:00",
+  "last_updated": "2026-04-24T11:05:01.212379+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,99 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Anthropic admits it dumbed down Claude when trying to make it smarter",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 23:26:57 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/anthropic_says_it_has_fixed/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Claude Opus 4.7 has turned into an overzealous query cop, devs complain",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 20:47:49 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/claude_opus_47_auc_overzealous/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "YouTuber has DIMM idea, builds working DRAM in backyard",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 17:43:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/youtuber_builds_working_dram/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google explains why its all-in-one AI stack embraces competitors",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 17:13:36 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/google_cloud_next_interview_ai_stack/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Microsoft gives your Word documents an AI co-author you didn\u2019t ask for",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 15:55:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/microsoft_gives_your_word_documents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Datadog digs down into GPU efficiency as AI costs soar",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 15:33:40 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/datadog_digs_down_into_gpu/",
+      "matched_keywords": [
+        "AI",
+        "GPU"
+      ]
+    },
+    {
+      "title": "Everpure 'takes the hit' as AI-fueled supply crunch drives prices up 70%",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 14:57:19 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/everpure_letter_covid/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI now gobbling up power and management chips for servers",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 12:59:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/ai_now_gobbling_up_power/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Musk bets Tesla's AI future on Intel node that isn't finished yet",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 11:43:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/musk_bets_teslas_ai_future/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI bats away ping-pong challenge as rise of the machines continues",
+      "source": "The Register",
+      "published": "Thu, 23 Apr 2026 11:15:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/ai_bat_away_pingpong_challenge/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -138,96 +231,16 @@
       ]
     },
     {
-      "title": "Forget call centers, local energy prices mean Britain's latest offshoring wave is AI projects",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 09:15:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/brit_firms_look_to_deploy/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Oil crisis? What oil crisis? IT spending de-coupled from wider war shock",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 08:30:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/oil_crisis_what_oil_crisis/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Mythos found 271 Firefox flaws \u2013 but none a human couldn\u2019t spot",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 04:32:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/mozilla_firefox_mythos_future_defenders/",
+      "title": "How Anthropic\u2019s Model Context Protocol Allows for Easy Remote Execution",
+      "source": "Hackaday",
+      "published": "Fri, 24 Apr 2026 11:00:30 +0000",
+      "link": "https://hackaday.com/2026/04/24/how-anthropics-model-context-protocol-allows-for-easy-remote-execution/",
       "matched_keywords": [
         "AI",
         "Anthropic",
+        "LLM",
+        "Model",
         "model"
-      ]
-    },
-    {
-      "title": "Magnificent irony as Meta staff unhappy about running surveillance software on work PCs",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 02:54:02 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic tests how devs react to yanking Claude Code from Pro plan",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 00:16:57 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_removes_claude_code_pro/",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Apple has an opportunity to rediscover humanity in its push toward AI",
-      "source": "The Register",
-      "published": "Tue, 21 Apr 2026 22:06:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/apple_ternus_rediscover_humanity/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic bakes memory fixes into Bun 1.1.13 as developers complain of leaks",
-      "source": "The Register",
-      "published": "Tue, 21 Apr 2026 15:27:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/anthropics_bun_1113_released_with_memory_fixes/",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AI-assisted intruders pwned Vercel via OAuth abuse and a pilfered employee account",
-      "source": "The Register",
-      "published": "Tue, 21 Apr 2026 12:17:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/vercel_ceo_points_to_aidriven/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Autonomous Coin Flipper Flips Expensive Coin",
-      "source": "Hackaday",
-      "published": "Wed, 22 Apr 2026 20:00:45 +0000",
-      "link": "https://hackaday.com/2026/04/22/autonomous-coin-flipper-flips-expensive-coin/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI For The Skeptics: The Universal Function For Some Things Only",
-      "source": "Hackaday",
-      "published": "Wed, 22 Apr 2026 17:00:39 +0000",
-      "link": "https://hackaday.com/2026/04/22/ai-for-the-skeptics-the-universal-function-for-some-things-only/",
-      "matched_keywords": [
-        "AI",
-        "ai"
       ]
     }
   ]
