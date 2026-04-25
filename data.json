@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T11:05:01.212379+00:00",
+  "last_updated": "2026-04-25T11:05:01.760015+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,74 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Crime crew impersonates help desk, abuses Microsoft Teams to steal your data",
+      "source": "The Register",
+      "published": "Sat, 25 Apr 2026 09:28:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/25/new_crime_crew_impersonates_help_desks/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "DeepSeek's new models are so efficient they'll run on a toaster ... by which we mean Huawei's NPUs",
+      "source": "The Register",
+      "published": "Fri, 24 Apr 2026 21:25:01 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/deepseek_v4/",
+      "matched_keywords": [
+        "AI",
+        "DeepSeek",
+        "model"
+      ]
+    },
+    {
+      "title": "Ubuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps",
+      "source": "The Register",
+      "published": "Fri, 24 Apr 2026 17:22:41 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ubuntu_resolute_raccoon/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "More ancient Linux device support faces the chop",
+      "source": "The Register",
+      "published": "Fri, 24 Apr 2026 14:15:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ancient_linux_drivers_going/",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "Open Telemetry founder tools up for project graduation party",
+      "source": "The Register",
+      "published": "Fri, 24 Apr 2026 13:43:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/open_telemetry_founder_tools_up/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Intel bets the farm on AI inference to drag CPU back to the top table",
+      "source": "The Register",
+      "published": "Fri, 24 Apr 2026 12:50:36 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/intel_expects_ai_inference_to/",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "It's a myth that you need Mythos to find bugs: Open source models can do it just as well",
+      "source": "The Register",
+      "published": "Fri, 24 Apr 2026 11:41:54 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ai_bugfinding_futures/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
       ]
     },
     {
@@ -172,73 +240,11 @@
       ]
     },
     {
-      "title": "Workday, Rippling, and Slack flunk data access test, claims Fivetran",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 16:40:21 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/workday_rippling_slack_flunk_fivetran_data_access_test/",
-      "matched_keywords": [
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "title": "Grafana offers AI assistant for free, warns users not to go mad",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 12:57:02 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/grafana_goes_free_with_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Right to repair champ Framework punts modular 13in laptop with Core Ultra Series 3",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 12:31:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/framework_punts_modular_13in_laptop/",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "Google claims to have all the answers for enterprise AI agent sprawl",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 12:03:32 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_enterprise/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Google unleashes even more AI security agents to fight the baddies",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 12:01:43 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_unleashes_even_more_ai/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Forget one chip to rule them all: With TPU 8, Google has an AI arms race to win",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 12:00:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_tpu8_dual_track_training_inference/",
-      "matched_keywords": [
-        "AI",
-        "Google",
-        "model"
-      ]
-    },
-    {
-      "title": "How Anthropic\u2019s Model Context Protocol Allows for Easy Remote Execution",
+      "title": "Muon Magnetic Moment Matches Model, Making Major Malaise",
       "source": "Hackaday",
-      "published": "Fri, 24 Apr 2026 11:00:30 +0000",
-      "link": "https://hackaday.com/2026/04/24/how-anthropics-model-context-protocol-allows-for-easy-remote-execution/",
+      "published": "Sat, 25 Apr 2026 02:00:49 +0000",
+      "link": "https://hackaday.com/2026/04/24/muon-magnetic-moment-matches-model-making-major-malaise/",
       "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "LLM",
         "Model",
         "model"
       ]
