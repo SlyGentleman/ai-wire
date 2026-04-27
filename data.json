@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T11:05:01.760015+00:00",
+  "last_updated": "2026-04-27T11:05:01.801034+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,63 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Watch out UK taxpayers: 28,000 HMRC staffers just got an AI copilot",
+      "source": "The Register",
+      "published": "Mon, 27 Apr 2026 09:15:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/hmrc_hands_28000_staff_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
+      "source": "The Register",
+      "published": "Mon, 27 Apr 2026 08:30:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/anthropics_magic_codesniffer_more_swiss/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "Google Cloud Next proves what we suspected: Everything is AI now",
+      "source": "The Register",
+      "published": "Mon, 27 Apr 2026 00:01:15 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/google_cloud_next_proves_what/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Tokenmaxxing isn't an AI strategy",
+      "source": "The Register",
+      "published": "Sun, 26 Apr 2026 14:48:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/26/ai_price_tag/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI's not going to kill open source code security",
+      "source": "The Register",
+      "published": "Sun, 26 Apr 2026 09:28:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/26/opinion_column/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ex-AWS legend explains what enterprises need to make AI actually work",
+      "source": "The Register",
+      "published": "Sat, 25 Apr 2026 13:07:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/25/ai_enterprise_matt_domo/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -188,65 +245,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/ai_bat_away_pingpong_challenge/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Google Meet or Google Mute? Even CEOs get borked sometimes",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 10:15:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/google_cloud_next_videoconf_issues/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Stale gov.uk pages are feeding AI overviews old data and Brits are believing it",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 08:45:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/stale_govuk_pages_are_feeding/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 21:39:44 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "SK Hynix\u2019s aspirations for \u2019Merica-made HBM inch closer to reality",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 20:28:25 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/sk_hynix_indiana/",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "OpenAI now lets you screenshot your privacy in the foot",
-      "source": "The Register",
-      "published": "Wed, 22 Apr 2026 19:56:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/openai_chronicle_no_privacy_screenshot/",
-      "matched_keywords": [
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "Muon Magnetic Moment Matches Model, Making Major Malaise",
-      "source": "Hackaday",
-      "published": "Sat, 25 Apr 2026 02:00:49 +0000",
-      "link": "https://hackaday.com/2026/04/24/muon-magnetic-moment-matches-model-making-major-malaise/",
-      "matched_keywords": [
-        "Model",
-        "model"
       ]
     }
   ]
