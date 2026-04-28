@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T11:05:01.801034+00:00",
+  "last_updated": "2026-04-28T11:05:02.021841+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,106 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Locked, stocked, and losing budget: AI vendor lock-in bites back",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 09:15:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/locked_stocked_and_losing_budget/",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "\u2018AI deflation\u2019 comes to India\u2019s tech services giants and puts downward pressure on revenue",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 05:34:57 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/tcs_infosys_wipro_hcl_fy26/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "China blocks Zuck\u2019s acquisition of AI outfit Manus",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 02:09:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/china_blocks_meta_manus_acquisition/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft's GitHub shifts to metered AI billing amid cost crisis",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 00:31:01 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cursor-Opus agent snuffs out startup\u2019s production database",
+      "source": "The Register",
+      "published": "Mon, 27 Apr 2026 21:29:25 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/cursoropus_agent_snuffs_out_pocketos/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The crypto-to-AI bandwagon jumpers' club just landed another member: Core Scientific",
+      "source": "The Register",
+      "published": "Mon, 27 Apr 2026 18:58:06 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/core_scientific_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "South Africa yanks AI policy after AI-assisted drafting invents citations",
+      "source": "The Register",
+      "published": "Mon, 27 Apr 2026 17:24:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/south_africa_yanks_ai_policy/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI reality check: Here's what three companies learned building wallets, homes, and games",
+      "source": "The Register",
+      "published": "Mon, 27 Apr 2026 16:20:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/ai_use_cases_citi_home_depot_capcom_google_cloud_next/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Meta to power its bit barns with energy from space",
+      "source": "The Register",
+      "published": "Mon, 27 Apr 2026 15:47:41 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/meta_wants_to_beam_solar/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft and OpenAI's open relationship is now official",
+      "source": "The Register",
+      "published": "Mon, 27 Apr 2026 15:14:54 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/microsofts_and_openai_change_relationship/",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Trump's Golden Dome gets $3.2B of contractors and an AI sprinkle",
+      "source": "The Register",
+      "published": "Mon, 27 Apr 2026 13:03:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/us_names_firms_to_develop/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -125,7 +225,7 @@
       ]
     },
     {
-      "title": "Open Telemetry founder tools up for project graduation party",
+      "title": "OpenTelemetry co-founder tools up for project graduation party",
       "source": "The Register",
       "published": "Fri, 24 Apr 2026 13:43:07 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/open_telemetry_founder_tools_up/",
@@ -152,99 +252,6 @@
         "AI",
         "Anthropic",
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Anthropic admits it dumbed down Claude when trying to make it smarter",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 23:26:57 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/anthropic_says_it_has_fixed/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Claude Opus 4.7 has turned into an overzealous query cop, devs complain",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 20:47:49 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/claude_opus_47_auc_overzealous/",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "YouTuber has DIMM idea, builds working DRAM in backyard",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 17:43:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/youtuber_builds_working_dram/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google explains why its all-in-one AI stack embraces competitors",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 17:13:36 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/google_cloud_next_interview_ai_stack/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Microsoft gives your Word documents an AI co-author you didn\u2019t ask for",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 15:55:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/microsoft_gives_your_word_documents/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Datadog digs down into GPU efficiency as AI costs soar",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 15:33:40 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/datadog_digs_down_into_gpu/",
-      "matched_keywords": [
-        "AI",
-        "GPU"
-      ]
-    },
-    {
-      "title": "Everpure 'takes the hit' as AI-fueled supply crunch drives prices up 70%",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 14:57:19 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/everpure_letter_covid/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI now gobbling up power and management chips for servers",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 12:59:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/ai_now_gobbling_up_power/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Musk bets Tesla's AI future on Intel node that isn't finished yet",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 11:43:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/musk_bets_teslas_ai_future/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI bats away ping-pong challenge as rise of the machines continues",
-      "source": "The Register",
-      "published": "Thu, 23 Apr 2026 11:15:11 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/ai_bat_away_pingpong_challenge/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
