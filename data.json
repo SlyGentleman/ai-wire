@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T11:05:02.021841+00:00",
+  "last_updated": "2026-04-29T11:05:02.023297+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -25,6 +25,118 @@
       "source": "Ars Technica",
       "published": "Wed, 25 Mar 2026 15:49:17 +0000",
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "AI clause in new SAP API policy has partners worried over lock-in",
+      "source": "The Register",
+      "published": "Wed, 29 Apr 2026 09:15:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/new_sap_api_policy_provokes/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
+      "source": "The Register",
+      "published": "Wed, 29 Apr 2026 06:32:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The future of software development: Now with less software development",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 22:00:29 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/software_development_ai_dev25xsf/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Oracle plans to power its New Mexico mega datacenter with a 2.45GW fuel cell farm",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 21:58:58 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/oracle_new_mexico_power_fuel_cell_farm/",
+      "matched_keywords": [
+        "OpenAI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Cloudera had US candidates send resumes to a fake email address, DoJ charges",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 20:46:57 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/cloudera_doj_employment_discrimination_lawsuit/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI jumps out of Microsoft's bed, into Amazon's Bedrock",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 19:21:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/openai_climbs_into_amazons_bedrock/",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Vintage chatbot lives in the past like an elderly relative",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 17:51:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/vintage_chatbot_lives_in_past/",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "IBM's AI coding 'partner' Bob hits general availability",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 17:18:47 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ibms_ai_coding_partner_bob/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Amazon unveils a Copilot for all your apps",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 17:06:59 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/amazon_quick_connect_expansion/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Tenstorrent\u2019s Galaxy Blackhole AI servers escape the event horizon",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 13:00:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/tenstorrent_galaxy_blackhole_ai_servers_ga/",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Brussels orders Google to share Android's AI sandbox with the other kids",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 12:30:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ai_competition_in_android_phones/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "UK.gov's DCMS to new CDIO: Migrate from Google to Microsoft, overhaul ERP, build a team",
+      "source": "The Register",
+      "published": "Tue, 28 Apr 2026 12:24:53 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ukgov_seeks_cdio_to_lead/",
       "matched_keywords": [
         "Google"
       ]
@@ -147,111 +259,6 @@
         "AI",
         "Anthropic",
         "model"
-      ]
-    },
-    {
-      "title": "Google Cloud Next proves what we suspected: Everything is AI now",
-      "source": "The Register",
-      "published": "Mon, 27 Apr 2026 00:01:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/google_cloud_next_proves_what/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Tokenmaxxing isn't an AI strategy",
-      "source": "The Register",
-      "published": "Sun, 26 Apr 2026 14:48:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/26/ai_price_tag/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI's not going to kill open source code security",
-      "source": "The Register",
-      "published": "Sun, 26 Apr 2026 09:28:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/26/opinion_column/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ex-AWS legend explains what enterprises need to make AI actually work",
-      "source": "The Register",
-      "published": "Sat, 25 Apr 2026 13:07:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/25/ai_enterprise_matt_domo/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Crime crew impersonates help desk, abuses Microsoft Teams to steal your data",
-      "source": "The Register",
-      "published": "Sat, 25 Apr 2026 09:28:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/25/new_crime_crew_impersonates_help_desks/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "DeepSeek's new models are so efficient they'll run on a toaster ... by which we mean Huawei's NPUs",
-      "source": "The Register",
-      "published": "Fri, 24 Apr 2026 21:25:01 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/deepseek_v4/",
-      "matched_keywords": [
-        "AI",
-        "DeepSeek",
-        "model"
-      ]
-    },
-    {
-      "title": "Ubuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps",
-      "source": "The Register",
-      "published": "Fri, 24 Apr 2026 17:22:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ubuntu_resolute_raccoon/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "More ancient Linux device support faces the chop",
-      "source": "The Register",
-      "published": "Fri, 24 Apr 2026 14:15:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ancient_linux_drivers_going/",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "OpenTelemetry co-founder tools up for project graduation party",
-      "source": "The Register",
-      "published": "Fri, 24 Apr 2026 13:43:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/open_telemetry_founder_tools_up/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Intel bets the farm on AI inference to drag CPU back to the top table",
-      "source": "The Register",
-      "published": "Fri, 24 Apr 2026 12:50:36 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/intel_expects_ai_inference_to/",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "It's a myth that you need Mythos to find bugs: Open source models can do it just as well",
-      "source": "The Register",
-      "published": "Fri, 24 Apr 2026 11:41:54 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ai_bugfinding_futures/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
       ]
     }
   ]
