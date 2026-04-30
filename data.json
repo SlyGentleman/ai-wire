@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T11:05:02.023297+00:00",
+  "last_updated": "2026-04-30T11:05:01.370098+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,70 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Met Police's Palantir deployment has its own officers watching their backs",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 09:29:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/met_police_palantir_deployment_cop_probe/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google to sell its TPUs to some customers, who also fancy big-G GPUs",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 03:49:05 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/alphabet_google_q1_fy26/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Microsoft lifts 2026 AI spend by $25 billion to cover component price rises",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 01:15:56 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/microsoft_q3_2026/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Databricks can't seem to shake authors' copyright claim that could result in 'extraordinary' damages",
+      "source": "The Register",
+      "published": "Wed, 29 Apr 2026 18:05:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/databricks_author_copyright_lawsuit_continues/",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "Yet another experiment proves it's too damn simple to poison large language models",
+      "source": "The Register",
+      "published": "Wed, 29 Apr 2026 17:00:18 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/poisoning_large_language_models_6nimmt/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "GitHub: Zounds, a genuinely helpful AI-assisted bug report that isn't total slop! Here, Wiz, take this wad of cash",
+      "source": "The Register",
+      "published": "Wed, 29 Apr 2026 13:02:16 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_woah_a_genuinely_helpful/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AWS keynote hypes AI as magic. Its own engineers tell a different story",
+      "source": "The Register",
+      "published": "Wed, 29 Apr 2026 12:51:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/aws_keynote_hypes_ai_magic/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -152,112 +216,23 @@
       ]
     },
     {
-      "title": "\u2018AI deflation\u2019 comes to India\u2019s tech services giants and puts downward pressure on revenue",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 05:34:57 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/tcs_infosys_wipro_hcl_fy26/",
+      "title": "Building an x86 Gaming PC Without Intel, NVIDIA or AMD parts",
+      "source": "Hackaday",
+      "published": "Thu, 30 Apr 2026 08:00:14 +0000",
+      "link": "https://hackaday.com/2026/04/30/building-an-x86-gaming-pc-without-intel-nvidia-or-amd-parts/",
       "matched_keywords": [
-        "AI"
+        "NVIDIA",
+        "nvidia"
       ]
     },
     {
-      "title": "China blocks Zuck\u2019s acquisition of AI outfit Manus",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 02:09:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/china_blocks_meta_manus_acquisition/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft's GitHub shifts to metered AI billing amid cost crisis",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 00:31:01 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cursor-Opus agent snuffs out startup\u2019s production database",
-      "source": "The Register",
-      "published": "Mon, 27 Apr 2026 21:29:25 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/cursoropus_agent_snuffs_out_pocketos/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The crypto-to-AI bandwagon jumpers' club just landed another member: Core Scientific",
-      "source": "The Register",
-      "published": "Mon, 27 Apr 2026 18:58:06 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/core_scientific_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "South Africa yanks AI policy after AI-assisted drafting invents citations",
-      "source": "The Register",
-      "published": "Mon, 27 Apr 2026 17:24:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/south_africa_yanks_ai_policy/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI reality check: Here's what three companies learned building wallets, homes, and games",
-      "source": "The Register",
-      "published": "Mon, 27 Apr 2026 16:20:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/ai_use_cases_citi_home_depot_capcom_google_cloud_next/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Meta to power its bit barns with energy from space",
-      "source": "The Register",
-      "published": "Mon, 27 Apr 2026 15:47:41 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/meta_wants_to_beam_solar/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft and OpenAI's open relationship is now official",
-      "source": "The Register",
-      "published": "Mon, 27 Apr 2026 15:14:54 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/microsofts_and_openai_change_relationship/",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Trump's Golden Dome gets $3.2B of contractors and an AI sprinkle",
-      "source": "The Register",
-      "published": "Mon, 27 Apr 2026 13:03:09 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/us_names_firms_to_develop/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Watch out UK taxpayers: 28,000 HMRC staffers just got an AI copilot",
-      "source": "The Register",
-      "published": "Mon, 27 Apr 2026 09:15:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/hmrc_hands_28000_staff_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
-      "source": "The Register",
-      "published": "Mon, 27 Apr 2026 08:30:15 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/anthropics_magic_codesniffer_more_swiss/",
+      "title": "Why Model Collapse in LLMs is Inevitable With Self-Learning",
+      "source": "Hackaday",
+      "published": "Thu, 30 Apr 2026 02:00:20 +0000",
+      "link": "https://hackaday.com/2026/04/29/why-model-collapse-in-llms-is-inevitable-with-self-learning/",
       "matched_keywords": [
         "AI",
-        "Anthropic",
+        "Model",
         "model"
       ]
     }
