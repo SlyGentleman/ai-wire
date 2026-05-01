@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T11:05:01.370098+00:00",
+  "last_updated": "2026-05-01T11:05:02.116014+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,128 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Qualcomm teases \u2018dedicated CPU for agentic experiences\u2019 and \u2018agentic smartphones\u2019",
+      "source": "The Register",
+      "published": "Fri, 01 May 2026 06:43:19 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/qualcomm_q2_fy_26/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Fujitsu confirms mainframe biz to die in 2035, in time for quantum AI supercomputers to take over",
+      "source": "The Register",
+      "published": "Fri, 01 May 2026 04:55:52 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/fujitsu_future_strategy/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Govern your bots carefully or chaos could ensue",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 21:27:22 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/good_ai_governance_is_good/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Firefox maker torches Google for building Prompt API into browser",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 20:49:00 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/mozilla_pushes_back_against_googles/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Bot her emails: most modern phishing campaigns are AI-enabled",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 20:26:27 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/modern_phishing_campaigns_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Bandwidth hogs rejoice, Celestica's latest switch is bristling with 64 ports of 1.6 Tbps Ethernet",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 18:18:26 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/bandwith_hogs_rejoice_celesticas_latest/",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 17:15:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Zed team releases version 1.0 of Rust-built editor: Traditional editor and AI tool",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 16:17:46 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/zed_team_releases_version_10/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AWS says acute server memory shortage is driving customers to the cloud",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 15:02:53 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/server_memory_shortage_pushing_you/",
+      "matched_keywords": [
+        "compute"
+      ]
+    },
+    {
+      "title": "Survey says no, American workers are not keen on Microsoft's AI",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 14:19:08 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/survey_us_workers_e7_ms_ai/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SAP user group slams 'uncertainty' in ERP giant's API policy",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 13:41:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/germanspeaking_user_group_slams_uncertainty/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Fewer users, fatter wallets is why Anthropic tops OpenAI in LLM revenue stakes",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 12:20:12 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/openai_anthropic_top_lines_research_counterpoint/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "LLM",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Nearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005",
+      "source": "The Register",
+      "published": "Thu, 30 Apr 2026 11:35:10 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/almost_half_of_uk_firms/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -91,149 +213,6 @@
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/aws_keynote_hypes_ai_magic/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "AI clause in new SAP API policy has partners worried over lock-in",
-      "source": "The Register",
-      "published": "Wed, 29 Apr 2026 09:15:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/new_sap_api_policy_provokes/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
-      "source": "The Register",
-      "published": "Wed, 29 Apr 2026 06:32:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The future of software development: Now with less software development",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 22:00:29 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/software_development_ai_dev25xsf/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Oracle plans to power its New Mexico mega datacenter with a 2.45GW fuel cell farm",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 21:58:58 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/oracle_new_mexico_power_fuel_cell_farm/",
-      "matched_keywords": [
-        "OpenAI",
-        "compute"
-      ]
-    },
-    {
-      "title": "Cloudera had US candidates send resumes to a fake email address, DoJ charges",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 20:46:57 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/cloudera_doj_employment_discrimination_lawsuit/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI jumps out of Microsoft's bed, into Amazon's Bedrock",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 19:21:50 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/openai_climbs_into_amazons_bedrock/",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Vintage chatbot lives in the past like an elderly relative",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 17:51:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/vintage_chatbot_lives_in_past/",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "IBM's AI coding 'partner' Bob hits general availability",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 17:18:47 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ibms_ai_coding_partner_bob/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Amazon unveils a Copilot for all your apps",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 17:06:59 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/amazon_quick_connect_expansion/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Tenstorrent\u2019s Galaxy Blackhole AI servers escape the event horizon",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 13:00:07 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/tenstorrent_galaxy_blackhole_ai_servers_ga/",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "Brussels orders Google to share Android's AI sandbox with the other kids",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 12:30:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ai_competition_in_android_phones/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "UK.gov's DCMS to new CDIO: Migrate from Google to Microsoft, overhaul ERP, build a team",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 12:24:53 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ukgov_seeks_cdio_to_lead/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Locked, stocked, and losing budget: AI vendor lock-in bites back",
-      "source": "The Register",
-      "published": "Tue, 28 Apr 2026 09:15:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/locked_stocked_and_losing_budget/",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Building an x86 Gaming PC Without Intel, NVIDIA or AMD parts",
-      "source": "Hackaday",
-      "published": "Thu, 30 Apr 2026 08:00:14 +0000",
-      "link": "https://hackaday.com/2026/04/30/building-an-x86-gaming-pc-without-intel-nvidia-or-amd-parts/",
-      "matched_keywords": [
-        "NVIDIA",
-        "nvidia"
-      ]
-    },
-    {
-      "title": "Why Model Collapse in LLMs is Inevitable With Self-Learning",
-      "source": "Hackaday",
-      "published": "Thu, 30 Apr 2026 02:00:20 +0000",
-      "link": "https://hackaday.com/2026/04/29/why-model-collapse-in-llms-is-inevitable-with-self-learning/",
-      "matched_keywords": [
-        "AI",
-        "Model",
-        "model"
       ]
     }
   ]
