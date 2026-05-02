@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T11:05:02.116014+00:00",
+  "last_updated": "2026-05-02T11:05:01.550463+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,63 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
+      "source": "The Register",
+      "published": "Sat, 02 May 2026 08:30:09 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Mythos complicates the breakup, says Pentagon CTO, but Anthropic is still barred",
+      "source": "The Register",
+      "published": "Fri, 01 May 2026 16:57:17 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/mythos_complicates_anthropic_us_gov_breakup/",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "Where to buy a non-Apple, non-Google smartphone",
+      "source": "The Register",
+      "published": "Fri, 01 May 2026 15:24:14 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/buy_a_foss_fondleslab/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "CIOs ready for another role-change as AI becomes agent of chaos",
+      "source": "The Register",
+      "published": "Fri, 01 May 2026 14:54:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/cios_ready_for_another_rolechange/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "That old phone in the kitchen drawer could save an industry",
+      "source": "The Register",
+      "published": "Fri, 01 May 2026 14:16:56 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/preowned_phones_fill_the_gap/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
+      "source": "The Register",
+      "published": "Fri, 01 May 2026 11:42:01 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI",
+        "model"
       ]
     },
     {
@@ -180,39 +237,12 @@
       ]
     },
     {
-      "title": "Databricks can't seem to shake authors' copyright claim that could result in 'extraordinary' damages",
-      "source": "The Register",
-      "published": "Wed, 29 Apr 2026 18:05:14 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/databricks_author_copyright_lawsuit_continues/",
+      "title": "3D Printed Orrery Runs On A Single Motor",
+      "source": "Hackaday",
+      "published": "Sat, 02 May 2026 02:00:08 +0000",
+      "link": "https://hackaday.com/2026/05/01/3d-printed-orrery-runs-on-a-single-motor/",
       "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "Yet another experiment proves it's too damn simple to poison large language models",
-      "source": "The Register",
-      "published": "Wed, 29 Apr 2026 17:00:18 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/poisoning_large_language_models_6nimmt/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "GitHub: Zounds, a genuinely helpful AI-assisted bug report that isn't total slop! Here, Wiz, take this wad of cash",
-      "source": "The Register",
-      "published": "Wed, 29 Apr 2026 13:02:16 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_woah_a_genuinely_helpful/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AWS keynote hypes AI as magic. Its own engineers tell a different story",
-      "source": "The Register",
-      "published": "Wed, 29 Apr 2026 12:51:27 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/aws_keynote_hypes_ai_magic/",
-      "matched_keywords": [
-        "AI"
+        "model"
       ]
     }
   ]
