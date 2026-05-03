@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T11:05:01.550463+00:00",
+  "last_updated": "2026-05-03T11:05:01.600356+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,17 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Usage-based pricing killing your vibe - here's how to roll your own local AI coding agents",
+      "source": "The Register",
+      "published": "Sat, 02 May 2026 11:30:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/02/local_ai_coding_agents/",
+      "matched_keywords": [
+        "AI",
+        "LLM",
+        "model"
       ]
     },
     {
@@ -237,12 +248,12 @@
       ]
     },
     {
-      "title": "3D Printed Orrery Runs On A Single Motor",
+      "title": "Building a C-3PO You Can Really Talk To",
       "source": "Hackaday",
-      "published": "Sat, 02 May 2026 02:00:08 +0000",
-      "link": "https://hackaday.com/2026/05/01/3d-printed-orrery-runs-on-a-single-motor/",
+      "published": "Sun, 03 May 2026 05:00:31 +0000",
+      "link": "https://hackaday.com/2026/05/02/building-a-c-3po-you-can-really-talk-to/",
       "matched_keywords": [
-        "model"
+        "AI"
       ]
     }
   ]
