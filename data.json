@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T11:05:01.600356+00:00",
+  "last_updated": "2026-05-04T11:05:01.605186+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,34 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Five Eyes spook shops warn rapid rollouts of agentic AI are too risky",
+      "source": "The Register",
+      "published": "Mon, 04 May 2026 02:35:29 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/five_eyes_agentic_ai_recommendations/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Just in time for Labour Day, China makes it illegal to fire humans if AI takes their jobs",
+      "source": "The Register",
+      "published": "Mon, 04 May 2026 00:33:04 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/asia_tech_news_roundup/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Inference is giving AI chip startups a second chance to make their mark",
+      "source": "The Register",
+      "published": "Sun, 03 May 2026 13:05:11 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/03/inference_is_giving_ai_chip/",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
       ]
     },
     {
@@ -224,34 +252,6 @@
       "source": "The Register",
       "published": "Thu, 30 Apr 2026 09:29:10 GMT",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/met_police_palantir_deployment_cop_probe/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google to sell its TPUs to some customers, who also fancy big-G GPUs",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 03:49:05 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/alphabet_google_q1_fy26/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Microsoft lifts 2026 AI spend by $25 billion to cover component price rises",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 01:15:56 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/microsoft_q3_2026/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Building a C-3PO You Can Really Talk To",
-      "source": "Hackaday",
-      "published": "Sun, 03 May 2026 05:00:31 +0000",
-      "link": "https://hackaday.com/2026/05/02/building-a-c-3po-you-can-really-talk-to/",
       "matched_keywords": [
         "AI"
       ]
