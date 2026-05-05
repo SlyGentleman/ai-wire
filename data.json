@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T11:05:01.605186+00:00",
+  "last_updated": "2026-05-05T11:05:01.640498+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -27,6 +27,61 @@
       "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
+      "source": "The Register",
+      "published": "Tue, 05 May 2026 09:15:07 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/nhs_to_closesource_hundreds_of_repos/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Singapore boffins get diverse SIEMs singing in harmony with agentic rule translation",
+      "source": "The Register",
+      "published": "Tue, 05 May 2026 02:12:16 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/arulecon_siem_rule_conversion/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Bad news for OpenClaw stans: Apple\u2019s Mac Mini now starts at $799",
+      "source": "The Register",
+      "published": "Mon, 04 May 2026 21:46:13 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/mac_mini_ai_memory/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft fixes VS Code after app gives Copilot credit for human's work",
+      "source": "The Register",
+      "published": "Mon, 04 May 2026 21:13:34 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/microsoft_reverses_ai_credit_grab/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Hobbyist xenomorphs Raspberry Pi into Alien-themed DIY laptop",
+      "source": "The Register",
+      "published": "Mon, 04 May 2026 19:07:50 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/alien_weyland_yutani_themed_diy_laptop/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Shadow IT has given way to shadow AI. Enter AI-BOMs",
+      "source": "The Register",
+      "published": "Mon, 04 May 2026 15:04:20 GMT",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/ai_bom_supply_chain/",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -172,88 +227,12 @@
       ]
     },
     {
-      "title": "Bandwidth hogs rejoice, Celestica's latest switch is bristling with 64 ports of 1.6 Tbps Ethernet",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 18:18:26 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/bandwith_hogs_rejoice_celesticas_latest/",
+      "title": "The Math You Need to Start Understanding LLMs",
+      "source": "Hackaday",
+      "published": "Tue, 05 May 2026 02:00:58 +0000",
+      "link": "https://hackaday.com/2026/05/04/the-math-you-need-to-start-understanding-llms/",
       "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 17:15:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Zed team releases version 1.0 of Rust-built editor: Traditional editor and AI tool",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 16:17:46 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/zed_team_releases_version_10/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AWS says acute server memory shortage is driving customers to the cloud",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 15:02:53 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/server_memory_shortage_pushing_you/",
-      "matched_keywords": [
-        "compute"
-      ]
-    },
-    {
-      "title": "Survey says no, American workers are not keen on Microsoft's AI",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 14:19:08 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/survey_us_workers_e7_ms_ai/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "SAP user group slams 'uncertainty' in ERP giant's API policy",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 13:41:13 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/germanspeaking_user_group_slams_uncertainty/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Fewer users, fatter wallets is why Anthropic tops OpenAI in LLM revenue stakes",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 12:20:12 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/openai_anthropic_top_lines_research_counterpoint/",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "LLM",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Nearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 11:35:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/almost_half_of_uk_firms/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Met Police's Palantir deployment has its own officers watching their backs",
-      "source": "The Register",
-      "published": "Thu, 30 Apr 2026 09:29:10 GMT",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/met_police_palantir_deployment_cop_probe/",
-      "matched_keywords": [
-        "AI"
+        "model"
       ]
     }
   ]
