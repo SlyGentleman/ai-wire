@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T11:05:01.721886+00:00",
+  "last_updated": "2026-05-07T11:05:01.495832+00:00",
   "entries": [
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -21,12 +21,747 @@
       ]
     },
     {
-      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-      "source": "Ars Technica",
-      "published": "Wed, 25 Mar 2026 15:49:17 +0000",
-      "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+      "title": "AWS lets agents drive its virtual cloudy desktops \u2013 which could cost 500,000 tokens per click",
+      "source": "The Register",
+      "published": "2026-05-06T07:08:49+02:00",
+      "link": "https://www.theregister.com/off-prem/2026/05/06/aws-lets-agents-drive-its-virtual-cloudy-desktops/5220438",
+      "matched_keywords": [
+        "benchmark"
+      ]
+    },
+    {
+      "title": "Chrome silently installs a 4 GB local LLM on your computer",
+      "source": "The Register",
+      "published": "2026-05-07T11:00:00+02:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/07/chrome-silently-installs-a-4-gb-local-llm-on-your-computer/5230893",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Neocloud IREN buys OpenStack champion Mirantis",
+      "source": "The Register",
+      "published": "2026-05-07T07:34:24+02:00",
+      "link": "https://www.theregister.com/off-prem/2026/05/07/neocloud-iren-buys-openstack-champion-mirantis/5231644",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Using AI to click around on a website burns 45x as many tokens as just using APIs",
+      "source": "The Register",
+      "published": "2026-05-07T01:04:03+02:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/07/ai-vision-agents-use-45x-more-tokens-than-apis-in-benchmark/5231346",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Claude hitches ride on SpaceX's datacenter capacity",
+      "source": "The Register",
+      "published": "2026-05-06T22:01:45+02:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/06/claude-hitches-a-ride-on-spacexs-datacenter-capacity/5231252",
+      "matched_keywords": [
+        "Compute"
+      ]
+    },
+    {
+      "title": "Arctic Wolf kicks 250 employees out of the pack to save money for AI",
+      "source": "The Register",
+      "published": "2026-05-06T20:20:00+02:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/06/arctic-wolf-cuts-250-jobs-in-ai-push/5231213",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Locked, stocked, and losing budget: AI vendor lock-in bites back",
+      "source": "The Register",
+      "published": "2026-04-28T11:15:10+02:00",
+      "link": "https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lock-in-bites/5229050",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
+      "source": "The Register",
+      "published": "2026-04-27T10:30:15+02:00",
+      "link": "https://www.theregister.com/security/2026/04/27/mythos-sniffs-out-your-bugs-cant-fix-your-bloody-idiots/5228719",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AI quota inflation is no token effort. It's baked in",
+      "source": "The Register",
+      "published": "2026-04-20T10:25:07+02:00",
+      "link": "https://www.theregister.com/software/2026/04/20/ai-quota-inflation-is-no-token-effort-its-baked-in/5227187",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The only technology that died more times than VR is AI, and that seems to have worked out",
+      "source": "The Register",
+      "published": "2026-04-15T09:03:08+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/04/15/the-only-technology-that-died-more-times-than-vr-is-ai/5227297",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "What happened when AI ran into the cold hard reality of the legal profession",
+      "source": "The Register",
+      "published": "2026-04-13T10:44:08+02:00",
+      "link": "https://www.theregister.com/software/2026/04/13/ai-vs-the-cold-hard-reality-of-the-legal-profession/5219835",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Apple's chips are the core of a new landscape, but its biggest win is Windows",
+      "source": "The Register",
+      "published": "2026-04-07T11:31:14+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/04/07/apples-chips-are-winners-but-windows-fails-help-it-most/5228949",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google is to journalism what Vikings were to monks. Now their man will run the BBC",
+      "source": "The Register",
+      "published": "2026-03-30T11:03:14+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/03/30/ex-google-exec-matt-brittin-now-runs-the-bbc/5227533",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "AI layoffs backfire as cutting staff doesn't cut it, firms warned",
+      "source": "The Register",
+      "published": "2026-05-06T16:59:03+02:00",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/06/ai-layoffs-backfire-as-cutting-staff-doesnt-cut-it-firms-warned/5230631",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ruby inventor Matz working on native compiler with AI help",
+      "source": "The Register",
+      "published": "2026-05-06T15:49:38+02:00",
+      "link": "https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "It's game over for Copilot on Xbox",
+      "source": "The Register",
+      "published": "2026-05-06T13:31:26+02:00",
+      "link": "https://www.theregister.com/personal-tech/2026/05/06/its-game-over-for-copilot-on-xbox/5230456",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "India orders infosec red alert in case Mythos sparks crime spree",
+      "source": "The Register",
+      "published": "2026-05-06T04:32:56+02:00",
+      "link": "https://www.theregister.com/security/2026/05/06/india-orders-infosec-red-alert-in-case-mythos-sparks-crime/5224961",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic comes for the midmarket software spend",
+      "source": "The Register",
+      "published": "2026-05-06T00:38:27+02:00",
+      "link": "https://www.theregister.com/off-prem/2026/05/05/anthropic-comes-for-the-midmarket-software-spend/5228057",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI exec says company hopes to burn $50B of somebody else's money on compute this year",
+      "source": "The Register",
+      "published": "2026-05-05T23:02:01+02:00",
+      "link": "https://www.theregister.com/software/2026/05/05/openai-exec-says-it-will-burn-50b-on-compute-this-year/5226088",
+      "matched_keywords": [
+        "OpenAI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Anthropic wants Claude to play with money, unleashes finance agents",
+      "source": "The Register",
+      "published": "2026-05-05T21:44:41+02:00",
+      "link": "https://www.theregister.com/software/2026/05/05/anthropic-unleashes-finance-agents-for-claude/5225868",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "IBM asks DBAs to trust AI to act on their behalf",
+      "source": "The Register",
+      "published": "2026-05-05T19:29:10+02:00",
+      "link": "https://www.theregister.com/software/2026/05/05/ibm-asks-dbas-to-trust-ai-to-act-on-their-behalf/5228662",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "ServiceNow clears agents for landing with new AI control tower",
+      "source": "The Register",
+      "published": "2026-05-05T19:00:10+02:00",
+      "link": "https://www.theregister.com/software/2026/05/05/servicenow-adds-agent-kill-switches-to-ai-control-tower/5228579",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenClaw, but in containers: Meet NanoClaw",
+      "source": "The Register",
+      "published": "2026-03-01T12:30:06+01:00",
+      "link": "https://www.theregister.com/software/2026/03/01/openclaw-but-in-containers-meet-nanoclaw/4932592",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Bun posts Rust porting guide, says rewrite is still half-baked",
+      "source": "The Register",
+      "published": "2026-05-05T16:08:14+02:00",
+      "link": "https://www.theregister.com/software/2026/05/05/anthrophics-bun-team-trials-port-from-zig-to-rust/5222094",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Brit mathematician lets AI agent loose with credit card \u2013 cue password leaks, CAPTCHA chaos and more",
+      "source": "The Register",
+      "published": "2026-05-05T14:04:22+02:00",
+      "link": "https://www.theregister.com/software/2026/05/05/british-mathematician-hands-openclaw-agent-a-credit-card/5228654",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
+      "source": "The Register",
+      "published": "2026-05-05T11:15:07+02:00",
+      "link": "https://www.theregister.com/software/2026/05/05/nhs-to-close-source-github-repos-over-ai-security-concerns/5224392",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Shadow IT has given way to shadow AI. Enter AI-BOMs",
+      "source": "The Register",
+      "published": "2026-05-04T17:04:20+02:00",
+      "link": "https://www.theregister.com/security/2026/05/04/ai-boms-replace-sboms-as-way-to-track-ai-agents-and-bots/5221716",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI inference just plays by different rules",
+      "source": "The Register",
+      "published": "2026-05-04T17:00:13+02:00",
+      "link": "https://www.theregister.com/software/2026/05/04/ai-inference-just-plays-by-different-rules/5223647",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "How TeamViewer ONE transforms IT operations from firefighting to autopilot",
+      "source": "The Register",
+      "published": "2026-05-04T10:00:30+02:00",
+      "link": "https://www.theregister.com/software/2026/05/04/how-teamviewer-one-transforms-it-operations-firefighting-aut/5225326",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Five Eyes spook shops warn rapid rollouts of agentic AI are too risky",
+      "source": "The Register",
+      "published": "2026-05-04T04:35:29+02:00",
+      "link": "https://www.theregister.com/security/2026/05/04/five-eyes-warn-agentic-ai-is-too-dangerous-for-rapid-rollout/5229103",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Just in time for Labour Day, China makes it illegal to fire humans if AI takes their jobs",
+      "source": "The Register",
+      "published": "2026-05-04T02:33:04+02:00",
+      "link": "https://www.theregister.com/offbeat/2026/05/04/china-makes-it-illegal-to-fire-humans-if-ai-takes-their-jobs/5219760",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Inference is giving AI chip startups a second chance to make their mark",
+      "source": "The Register",
+      "published": "2026-05-03T15:05:11+02:00",
+      "link": "https://www.theregister.com/software/2026/05/03/inference-is-giving-ai-chip-startups-a-2nd-chance-to-shine/5229422",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Usage-based pricing killing your vibe - here's how to roll your own local AI coding agents",
+      "source": "The Register",
+      "published": "2026-05-02T13:30:07+02:00",
+      "link": "https://www.theregister.com/software/2026/05/02/how-to-roll-your-own-local-ai-coding-agents/5230018",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
+      "source": "The Register",
+      "published": "2026-05-02T10:30:09+02:00",
+      "link": "https://www.theregister.com/security/2026/05/02/ai-digs-up-decades-of-code-debt-patch-up/5219734",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Where to buy a non-Apple, non-Google smartphone",
+      "source": "The Register",
+      "published": "2026-05-01T17:24:14+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "CIOs ready for another role-change as AI becomes agent of chaos",
+      "source": "The Register",
+      "published": "2026-05-01T16:54:13+02:00",
+      "link": "https://www.theregister.com/software/2026/05/01/cios-will-be-the-governors-for-ai-agents/5225216",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "That old phone in the kitchen drawer could save an industry",
+      "source": "The Register",
+      "published": "2026-05-01T16:16:56+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/05/01/that-old-phone-in-the-kitchen-drawer-could-save-an-industry/5221904",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
+      "source": "The Register",
+      "published": "2026-05-01T13:42:01+02:00",
+      "link": "https://www.theregister.com/security/2026/05/01/openai-locks-gpt-55-cyber-behind-velvet-rope/5219691",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Anthropic sues US government after unprecedented national security designation",
+      "source": "The Register",
+      "published": "2026-03-06T15:37:50+01:00",
+      "link": "https://www.theregister.com/software/2026/03/06/anthropic-sues-us-over-national-security-blacklist/4873448",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Qualcomm teases \u2018dedicated CPU for agentic experiences\u2019 and \u2018agentic smartphones\u2019",
+      "source": "The Register",
+      "published": "2026-05-01T08:43:19+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/05/01/qualcomm-teases-agentic-cpus-and-smartphones/5220494",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Fujitsu confirms mainframe biz to die in 2035, in time for quantum AI supercomputers to take over",
+      "source": "The Register",
+      "published": "2026-05-01T06:55:52+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/05/01/fujitsu-says-quantum-and-ai-will-replace-mainframes-in-2035/5225648",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Firefox maker torches Google for building Prompt API into browser",
+      "source": "The Register",
+      "published": "2026-04-30T22:49:00+02:00",
+      "link": "https://www.theregister.com/software/2026/04/30/mozilla-pushes-back-against-googles-prompt-api/5223409",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Mythos complicates the breakup, says Pentagon CTO, but Anthropic is still barred",
+      "source": "The Register",
+      "published": "2026-05-01T18:57:17+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/05/01/pentagon-keeps-anthropic-barred-despite-mythos-interest/5223143",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "Google Cloud Next proves what we suspected: Everything is AI now",
+      "source": "The Register",
+      "published": "2026-04-27T02:01:15+02:00",
+      "link": "https://www.theregister.com/off-prem/2026/04/27/google-cloud-next-made-it-clear-ai-is-coming-for-everything/5222698",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "It's a myth that you need Mythos to find bugs: Open source models can do it just as well",
+      "source": "The Register",
+      "published": "2026-04-24T13:41:54+02:00",
+      "link": "https://www.theregister.com/security/2026/04/24/open-source-models-can-find-bugs-as-well-as-mythos/5224166",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Google stuffs Gemini into Android Studio Panda 2 to build apps from prompts",
+      "source": "The Register",
+      "published": "2026-03-04T15:06:58+01:00",
+      "link": "https://www.theregister.com/software/2026/03/04/android-studio-panda-2-ships-with-create-with-ai-feature/4437393",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Anthropic admits it dumbed down Claude when trying to make it smarter",
+      "source": "The Register",
+      "published": "2026-04-24T01:26:57+02:00",
+      "link": "https://www.theregister.com/software/2026/04/24/anthropic-admits-it-dumbed-down-claude-with-upgrades/5228105",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger",
+      "source": "The Register",
+      "published": "2026-04-22T23:39:44+02:00",
+      "link": "https://www.theregister.com/security/2026/04/22/anthropic-mythos-shaping-up-as-nothingburger/5225649",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "Bot her emails: most modern phishing campaigns are AI-enabled",
+      "source": "The Register",
+      "published": "2026-04-30T22:26:27+02:00",
+      "link": "https://www.theregister.com/security/2026/04/30/most-phishing-now-uses-ai-says-knowbe4/5220579",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Bandwidth hogs rejoice, Celestica's latest switch is bristling with 64 ports of 1.6 Tbps Ethernet",
+      "source": "The Register",
+      "published": "2026-04-30T20:18:26+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/04/30/celestica-crams-64-16-tbps-ports-into-a-single-switch/5229339",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
+      "source": "The Register",
+      "published": "2026-04-30T19:15:13+02:00",
+      "link": "https://www.theregister.com/security/2026/04/30/google-fixes-cvss-100-vulnerability-in-gemini-cli/5225768",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Zed team releases version 1.0 of Rust-built editor: Traditional editor and AI tool",
+      "source": "The Register",
+      "published": "2026-04-30T18:17:46+02:00",
+      "link": "https://www.theregister.com/software/2026/04/30/zed-team-releases-version-10-of-rust-built-editor/5225716",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Survey says no, American workers are not keen on Microsoft's AI",
+      "source": "The Register",
+      "published": "2026-04-30T16:19:08+02:00",
+      "link": "https://www.theregister.com/off-prem/2026/04/30/survey-us-workers-are-not-keen-on-microsofts-ai/5229367",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SAP user group slams 'uncertainty' in ERP giant's API policy",
+      "source": "The Register",
+      "published": "2026-04-30T15:41:13+02:00",
+      "link": "https://www.theregister.com/software/2026/04/30/sap-user-group-slams-uncertainty-in-erp-giants-api-policy/5220996",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Fewer users, fatter wallets is why Anthropic tops OpenAI in LLM revenue stakes",
+      "source": "The Register",
+      "published": "2026-04-30T14:20:12+02:00",
+      "link": "https://www.theregister.com/software/2026/04/30/anthropic-tops-openai-in-llm-revenue-stakes/5219869",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "LLM",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "AI's not going to kill open source code security",
+      "source": "The Register",
+      "published": "2026-04-26T11:28:09+02:00",
+      "link": "https://www.theregister.com/security/2026/04/26/ais-not-going-to-kill-open-source-code-security/5220745",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005",
+      "source": "The Register",
+      "published": "2026-04-30T13:35:10+02:00",
+      "link": "https://www.theregister.com/security/2026/04/30/uk-business-breach-rate-stuck-at-43-blame-the-phishing/5220326",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Met Police's Palantir deployment has its own officers watching their backs",
+      "source": "The Register",
+      "published": "2026-04-30T11:29:10+02:00",
+      "link": "https://www.theregister.com/software/2026/04/30/mets-palantir-deployment-turns-heat-on-its-own-officers/5224761",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE partners with China's National Clinical Research Center for Interventional Medicine to build a new paradigm of smart interventional medicine",
+      "source": "The Register",
+      "published": "2026-04-30T06:22:54+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/04/30/zte-chinas-ncrc-partner-for-smart-interventional-medicine/5229484",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google to sell its TPUs to some customers, who also fancy big-G GPUs",
+      "source": "The Register",
+      "published": "2026-04-30T05:49:05+02:00",
+      "link": "https://www.theregister.com/off-prem/2026/04/30/google-to-sell-its-tpus-to-some-customers/5220078",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Microsoft lifts 2026 AI spend by $25 billion to cover component price rises",
+      "source": "The Register",
+      "published": "2026-04-30T03:15:56+02:00",
+      "link": "https://www.theregister.com/off-prem/2026/04/30/microsoft-lifts-2026-capex-by-25b-to-cover-price-rises/5221545",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google says it will let UK publishers opt out of AI overviews",
+      "source": "The Register",
+      "published": "2026-03-19T14:31:24+01:00",
+      "link": "https://www.theregister.com/off-prem/2026/03/19/google-says-it-will-let-publishers-opt-out-of-ai-overviews/5224006",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Databricks can't seem to shake authors' copyright claim that could result in 'extraordinary' damages",
+      "source": "The Register",
+      "published": "2026-04-29T20:05:14+02:00",
+      "link": "https://www.theregister.com/offbeat/2026/04/29/databricks-fails-to-shake-authors-copyright-claim/5224253",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "GitHub: Zounds, a genuinely helpful AI-assisted bug report that isn't total slop! Here, Wiz, take this wad of cash",
+      "source": "The Register",
+      "published": "2026-04-29T15:02:16+02:00",
+      "link": "https://www.theregister.com/security/2026/04/29/wiz-hands-github-ai-aided-bug-report-that-isnt-total-slop/5227744",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AWS keynote hypes AI as magic. Its own engineers tell a different story",
+      "source": "The Register",
+      "published": "2026-04-29T14:51:27+02:00",
+      "link": "https://www.theregister.com/software/2026/04/29/amazon-tells-its-engineers-to-review-all-ai-output/5224124",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE reports first-quarter revenue of RMB 35.0 billion, up 6% YoY, with computing revenue mix rising to 27%",
+      "source": "The Register",
+      "published": "2026-04-24T16:20:19+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/04/24/zte-q1-revenue-up-6-to-rmb-35b-computing-mix-hits-27/5225212",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "TUIT and ZTE unveil new initiatives for student internships and tech employment",
+      "source": "The Register",
+      "published": "2026-04-23T17:20:27+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/04/23/tuit-zte-launch-student-internship-and-tech-job-programs/5227809",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Wind Telecom Dominican Republic and ZTE join forces to accelerate smart home innovation",
+      "source": "The Register",
+      "published": "2026-04-29T12:34:12+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/04/29/wind-telecom-and-zte-partner-for-smart-home-innovation/5222949",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE and XLSMART officially launch Innovation Center in Jakarta, accelerating 5G-advanced and AI readiness for Indonesia",
+      "source": "The Register",
+      "published": "2026-04-29T12:10:29+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/04/29/zte-xlsmart-launch-jakarta-ai-5g-a-innovation-center/5225063",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI clause in new SAP API policy has partners worried over lock-in",
+      "source": "The Register",
+      "published": "2026-04-29T11:15:14+02:00",
+      "link": "https://www.theregister.com/software/2026/04/29/ai-clause-in-new-sap-api-policy-provokes-lock-in-concern/5225767",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
+      "source": "The Register",
+      "published": "2026-04-29T08:32:14+02:00",
+      "link": "https://www.theregister.com/security/2026/04/29/30-clawhub-skills-secretly-turn-ai-agents-into-crypto-swarm/5226209",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "When robots join the race: 5G-A powers a new kind of marathon",
+      "source": "The Register",
+      "published": "2026-04-29T08:08:38+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/04/29/5g-a-powers-a-new-kind-of-marathon/5226158",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The future of software development: Now with less software development",
+      "source": "The Register",
+      "published": "2026-04-29T00:00:29+02:00",
+      "link": "https://www.theregister.com/software/2026/04/28/the-future-of-software-development-has-less-development/5227381",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Oracle plans to power its New Mexico mega datacenter with a 2.45GW fuel cell farm",
+      "source": "The Register",
+      "published": "2026-04-28T23:58:58+02:00",
+      "link": "https://www.theregister.com/on-prem/2026/04/28/oracle-plans-to-power-its-new-mexico-dc-with-fuel-cell-farm/5223579",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "OpenAI jumps out of Microsoft's bed, into Amazon's Bedrock",
+      "source": "The Register",
+      "published": "2026-04-28T21:21:50+02:00",
+      "link": "https://www.theregister.com/software/2026/04/28/openai-jumps-out-of-microsofts-bed-into-amazons-bedrock/5223754",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Vintage chatbot lives in the past like an elderly relative",
+      "source": "The Register",
+      "published": "2026-04-28T19:51:08+02:00",
+      "link": "https://www.theregister.com/software/2026/04/28/vintage-chatbot-lives-in-the-past-like-an-elderly-relative/5223507",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "IBM's AI coding 'partner' Bob hits general availability",
+      "source": "The Register",
+      "published": "2026-04-28T19:18:47+02:00",
+      "link": "https://www.theregister.com/software/2026/04/28/ibms-ai-coding-partner-bob-hits-general-availability/5226774",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Tenstorrent\u2019s Galaxy Blackhole AI servers escape the event horizon",
+      "source": "The Register",
+      "published": "2026-04-28T15:00:07+02:00",
+      "link": "https://www.theregister.com/software/2026/04/28/tenstorrents-galaxy-blackhole-ai-servers-are-finally-out/5229759",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Brussels orders Google to share Android's AI sandbox with the other kids",
+      "source": "The Register",
+      "published": "2026-04-28T14:30:12+02:00",
+      "link": "https://www.theregister.com/software/2026/04/28/brussels-to-google-share-androids-platform-with-ai-rivals/5219634",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "AI On Every Machine: The LLM You Probably Didn\u2019t Want",
+      "source": "Hackaday",
+      "published": "Wed, 06 May 2026 17:00:21 +0000",
+      "link": "https://hackaday.com/2026/05/06/ai-on-every-machine-the-llm-you-didnt-know-about-and-probably-didnt-want/",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "LLM",
+        "ai",
+        "llm"
       ]
     }
   ]
