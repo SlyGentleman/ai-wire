@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T11:05:01.915952+00:00",
+  "last_updated": "2026-05-09T11:05:01.399419+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
@@ -20,13 +20,30 @@
       ]
     },
     {
-      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-      "source": "Ars Technica",
-      "published": "Thu, 02 Apr 2026 17:00:11 +0000",
-      "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+      "title": "Akamai surges on big LLM deal as Cloudflare dims",
+      "source": "The Register",
+      "published": "Sat, 09 May 2026 01:17:31 +0200",
+      "link": "https://www.theregister.com/networks/2026/05/09/akamai-surges-on-big-llm-deal-as-cloudflare-dims/5237552",
       "matched_keywords": [
-        "GPU",
-        "Nvidia"
+        "LLM"
+      ]
+    },
+    {
+      "title": "GPT-5.5 may burn fewer tokens, but it always burns more cash",
+      "source": "The Register",
+      "published": "Fri, 08 May 2026 23:08:52 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "Trump jumps from 'anything goes' to 'strict regulation' AI policy",
+      "source": "The Register",
+      "published": "Fri, 08 May 2026 14:56:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/08/trump-jumps-from-anything-goes-to-strict-regulation-ai-policy/5234687",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -151,41 +168,14 @@
       ]
     },
     {
-      "title": "AI layoffs backfire as cutting staff doesn't cut it, firms warned",
-      "source": "The Register",
-      "published": "Wed, 06 May 2026 16:59:03 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/06/ai-layoffs-backfire-as-cutting-staff-doesnt-cut-it-firms-warned/5230631",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ruby inventor Matz working on native compiler with AI help",
-      "source": "The Register",
-      "published": "Wed, 06 May 2026 15:49:38 +0200",
-      "link": "https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532",
+      "title": "Getting a Proprietary-Bus GPU onto PCIe Enables Cheaper Local LLMs, For Now",
+      "source": "Hackaday",
+      "published": "Sat, 09 May 2026 08:00:56 +0000",
+      "link": "https://hackaday.com/2026/05/09/getting-a-proprietary-bus-gpu-onto-pcie-enables-cheaper-local-llms-for-now/",
       "matched_keywords": [
         "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "It's game over for Copilot on Xbox",
-      "source": "The Register",
-      "published": "Wed, 06 May 2026 13:31:26 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/05/06/its-game-over-for-copilot-on-xbox/5230456",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "An LLM From \u201cScratch\u201d",
-      "source": "Hackaday",
-      "published": "Fri, 08 May 2026 02:00:55 +0000",
-      "link": "https://hackaday.com/2026/05/07/an-llm-from-scratch/",
-      "matched_keywords": [
-        "LLM",
-        "llm"
+        "GPU",
+        "gpu"
       ]
     }
   ]
