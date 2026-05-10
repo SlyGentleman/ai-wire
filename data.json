@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T11:05:01.399419+00:00",
+  "last_updated": "2026-05-10T11:05:01.770528+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
@@ -17,6 +17,16 @@
       "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Google tweaks Chrome AI privacy wording, insists processing stays on-device",
+      "source": "The Register",
+      "published": "Sat, 09 May 2026 19:57:11 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580",
+      "matched_keywords": [
+        "AI",
+        "Google"
       ]
     },
     {
@@ -147,35 +157,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/05/07/ai-vision-agents-use-45x-more-tokens-than-apis-in-benchmark/5231346",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Claude hitches ride on SpaceX's datacenter capacity",
-      "source": "The Register",
-      "published": "Wed, 06 May 2026 22:01:45 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/06/claude-hitches-a-ride-on-spacexs-datacenter-capacity/5231252",
-      "matched_keywords": [
-        "Compute"
-      ]
-    },
-    {
-      "title": "Arctic Wolf kicks 250 employees out of the pack to save money for AI",
-      "source": "The Register",
-      "published": "Wed, 06 May 2026 20:20:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/06/arctic-wolf-cuts-250-jobs-in-ai-push/5231213",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Getting a Proprietary-Bus GPU onto PCIe Enables Cheaper Local LLMs, For Now",
-      "source": "Hackaday",
-      "published": "Sat, 09 May 2026 08:00:56 +0000",
-      "link": "https://hackaday.com/2026/05/09/getting-a-proprietary-bus-gpu-onto-pcie-enables-cheaper-local-llms-for-now/",
-      "matched_keywords": [
-        "AI",
-        "GPU",
-        "gpu"
       ]
     }
   ]
