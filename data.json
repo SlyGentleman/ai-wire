@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T11:05:01.770528+00:00",
+  "last_updated": "2026-05-11T11:05:01.455338+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
@@ -15,6 +15,44 @@
       "source": "Ars Technica",
       "published": "Fri, 03 Apr 2026 20:30:15 +0000",
       "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ASIA IN BRIEF: China\u2019s agentic AI policy wants to keep humans in the loop",
+      "source": "The Register",
+      "published": "Mon, 11 May 2026 02:49:55 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/11/asia-in-brief-chinas-agentic-ai-policy-wants-to-keep-humans-in-the-loop/5237632",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Yes, local LLMs are ready to ease the compute strain",
+      "source": "The Register",
+      "published": "Mon, 11 May 2026 01:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/11/yes-local-llms-are-ready-to-ease-the-compute-strain/5237451",
+      "matched_keywords": [
+        "Anthropic",
+        "compute"
+      ]
+    },
+    {
+      "title": "Memory godboxes could offer relief from the RAMpocalypse",
+      "source": "The Register",
+      "published": "Sun, 10 May 2026 16:00:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/05/10/memory-godboxes-could-offer-relief-from-the-rampocalypse/5237463",
+      "matched_keywords": [
+        "AI",
+        "Compute"
+      ]
+    },
+    {
+      "title": "Both Fedora and Ubuntu will get AI support \u2013 soon",
+      "source": "The Register",
+      "published": "Sun, 10 May 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409",
       "matched_keywords": [
         "AI"
       ]
@@ -120,43 +158,6 @@
       "matched_keywords": [
         "AI",
         "GPU"
-      ]
-    },
-    {
-      "title": "EU hits snooze on AI Act rules after industry backlash",
-      "source": "The Register",
-      "published": "Thu, 07 May 2026 13:15:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/5234530",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Chrome silently installs a 4 GB local LLM on your computer",
-      "source": "The Register",
-      "published": "Thu, 07 May 2026 11:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/07/chrome-silently-installs-a-4-gb-local-llm-on-your-computer/5230893",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "Neocloud IREN buys OpenStack champion Mirantis",
-      "source": "The Register",
-      "published": "Thu, 07 May 2026 07:34:24 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/05/07/neocloud-iren-buys-openstack-champion-mirantis/5231644",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Using AI to click around on a website burns 45x as many tokens as just using APIs",
-      "source": "The Register",
-      "published": "Thu, 07 May 2026 01:04:03 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/07/ai-vision-agents-use-45x-more-tokens-than-apis-in-benchmark/5231346",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
