@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T11:05:01.455338+00:00",
+  "last_updated": "2026-05-12T11:05:01.517114+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
@@ -11,10 +11,76 @@
       ]
     },
     {
-      "title": "OpenClaw gives users yet another reason to be freaked out about security",
-      "source": "Ars Technica",
-      "published": "Fri, 03 Apr 2026 20:30:15 +0000",
-      "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+      "title": "Apple, Google drag cross-platform texting into the encrypted age",
+      "source": "The Register",
+      "published": "Tue, 12 May 2026 11:46:00 +0200",
+      "link": "https://www.theregister.com/security/2026/05/12/apple-google-drag-cross-platform-texting-into-the-encrypted-age/5238556",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "GitLab promises a different kind of layoff as biz pivots toward AI",
+      "source": "The Register",
+      "published": "Tue, 12 May 2026 03:58:07 +0200",
+      "link": "https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Red Hat blasts RHEL 10.1 into orbit aboard Voyager's micro datacenter",
+      "source": "The Register",
+      "published": "Tue, 12 May 2026 02:14:00 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/05/12/red-hat-gives-rhel-101-the-boot-into-orbit/5238373",
+      "matched_keywords": [
+        "compute"
+      ]
+    },
+    {
+      "title": "Microsoft researchers find AI models and agents can't handle long-running tasks",
+      "source": "The Register",
+      "published": "Mon, 11 May 2026 22:50:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI can't have incompetent AI consultants ruining the market, so bought its own",
+      "source": "The Register",
+      "published": "Mon, 11 May 2026 20:33:11 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/11/openai-buys-ai-consultancy-to-sell-enterprises-on-its-models/5238213",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Anthropic\u2019s bug-hunting Mythos was greatest marketing stunt ever, says cURL creator",
+      "source": "The Register",
+      "published": "Mon, 11 May 2026 18:30:53 +0200",
+      "link": "https://www.theregister.com/security/2026/05/11/anthropics-bug-hunting-mythos-was-greatest-marketing-stunt-ever-says-curl-creator/5238111",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Google says criminals used AI-built zero-day in planned mass hack spree",
+      "source": "The Register",
+      "published": "Mon, 11 May 2026 15:38:22 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/11/google-says-criminals-used-ai-built-zero-day-in-planned-mass-hack-spree/5237982",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "SoftBank bets on battery building to back bit barns",
+      "source": "The Register",
+      "published": "Mon, 11 May 2026 15:37:20 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/05/11/softbank-bets-on-battery-building-to-back-bit-barns/5237886",
       "matched_keywords": [
         "AI"
       ]
@@ -83,81 +149,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498",
       "matched_keywords": [
         "model"
-      ]
-    },
-    {
-      "title": "Trump jumps from 'anything goes' to 'strict regulation' AI policy",
-      "source": "The Register",
-      "published": "Fri, 08 May 2026 14:56:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/08/trump-jumps-from-anything-goes-to-strict-regulation-ai-policy/5234687",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cloudflare to fire 1,100 staff whose jobs just aren\u2019t AI enough",
-      "source": "The Register",
-      "published": "Fri, 08 May 2026 06:50:46 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/05/08/cloudflare-to-fire-1100-staff-whose-jobs-just-arent-ai-enough/5235536",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "HPE drops first Juniper x Aruba collab \u2013 self-driving Wi-Fi",
-      "source": "The Register",
-      "published": "Fri, 08 May 2026 04:00:10 +0200",
-      "link": "https://www.theregister.com/networks/2026/05/08/hpe-drops-first-juniper-x-aruba-collab-self-driving-wi-fi/5235463",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Mozilla boasts Mythos boosted Firefox bug cull",
-      "source": "The Register",
-      "published": "Fri, 08 May 2026 01:32:16 +0200",
-      "link": "https://www.theregister.com/security/2026/05/08/mozilla-says-ai-helped-squash-423-firefox-security-bugs/5235438",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "Dyna Software's AI assistant promises to massage your toughest ServiceNow configs",
-      "source": "The Register",
-      "published": "Fri, 08 May 2026 00:16:36 +0200",
-      "link": "https://www.theregister.com/devops/2026/05/07/dyna-softwares-ai-assistant-promises-to-massage-your-toughest-servicenow-configs/5235392",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic response to 1-click pwn: Shouldn't have clicked 'ok'",
-      "source": "The Register",
-      "published": "Thu, 07 May 2026 22:03:11 +0200",
-      "link": "https://www.theregister.com/security/2026/05/07/claude-code-trust-prompt-can-trigger-one-click-rce/5235319",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "C++ survey finds AI use rising, though trust is in short supply",
-      "source": "The Register",
-      "published": "Thu, 07 May 2026 16:23:00 +0200",
-      "link": "https://www.theregister.com/devops/2026/05/07/c-survey-finds-ai-use-rising-though-trust-is-in-short-supply/5234708",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AMD puts out new slottable GPU for AI-curious enterprises",
-      "source": "The Register",
-      "published": "Thu, 07 May 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481",
-      "matched_keywords": [
-        "AI",
-        "GPU"
       ]
     }
   ]
