@@ -1,11 +1,102 @@
 {
-  "last_updated": "2026-05-12T11:05:01.517114+00:00",
+  "last_updated": "2026-05-13T11:05:01.717274+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SAP U-turn brings AI features to ECC and on-prem S/4HANA",
+      "source": "The Register",
+      "published": "Wed, 13 May 2026 11:16:31 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/13/sap-u-turn-brings-ai-features-to-ecc-and-on-prem-s/4hana/5239040",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE hosts 2026 Broadband User Congress in S\u00e3o Paulo, under the Theme \"Monetize Your Intelligent Broadband\"",
+      "source": "The Register",
+      "published": "Wed, 13 May 2026 10:25:26 +0200",
+      "link": "https://www.theregister.com/networks/2026/05/13/zte-hosts-2026-broadband-user-congress-in-so-paulo-under-the-theme-monetize-your-intelligent-broadband/5239403",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI will soon be capable of telling convincing lies",
+      "source": "The Register",
+      "published": "Wed, 13 May 2026 09:29:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/13/ai-will-soon-be-capable-of-telling-convincing-lies/5239349",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Execs admit AI makes them value human workers less",
+      "source": "The Register",
+      "published": "Wed, 13 May 2026 04:26:02 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/13/execs-admit-ai-makes-them-value-human-workers-less/5239201",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google users fight for refunds as unauthorized API usage bills soar",
+      "source": "The Register",
+      "published": "Wed, 13 May 2026 01:03:33 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/13/google-users-fight-for-refunds-as-unauthorized-api-usage-bills-soar/5239160",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Foxconn confirms cyberattack after ransomware crew claims it stole confidential Apple, Nvidia files",
+      "source": "The Register",
+      "published": "Wed, 13 May 2026 00:02:35 +0200",
+      "link": "https://www.theregister.com/cyber-crime/2026/05/12/foxconn-confirms-cyberattack-after-nitrogen-claims-apple-nvidia-data-theft/5239144",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Google launches line of Android laptops festooned with Gemini AI",
+      "source": "The Register",
+      "published": "Tue, 12 May 2026 23:15:17 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/05/12/google-launches-line-of-android-laptops-festooned-with-gemini-ai/5239091",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Hollywood A-listers back proposed standard that would pay them when AI uses their likeness or work",
+      "source": "The Register",
+      "published": "Tue, 12 May 2026 22:57:22 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/12/actors-new-spec-aims-to-defeat-attack-of-the-ai-clones/5239115",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "US bank reports itself after slinging customer data at 'unauthorized AI app'",
+      "source": "The Register",
+      "published": "Tue, 12 May 2026 16:50:26 +0200",
+      "link": "https://www.theregister.com/security/2026/05/12/us-bank-reports-itself-after-ai-customer-data-mishap/5238787",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Frontier AI safety tests may be creating the very risks they're meant to stop",
+      "source": "The Register",
+      "published": "Tue, 12 May 2026 14:56:16 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734",
       "matched_keywords": [
         "AI"
       ]
@@ -74,81 +165,6 @@
       "matched_keywords": [
         "AI",
         "Google"
-      ]
-    },
-    {
-      "title": "SoftBank bets on battery building to back bit barns",
-      "source": "The Register",
-      "published": "Mon, 11 May 2026 15:37:20 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/05/11/softbank-bets-on-battery-building-to-back-bit-barns/5237886",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ASIA IN BRIEF: China\u2019s agentic AI policy wants to keep humans in the loop",
-      "source": "The Register",
-      "published": "Mon, 11 May 2026 02:49:55 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/11/asia-in-brief-chinas-agentic-ai-policy-wants-to-keep-humans-in-the-loop/5237632",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Yes, local LLMs are ready to ease the compute strain",
-      "source": "The Register",
-      "published": "Mon, 11 May 2026 01:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/11/yes-local-llms-are-ready-to-ease-the-compute-strain/5237451",
-      "matched_keywords": [
-        "Anthropic",
-        "compute"
-      ]
-    },
-    {
-      "title": "Memory godboxes could offer relief from the RAMpocalypse",
-      "source": "The Register",
-      "published": "Sun, 10 May 2026 16:00:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/05/10/memory-godboxes-could-offer-relief-from-the-rampocalypse/5237463",
-      "matched_keywords": [
-        "AI",
-        "Compute"
-      ]
-    },
-    {
-      "title": "Both Fedora and Ubuntu will get AI support \u2013 soon",
-      "source": "The Register",
-      "published": "Sun, 10 May 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google tweaks Chrome AI privacy wording, insists processing stays on-device",
-      "source": "The Register",
-      "published": "Sat, 09 May 2026 19:57:11 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Akamai surges on big LLM deal as Cloudflare dims",
-      "source": "The Register",
-      "published": "Sat, 09 May 2026 01:17:31 +0200",
-      "link": "https://www.theregister.com/networks/2026/05/09/akamai-surges-on-big-llm-deal-as-cloudflare-dims/5237552",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "GPT-5.5 may burn fewer tokens, but it always burns more cash",
-      "source": "The Register",
-      "published": "Fri, 08 May 2026 23:08:52 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498",
-      "matched_keywords": [
-        "model"
       ]
     }
   ]
