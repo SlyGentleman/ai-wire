@@ -1,11 +1,85 @@
 {
-  "last_updated": "2026-05-13T11:05:01.717274+00:00",
+  "last_updated": "2026-05-14T11:05:01.661125+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Calling the cops just got extra AI as police seek to add tech to contact systems",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 11:15:00 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/05/14/calling-the-cops-just-got-extra-ai-as-police-seek-to-add-tech-to-contact-systems/5239737",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI models are getting better at replacing cybersecurity pros on certain tasks",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 08:27:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/14/ai-models-are-getting-better-at-replacing-cybersecurity-pros-on-certain-tasks/5240065",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Welcome to the vulnpocalypse, as vendors use AI to find bugs and patches multiply like rabbits",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 01:27:50 +0200",
+      "link": "https://www.theregister.com/patches/2026/05/14/welcome-to-the-vulnpocalypse-as-vendors-use-ai-to-find-bugs-and-patches-multiply-like-rabbits/5240027",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google's AI-enabled mouse pointer understands 'this' and 'that'",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 00:19:47 +0200",
+      "link": "https://www.theregister.com/software/2026/05/13/googles-ai-enabled-mouse-pointer-understands-this-and-that/5240005",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Datacenters are having fewer, but bigger failures",
+      "source": "The Register",
+      "published": "Wed, 13 May 2026 22:48:48 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/05/13/datacenters-are-having-fewer-but-bigger-failures/5239951",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic butts in to small business, promises help with payroll and other core tasks",
+      "source": "The Register",
+      "published": "Wed, 13 May 2026 22:48:46 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/13/anthropic-butts-in-to-small-business-promises-help-with-payroll-and-other-core-tasks/5239967",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "See through local AI lies with Irish eyes",
+      "source": "The Register",
+      "published": "Wed, 13 May 2026 21:35:48 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/13/see-through-local-ai-lies-with-irish-eyes/5239911",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Dissatisfied: Three-fourths of AI customer service rollouts are a letdown",
+      "source": "The Register",
+      "published": "Wed, 13 May 2026 18:53:39 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/5239800",
       "matched_keywords": [
         "AI"
       ]
@@ -102,69 +176,12 @@
       ]
     },
     {
-      "title": "Apple, Google drag cross-platform texting into the encrypted age",
-      "source": "The Register",
-      "published": "Tue, 12 May 2026 11:46:00 +0200",
-      "link": "https://www.theregister.com/security/2026/05/12/apple-google-drag-cross-platform-texting-into-the-encrypted-age/5238556",
+      "title": "FreeCAD 1.1 Tutorial, For Beginners Who Like Clear Instructions",
+      "source": "Hackaday",
+      "published": "Wed, 13 May 2026 23:00:10 +0000",
+      "link": "https://hackaday.com/2026/05/13/freecad-1-1-tutorial-for-beginners-who-like-clear-instructions/",
       "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "GitLab promises a different kind of layoff as biz pivots toward AI",
-      "source": "The Register",
-      "published": "Tue, 12 May 2026 03:58:07 +0200",
-      "link": "https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Red Hat blasts RHEL 10.1 into orbit aboard Voyager's micro datacenter",
-      "source": "The Register",
-      "published": "Tue, 12 May 2026 02:14:00 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/05/12/red-hat-gives-rhel-101-the-boot-into-orbit/5238373",
-      "matched_keywords": [
-        "compute"
-      ]
-    },
-    {
-      "title": "Microsoft researchers find AI models and agents can't handle long-running tasks",
-      "source": "The Register",
-      "published": "Mon, 11 May 2026 22:50:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI can't have incompetent AI consultants ruining the market, so bought its own",
-      "source": "The Register",
-      "published": "Mon, 11 May 2026 20:33:11 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/11/openai-buys-ai-consultancy-to-sell-enterprises-on-its-models/5238213",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Anthropic\u2019s bug-hunting Mythos was greatest marketing stunt ever, says cURL creator",
-      "source": "The Register",
-      "published": "Mon, 11 May 2026 18:30:53 +0200",
-      "link": "https://www.theregister.com/security/2026/05/11/anthropics-bug-hunting-mythos-was-greatest-marketing-stunt-ever-says-curl-creator/5238111",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Google says criminals used AI-built zero-day in planned mass hack spree",
-      "source": "The Register",
-      "published": "Mon, 11 May 2026 15:38:22 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/11/google-says-criminals-used-ai-built-zero-day-in-planned-mass-hack-spree/5237982",
-      "matched_keywords": [
-        "AI",
-        "Google"
+        "model"
       ]
     }
   ]
