@@ -1,11 +1,121 @@
 {
-  "last_updated": "2026-05-14T11:05:01.661125+00:00",
+  "last_updated": "2026-05-15T11:05:02.091020+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE showcases at GSMA M360 LATAM 2026, driving future business model restructuring - AI & network two-way integration",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 12:26:16 +0200",
+      "link": "https://www.theregister.com/networks/2026/05/15/zte-showcases-at-gsma-m360-latam-2026-driving-future-business-model-restructuring-ai-network-two-way-integration/5240254",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "OpenAI caught in TanStack npm supply chain chaos after employee devices compromised",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 12:08:07 +0200",
+      "link": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Britain's latest civil servant is a chatbot trained on GOV.UK misery",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 11:15:00 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/05/15/britains-latest-civil-servant-is-a-chatbot-trained-on-govuk-misery/5240955",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Possible Samsung strike puts even more pressure on memory pricing",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 04:43:37 +0200",
+      "link": "https://www.theregister.com/systems/2026/05/15/possible-samsung-strike-puts-even-more-pressure-on-memory-pricing/5240874",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cerebras risked it all on dinner plate-sized AI accelerators a decade ago. Today it's worth $66B",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 01:02:50 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/15/cerebras-wafer-scale-ai-bet-delivers-blockbuster-ipo/5240821",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Sick and wrong: Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 22:50:05 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic tosses agents into the API billing pool",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 22:03:37 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/14/anthropic-tosses-agents-into-the-api-billing-pool/5240748",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AI to infest eight in ten premium phones within two years",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 16:02:00 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/05/14/ai-to-infest-eight-in-ten-premium-phones-within-two-years/5240393",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Dude\u2026 where\u2019s my password? Claude reunites forgetful stoner with $400k Bitcoin stash",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 15:30:00 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic\u2019s Bun Rust rewrite merged at speed of AI",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 15:01:00 +0200",
+      "link": "https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/5240381",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Americans would rather have a nuclear plant in their backyard than a datacenter",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 14:30:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/05/14/americans-would-rather-have-a-nuclear-plant-in-their-backyard-than-a-datacenter/5240203",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE and Telkom Indonesia sign strategic MoU to accelerate digital solutions and infrastructure development",
+      "source": "The Register",
+      "published": "Thu, 14 May 2026 14:11:24 +0200",
+      "link": "https://www.theregister.com/networks/2026/05/14/zte-and-telkom-indonesia-sign-strategic-mou-to-accelerate-digital-solutions-and-infrastructure-development/5240257",
       "matched_keywords": [
         "AI"
       ]
@@ -82,106 +192,6 @@
       "link": "https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/5239800",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "SAP U-turn brings AI features to ECC and on-prem S/4HANA",
-      "source": "The Register",
-      "published": "Wed, 13 May 2026 11:16:31 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/13/sap-u-turn-brings-ai-features-to-ecc-and-on-prem-s/4hana/5239040",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE hosts 2026 Broadband User Congress in S\u00e3o Paulo, under the Theme \"Monetize Your Intelligent Broadband\"",
-      "source": "The Register",
-      "published": "Wed, 13 May 2026 10:25:26 +0200",
-      "link": "https://www.theregister.com/networks/2026/05/13/zte-hosts-2026-broadband-user-congress-in-so-paulo-under-the-theme-monetize-your-intelligent-broadband/5239403",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI will soon be capable of telling convincing lies",
-      "source": "The Register",
-      "published": "Wed, 13 May 2026 09:29:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/13/ai-will-soon-be-capable-of-telling-convincing-lies/5239349",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Execs admit AI makes them value human workers less",
-      "source": "The Register",
-      "published": "Wed, 13 May 2026 04:26:02 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/13/execs-admit-ai-makes-them-value-human-workers-less/5239201",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google users fight for refunds as unauthorized API usage bills soar",
-      "source": "The Register",
-      "published": "Wed, 13 May 2026 01:03:33 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/13/google-users-fight-for-refunds-as-unauthorized-api-usage-bills-soar/5239160",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Foxconn confirms cyberattack after ransomware crew claims it stole confidential Apple, Nvidia files",
-      "source": "The Register",
-      "published": "Wed, 13 May 2026 00:02:35 +0200",
-      "link": "https://www.theregister.com/cyber-crime/2026/05/12/foxconn-confirms-cyberattack-after-nitrogen-claims-apple-nvidia-data-theft/5239144",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Google launches line of Android laptops festooned with Gemini AI",
-      "source": "The Register",
-      "published": "Tue, 12 May 2026 23:15:17 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/05/12/google-launches-line-of-android-laptops-festooned-with-gemini-ai/5239091",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Hollywood A-listers back proposed standard that would pay them when AI uses their likeness or work",
-      "source": "The Register",
-      "published": "Tue, 12 May 2026 22:57:22 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/12/actors-new-spec-aims-to-defeat-attack-of-the-ai-clones/5239115",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "US bank reports itself after slinging customer data at 'unauthorized AI app'",
-      "source": "The Register",
-      "published": "Tue, 12 May 2026 16:50:26 +0200",
-      "link": "https://www.theregister.com/security/2026/05/12/us-bank-reports-itself-after-ai-customer-data-mishap/5238787",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Frontier AI safety tests may be creating the very risks they're meant to stop",
-      "source": "The Register",
-      "published": "Tue, 12 May 2026 14:56:16 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "FreeCAD 1.1 Tutorial, For Beginners Who Like Clear Instructions",
-      "source": "Hackaday",
-      "published": "Wed, 13 May 2026 23:00:10 +0000",
-      "link": "https://hackaday.com/2026/05/13/freecad-1-1-tutorial-for-beginners-who-like-clear-instructions/",
-      "matched_keywords": [
-        "model"
       ]
     }
   ]
