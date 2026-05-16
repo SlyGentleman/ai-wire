@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T11:05:02.091020+00:00",
+  "last_updated": "2026-05-16T11:05:01.565999+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
@@ -8,6 +8,71 @@
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "One in seven Brits swapped their GP for ChatGPT, study finds",
+      "source": "The Register",
+      "published": "Sat, 16 May 2026 10:33:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/16/one-in-seven-brits-swapped-their-gp-for-chatgpt-study-finds/5240514",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google reimburses Register sources who were victims of API fraud",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 23:26:32 +0200",
+      "link": "https://www.theregister.com/devops/2026/05/15/google-reimburses-register-sources-who-were-victims-of-api-fraud/5241429",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Datacenters slurping up so much juice they boosted prices 75% in largest US energy market",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 23:02:01 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Git is unprepared for the AI coding tsunami",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 22:15:56 +0200",
+      "link": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI agents show they can create exploits, not just find vulns",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 21:45:54 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/15/ai-agents-show-they-can-create-exploits-not-just-find-vulns/5241453",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google sidles up to unsuspecting users, asks for their number",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 18:09:22 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/05/15/google-tests-5-gb-cap-for-users-who-skip-phone-numbers/5241280",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Anthropic urges Uncle Sam to kneecap China's AI ambitions before 2028",
+      "source": "The Register",
+      "published": "Fri, 15 May 2026 15:33:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/15/anthropic-urges-uncle-sam-to-kneecap-chinas-ai-ambitions-before-2028/5241201",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "model"
       ]
     },
     {
@@ -162,34 +227,6 @@
       "source": "The Register",
       "published": "Wed, 13 May 2026 22:48:48 +0200",
       "link": "https://www.theregister.com/on-prem/2026/05/13/datacenters-are-having-fewer-but-bigger-failures/5239951",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic butts in to small business, promises help with payroll and other core tasks",
-      "source": "The Register",
-      "published": "Wed, 13 May 2026 22:48:46 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/13/anthropic-butts-in-to-small-business-promises-help-with-payroll-and-other-core-tasks/5239967",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "See through local AI lies with Irish eyes",
-      "source": "The Register",
-      "published": "Wed, 13 May 2026 21:35:48 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/13/see-through-local-ai-lies-with-irish-eyes/5239911",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Dissatisfied: Three-fourths of AI customer service rollouts are a letdown",
-      "source": "The Register",
-      "published": "Wed, 13 May 2026 18:53:39 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/5239800",
       "matched_keywords": [
         "AI"
       ]
