@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-05-16T11:05:01.565999+00:00",
+  "last_updated": "2026-05-17T11:05:01.363934+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Wanted: Digital chief for England's schools. Must enjoy data, AI, and concrete problems",
+      "source": "The Register",
+      "published": "Sun, 17 May 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/05/17/wanted-digital-chief-for-englands-schools-must-enjoy-data-ai-and-concrete-problems/5240242",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI-generated code is 'pain waiting to happen'",
+      "source": "The Register",
+      "published": "Sat, 16 May 2026 19:01:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/16/ai-generated-code-is-pain-waiting-to-happen/5241574",
       "matched_keywords": [
         "AI"
       ]
@@ -199,34 +217,6 @@
       "source": "The Register",
       "published": "Thu, 14 May 2026 08:27:00 +0200",
       "link": "https://www.theregister.com/ai-ml/2026/05/14/ai-models-are-getting-better-at-replacing-cybersecurity-pros-on-certain-tasks/5240065",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Welcome to the vulnpocalypse, as vendors use AI to find bugs and patches multiply like rabbits",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 01:27:50 +0200",
-      "link": "https://www.theregister.com/patches/2026/05/14/welcome-to-the-vulnpocalypse-as-vendors-use-ai-to-find-bugs-and-patches-multiply-like-rabbits/5240027",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google's AI-enabled mouse pointer understands 'this' and 'that'",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 00:19:47 +0200",
-      "link": "https://www.theregister.com/software/2026/05/13/googles-ai-enabled-mouse-pointer-understands-this-and-that/5240005",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Datacenters are having fewer, but bigger failures",
-      "source": "The Register",
-      "published": "Wed, 13 May 2026 22:48:48 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/05/13/datacenters-are-having-fewer-but-bigger-failures/5239951",
       "matched_keywords": [
         "AI"
       ]
