@@ -1,11 +1,58 @@
 {
-  "last_updated": "2026-05-17T11:05:01.363934+00:00",
+  "last_updated": "2026-05-18T11:05:01.804278+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google tells database devs to lean hard on AI for PostgreSQL work",
+      "source": "The Register",
+      "published": "Mon, 18 May 2026 11:15:00 +0200",
+      "link": "https://www.theregister.com/databases/2026/05/18/google-tells-database-devs-to-lean-hard-on-ai-for-postgresql-work/5238070",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Linus Torvalds says AI-powered bug hunters have made Linux security mailing list \u2018almost entirely unmanageable\u2019",
+      "source": "The Register",
+      "published": "Mon, 18 May 2026 01:39:47 +0200",
+      "link": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Surprise AI bills leave AWS and Google Cloud users aghast",
+      "source": "The Register",
+      "published": "Mon, 18 May 2026 01:00:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/18/surprise-ai-bills-leave-aws-and-google-cloud-users-aghast/5241348",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Agent harnesses, like OpenClaw, are changing how we build and run AI models",
+      "source": "The Register",
+      "published": "Sun, 17 May 2026 17:30:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/17/how-ai-agent-harnesses-like-openclaw-are-changing-llms-inference-and-cpus/5241530",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+      "source": "The Register",
+      "published": "Sun, 17 May 2026 16:00:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
       "matched_keywords": [
         "AI"
       ]
@@ -190,33 +237,6 @@
       "source": "The Register",
       "published": "Thu, 14 May 2026 14:30:00 +0200",
       "link": "https://www.theregister.com/on-prem/2026/05/14/americans-would-rather-have-a-nuclear-plant-in-their-backyard-than-a-datacenter/5240203",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE and Telkom Indonesia sign strategic MoU to accelerate digital solutions and infrastructure development",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 14:11:24 +0200",
-      "link": "https://www.theregister.com/networks/2026/05/14/zte-and-telkom-indonesia-sign-strategic-mou-to-accelerate-digital-solutions-and-infrastructure-development/5240257",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Calling the cops just got extra AI as police seek to add tech to contact systems",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/05/14/calling-the-cops-just-got-extra-ai-as-police-seek-to-add-tech-to-contact-systems/5239737",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI models are getting better at replacing cybersecurity pros on certain tasks",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 08:27:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/14/ai-models-are-getting-better-at-replacing-cybersecurity-pros-on-certain-tasks/5240065",
       "matched_keywords": [
         "AI"
       ]
