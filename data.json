@@ -1,11 +1,94 @@
 {
-  "last_updated": "2026-05-18T11:05:01.804278+00:00",
+  "last_updated": "2026-05-19T11:05:01.591481+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "1 in 5 Brits think AI layoffs could trigger civil unrest",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 12:59:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/19/1-in-5-brits-think-ai-layoffs-could-trigger-civil-unrest/5242444",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SAP's AI strategy: Come for the openness, stay because you have to",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 12:00:00 +0200",
+      "link": "https://www.theregister.com/saas/2026/05/19/saps-ai-strategy-come-for-the-openness-stay-because-you-have-to/5241109",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE Showcases AI Interactive Flat Panel at the Broadband User Congress in Brazil",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 11:59:43 +0200",
+      "link": "https://www.theregister.com/systems/2026/05/19/zte-showcases-ai-interactive-flat-panel-at-the-broadband-user-congress-in-brazil/5242492",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The class of 2026 has heard enough about AI, thanks",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/19/the-class-of-2026-has-heard-enough-about-ai-thanks/5242080",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Baidu says the quiet part out loud \u2013 you can\u2019t build AI infrastructure, so clouds can cash in",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 08:52:46 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/05/19/baidu-says-the-quiet-part-out-loud-you-cant-build-ai-infrastructure-so-clouds-can-cash-in/5242344",
+      "matched_keywords": [
+        "AI",
+        "GPU"
+      ]
+    },
+    {
+      "title": "VMware quietly debuts Arm hypervisor tech preview",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 04:02:24 +0200",
+      "link": "https://www.theregister.com/virtualization/2026/05/19/vmware-quietly-debuts-arm-hypervisor-tech-preview/5242293",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 01:32:48 +0200",
+      "link": "https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "The big AI companies are going to see their margins disappear",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 00:33:02 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/18/the-big-ai-companies-are-going-to-see-their-margins-disappear/5242227",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "'Big AI' is subverting regulations just like tobacco and oil firms",
+      "source": "The Register",
+      "published": "Mon, 18 May 2026 16:45:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/18/big-ai-is-subverting-regulations-just-like-tobacco-and-oil-firms/5241910",
       "matched_keywords": [
         "AI"
       ]
@@ -127,118 +210,6 @@
       "link": "https://www.theregister.com/personal-tech/2026/05/15/google-tests-5-gb-cap-for-users-who-skip-phone-numbers/5241280",
       "matched_keywords": [
         "Google"
-      ]
-    },
-    {
-      "title": "Anthropic urges Uncle Sam to kneecap China's AI ambitions before 2028",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 15:33:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/15/anthropic-urges-uncle-sam-to-kneecap-chinas-ai-ambitions-before-2028/5241201",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "ZTE showcases at GSMA M360 LATAM 2026, driving future business model restructuring - AI & network two-way integration",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 12:26:16 +0200",
-      "link": "https://www.theregister.com/networks/2026/05/15/zte-showcases-at-gsma-m360-latam-2026-driving-future-business-model-restructuring-ai-network-two-way-integration/5240254",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "OpenAI caught in TanStack npm supply chain chaos after employee devices compromised",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 12:08:07 +0200",
-      "link": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Britain's latest civil servant is a chatbot trained on GOV.UK misery",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/05/15/britains-latest-civil-servant-is-a-chatbot-trained-on-govuk-misery/5240955",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Possible Samsung strike puts even more pressure on memory pricing",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 04:43:37 +0200",
-      "link": "https://www.theregister.com/systems/2026/05/15/possible-samsung-strike-puts-even-more-pressure-on-memory-pricing/5240874",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cerebras risked it all on dinner plate-sized AI accelerators a decade ago. Today it's worth $66B",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 01:02:50 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/15/cerebras-wafer-scale-ai-bet-delivers-blockbuster-ipo/5240821",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Sick and wrong: Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 22:50:05 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic tosses agents into the API billing pool",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 22:03:37 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/14/anthropic-tosses-agents-into-the-api-billing-pool/5240748",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AI to infest eight in ten premium phones within two years",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 16:02:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/05/14/ai-to-infest-eight-in-ten-premium-phones-within-two-years/5240393",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Dude\u2026 where\u2019s my password? Claude reunites forgetful stoner with $400k Bitcoin stash",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 15:30:00 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic\u2019s Bun Rust rewrite merged at speed of AI",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 15:01:00 +0200",
-      "link": "https://www.theregister.com/devops/2026/05/14/anthropics-bun-rust-rewrite-merged-at-speed-of-ai/5240381",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Americans would rather have a nuclear plant in their backyard than a datacenter",
-      "source": "The Register",
-      "published": "Thu, 14 May 2026 14:30:00 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/05/14/americans-would-rather-have-a-nuclear-plant-in-their-backyard-than-a-datacenter/5240203",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
