@@ -1,11 +1,103 @@
 {
-  "last_updated": "2026-05-19T11:05:01.591481+00:00",
+  "last_updated": "2026-05-20T11:05:02.084947+00:00",
   "entries": [
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE releases Sustainability Report 2025: driving a new chapter in sustainable development through AI",
+      "source": "The Register",
+      "published": "Wed, 20 May 2026 10:23:48 +0200",
+      "link": "https://www.theregister.com/networks/2026/05/20/zte-releases-sustainability-report-2025-driving-a-new-chapter-in-sustainable-development-through-ai/5243185",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google Cloud suspended major customer Railway.com without cause, causing outage",
+      "source": "The Register",
+      "published": "Wed, 20 May 2026 06:37:43 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/05/20/google-cloud-suspended-major-customer-railwaycom-without-cause-causing-outage/5243111",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "AI sackings reach New Zealand, which will use it to eject 14 percent of government staff",
+      "source": "The Register",
+      "published": "Wed, 20 May 2026 03:17:28 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/05/20/ai-sackings-reach-new-zealand-which-will-use-it-to-eject-14-percent-of-government-staff/5243076",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic\u2019s Stainless steal tightens grip on AI dev tooling",
+      "source": "The Register",
+      "published": "Wed, 20 May 2026 01:05:18 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/20/anthropics-stainless-steal-tightens-grip-on-ai-dev-tooling/5243053",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Google accused of pushing 'free for life' G Suite users onto paid plans",
+      "source": "The Register",
+      "published": "Wed, 20 May 2026 00:15:00 +0200",
+      "link": "https://www.theregister.com/applications/2026/05/19/google-accused-of-pushing-free-for-life-g-suite-users-onto-paid-plans/5242567",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Frustrated franchisee sues Pizza Hut over crappy kitchen AI",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 23:09:13 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/5242899",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google touts its tokenmaxxing and capex spending amid AI orgy",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 22:55:22 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/19/google-touts-tokenmaxxing-huge-capex-and-ai-agents-at-i/o/5242983",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Shadow AI invades the workplace, up 4x in the last year",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 19:24:46 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/19/shadow-ai-surges-in-the-workplace/5242868",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SAP customers warned AI agents could put costs on autopilot",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 17:49:40 +0200",
+      "link": "https://www.theregister.com/saas/2026/05/19/sap-customers-warned-ai-agents-could-put-costs-on-autopilot/5242646",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft refreshes Surface for Business lineup, starts AI PC upsell at $1,499",
+      "source": "The Register",
+      "published": "Tue, 19 May 2026 16:58:27 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/19/microsoft-refreshes-surface-for-business-lineup-starts-ai-pc-upsell-at-1499/5242697",
       "matched_keywords": [
         "AI"
       ]
@@ -91,125 +183,6 @@
       "link": "https://www.theregister.com/ai-ml/2026/05/18/big-ai-is-subverting-regulations-just-like-tobacco-and-oil-firms/5241910",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Google tells database devs to lean hard on AI for PostgreSQL work",
-      "source": "The Register",
-      "published": "Mon, 18 May 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/databases/2026/05/18/google-tells-database-devs-to-lean-hard-on-ai-for-postgresql-work/5238070",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Linus Torvalds says AI-powered bug hunters have made Linux security mailing list \u2018almost entirely unmanageable\u2019",
-      "source": "The Register",
-      "published": "Mon, 18 May 2026 01:39:47 +0200",
-      "link": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Surprise AI bills leave AWS and Google Cloud users aghast",
-      "source": "The Register",
-      "published": "Mon, 18 May 2026 01:00:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/18/surprise-ai-bills-leave-aws-and-google-cloud-users-aghast/5241348",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Agent harnesses, like OpenClaw, are changing how we build and run AI models",
-      "source": "The Register",
-      "published": "Sun, 17 May 2026 17:30:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/17/how-ai-agent-harnesses-like-openclaw-are-changing-llms-inference-and-cpus/5241530",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "source": "The Register",
-      "published": "Sun, 17 May 2026 16:00:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Wanted: Digital chief for England's schools. Must enjoy data, AI, and concrete problems",
-      "source": "The Register",
-      "published": "Sun, 17 May 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/05/17/wanted-digital-chief-for-englands-schools-must-enjoy-data-ai-and-concrete-problems/5240242",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI-generated code is 'pain waiting to happen'",
-      "source": "The Register",
-      "published": "Sat, 16 May 2026 19:01:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/16/ai-generated-code-is-pain-waiting-to-happen/5241574",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "One in seven Brits swapped their GP for ChatGPT, study finds",
-      "source": "The Register",
-      "published": "Sat, 16 May 2026 10:33:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/16/one-in-seven-brits-swapped-their-gp-for-chatgpt-study-finds/5240514",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google reimburses Register sources who were victims of API fraud",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 23:26:32 +0200",
-      "link": "https://www.theregister.com/devops/2026/05/15/google-reimburses-register-sources-who-were-victims-of-api-fraud/5241429",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Datacenters slurping up so much juice they boosted prices 75% in largest US energy market",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 23:02:01 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Git is unprepared for the AI coding tsunami",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 22:15:56 +0200",
-      "link": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI agents show they can create exploits, not just find vulns",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 21:45:54 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/15/ai-agents-show-they-can-create-exploits-not-just-find-vulns/5241453",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google sidles up to unsuspecting users, asks for their number",
-      "source": "The Register",
-      "published": "Fri, 15 May 2026 18:09:22 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/05/15/google-tests-5-gb-cap-for-users-who-skip-phone-numbers/5241280",
-      "matched_keywords": [
-        "Google"
       ]
     }
   ]
