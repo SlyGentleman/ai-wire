@@ -1,11 +1,131 @@
 {
-  "last_updated": "2026-05-20T11:05:02.084947+00:00",
+  "last_updated": "2026-05-21T11:05:01.946971+00:00",
   "entries": [
+    {
+      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "source": "Ars Technica",
+      "published": "Wed, 20 May 2026 19:10:36 +0000",
+      "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
     {
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft storms RAMPART, adds Clarity to agentic AI safety",
+      "source": "The Register",
+      "published": "Thu, 21 May 2026 12:30:00 +0200",
+      "link": "https://www.theregister.com/security/2026/05/21/microsoft-open-sources-agentic-ai-safety-tools/5243822",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK.gov hikes health AI tender by 400% \u2013 and hundreds of millions \u2013 after a chat with suppliers",
+      "source": "The Register",
+      "published": "Thu, 21 May 2026 11:15:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/21/ukgov-hikes-health-ai-tender-by-400-and-hundreds-of-millions-after-a-chat-with-suppliers/5243377",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Open Compute urges local government to bask in the warm glow of excess datacenter heat",
+      "source": "The Register",
+      "published": "Thu, 21 May 2026 07:38:58 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/05/21/open-compute-urges-local-government-to-bask-in-the-warm-glow-of-excess-datacenter-heat/5243917",
+      "matched_keywords": [
+        "Compute",
+        "Google"
+      ]
+    },
+    {
+      "title": "Nvidia on track to be worlds leading CPU supplier claims CFO",
+      "source": "The Register",
+      "published": "Thu, 21 May 2026 02:23:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "AMD says its $4K Ryzen AI Halo workstation practically pays for itself",
+      "source": "The Register",
+      "published": "Thu, 21 May 2026 02:00:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/05/21/amd-says-its-4k-ryzen-ai-halo-workstation-practically-pays-for-itself/5243755",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Intuit axes 3,000 \u2013 without blaming AI",
+      "source": "The Register",
+      "published": "Thu, 21 May 2026 01:35:24 +0200",
+      "link": "https://www.theregister.com/saas/2026/05/21/intuit-axes-3000-without-blaming-ai/5243807",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI code accelerates production failures and spending, study finds",
+      "source": "The Register",
+      "published": "Thu, 21 May 2026 00:43:51 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/20/ai-code-boom-drives-production-failures-higher-spending/5243787",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Even Claude agrees: hole in its sandbox was real and dangerous",
+      "source": "The Register",
+      "published": "Wed, 20 May 2026 22:34:15 +0200",
+      "link": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI floats buy-before-your-try AI availability guarantee",
+      "source": "The Register",
+      "published": "Wed, 20 May 2026 21:51:28 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Bye-bye, Gemini CLI; Google's gone and swapped you for a closed-source AI",
+      "source": "The Register",
+      "published": "Wed, 20 May 2026 18:44:43 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/20/bye-bye-gemini-cli-google-nudges-devs-toward-antigravity/5243605",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Those spared latest Meta job cuts forcibly reassigned to AI roles",
+      "source": "The Register",
+      "published": "Wed, 20 May 2026 15:27:38 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/20/meta-axes-thousands-of-roles-forcibly-transfers-7000-more/5243365",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "'Workforce rebalancing' comes for Kyndryl, and delivery teams are in the firing line",
+      "source": "The Register",
+      "published": "Wed, 20 May 2026 14:15:28 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/05/20/workforce-rebalancing-comes-for-kyndryl-and-delivery-teams-are-in-the-firing-line/5243327",
       "matched_keywords": [
         "AI"
       ]
@@ -116,71 +236,6 @@
       "source": "The Register",
       "published": "Tue, 19 May 2026 12:00:00 +0200",
       "link": "https://www.theregister.com/saas/2026/05/19/saps-ai-strategy-come-for-the-openness-stay-because-you-have-to/5241109",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE Showcases AI Interactive Flat Panel at the Broadband User Congress in Brazil",
-      "source": "The Register",
-      "published": "Tue, 19 May 2026 11:59:43 +0200",
-      "link": "https://www.theregister.com/systems/2026/05/19/zte-showcases-ai-interactive-flat-panel-at-the-broadband-user-congress-in-brazil/5242492",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The class of 2026 has heard enough about AI, thanks",
-      "source": "The Register",
-      "published": "Tue, 19 May 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/19/the-class-of-2026-has-heard-enough-about-ai-thanks/5242080",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "Baidu says the quiet part out loud \u2013 you can\u2019t build AI infrastructure, so clouds can cash in",
-      "source": "The Register",
-      "published": "Tue, 19 May 2026 08:52:46 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/05/19/baidu-says-the-quiet-part-out-loud-you-cant-build-ai-infrastructure-so-clouds-can-cash-in/5242344",
-      "matched_keywords": [
-        "AI",
-        "GPU"
-      ]
-    },
-    {
-      "title": "VMware quietly debuts Arm hypervisor tech preview",
-      "source": "The Register",
-      "published": "Tue, 19 May 2026 04:02:24 +0200",
-      "link": "https://www.theregister.com/virtualization/2026/05/19/vmware-quietly-debuts-arm-hypervisor-tech-preview/5242293",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them",
-      "source": "The Register",
-      "published": "Tue, 19 May 2026 01:32:48 +0200",
-      "link": "https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "The big AI companies are going to see their margins disappear",
-      "source": "The Register",
-      "published": "Tue, 19 May 2026 00:33:02 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/18/the-big-ai-companies-are-going-to-see-their-margins-disappear/5242227",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "'Big AI' is subverting regulations just like tobacco and oil firms",
-      "source": "The Register",
-      "published": "Mon, 18 May 2026 16:45:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/18/big-ai-is-subverting-regulations-just-like-tobacco-and-oil-firms/5241910",
       "matched_keywords": [
         "AI"
       ]
