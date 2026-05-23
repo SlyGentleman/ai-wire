@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T11:05:02.054384+00:00",
+  "last_updated": "2026-05-23T11:05:02.110082+00:00",
   "entries": [
     {
       "title": "Google publishes exploit code threatening millions of Chromium users",
@@ -20,10 +20,74 @@
       ]
     },
     {
-      "title": "Vibe-coded solutions arrive for problems nobody has",
+      "title": "Dirty Frag, Copy Fail, Fragnesia: The start of a worrisome Linux security trend",
+      "source": "The Register",
+      "published": "Sat, 23 May 2026 12:59:00 +0200",
+      "link": "https://www.theregister.com/security/2026/05/23/dirty-frag-copy-fail-fragnesia-the-start-of-a-worrisome-linux-security-trend/5244742",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Minor edits to AI skills can make agents go rogue",
+      "source": "The Register",
+      "published": "Fri, 22 May 2026 23:37:20 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/22/minor-edits-to-ai-skills-can-make-agents-go-rogue/5245413",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Zuck defends monitoring employees to win AI race in purported leaked audio",
+      "source": "The Register",
+      "published": "Fri, 22 May 2026 22:55:41 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Media giant settles for $930k with FTC over allegations it lied about eavesdropping on conversations through smart devices",
+      "source": "The Register",
+      "published": "Fri, 22 May 2026 17:19:51 +0200",
+      "link": "https://www.theregister.com/legal/2026/05/22/media-giant-settles-for-930k-amid-user-snooping-allegations/5245180",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Workday wants AI to punch in instead of having to hire new recruits",
+      "source": "The Register",
+      "published": "Fri, 22 May 2026 14:59:00 +0200",
+      "link": "https://www.theregister.com/saas/2026/05/22/workday-wants-ai-to-punch-in-instead-of-having-to-hire-new-recruits/5245011",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE Day Indonesia 2026 strengthens AI innovation and digital infrastructure collaboration to accelerate Indonesia's digital transformation",
+      "source": "The Register",
+      "published": "Fri, 22 May 2026 14:04:52 +0200",
+      "link": "https://www.theregister.com/networks/2026/05/22/zte-day-indonesia-2026-strengthens-ai-innovation-and-digital-infrastructure-collaboration-to-accelerate-indonesias-digital-transformation/5245048",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE unveils localized roadmap for Eurasia's digital future at GSMA M360 Eurasia 2026",
+      "source": "The Register",
+      "published": "Fri, 22 May 2026 13:34:23 +0200",
+      "link": "https://www.theregister.com/networks/2026/05/22/zte-unveils-localized-roadmap-for-eurasias-digital-future-at-gsma-m360-eurasia-2026/5244937",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "BOFH: Vibe-coded solutions arrive for problems nobody has",
       "source": "The Register",
       "published": "Fri, 22 May 2026 12:00:00 +0200",
-      "link": "https://www.theregister.com/bofh/2026/05/22/vibe-coded-solutions-arrive-for-problems-nobody-has/5243976",
+      "link": "https://www.theregister.com/bofh/2026/05/22/bofh-vibe-coded-solutions-arrive-for-problems-nobody-has/5243976",
       "matched_keywords": [
         "AI"
       ]
@@ -145,108 +209,6 @@
       "matched_keywords": [
         "Compute",
         "Google"
-      ]
-    },
-    {
-      "title": "GPU behemoth Nvidia on track to be world's leading CPU supplier too, says CFO",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 02:23:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "AMD says its $4K Ryzen AI Halo workstation practically pays for itself",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 02:00:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/05/21/amd-says-its-4k-ryzen-ai-halo-workstation-practically-pays-for-itself/5243755",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Intuit axes 3,000 \u2013 without blaming AI",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 01:35:24 +0200",
-      "link": "https://www.theregister.com/saas/2026/05/21/intuit-axes-3000-without-blaming-ai/5243807",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI code accelerates production failures and spending, study finds",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 00:43:51 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/20/ai-code-boom-drives-production-failures-higher-spending/5243787",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Even Claude agrees: hole in its sandbox was real and dangerous",
-      "source": "The Register",
-      "published": "Wed, 20 May 2026 22:34:15 +0200",
-      "link": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI floats buy-before-your-try AI availability guarantee",
-      "source": "The Register",
-      "published": "Wed, 20 May 2026 21:51:28 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Bye-bye, Gemini CLI; Google's gone and swapped you for a closed-source AI",
-      "source": "The Register",
-      "published": "Wed, 20 May 2026 18:44:43 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/20/bye-bye-gemini-cli-google-nudges-devs-toward-antigravity/5243605",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Those spared latest Meta job cuts forcibly reassigned to AI roles",
-      "source": "The Register",
-      "published": "Wed, 20 May 2026 15:27:38 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/20/meta-axes-thousands-of-roles-forcibly-transfers-7000-more/5243365",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "'Workforce rebalancing' comes for Kyndryl, and delivery teams are in the firing line",
-      "source": "The Register",
-      "published": "Wed, 20 May 2026 14:15:28 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/05/20/workforce-rebalancing-comes-for-kyndryl-and-delivery-teams-are-in-the-firing-line/5243327",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE releases Sustainability Report 2025: driving a new chapter in sustainable development through AI",
-      "source": "The Register",
-      "published": "Wed, 20 May 2026 10:23:48 +0200",
-      "link": "https://www.theregister.com/networks/2026/05/20/zte-releases-sustainability-report-2025-driving-a-new-chapter-in-sustainable-development-through-ai/5243185",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Get That Windows 7 Feel In An OS That Still Gets Updates",
-      "source": "Hackaday",
-      "published": "Fri, 22 May 2026 02:00:53 +0000",
-      "link": "https://hackaday.com/2026/05/21/get-that-windows-7-feel-in-an-os-that-still-gets-updates/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
