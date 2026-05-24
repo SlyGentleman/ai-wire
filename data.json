@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T11:05:02.110082+00:00",
+  "last_updated": "2026-05-24T11:05:01.872955+00:00",
   "entries": [
     {
       "title": "Google publishes exploit code threatening millions of Chromium users",
@@ -199,16 +199,6 @@
       "link": "https://www.theregister.com/ai-ml/2026/05/21/ukgov-hikes-health-ai-tender-by-400-and-hundreds-of-millions-after-a-chat-with-suppliers/5243377",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Open Compute urges local government to bask in the warm glow of excess datacenter heat",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 07:38:58 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/05/21/open-compute-urges-local-government-to-bask-in-the-warm-glow-of-excess-datacenter-heat/5243917",
-      "matched_keywords": [
-        "Compute",
-        "Google"
       ]
     }
   ]
