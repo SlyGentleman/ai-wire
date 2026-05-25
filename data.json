@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T11:05:01.872955+00:00",
+  "last_updated": "2026-05-25T11:05:02.035501+00:00",
   "entries": [
     {
       "title": "Google publishes exploit code threatening millions of Chromium users",
@@ -20,10 +20,40 @@
       ]
     },
     {
-      "title": "Dirty Frag, Copy Fail, Fragnesia: The start of a worrisome Linux security trend",
+      "title": "Digital sovereignty, the musical: One engineer\u2019s bizarre crusade against hyperscalers",
+      "source": "The Register",
+      "published": "Mon, 25 May 2026 11:38:00 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/05/25/digital-sovereignty-the-musical-one-engineers-bizarre-crusade-against-hyperscalers/5245148",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Anthropic to release Mythos-class models to the public",
+      "source": "The Register",
+      "published": "Mon, 25 May 2026 09:09:26 +0200",
+      "link": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Google has seriously leaned into AI enshittification lately",
+      "source": "The Register",
+      "published": "Mon, 25 May 2026 01:00:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "AI eyes scanning for bugs create a worrisome Linux security trend",
       "source": "The Register",
       "published": "Sat, 23 May 2026 12:59:00 +0200",
-      "link": "https://www.theregister.com/security/2026/05/23/dirty-frag-copy-fail-fragnesia-the-start-of-a-worrisome-linux-security-trend/5244742",
+      "link": "https://www.theregister.com/security/2026/05/23/ai-eyes-scanning-for-bugs-create-a-worrisome-linux-security-trend/5244742",
       "matched_keywords": [
         "AI"
       ]
@@ -166,39 +196,12 @@
       ]
     },
     {
-      "title": "Vivaldi 8 polishes the chrome without coating it in AI",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 14:00:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/05/21/vivaldi-8-polishes-the-chrome-without-coating-it-in-ai/5243992",
+      "title": "Hackaday Links: May 24, 2026",
+      "source": "Hackaday",
+      "published": "Sun, 24 May 2026 23:00:48 +0000",
+      "link": "https://hackaday.com/2026/05/24/hackaday-links-may-24-2026/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Apple adds AI smarts to Voice Control, VoiceOver and Magnifier ahead of Accessibility Day",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 12:54:23 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/21/apple-adds-ai-smarts-to-voice-control-voiceover-and-magnifier-ahead-of-accessibility-day/5243594",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft storms RAMPART, adds Clarity to agentic AI safety",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 12:30:00 +0200",
-      "link": "https://www.theregister.com/security/2026/05/21/microsoft-open-sources-agentic-ai-safety-tools/5243822",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK.gov hikes health AI tender by 400% \u2013 and hundreds of millions \u2013 after a chat with suppliers",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/21/ukgov-hikes-health-ai-tender-by-400-and-hundreds-of-millions-after-a-chat-with-suppliers/5243377",
-      "matched_keywords": [
-        "AI"
+        "Google"
       ]
     }
   ]
