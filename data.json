@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T11:05:02.035501+00:00",
+  "last_updated": "2026-05-26T11:05:01.342658+00:00",
   "entries": [
     {
       "title": "Google publishes exploit code threatening millions of Chromium users",
@@ -17,6 +17,61 @@
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Big Tech extracts retirement-scale wealth from UK internet users, research shows",
+      "source": "The Register",
+      "published": "Tue, 26 May 2026 12:30:00 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/05/26/big-tech-extracts-retirement-scale-wealth-from-uk-internet-users-research-shows/5246048",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ucell and ZTE complete large-scale deployment of AI\u2011Powered green network solution in Uzbekistan",
+      "source": "The Register",
+      "published": "Tue, 26 May 2026 12:25:26 +0200",
+      "link": "https://www.theregister.com/networks/2026/05/26/ucell-and-zte-complete-large-scale-deployment-of-aipowered-green-network-solution-in-uzbekistan/5246097",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The SaaS-pocalypse can wait, Salesforce still has customers where it wants them",
+      "source": "The Register",
+      "published": "Tue, 26 May 2026 12:00:00 +0200",
+      "link": "https://www.theregister.com/saas/2026/05/26/the-saas-pocalypse-can-wait-salesforce-still-has-customers-where-it-wants-them/5245228",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SaaS outfit ClickUp promises seven-figure salaries for survivors of 22 percent staff purge",
+      "source": "The Register",
+      "published": "Tue, 26 May 2026 08:20:30 +0200",
+      "link": "https://www.theregister.com/saas/2026/05/26/saas-outfit-clickup-promises-seven-figure-salaries-for-survivors-of-22-percent-staff-purge/5245929",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Pope Leo warns AI boom can give Big Tech and the people who run it too much power",
+      "source": "The Register",
+      "published": "Tue, 26 May 2026 04:10:55 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/26/pope-leo-warns-ai-boom-can-give-big-tech-and-the-people-who-run-it-too-much-power/5245883",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google is cannibalizing the web to feed AI",
+      "source": "The Register",
+      "published": "Mon, 25 May 2026 14:25:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/25/google-is-cannibalizing-the-web-to-feed-ai/5244641",
+      "matched_keywords": [
+        "AI",
+        "Google"
       ]
     },
     {
@@ -155,51 +210,6 @@
       "source": "The Register",
       "published": "Thu, 21 May 2026 22:23:00 +0200",
       "link": "https://www.theregister.com/devops/2026/05/21/threat-hunters-find-google-api-keys-still-usable-23-minutes-after-deletion/5244504",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "AI is getting expensive, but relief is on the way - just not for you",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 19:35:11 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/21/ai-is-getting-pricey-but-relief-is-coming-but-not-for-you/5244358",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Deus ex machina: Half of US Christians trust AI's spiritual advice",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 18:36:47 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/21/deus-ex-machina-half-of-us-christians-trust-ais-spiritual-advice/5244371",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Web devs sleeping with the enemy: AI is doing their job and they worry it's after their desk too",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 16:26:00 +0200",
-      "link": "https://www.theregister.com/devops/2026/05/21/web-devs-sleeping-with-the-enemy-ai-is-doing-their-job-and-they-worry-its-after-their-desk-too/5244132",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Gemini accused of 30,000-line code purge and fake recovery report",
-      "source": "The Register",
-      "published": "Thu, 21 May 2026 15:01:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/21/gemini-accused-of-30000-line-code-purge-and-fake-recovery-report/5244219",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Hackaday Links: May 24, 2026",
-      "source": "Hackaday",
-      "published": "Sun, 24 May 2026 23:00:48 +0000",
-      "link": "https://hackaday.com/2026/05/24/hackaday-links-may-24-2026/",
       "matched_keywords": [
         "Google"
       ]
