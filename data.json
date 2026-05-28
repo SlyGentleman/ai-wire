@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T11:05:01.229630+00:00",
+  "last_updated": "2026-05-28T11:05:01.748675+00:00",
   "entries": [
     {
       "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
@@ -29,6 +29,124 @@
       ]
     },
     {
+      "title": "Google engineer accused of turning Year in Search secrets into Polymarket payday",
+      "source": "The Register",
+      "published": "Thu, 28 May 2026 12:50:48 +0200",
+      "link": "https://www.theregister.com/legal/2026/05/28/google-infosec-engineer-charged-with-insider-trading/5247745",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Arm moves into the heart of the cloud stack",
+      "source": "The Register",
+      "published": "Thu, 28 May 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/05/28/arm-moves-into-the-heart-of-the-cloud-stack/5246780",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Most generative AI and custom model projects will be a bust: Gartner",
+      "source": "The Register",
+      "published": "Thu, 28 May 2026 07:01:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/28/most-generative-ai-and-custom-model-projects-will-be-a-bust-gartner/5247633",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Salesforce waves bye-bye to UI in 'headless' embrace",
+      "source": "The Register",
+      "published": "Thu, 28 May 2026 02:20:29 +0200",
+      "link": "https://www.theregister.com/saas/2026/05/28/salesforce-waves-bye-bye-to-ui-in-headless-embrace/5247587",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Snowflake to burn $6B on AWS Graviton CPUs and AI accelerators",
+      "source": "The Register",
+      "published": "Wed, 27 May 2026 23:20:00 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/05/27/snowflake-to-burn-6b-on-aws-graviton-cpus-ai-infra/5247475",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Argonne flexes spare supercompute to build private AI inference service",
+      "source": "The Register",
+      "published": "Wed, 27 May 2026 22:15:48 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/argonne-flexes-spare-supercompute-to-build-private-ai-inference-servic/5247362",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI hiring algorithms reject Black, Asian job seekers at higher rates",
+      "source": "The Register",
+      "published": "Wed, 27 May 2026 21:39:39 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/ai-hiring-algorithms-reject-black-asian-job-seekers-at-higher-rates/5247387",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "CrowdStrike, Google shatter Glassworm botnet",
+      "source": "The Register",
+      "published": "Wed, 27 May 2026 19:56:14 +0200",
+      "link": "https://www.theregister.com/cyber-crime/2026/05/27/crowdstrike-google-shatter-glassworm-botnet/5247337",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Bosses blinded by confidence about shadow AI use by workers",
+      "source": "The Register",
+      "published": "Wed, 27 May 2026 19:20:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/bosses-blinded-by-confidence-about-shadow-ai-use-by-workers/5247275",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Researchers find all big-name bots bomb EU compliance tests",
+      "source": "The Register",
+      "published": "Wed, 27 May 2026 17:37:38 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/researchers-find-all-big-name-bots-bomb-eu-compliance-tests/5247176",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "4 in 10 AI agents headed for demotion or the rubbish bin",
+      "source": "The Register",
+      "published": "Wed, 27 May 2026 16:32:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/4-in-10-ai-agents-headed-for-demotion-or-the-rubbish-bin/5246964",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "India's cyber agency sets clock at 12 hours to tackle exploited bugs as AI turns up the heat",
+      "source": "The Register",
+      "published": "Wed, 27 May 2026 16:00:00 +0200",
+      "link": "https://www.theregister.com/security/2026/05/27/cert-in-professes-12-hour-patching-for-ai-assisted-attacks/5247009",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Tony Blair and the Reform party both want AI in government, though they can't agree on what for",
+      "source": "The Register",
+      "published": "Wed, 27 May 2026 14:30:00 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/05/27/tony-blair-and-the-reform-party-both-want-ai-in-government-though-they-cant-agree-on-what-for/5246983",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "AWS whips out Graviton-powered Redshift instances, claims 7x speed for data warehouse",
       "source": "The Register",
       "published": "Wed, 27 May 2026 11:15:00 +0200",
@@ -47,10 +165,10 @@
       ]
     },
     {
-      "title": "Anthropic co-founder hallucinates ghost in the machine after hearing the Pope speak about AI",
+      "title": "Anthropic co-founder hallucinates ghost in the machine",
       "source": "The Register",
       "published": "Wed, 27 May 2026 02:38:57 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-co-founder-hallucinates-ghost-in-the-machine-after-hearing-the-pope-speak-about-ai/5246671",
+      "link": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-co-founder-hallucinates-ghost-in-the-machine/5246671",
       "matched_keywords": [
         "AI",
         "Anthropic"
@@ -63,119 +181,6 @@
       "link": "https://www.theregister.com/ai-ml/2026/05/26/rogue-states-are-putting-ai-agents-to-work-on-sanctions-evasion/5246210",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Big Tech extracts retirement-scale wealth from UK internet users, research shows",
-      "source": "The Register",
-      "published": "Tue, 26 May 2026 12:30:00 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/05/26/big-tech-extracts-retirement-scale-wealth-from-uk-internet-users-research-shows/5246048",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ucell and ZTE complete large-scale deployment of AI\u2011Powered green network solution in Uzbekistan",
-      "source": "The Register",
-      "published": "Tue, 26 May 2026 12:25:26 +0200",
-      "link": "https://www.theregister.com/networks/2026/05/26/ucell-and-zte-complete-large-scale-deployment-of-aipowered-green-network-solution-in-uzbekistan/5246097",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The SaaS-pocalypse can wait, Salesforce still has customers where it wants them",
-      "source": "The Register",
-      "published": "Tue, 26 May 2026 12:00:00 +0200",
-      "link": "https://www.theregister.com/saas/2026/05/26/the-saas-pocalypse-can-wait-salesforce-still-has-customers-where-it-wants-them/5245228",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "SaaS outfit ClickUp promises seven-figure salaries for survivors of 22 percent staff purge",
-      "source": "The Register",
-      "published": "Tue, 26 May 2026 08:20:30 +0200",
-      "link": "https://www.theregister.com/saas/2026/05/26/saas-outfit-clickup-promises-seven-figure-salaries-for-survivors-of-22-percent-staff-purge/5245929",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Pope Leo warns AI boom can give Big Tech and the people who run it too much power",
-      "source": "The Register",
-      "published": "Tue, 26 May 2026 04:10:55 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/26/pope-leo-warns-ai-boom-can-give-big-tech-and-the-people-who-run-it-too-much-power/5245883",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google is cannibalizing the web to feed AI",
-      "source": "The Register",
-      "published": "Mon, 25 May 2026 14:25:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/25/google-is-cannibalizing-the-web-to-feed-ai/5244641",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Digital sovereignty, the musical: One engineer\u2019s bizarre crusade against hyperscalers",
-      "source": "The Register",
-      "published": "Mon, 25 May 2026 11:38:00 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/05/25/digital-sovereignty-the-musical-one-engineers-bizarre-crusade-against-hyperscalers/5245148",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Anthropic to release Mythos-class models to the public",
-      "source": "The Register",
-      "published": "Mon, 25 May 2026 09:09:26 +0200",
-      "link": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Google has seriously leaned into AI enshittification lately",
-      "source": "The Register",
-      "published": "Mon, 25 May 2026 01:00:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "AI eyes scanning for bugs create a worrisome Linux security trend",
-      "source": "The Register",
-      "published": "Sat, 23 May 2026 12:59:00 +0200",
-      "link": "https://www.theregister.com/security/2026/05/23/ai-eyes-scanning-for-bugs-create-a-worrisome-linux-security-trend/5244742",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Minor edits to AI skills can make agents go rogue",
-      "source": "The Register",
-      "published": "Fri, 22 May 2026 23:37:20 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/22/minor-edits-to-ai-skills-can-make-agents-go-rogue/5245413",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Zuck defends monitoring employees to win AI race in purported leaked audio",
-      "source": "The Register",
-      "published": "Fri, 22 May 2026 22:55:41 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379",
-      "matched_keywords": [
-        "AI",
-        "model"
       ]
     }
   ]
