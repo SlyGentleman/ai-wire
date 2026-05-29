@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-05-28T11:05:01.748675+00:00",
+  "last_updated": "2026-05-29T11:05:01.996538+00:00",
   "entries": [
+    {
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "source": "Ars Technica",
+      "published": "Thu, 28 May 2026 20:29:53 +0000",
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
       "source": "Ars Technica",
@@ -29,21 +38,39 @@
       ]
     },
     {
+      "title": "Google, Canonical team up to certify Ubuntu images for TPU VMs",
+      "source": "The Register",
+      "published": "Thu, 28 May 2026 21:00:00 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/05/28/google-canonical-team-up-to-certify-ubuntu-images-for-tpu-vms/5248028",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Zig creator seeks 'uncompromising perfection' before blessing 1.0",
+      "source": "The Register",
+      "published": "Thu, 28 May 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/software/2026/05/28/zig-creator-seeks-uncompromising-perfection-before-blessing-10/5247916",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI agents get their own phone directory built atop DNS",
+      "source": "The Register",
+      "published": "Thu, 28 May 2026 15:06:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "Google engineer accused of turning Year in Search secrets into Polymarket payday",
       "source": "The Register",
       "published": "Thu, 28 May 2026 12:50:48 +0200",
       "link": "https://www.theregister.com/legal/2026/05/28/google-infosec-engineer-charged-with-insider-trading/5247745",
       "matched_keywords": [
         "Google"
-      ]
-    },
-    {
-      "title": "Arm moves into the heart of the cloud stack",
-      "source": "The Register",
-      "published": "Thu, 28 May 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/05/28/arm-moves-into-the-heart-of-the-cloud-stack/5246780",
-      "matched_keywords": [
-        "AI"
       ]
     },
     {
@@ -151,34 +178,6 @@
       "source": "The Register",
       "published": "Wed, 27 May 2026 11:15:00 +0200",
       "link": "https://www.theregister.com/databases/2026/05/27/aws-whips-out-graviton-powered-redshift-instances-claims-7x-speed-for-data-warehouse/5246148",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Explainer: Edge AI",
-      "source": "The Register",
-      "published": "Wed, 27 May 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/explainer-edge-ai/5246783",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic co-founder hallucinates ghost in the machine",
-      "source": "The Register",
-      "published": "Wed, 27 May 2026 02:38:57 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-co-founder-hallucinates-ghost-in-the-machine/5246671",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Rogue states are putting AI agents to work on sanctions evasion",
-      "source": "The Register",
-      "published": "Tue, 26 May 2026 15:44:43 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/26/rogue-states-are-putting-ai-agents-to-work-on-sanctions-evasion/5246210",
       "matched_keywords": [
         "AI"
       ]
