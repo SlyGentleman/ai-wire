@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T11:05:01.996538+00:00",
+  "last_updated": "2026-05-30T11:05:01.774758+00:00",
   "entries": [
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
@@ -38,6 +38,42 @@
       ]
     },
     {
+      "title": "Okta writes its own license to kill rogue AI agents",
+      "source": "The Register",
+      "published": "Fri, 29 May 2026 23:20:21 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/29/okta-writes-its-own-license-to-kill-rogue-ai-agents/5248766",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "QEMU mulls relaxing AI contribution ban",
+      "source": "The Register",
+      "published": "Fri, 29 May 2026 18:55:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/29/qemu-mulls-relaxing-ai-contribution-ban/5248638",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI and data sovereignty in Postgres: An answer to the datacenter energy crisis",
+      "source": "The Register",
+      "published": "Fri, 29 May 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/29/ai-and-data-sovereignty-in-postgres-an-answer-to-the-datacenter-energy-crisis/5248178",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Russia-linked threat group put ChatGPT to work from lure to payload",
+      "source": "The Register",
+      "published": "Fri, 29 May 2026 13:49:45 +0200",
+      "link": "https://www.theregister.com/research/2026/05/29/russia-linked-threat-group-put-chatgpt-to-work-from-lure-to-payload/5248368",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "Google, Canonical team up to certify Ubuntu images for TPU VMs",
       "source": "The Register",
       "published": "Thu, 28 May 2026 21:00:00 +0200",
@@ -71,6 +107,15 @@
       "link": "https://www.theregister.com/legal/2026/05/28/google-infosec-engineer-charged-with-insider-trading/5247745",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Arm moves into the heart of the cloud stack",
+      "source": "The Register",
+      "published": "Thu, 28 May 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/05/28/arm-moves-into-the-heart-of-the-cloud-stack-2/5246780",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -138,48 +183,12 @@
       ]
     },
     {
-      "title": "Researchers find all big-name bots bomb EU compliance tests",
-      "source": "The Register",
-      "published": "Wed, 27 May 2026 17:37:38 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/researchers-find-all-big-name-bots-bomb-eu-compliance-tests/5247176",
+      "title": "It\u2019s Another Pi Handheld. But it\u2019s a Really Good One",
+      "source": "Hackaday",
+      "published": "Sat, 30 May 2026 08:00:02 +0000",
+      "link": "https://hackaday.com/2026/05/30/its-another-pi-handheld-but-its-a-really-good-one/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "4 in 10 AI agents headed for demotion or the rubbish bin",
-      "source": "The Register",
-      "published": "Wed, 27 May 2026 16:32:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/4-in-10-ai-agents-headed-for-demotion-or-the-rubbish-bin/5246964",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "India's cyber agency sets clock at 12 hours to tackle exploited bugs as AI turns up the heat",
-      "source": "The Register",
-      "published": "Wed, 27 May 2026 16:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/05/27/cert-in-professes-12-hour-patching-for-ai-assisted-attacks/5247009",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Tony Blair and the Reform party both want AI in government, though they can't agree on what for",
-      "source": "The Register",
-      "published": "Wed, 27 May 2026 14:30:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/05/27/tony-blair-and-the-reform-party-both-want-ai-in-government-though-they-cant-agree-on-what-for/5246983",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AWS whips out Graviton-powered Redshift instances, claims 7x speed for data warehouse",
-      "source": "The Register",
-      "published": "Wed, 27 May 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/databases/2026/05/27/aws-whips-out-graviton-powered-redshift-instances-claims-7x-speed-for-data-warehouse/5246148",
-      "matched_keywords": [
-        "AI"
+        "Compute"
       ]
     }
   ]
