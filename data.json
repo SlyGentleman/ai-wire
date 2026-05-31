@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T11:05:01.774758+00:00",
+  "last_updated": "2026-05-31T11:05:02.076175+00:00",
   "entries": [
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
@@ -33,6 +33,15 @@
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Netflix wiz creates app to slash AI bills, then open sources it",
+      "source": "The Register",
+      "published": "Sun, 31 May 2026 09:00:00 +0200",
+      "link": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
       "matched_keywords": [
         "AI"
       ]
@@ -162,33 +171,6 @@
       "link": "https://www.theregister.com/ai-ml/2026/05/27/ai-hiring-algorithms-reject-black-asian-job-seekers-at-higher-rates/5247387",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "CrowdStrike, Google shatter Glassworm botnet",
-      "source": "The Register",
-      "published": "Wed, 27 May 2026 19:56:14 +0200",
-      "link": "https://www.theregister.com/cyber-crime/2026/05/27/crowdstrike-google-shatter-glassworm-botnet/5247337",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Bosses blinded by confidence about shadow AI use by workers",
-      "source": "The Register",
-      "published": "Wed, 27 May 2026 19:20:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/bosses-blinded-by-confidence-about-shadow-ai-use-by-workers/5247275",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "It\u2019s Another Pi Handheld. But it\u2019s a Really Good One",
-      "source": "Hackaday",
-      "published": "Sat, 30 May 2026 08:00:02 +0000",
-      "link": "https://hackaday.com/2026/05/30/its-another-pi-handheld-but-its-a-really-good-one/",
-      "matched_keywords": [
-        "Compute"
       ]
     }
   ]
