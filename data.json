@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T11:05:02.037970+00:00",
+  "last_updated": "2026-06-02T11:05:02.044277+00:00",
   "entries": [
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
@@ -35,6 +35,54 @@
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Intel and pals cram 36,864 CPU cores into a 100kW rack while chasing the agentic AI dragon",
+      "source": "The Register",
+      "published": "Tue, 02 Jun 2026 11:37:59 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/02/intel-and-pals-cram-36864-cpu-cores-into-a-100kw-rack-while-chasing-the-agentic-ai-dragon/5249917",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic, now atop the AI bubble, files for its IPO",
+      "source": "The Register",
+      "published": "Mon, 01 Jun 2026 20:12:22 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/01/anthropic-now-atop-the-ai-bubble-files-for-its-ipo/5249753",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Agentic AI arrives for Delphi and C++ Builder",
+      "source": "The Register",
+      "published": "Mon, 01 Jun 2026 17:45:00 +0200",
+      "link": "https://www.theregister.com/devops/2026/06/01/agentic-ai-arrives-for-delphi-and-c-builder/5249638",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Agent-led devs need serverless OpenSearch, Amazon claims",
+      "source": "The Register",
+      "published": "Mon, 01 Jun 2026 14:45:00 +0200",
+      "link": "https://www.theregister.com/databases/2026/06/01/agent-led-devs-need-serverless-opensearch-amazon-claims/5249033",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks",
+      "source": "The Register",
+      "published": "Mon, 01 Jun 2026 13:45:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068",
+      "matched_keywords": [
+        "Nvidia"
       ]
     },
     {
@@ -110,57 +158,11 @@
       ]
     },
     {
-      "title": "Google, Canonical team up to certify Ubuntu images for TPU VMs",
-      "source": "The Register",
-      "published": "Thu, 28 May 2026 21:00:00 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/05/28/google-canonical-team-up-to-certify-ubuntu-images-for-tpu-vms/5248028",
+      "title": "Using a Mirror to 3D Scan Both Sides of an Object at Once",
+      "source": "Hackaday",
+      "published": "Tue, 02 Jun 2026 11:00:04 +0000",
+      "link": "https://hackaday.com/2026/06/02/using-a-mirror-to-3d-scan-both-sides-of-an-object-at-once/",
       "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Zig creator seeks 'uncompromising perfection' before blessing 1.0",
-      "source": "The Register",
-      "published": "Thu, 28 May 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/software/2026/05/28/zig-creator-seeks-uncompromising-perfection-before-blessing-10/5247916",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI agents get their own phone directory built atop DNS",
-      "source": "The Register",
-      "published": "Thu, 28 May 2026 15:06:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google engineer accused of turning Year in Search secrets into Polymarket payday",
-      "source": "The Register",
-      "published": "Thu, 28 May 2026 12:50:48 +0200",
-      "link": "https://www.theregister.com/legal/2026/05/28/google-infosec-engineer-charged-with-insider-trading/5247745",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Arm moves into the heart of the cloud stack",
-      "source": "The Register",
-      "published": "Thu, 28 May 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/05/28/arm-moves-into-the-heart-of-the-cloud-stack-2/5246780",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Most generative AI and custom model projects will be a bust: Gartner",
-      "source": "The Register",
-      "published": "Thu, 28 May 2026 07:01:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/28/most-generative-ai-and-custom-model-projects-will-be-a-bust-gartner/5247633",
-      "matched_keywords": [
-        "AI",
         "model"
       ]
     }
