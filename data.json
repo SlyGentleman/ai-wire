@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T11:05:01.279552+00:00",
+  "last_updated": "2026-06-04T11:05:01.660363+00:00",
   "entries": [
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
@@ -35,6 +35,71 @@
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Commvault says it's time to rethink resiliency as AI crooks leave victims in a 'dark, dead' state",
+      "source": "The Register",
+      "published": "Thu, 04 Jun 2026 00:31:29 +0200",
+      "link": "https://www.theregister.com/security/2026/06/03/commvault-says-its-time-to-rethink-resiliency-as-ai-crooks-leave-victims-in-a-dark-dead-state/5250894",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ring gets buzzed by class action for collecting visitors' faces without consent",
+      "source": "The Register",
+      "published": "Wed, 03 Jun 2026 20:06:47 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/06/03/ring-faces-class-action-over-facial-recognition-feature/5250661",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "No longer just a Copilot, Microsoft's AI wants to take the wheel",
+      "source": "The Register",
+      "published": "Wed, 03 Jun 2026 18:49:15 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/03/no-longer-just-a-copilot-microsofts-ai-wants-to-take-the-wheel/5250718",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI agents can now manipulate your organization. Are you ready?",
+      "source": "The Register",
+      "published": "Wed, 03 Jun 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/03/ai-agents-can-now-manipulate-your-organization-are-you-ready/5250444",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft Build: Surface RTX Spark Dev Box, Coreutils for Windows, air-gapped GitHub and more",
+      "source": "The Register",
+      "published": "Wed, 03 Jun 2026 15:30:00 +0200",
+      "link": "https://www.theregister.com/os-platforms/2026/06/03/microsoft-build-surface-rtx-spark-dev-box-coreutils-for-windows-air-gapped-github-and-more/5250501",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Citation, please! UK regulator slaps Google with new publishing rules for search",
+      "source": "The Register",
+      "published": "Wed, 03 Jun 2026 14:05:00 +0200",
+      "link": "https://www.theregister.com/legal/2026/06/03/citation-please-uk-regulator-slaps-google-with-new-publishing-rules-for-search/5250544",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "UK banks offered access to OpenAI\u2019s GPT-5.5 amid exclusion from Anthropic\u2019s Glasswing expansion",
+      "source": "The Register",
+      "published": "Wed, 03 Jun 2026 13:04:00 +0200",
+      "link": "https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI"
       ]
     },
     {
@@ -138,60 +203,6 @@
       "matched_keywords": [
         "AI",
         "compute"
-      ]
-    },
-    {
-      "title": "Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks",
-      "source": "The Register",
-      "published": "Mon, 01 Jun 2026 13:45:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "I designed Microsoft's $5B EA channel architecture in 2001. The 2026 transition is missing what made it work",
-      "source": "The Register",
-      "published": "Mon, 01 Jun 2026 12:00:00 +0200",
-      "link": "https://www.theregister.com/oses/2026/06/01/i-designed-microsofts-5b-ea-channel-architecture-in-2001-the-2026-transition-is-missing-what-made-it-work/5248235",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "Memory crunch sends PC prices into double-digit climb",
-      "source": "The Register",
-      "published": "Mon, 01 Jun 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/06/01/memory-crunch-sends-pc-prices-into-double-digit-climb/5248525",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "LLMs are closer to religion than they appear. Watch out for those who like it that way",
-      "source": "The Register",
-      "published": "Mon, 01 Jun 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Netflix wiz creates app to slash AI bills, then open sources it",
-      "source": "The Register",
-      "published": "Sun, 31 May 2026 09:00:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Okta writes its own license to kill rogue AI agents",
-      "source": "The Register",
-      "published": "Fri, 29 May 2026 23:20:21 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/05/29/okta-writes-its-own-license-to-kill-rogue-ai-agents/5248766",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
