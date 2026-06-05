@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T11:05:01.660363+00:00",
+  "last_updated": "2026-06-05T11:05:01.328048+00:00",
   "entries": [
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
@@ -35,6 +35,81 @@
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Capita \u00a3370M bid 40% under UK.gov estimate for Oracle HR and finance system project, court case reveals",
+      "source": "The Register",
+      "published": "Fri, 05 Jun 2026 12:45:00 +0200",
+      "link": "https://www.theregister.com/saas/2026/06/05/capita-370m-bid-40-under-ukgov-estimate-for-oracle-hr-and-finance-system-project-court-case-reveals/5251226",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "'It would be good for the world' to slow down AI sprints, Anthropic says",
+      "source": "The Register",
+      "published": "Fri, 05 Jun 2026 01:46:31 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/05/it-would-be-good-for-the-world-to-slow-down-ai-sprints-anthropic-says/5251460",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Canada wants to make its own AI, break free from US bots",
+      "source": "The Register",
+      "published": "Thu, 04 Jun 2026 23:56:58 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/canada-wants-its-own-ai-less-reliance-on-us-tech/5251404",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI's agent chained decade-old DoS attacks to crash web servers in seconds",
+      "source": "The Register",
+      "published": "Thu, 04 Jun 2026 21:08:00 +0200",
+      "link": "https://www.theregister.com/security/2026/06/04/openais-codex-chains-decade-old-dos-techniques-into-http/2-bomb/5251377",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "AI heavyweights warn their tech could help terrorists develop bioweapons",
+      "source": "The Register",
+      "published": "Thu, 04 Jun 2026 18:48:23 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/ai-heavyweights-warn-their-tech-could-erode-barriers-to-bioweapons/5251340",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Benevolent dictator Zuck will give Meta staff 30-minute breaks from keylogging privacy assault",
+      "source": "The Register",
+      "published": "Thu, 04 Jun 2026 18:28:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/meta-to-allow-staff-breaks-from-keylogging-data-grab-scheme/5251237",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "'Please do not vibe f--- up this software': Broken backups spark AI coding row in rsync project",
+      "source": "The Register",
+      "published": "Thu, 04 Jun 2026 15:45:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/please-do-not-vibe-f-up-this-software-broken-backups-spark-ai-coding-row-in-rsync-project/5251189",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Intel's mysterious new datacenter GPU is what Nvidia's Rubin CPX nearly was",
+      "source": "The Register",
+      "published": "Thu, 04 Jun 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/intels-new-gpu-is-what-nvidias-rubin-cpx-nearly-was/5250989",
+      "matched_keywords": [
+        "GPU",
+        "Nvidia"
       ]
     },
     {
@@ -149,60 +224,12 @@
       ]
     },
     {
-      "title": "Claude celebrates Anthropic's stock market float with blockbuster ... outage",
-      "source": "The Register",
-      "published": "Tue, 02 Jun 2026 13:54:08 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/02/claude-celebrates-anthropics-stock-market-float-with-blockbuster-outage/5250071",
+      "title": "Vintage Turntable Gets Brain Transplant and Home Assistant Integration",
+      "source": "Hackaday",
+      "published": "Fri, 05 Jun 2026 08:00:30 +0000",
+      "link": "https://hackaday.com/2026/06/05/vintage-turntable-gets-brain-transplant-and-home-assistant-integration/",
       "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "HPE declares Juniper deal a 'home run' as AI and networking fuel record quarter",
-      "source": "The Register",
-      "published": "Tue, 02 Jun 2026 13:29:00 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/06/02/hpe-declares-juniper-deal-a-home-run-as-ai-and-networking-fuel-record-quarter/5250021",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Intel and pals cram 36,864 CPU cores into a 100kW rack while chasing the agentic AI dragon",
-      "source": "The Register",
-      "published": "Tue, 02 Jun 2026 11:37:59 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/02/intel-and-pals-cram-36864-cpu-cores-into-a-100kw-rack-while-chasing-the-agentic-ai-dragon/5249917",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic, now atop the AI bubble, files for its IPO",
-      "source": "The Register",
-      "published": "Mon, 01 Jun 2026 20:12:22 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/01/anthropic-now-atop-the-ai-bubble-files-for-its-ipo/5249753",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Agentic AI arrives for Delphi and C++ Builder",
-      "source": "The Register",
-      "published": "Mon, 01 Jun 2026 17:45:00 +0200",
-      "link": "https://www.theregister.com/devops/2026/06/01/agentic-ai-arrives-for-delphi-and-c-builder/5249638",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Agent-led devs need serverless OpenSearch, Amazon claims",
-      "source": "The Register",
-      "published": "Mon, 01 Jun 2026 14:45:00 +0200",
-      "link": "https://www.theregister.com/databases/2026/06/01/agent-led-devs-need-serverless-opensearch-amazon-claims/5249033",
-      "matched_keywords": [
-        "AI",
-        "compute"
+        "model"
       ]
     }
   ]
