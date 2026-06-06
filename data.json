@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T11:05:01.328048+00:00",
+  "last_updated": "2026-06-06T11:05:01.201131+00:00",
   "entries": [
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
@@ -33,6 +33,24 @@
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE showcases AI-driven project management innovations at the 14th IPMA Research Conference 2026",
+      "source": "The Register",
+      "published": "Fri, 05 Jun 2026 17:09:17 +0200",
+      "link": "https://www.theregister.com/networks/2026/06/05/zte-showcases-ai-driven-project-management-innovations-at-the-14th-ipma-research-conference-2026/5251809",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Agentic AI hype races ahead as enterprises remain stuck in pilot mode",
+      "source": "The Register",
+      "published": "Fri, 05 Jun 2026 16:29:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/05/agentic-ai-hype-races-ahead-as-enterprises-remain-stuck-in-pilot-mode/5251711",
       "matched_keywords": [
         "AI"
       ]
@@ -175,61 +193,6 @@
       "matched_keywords": [
         "Anthropic",
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Trump's AI E-(I)-O could let feds pick winners and losers",
-      "source": "The Register",
-      "published": "Tue, 02 Jun 2026 21:59:35 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/02/trump-ai-executive-order-sets-30-day-frontier-model-review/5250322",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cisco sings Mythos' praises - but doesn't say how many bugs the model uncovered",
-      "source": "The Register",
-      "published": "Tue, 02 Jun 2026 20:35:24 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/02/cisco-praises-ai-bug-hunt-wont-reveal-flaw-tally/5250291",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "Remote work \u2013 not AI \u2013 is killing job prospects for the youth",
-      "source": "The Register",
-      "published": "Tue, 02 Jun 2026 18:27:34 +0200",
-      "link": "https://www.theregister.com/cxo/2026/06/02/remote-work-not-ai-is-killing-job-prospects-for-the-youth/5250241",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Marvell enters the AI network fray with 102.4 Tbps switch silicon",
-      "source": "The Register",
-      "published": "Tue, 02 Jun 2026 17:45:00 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/02/marvell-enters-the-ai-network-fray-with-1024-tbps-switch-silicon/5250180",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "'Resistance is futile,' says Qualcomm CEO. AI agents will be become invisible, inescapable, follow you across devices",
-      "source": "The Register",
-      "published": "Tue, 02 Jun 2026 15:20:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/06/02/qualcomm-ai-agents-will-be-as-transparent-as-they-will-be-inescapable/5249894",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Vintage Turntable Gets Brain Transplant and Home Assistant Integration",
-      "source": "Hackaday",
-      "published": "Fri, 05 Jun 2026 08:00:30 +0000",
-      "link": "https://hackaday.com/2026/06/05/vintage-turntable-gets-brain-transplant-and-home-assistant-integration/",
-      "matched_keywords": [
-        "model"
       ]
     }
   ]
