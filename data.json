@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T11:05:01.201131+00:00",
+  "last_updated": "2026-06-07T11:05:01.425304+00:00",
   "entries": [
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
@@ -35,6 +35,16 @@
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "UK exam watchdog frets over smart specs turning GCSEs into Google searches",
+      "source": "The Register",
+      "published": "Sun, 07 Jun 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/06/07/uk-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
+      "matched_keywords": [
+        "AI",
+        "Google"
       ]
     },
     {
@@ -183,16 +193,6 @@
       "matched_keywords": [
         "AI",
         "Google"
-      ]
-    },
-    {
-      "title": "UK banks offered access to OpenAI\u2019s GPT-5.5 amid exclusion from Anthropic\u2019s Glasswing expansion",
-      "source": "The Register",
-      "published": "Wed, 03 Jun 2026 13:04:00 +0200",
-      "link": "https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI"
       ]
     }
   ]
