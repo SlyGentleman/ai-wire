@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T11:05:01.425304+00:00",
+  "last_updated": "2026-06-08T11:05:01.451949+00:00",
   "entries": [
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
@@ -33,6 +33,24 @@
       "source": "Ars Technica",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
       "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK's answer to AI job fears is a bot to polish your CV",
+      "source": "The Register",
+      "published": "Mon, 08 Jun 2026 12:02:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/08/uks-answer-to-ai-job-fears-is-a-bot-to-polish-your-cv/5251983",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Our systems editor flew all the way to Taiwan and still couldn't get away from AI",
+      "source": "The Register",
+      "published": "Mon, 08 Jun 2026 01:00:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/06/08/our-systems-editor-flew-all-the-way-to-taiwan-and-still-couldnt-get-away-from-ai/5251877",
       "matched_keywords": [
         "AI"
       ]
@@ -165,34 +183,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/06/03/no-longer-just-a-copilot-microsofts-ai-wants-to-take-the-wheel/5250718",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "AI agents can now manipulate your organization. Are you ready?",
-      "source": "The Register",
-      "published": "Wed, 03 Jun 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/03/ai-agents-can-now-manipulate-your-organization-are-you-ready/5250444",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft Build: Surface RTX Spark Dev Box, Coreutils for Windows, air-gapped GitHub and more",
-      "source": "The Register",
-      "published": "Wed, 03 Jun 2026 15:30:00 +0200",
-      "link": "https://www.theregister.com/os-platforms/2026/06/03/microsoft-build-surface-rtx-spark-dev-box-coreutils-for-windows-air-gapped-github-and-more/5250501",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Citation, please! UK regulator slaps Google with new publishing rules for search",
-      "source": "The Register",
-      "published": "Wed, 03 Jun 2026 14:05:00 +0200",
-      "link": "https://www.theregister.com/legal/2026/06/03/citation-please-uk-regulator-slaps-google-with-new-publishing-rules-for-search/5250544",
-      "matched_keywords": [
-        "AI",
-        "Google"
       ]
     }
   ]
