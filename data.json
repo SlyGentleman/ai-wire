@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-06-08T11:05:01.451949+00:00",
+  "last_updated": "2026-06-09T11:05:01.481058+00:00",
   "entries": [
+    {
+      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "source": "Ars Technica",
+      "published": "Mon, 08 Jun 2026 18:34:23 +0000",
+      "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
       "source": "Ars Technica",
@@ -38,10 +47,65 @@
       ]
     },
     {
-      "title": "UK's answer to AI job fears is a bot to polish your CV",
+      "title": "Uncle Sam considers buying a seat on the Titanic",
+      "source": "The Register",
+      "published": "Tue, 09 Jun 2026 03:17:57 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/09/uncle-sam-considers-buying-a-seat-on-the-titanic/5252598",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Apple courts developers with privacy and context in AI comeback bid",
+      "source": "The Register",
+      "published": "Tue, 09 Jun 2026 01:25:19 +0200",
+      "link": "https://www.theregister.com/devops/2026/06/09/apple-courts-developers-with-privacy-and-context-in-ai-comeback-bid/5252564",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "It's do or die for Apple AI",
+      "source": "The Register",
+      "published": "Mon, 08 Jun 2026 22:32:18 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/08/its-do-or-die-for-apple-ai/5252479",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Canonical sends Ubuntu into the AI agent era",
+      "source": "The Register",
+      "published": "Mon, 08 Jun 2026 18:34:02 +0200",
+      "link": "https://www.theregister.com/software/2026/06/08/canonical-sends-ubuntu-into-the-ai-agent-era/5252373",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "ZTE Demonstrates Integrated AI, Connectivity and Digital Utility Technologies at TNB Energy Transition Conference",
+      "source": "The Register",
+      "published": "Mon, 08 Jun 2026 18:25:02 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/08/zte-demonstrates-integrated-ai-connectivity-and-digital-utility-technologies-at-tnb-energy-transition-conference/5252434",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Brit fraudsters using AI to doctor 'evidence' in motor insurance claims",
+      "source": "The Register",
+      "published": "Mon, 08 Jun 2026 12:48:21 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/08/motor-insurance-frausters-abusing-ai-to-exaggerate-claims/5252024",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Department of Work and Pensions' answer to AI job fears is a bot to polish your CV",
       "source": "The Register",
       "published": "Mon, 08 Jun 2026 12:02:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/08/uks-answer-to-ai-job-fears-is-a-bot-to-polish-your-cv/5251983",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/08/department-of-work-and-pensions-answer-to-ai-job-fears-is-a-bot-to-polish-your-cv/5251983",
       "matched_keywords": [
         "AI"
       ]
@@ -56,10 +120,10 @@
       ]
     },
     {
-      "title": "UK exam watchdog frets over smart specs turning GCSEs into Google searches",
+      "title": "England's exam watchdog frets over smart specs turning GCSEs into Google searches",
       "source": "The Register",
       "published": "Sun, 07 Jun 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/06/07/uk-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
+      "link": "https://www.theregister.com/personal-tech/2026/06/07/englands-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
       "matched_keywords": [
         "AI",
         "Google"
@@ -113,76 +177,23 @@
       ]
     },
     {
-      "title": "OpenAI's agent chained decade-old DoS attacks to crash web servers in seconds",
-      "source": "The Register",
-      "published": "Thu, 04 Jun 2026 21:08:00 +0200",
-      "link": "https://www.theregister.com/security/2026/06/04/openais-codex-chains-decade-old-dos-techniques-into-http/2-bomb/5251377",
+      "title": "Pico-Driven Ultrasound Enables Scaled Acoustic Model of Home Stereo",
+      "source": "Hackaday",
+      "published": "Mon, 08 Jun 2026 23:00:09 +0000",
+      "link": "https://hackaday.com/2026/06/08/pico-driven-ultrasound-enables-scaled-acoustic-model-of-home-stereo/",
       "matched_keywords": [
-        "OpenAI"
+        "Model",
+        "model"
       ]
     },
     {
-      "title": "AI heavyweights warn their tech could help terrorists develop bioweapons",
-      "source": "The Register",
-      "published": "Thu, 04 Jun 2026 18:48:23 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/ai-heavyweights-warn-their-tech-could-erode-barriers-to-bioweapons/5251340",
+      "title": "News Sites are Blocking Internet Archive over AI Scraping Fears",
+      "source": "Hackaday",
+      "published": "Mon, 08 Jun 2026 20:00:47 +0000",
+      "link": "https://hackaday.com/2026/06/08/news-sites-are-blocking-internet-archive-over-ai-scraping-fears/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Benevolent dictator Zuck will give Meta staff 30-minute breaks from keylogging privacy assault",
-      "source": "The Register",
-      "published": "Thu, 04 Jun 2026 18:28:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/meta-to-allow-staff-breaks-from-keylogging-data-grab-scheme/5251237",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "'Please do not vibe f--- up this software': Broken backups spark AI coding row in rsync project",
-      "source": "The Register",
-      "published": "Thu, 04 Jun 2026 15:45:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/please-do-not-vibe-f-up-this-software-broken-backups-spark-ai-coding-row-in-rsync-project/5251189",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Intel's mysterious new datacenter GPU is what Nvidia's Rubin CPX nearly was",
-      "source": "The Register",
-      "published": "Thu, 04 Jun 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/intels-new-gpu-is-what-nvidias-rubin-cpx-nearly-was/5250989",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Commvault says it's time to rethink resiliency as AI crooks leave victims in a 'dark, dead' state",
-      "source": "The Register",
-      "published": "Thu, 04 Jun 2026 00:31:29 +0200",
-      "link": "https://www.theregister.com/security/2026/06/03/commvault-says-its-time-to-rethink-resiliency-as-ai-crooks-leave-victims-in-a-dark-dead-state/5250894",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ring gets buzzed by class action for collecting visitors' faces without consent",
-      "source": "The Register",
-      "published": "Wed, 03 Jun 2026 20:06:47 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/06/03/ring-faces-class-action-over-facial-recognition-feature/5250661",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "No longer just a Copilot, Microsoft's AI wants to take the wheel",
-      "source": "The Register",
-      "published": "Wed, 03 Jun 2026 18:49:15 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/03/no-longer-just-a-copilot-microsofts-ai-wants-to-take-the-wheel/5250718",
-      "matched_keywords": [
-        "AI"
+        "AI",
+        "ai"
       ]
     }
   ]
