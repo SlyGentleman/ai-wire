@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T11:05:01.481058+00:00",
+  "last_updated": "2026-06-10T11:05:01.727310+00:00",
   "entries": [
     {
       "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
@@ -38,12 +38,48 @@
       ]
     },
     {
-      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-      "source": "Ars Technica",
-      "published": "Thu, 07 May 2026 19:18:16 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "title": "AI is making Patch Tuesday (kinda) fun again",
+      "source": "The Register",
+      "published": "Wed, 10 Jun 2026 00:49:16 +0200",
+      "link": "https://www.theregister.com/patches/2026/06/09/ai-is-making-patch-tuesday-kinda-fun-again/5253225",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Anthropic spins a Fable of a tamer, safer Mythos",
+      "source": "The Register",
+      "published": "Tue, 09 Jun 2026 21:32:13 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/09/anthropic-spins-a-fable-of-a-tamer-safer-mythos/5253106",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Apple\u2019s iOS 27 goes all agentic on compromised passwords, promises to change them with one tap",
+      "source": "The Register",
+      "published": "Tue, 09 Jun 2026 18:13:31 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/06/09/apples-ios-27-goes-all-agentic-on-compromised-passwords/5252957",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Devs know AI code is riddled with holes, but ship it anyway",
+      "source": "The Register",
+      "published": "Tue, 09 Jun 2026 15:36:02 +0200",
+      "link": "https://www.theregister.com/devops/2026/06/09/devs-know-ai-code-is-riddled-with-holes-but-ship-it-anyway/5252824",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Chrome's zero-day Whac-A-Mole continues with fifth exploited bug of the year",
+      "source": "The Register",
+      "published": "Tue, 09 Jun 2026 14:15:00 +0200",
+      "link": "https://www.theregister.com/security/2026/06/09/chromes-zero-day-whac-a-mole-continues-with-fifth-exploited-bug-of-the-year/5252689",
+      "matched_keywords": [
+        "Google"
       ]
     },
     {
@@ -130,70 +166,13 @@
       ]
     },
     {
-      "title": "ZTE showcases AI-driven project management innovations at the 14th IPMA Research Conference 2026",
-      "source": "The Register",
-      "published": "Fri, 05 Jun 2026 17:09:17 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/05/zte-showcases-ai-driven-project-management-innovations-at-the-14th-ipma-research-conference-2026/5251809",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Agentic AI hype races ahead as enterprises remain stuck in pilot mode",
-      "source": "The Register",
-      "published": "Fri, 05 Jun 2026 16:29:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/05/agentic-ai-hype-races-ahead-as-enterprises-remain-stuck-in-pilot-mode/5251711",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Capita \u00a3370M bid 40% under UK.gov estimate for Oracle HR and finance system project, court case reveals",
-      "source": "The Register",
-      "published": "Fri, 05 Jun 2026 12:45:00 +0200",
-      "link": "https://www.theregister.com/saas/2026/06/05/capita-370m-bid-40-under-ukgov-estimate-for-oracle-hr-and-finance-system-project-court-case-reveals/5251226",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "'It would be good for the world' to slow down AI sprints, Anthropic says",
-      "source": "The Register",
-      "published": "Fri, 05 Jun 2026 01:46:31 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/05/it-would-be-good-for-the-world-to-slow-down-ai-sprints-anthropic-says/5251460",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Canada wants to make its own AI, break free from US bots",
-      "source": "The Register",
-      "published": "Thu, 04 Jun 2026 23:56:58 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/04/canada-wants-its-own-ai-less-reliance-on-us-tech/5251404",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Pico-Driven Ultrasound Enables Scaled Acoustic Model of Home Stereo",
+      "title": "Re-Enable all Compute Units on the PS5-like BC-250 Cryptomining Card",
       "source": "Hackaday",
-      "published": "Mon, 08 Jun 2026 23:00:09 +0000",
-      "link": "https://hackaday.com/2026/06/08/pico-driven-ultrasound-enables-scaled-acoustic-model-of-home-stereo/",
+      "published": "Wed, 10 Jun 2026 05:00:43 +0000",
+      "link": "https://hackaday.com/2026/06/09/re-enable-all-compute-units-on-the-ps5-like-bc-250-cryptomining-card/",
       "matched_keywords": [
-        "Model",
-        "model"
-      ]
-    },
-    {
-      "title": "News Sites are Blocking Internet Archive over AI Scraping Fears",
-      "source": "Hackaday",
-      "published": "Mon, 08 Jun 2026 20:00:47 +0000",
-      "link": "https://hackaday.com/2026/06/08/news-sites-are-blocking-internet-archive-over-ai-scraping-fears/",
-      "matched_keywords": [
-        "AI",
-        "ai"
+        "Compute",
+        "compute"
       ]
     }
   ]
