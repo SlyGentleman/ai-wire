@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T11:05:01.727310+00:00",
+  "last_updated": "2026-06-11T11:05:02.060347+00:00",
   "entries": [
     {
       "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
@@ -35,6 +35,51 @@
       "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Chinese agents caught rebuilding botnets and stirring the pot on AI datacenter debate",
+      "source": "The Register",
+      "published": "Thu, 11 Jun 2026 02:00:45 +0200",
+      "link": "https://www.theregister.com/security/2026/06/11/china-linked-operators-revive-botnet-stir-ai-datacenter-debate/5253873",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Memory and personalization make AI more likely to tell you what you want to hear",
+      "source": "The Register",
+      "published": "Thu, 11 Jun 2026 01:17:26 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "It blocked us at 'hello!' Anthropic Fable 5 refusing innocuous prompts",
+      "source": "The Register",
+      "published": "Wed, 10 Jun 2026 22:20:38 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/10/anthropic-claude-fable-5-refuses-innocuous-prompts/5253754",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Linux Lite 8.0 sheds Chrome, slims down, and finds its name fits better than ever",
+      "source": "The Register",
+      "published": "Wed, 10 Jun 2026 16:05:00 +0200",
+      "link": "https://www.theregister.com/os-platforms/2026/06/10/linux-lite-80-sheds-chrome-slims-down-and-finds-its-name-fits-better-than-ever/5253519",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Brit workers waste nearly six hours a week 'botsitting'",
+      "source": "The Register",
+      "published": "Wed, 10 Jun 2026 15:32:43 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/10/brit-workers-waste-nearly-six-hours-a-week-botsitting/5253483",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -129,50 +174,14 @@
       ]
     },
     {
-      "title": "Brit fraudsters using AI to doctor 'evidence' in motor insurance claims",
-      "source": "The Register",
-      "published": "Mon, 08 Jun 2026 12:48:21 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/08/motor-insurance-frausters-abusing-ai-to-exaggerate-claims/5252024",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Department of Work and Pensions' answer to AI job fears is a bot to polish your CV",
-      "source": "The Register",
-      "published": "Mon, 08 Jun 2026 12:02:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/08/department-of-work-and-pensions-answer-to-ai-job-fears-is-a-bot-to-polish-your-cv/5251983",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Our systems editor flew all the way to Taiwan and still couldn't get away from AI",
-      "source": "The Register",
-      "published": "Mon, 08 Jun 2026 01:00:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/08/our-systems-editor-flew-all-the-way-to-taiwan-and-still-couldnt-get-away-from-ai/5251877",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "England's exam watchdog frets over smart specs turning GCSEs into Google searches",
-      "source": "The Register",
-      "published": "Sun, 07 Jun 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/06/07/englands-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
+      "title": "AI The Truly Environmentally Friendly Way",
+      "source": "Hackaday",
+      "published": "Thu, 11 Jun 2026 08:00:08 +0000",
+      "link": "https://hackaday.com/2026/06/11/ai-the-truly-environmentally-friendly-way/",
       "matched_keywords": [
         "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Re-Enable all Compute Units on the PS5-like BC-250 Cryptomining Card",
-      "source": "Hackaday",
-      "published": "Wed, 10 Jun 2026 05:00:43 +0000",
-      "link": "https://hackaday.com/2026/06/09/re-enable-all-compute-units-on-the-ps5-like-bc-250-cryptomining-card/",
-      "matched_keywords": [
-        "Compute",
-        "compute"
+        "ai",
+        "llm"
       ]
     }
   ]
