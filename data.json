@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T11:05:01.597599+00:00",
+  "last_updated": "2026-06-20T11:05:01.499359+00:00",
   "entries": [
     {
       "title": "\"Dangerous\" AI models are coming no matter what",
@@ -38,12 +38,115 @@
       ]
     },
     {
-      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-      "source": "Ars Technica",
-      "published": "Tue, 26 May 2026 19:50:33 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "title": "Tensordyne makes a big bet on log math to beat Nvidia",
+      "source": "The Register",
+      "published": "Fri, 19 Jun 2026 17:30:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
+      "matched_keywords": [
+        "Nvidia",
+        "compute"
+      ]
+    },
+    {
+      "title": "Bcachefs exits experimental status in new 'performance release'",
+      "source": "The Register",
+      "published": "Fri, 19 Jun 2026 16:47:00 +0200",
+      "link": "https://www.theregister.com/software/2026/06/19/bcachefs-exits-experimental-status-in-new-performance-release/5258801",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Vercel debuts eve open source agent framework, tries to fix shadow AI with Passport",
+      "source": "The Register",
+      "published": "Fri, 19 Jun 2026 14:35:00 +0200",
+      "link": "https://www.theregister.com/devops/2026/06/19/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5258726",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Rights groups brand Home Office's AI age guesser for asylum-seekers as biased and inaccurate",
+      "source": "The Register",
+      "published": "Fri, 19 Jun 2026 13:02:46 +0200",
+      "link": "https://www.theregister.com/security/2026/06/19/rights-groups-brand-home-offices-ai-age-guesser-for-asylum-seekers-as-biased-and-inaccurate/5258892",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "2,000 retired Google Pixel phones get a second life as a private cloud",
+      "source": "The Register",
+      "published": "Thu, 18 Jun 2026 23:39:28 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035",
+      "matched_keywords": [
+        "Google",
+        "compute"
+      ]
+    },
+    {
+      "title": "Midjourney pivots from AI image generation to body scanning medical spa where patients bathe in 'golden light'",
+      "source": "The Register",
+      "published": "Thu, 18 Jun 2026 20:18:25 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/18/midjourney-pivots-from-ai-image-generation-to-body-scanning-medical-spa-where-patients-bathe-in-golden-light/5258429",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Committed skeptic finds himself warming to new Amazon AI products that actually don't suck",
+      "source": "The Register",
+      "published": "Thu, 18 Jun 2026 19:30:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/18/committed-skeptic-finds-himself-warming-to-new-amazon-ai-products-that-actually-dont-suck/5258414",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Canonical reveals Myna, its local speech-to-text app",
+      "source": "The Register",
+      "published": "Thu, 18 Jun 2026 18:04:09 +0200",
+      "link": "https://www.theregister.com/os-platforms/2026/06/18/canonical-unveils-myna-speech-to-text-app-for-ubuntu-2610/5258376",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The AI tipping point: where enterprise AI runs at scale",
+      "source": "The Register",
+      "published": "Thu, 18 Jun 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/18/the-ai-tipping-point-where-enterprise-ai-runs-at-scale/5258147",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google told researcher 'Nice catch!' Then denied bug bounty for flaw it still hasn't fixed",
+      "source": "The Register",
+      "published": "Thu, 18 Jun 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/security/2026/06/18/google-told-researcher-nice-catch-then-denied-bug-bounty-for-flaw-it-still-hasnt-fixed/5258076",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Neuromorphic computing may one day offer AI a power-saving brainwave",
+      "source": "The Register",
+      "published": "Thu, 18 Jun 2026 16:01:33 +0200",
+      "link": "https://www.theregister.com/science/2026/06/18/neuromorphic-computing-may-one-day-offer-ai-a-power-saving-brainwave/5258316",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI nose uses 'Smell Language Model' to sniff out signs of disease",
+      "source": "The Register",
+      "published": "Thu, 18 Jun 2026 14:45:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/18/ai-nose-uses-smell-language-model-to-sniff-out-signs-of-disease/5258190",
+      "matched_keywords": [
+        "AI",
+        "Model"
       ]
     },
     {
@@ -129,131 +232,12 @@
       ]
     },
     {
-      "title": "Brit competition cops order Google to make search rankings less mysterious",
-      "source": "The Register",
-      "published": "Wed, 17 Jun 2026 13:01:07 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/06/17/brit-competition-cops-order-google-to-make-search-rankings-less-mysterious/5257506",
+      "title": "How LLMs can be Assisted to do Arithmetic Correctly",
+      "source": "Hackaday",
+      "published": "Sat, 20 Jun 2026 02:00:19 +0000",
+      "link": "https://hackaday.com/2026/06/19/how-llms-can-be-assisted-to-do-arithmetic-correctly/",
       "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "System76 boss reckons he can liberate the entire PC stack... just give him another 15 years",
-      "source": "The Register",
-      "published": "Wed, 17 Jun 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/06/17/system76-boss-reckons-he-can-liberate-the-entire-pc-stack-just-give-him-another-15-years/5255258",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Developers build the best tools for developers \u2013 and are now defanging the AI menace",
-      "source": "The Register",
-      "published": "Wed, 17 Jun 2026 08:31:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/17/developers-build-the-best-tools-for-developers-and-are-now-defanging-the-ai-menace/5255316",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AMD's Mext buy shows how AI could solve the RAM shortage it created",
-      "source": "The Register",
-      "published": "Wed, 17 Jun 2026 00:09:32 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/16/amds-mext-buy-shows-how-ai-could-solve-the-ram-shortage-it-created/5257352",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The new Siri makes one of Apple's most convenient OS features a cumbersome mess",
-      "source": "The Register",
-      "published": "Tue, 16 Jun 2026 22:47:37 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/16/the-new-siri-makes-one-of-apples-most-convenient-os-features-a-cumbersome-mess/5256591",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Python dev saved from disaster by intuition... and AI",
-      "source": "The Register",
-      "published": "Tue, 16 Jun 2026 22:15:06 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuition-and-ai/5256632",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI and brain-computer interface allow speechless ALS patient to work a full-time job",
-      "source": "The Register",
-      "published": "Tue, 16 Jun 2026 20:44:12 +0200",
-      "link": "https://www.theregister.com/science/2026/06/16/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job/5256492",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "There's no such thing as an agentic CPU",
-      "source": "The Register",
-      "published": "Tue, 16 Jun 2026 18:00:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/16/there-is-no-one-cpu-to-rule-them-all-agents-otherwise/5255964",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Firefox 152 understands 'Sssh!'",
-      "source": "The Register",
-      "published": "Tue, 16 Jun 2026 17:48:31 +0200",
-      "link": "https://www.theregister.com/software/2026/06/16/firefox-152-understands-sssh/5256390",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Microsoft faces down sueball, capacity problems in series of challenges",
-      "source": "The Register",
-      "published": "Tue, 16 Jun 2026 17:01:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/16/microsoft-faces-down-sueball-capacity-problems-in-series-of-challenges/5256175",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Non-x86 servers now nearly half the market, IDC says",
-      "source": "The Register",
-      "published": "Tue, 16 Jun 2026 15:31:23 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/16/non-x86-servers-now-nearly-half-the-market-idc-says/5256248",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Qualcomm said to be circling AI chip biz Tenstorrent in $10B RISC-V power play",
-      "source": "The Register",
-      "published": "Tue, 16 Jun 2026 13:15:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/16/qualcomm-said-to-be-circling-ai-chip-biz-tenstorrent-in-10b-risc-v-power-play/5256084",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Scammers keep scoring: Brits fleeced for \u00a31.3B as Americans lose $3.5B to impersonators",
-      "source": "The Register",
-      "published": "Tue, 16 Jun 2026 13:02:31 +0200",
-      "link": "https://www.theregister.com/cyber-crime/2026/06/16/scammers-keep-scoring-brits-fleeced-for-13b-as-americans-lose-35b-to-impersonators/5256106",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE Day 2026 in Almaty Showcases Innovations Shaping Kazakhstan's Intelligent Telecom Future",
-      "source": "The Register",
-      "published": "Tue, 16 Jun 2026 12:18:45 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/16/zte-day-2026-in-almaty-showcases-innovations-shaping-kazakhstans-intelligent-telecom-future/5256016",
-      "matched_keywords": [
-        "AI"
+        "LLM"
       ]
     }
   ]
