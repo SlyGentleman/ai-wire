@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T11:05:01.499359+00:00",
+  "last_updated": "2026-06-21T11:05:02.041623+00:00",
   "entries": [
     {
       "title": "\"Dangerous\" AI models are coming no matter what",
@@ -33,6 +33,15 @@
       "source": "Ars Technica",
       "published": "Thu, 28 May 2026 20:29:53 +0000",
       "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Why Amazon hates 'human-in-the-loop' AI governance",
+      "source": "The Register",
+      "published": "Sat, 20 Jun 2026 16:25:00 +0200",
+      "link": "https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639",
       "matched_keywords": [
         "AI"
       ]
@@ -229,15 +238,6 @@
       "link": "https://www.theregister.com/security/2026/06/17/digital-sovereignty-needs-an-operating-model/5254631",
       "matched_keywords": [
         "model"
-      ]
-    },
-    {
-      "title": "How LLMs can be Assisted to do Arithmetic Correctly",
-      "source": "Hackaday",
-      "published": "Sat, 20 Jun 2026 02:00:19 +0000",
-      "link": "https://hackaday.com/2026/06/19/how-llms-can-be-assisted-to-do-arithmetic-correctly/",
-      "matched_keywords": [
-        "LLM"
       ]
     }
   ]
