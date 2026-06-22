@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T11:05:02.041623+00:00",
+  "last_updated": "2026-06-22T11:05:01.480048+00:00",
   "entries": [
     {
       "title": "\"Dangerous\" AI models are coming no matter what",
@@ -35,6 +35,15 @@
       "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Anthropic's Mythos mess just keeps getting more complicated",
+      "source": "The Register",
+      "published": "Mon, 22 Jun 2026 01:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/22/anthropics-mythos-mess-just-keeps-getting-more-complicated/5258577",
+      "matched_keywords": [
+        "Anthropic"
       ]
     },
     {
@@ -205,39 +214,12 @@
       ]
     },
     {
-      "title": "Uncle Sam bets $500M that Alphabet spinoff's AI can dig up new semiconductor materials",
-      "source": "The Register",
-      "published": "Wed, 17 Jun 2026 19:05:19 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/17/uncle-sam-bets-500m-that-alphabet-spinoffs-ai-can-dig-up-new-semiconductor-materials/5257854",
+      "title": "Brewing Espresso with Ultrasonic Assistance",
+      "source": "Hackaday",
+      "published": "Mon, 22 Jun 2026 02:00:00 +0000",
+      "link": "https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Only half of US datacenter capacity planned for 2026 is actually  under construction",
-      "source": "The Register",
-      "published": "Wed, 17 Jun 2026 17:55:16 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/06/17/only-half-of-us-datacenter-capacity-planned-for-2026-is-actually-under-construction/5257781",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AWS hypes continuous agentic DevOps, puts Kiro in your pocket",
-      "source": "The Register",
-      "published": "Wed, 17 Jun 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/devops/2026/06/17/aws-hypes-continuous-agentic-devops-puts-kiro-in-your-pocket/5256365",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Digital sovereignty needs an operating model",
-      "source": "The Register",
-      "published": "Wed, 17 Jun 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/06/17/digital-sovereignty-needs-an-operating-model/5254631",
-      "matched_keywords": [
-        "model"
       ]
     }
   ]
