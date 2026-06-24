@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-06-23T11:05:01.477853+00:00",
+  "last_updated": "2026-06-24T11:05:01.928213+00:00",
   "entries": [
+    {
+      "title": "Oracle\u2019s 21,000 layoffs help drive its debt-fueled AI investments",
+      "source": "Ars Technica",
+      "published": "Tue, 23 Jun 2026 20:17:38 +0000",
+      "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "\"Dangerous\" AI models are coming no matter what",
       "source": "Ars Technica",
@@ -24,6 +33,70 @@
       "source": "Ars Technica",
       "published": "Mon, 08 Jun 2026 18:34:23 +0000",
       "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Database vendors pitch themselves as the cure for runaway AI costs",
+      "source": "The Register",
+      "published": "Wed, 24 Jun 2026 12:15:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/24/database-vendors-pitch-themselves-as-the-cure-for-runaway-ai-costs/5260126",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Explainer: Why your legacy storage is choking your expensive GPU",
+      "source": "The Register",
+      "published": "Wed, 24 Jun 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/storage/2026/06/24/explainer-why-your-legacy-storage-is-choking-your-expensive-gpu/5260472",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "OpenAI Codex bombards SSDs with needless write operations, costing millions",
+      "source": "The Register",
+      "published": "Tue, 23 Jun 2026 22:50:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Anthropic reimagines Claude in Slack as nosy, always-on agentic AI coworker",
+      "source": "The Register",
+      "published": "Tue, 23 Jun 2026 22:16:34 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/23/anthropic-reimagines-claude-in-slack-as-nosy-always-on-agentic-ai-coworker/5260422",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Valve opens Steam Machine pre-orders with queue lottery and hefty prices amid AI squeeze",
+      "source": "The Register",
+      "published": "Tue, 23 Jun 2026 16:46:00 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/06/23/valve-opens-steam-machine-pre-orders-with-queue-lottery-and-hefty-prices-amid-ai-squeeze/5260242",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "21,000 Oracle jobs vanish amid Big Red's big bets on AI",
+      "source": "The Register",
+      "published": "Tue, 23 Jun 2026 16:12:15 +0200",
+      "link": "https://www.theregister.com/databases/2026/06/23/21000-oracle-jobs-vanish-amid-big-reds-big-bets-on-ai/5260086",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AWS debuts Lambda MicroVMs with up to 8 hours runtime",
+      "source": "The Register",
+      "published": "Tue, 23 Jun 2026 13:37:00 +0200",
+      "link": "https://www.theregister.com/devops/2026/06/23/aws-debuts-lambda-microvms-with-up-to-8-hours-runtime/5260035",
       "matched_keywords": [
         "AI"
       ]
@@ -99,63 +172,6 @@
       "source": "The Register",
       "published": "Sat, 20 Jun 2026 16:25:00 +0200",
       "link": "https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Tensordyne makes a big bet on log math to beat Nvidia",
-      "source": "The Register",
-      "published": "Fri, 19 Jun 2026 17:30:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
-      "matched_keywords": [
-        "Nvidia",
-        "compute"
-      ]
-    },
-    {
-      "title": "Bcachefs exits experimental status in new 'performance release'",
-      "source": "The Register",
-      "published": "Fri, 19 Jun 2026 16:47:00 +0200",
-      "link": "https://www.theregister.com/software/2026/06/19/bcachefs-exits-experimental-status-in-new-performance-release/5258801",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Vercel debuts eve open source agent framework, tries to fix shadow AI with Passport",
-      "source": "The Register",
-      "published": "Fri, 19 Jun 2026 14:35:00 +0200",
-      "link": "https://www.theregister.com/devops/2026/06/19/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5258726",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "Rights groups brand Home Office's AI age guesser for asylum-seekers as biased and inaccurate",
-      "source": "The Register",
-      "published": "Fri, 19 Jun 2026 13:02:46 +0200",
-      "link": "https://www.theregister.com/security/2026/06/19/rights-groups-brand-home-offices-ai-age-guesser-for-asylum-seekers-as-biased-and-inaccurate/5258892",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "2,000 retired Google Pixel phones get a second life as a private cloud",
-      "source": "The Register",
-      "published": "Thu, 18 Jun 2026 23:39:28 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035",
-      "matched_keywords": [
-        "Google",
-        "compute"
-      ]
-    },
-    {
-      "title": "Midjourney pivots from AI image generation to body scanning medical spa where patients bathe in 'golden light'",
-      "source": "The Register",
-      "published": "Thu, 18 Jun 2026 20:18:25 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/18/midjourney-pivots-from-ai-image-generation-to-body-scanning-medical-spa-where-patients-bathe-in-golden-light/5258429",
       "matched_keywords": [
         "AI"
       ]
