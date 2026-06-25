@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T11:05:01.928213+00:00",
+  "last_updated": "2026-06-25T11:05:01.368621+00:00",
   "entries": [
     {
       "title": "Oracle\u2019s 21,000 layoffs help drive its debt-fueled AI investments",
@@ -33,6 +33,106 @@
       "source": "Ars Technica",
       "published": "Mon, 08 Jun 2026 18:34:23 +0000",
       "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Elastic stretches workforce 7% thinner as AI does more of the heavy lifting",
+      "source": "The Register",
+      "published": "Thu, 25 Jun 2026 12:55:00 +0200",
+      "link": "https://www.theregister.com/databases/2026/06/25/elastic-stretches-workforce-7-thinner-as-ai-does-more-of-the-heavy-lifting/5261993",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE CDO Cui Li at MWC Shanghai 2026: unlocking value and embracing uncertainty in the AI era",
+      "source": "The Register",
+      "published": "Thu, 25 Jun 2026 12:48:42 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/zte-cdo-cui-li-at-mwc-shanghai-2026-unlocking-value-and-embracing-uncertainty-in-the-ai-era/5262045",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE showcases full-stack AI capabilities at MWC Shanghai 2026, empowering new era of token operations",
+      "source": "The Register",
+      "published": "Thu, 25 Jun 2026 12:28:04 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/zte-showcases-full-stack-ai-capabilities-at-mwc-shanghai-2026-empowering-new-era-of-token-operations/5262038",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The CPU's growing role in agentic AI infrastructure",
+      "source": "The Register",
+      "published": "Thu, 25 Jun 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/the-cpus-growing-role-in-agentic-ai-infrastructure/5261720",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Infosys boss says vibe coding is no threat because there\u2019s more to writing software than writing software",
+      "source": "The Register",
+      "published": "Thu, 25 Jun 2026 08:13:18 +0200",
+      "link": "https://www.theregister.com/channel/2026/06/25/infosys-boss-says-vibe-coding-is-no-threat-because-theres-more-to-writing-software-than-writing-software/5261900",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Companies are not looking before they're leaping into the AI playpen",
+      "source": "The Register",
+      "published": "Thu, 25 Jun 2026 00:55:50 +0200",
+      "link": "https://www.theregister.com/devops/2026/06/24/companies-are-not-looking-before-theyre-leaping-into-the-ai-playpen/5261819",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Loop engineering, latest AI buzzword, still needs humans in the loop",
+      "source": "The Register",
+      "published": "Wed, 24 Jun 2026 21:42:28 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/24/loop-engineering-latest-ai-buzzword-still-needs-humans-in-the-loop/5261735",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI gets chippy with Broadcom",
+      "source": "The Register",
+      "published": "Wed, 24 Jun 2026 20:24:07 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/24/openai-gets-chippy-with-broadcom/5261697",
+      "matched_keywords": [
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Microsoft uses AI to link two malware operations in racketeering suit",
+      "source": "The Register",
+      "published": "Wed, 24 Jun 2026 19:42:22 +0200",
+      "link": "https://www.theregister.com/security/2026/06/24/microsoft-uses-ai-to-link-two-malware-operations-in-racketeering-suit/5261656",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Boffin claims Microsoft's supposed quantum leap does not compute due to 'basic Python errors'",
+      "source": "The Register",
+      "published": "Wed, 24 Jun 2026 17:02:00 +0200",
+      "link": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "matched_keywords": [
+        "compute"
+      ]
+    },
+    {
+      "title": "AI coding agents could soon cost more than the developers using them",
+      "source": "The Register",
+      "published": "Wed, 24 Jun 2026 15:04:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/24/ai-coding-agents-could-soon-cost-more-than-the-developers-using-them/5260864",
       "matched_keywords": [
         "AI"
       ]
@@ -124,54 +224,6 @@
       "source": "The Register",
       "published": "Tue, 23 Jun 2026 02:17:13 +0200",
       "link": "https://www.theregister.com/security/2026/06/23/sniff-out-stale-ai-override-advice-with-this-open-source-cli/5259853",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI: Yoo-hoo, look over here, we do that security stuff too!",
-      "source": "The Register",
-      "published": "Tue, 23 Jun 2026 01:34:34 +0200",
-      "link": "https://www.theregister.com/security/2026/06/23/openai-yoo-hoo-look-over-here-we-do-that-security-stuff-too/5259842",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Nvidia gets all agentic about supercomputing for scientific research",
-      "source": "The Register",
-      "published": "Mon, 22 Jun 2026 20:15:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/22/nvidia-gets-all-agentic-about-supercomputing-for-scientific-research/5259553",
-      "matched_keywords": [
-        "AI",
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "The new database world according to Google: Inexact queries and AI in everything",
-      "source": "The Register",
-      "published": "Mon, 22 Jun 2026 17:40:00 +0200",
-      "link": "https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Anthropic's Mythos mess just keeps getting more complicated",
-      "source": "The Register",
-      "published": "Mon, 22 Jun 2026 01:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/22/anthropics-mythos-mess-just-keeps-getting-more-complicated/5258577",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Why Amazon hates 'human-in-the-loop' AI governance",
-      "source": "The Register",
-      "published": "Sat, 20 Jun 2026 16:25:00 +0200",
-      "link": "https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639",
       "matched_keywords": [
         "AI"
       ]
