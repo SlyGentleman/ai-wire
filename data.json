@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T11:05:01.956888+00:00",
+  "last_updated": "2026-06-29T11:05:01.831240+00:00",
   "entries": [
     {
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
@@ -93,10 +93,10 @@
       ]
     },
     {
-      "title": "Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University",
+      "title": "First AI-powered 10 Gbps all-optical campus network in Jiangsu province goes live at Southeast University in China",
       "source": "The Register",
       "published": "Fri, 26 Jun 2026 14:24:56 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/26/jiangsus-first-ai-powered-10-gbps-all-optical-campus-network-launched-at-southeast-university/5263098",
+      "link": "https://www.theregister.com/networks/2026/06/26/first-ai-powered-10-gbps-all-optical-campus-network-in-jiangsu-province-goes-live-at-southeast-university-in-china/5263098",
       "matched_keywords": [
         "AI"
       ]
@@ -264,39 +264,23 @@
       ]
     },
     {
-      "title": "ZTE CDO Cui Li at MWC Shanghai 2026: unlocking value and embracing uncertainty in the AI era",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 12:48:42 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/zte-cdo-cui-li-at-mwc-shanghai-2026-unlocking-value-and-embracing-uncertainty-in-the-ai-era/5262045",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE showcases full-stack AI capabilities at MWC Shanghai 2026, empowering new era of token operations",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 12:28:04 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/zte-showcases-full-stack-ai-capabilities-at-mwc-shanghai-2026-empowering-new-era-of-token-operations/5262038",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The CPU's growing role in agentic AI infrastructure",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/the-cpus-growing-role-in-agentic-ai-infrastructure/5261720",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "World\u2019s Biggest RC A380 is a Big Deal",
+      "title": "Reachy Mini Desktop Robot Gets All-local, Conversational AI",
       "source": "Hackaday",
-      "published": "Sun, 28 Jun 2026 05:00:50 +0000",
-      "link": "https://hackaday.com/2026/06/27/worlds-biggest-rc-a380-is-a-big-deal/",
+      "published": "Sun, 28 Jun 2026 23:00:42 +0000",
+      "link": "https://hackaday.com/2026/06/28/reachy-mini-desktop-robot-gets-all-local-conversational-ai/",
       "matched_keywords": [
-        "model"
+        "AI",
+        "ai"
+      ]
+    },
+    {
+      "title": "Teaching An AI To Play A Racing Game Via Screen Input",
+      "source": "Hackaday",
+      "published": "Sun, 28 Jun 2026 17:00:14 +0000",
+      "link": "https://hackaday.com/2026/06/28/teaching-an-ai-to-play-a-racing-game-via-screen-input/",
+      "matched_keywords": [
+        "AI",
+        "ai"
       ]
     }
   ]
