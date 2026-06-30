@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T11:05:01.831240+00:00",
+  "last_updated": "2026-06-30T11:05:02.064726+00:00",
   "entries": [
     {
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
@@ -42,6 +42,61 @@
       "source": "Ars Technica",
       "published": "Mon, 08 Jun 2026 18:34:23 +0000",
       "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "South Korea\u2019s hot new sensation is 3S+1F \u2013 a quadrillion-Won AI plan, not a band",
+      "source": "The Register",
+      "published": "Tue, 30 Jun 2026 07:06:32 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/south-koreas-hot-new-sensation-is-3s1f-a-quadrillion-won-ai-plan-not-a-band/5264175",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection",
+      "source": "The Register",
+      "published": "Tue, 30 Jun 2026 01:33:09 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/security-researchers-tricked-llms-into-giving-them-cocaine-recipes-by-abusing-role-models-for-prompt-injection/5264115",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "How the AI bubble could pop and take down the global economy, according to the BIS",
+      "source": "The Register",
+      "published": "Mon, 29 Jun 2026 19:55:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI may be good at finding security vulnerabilities, but it can't beat human stupidity",
+      "source": "The Register",
+      "published": "Mon, 29 Jun 2026 15:45:00 +0200",
+      "link": "https://www.theregister.com/security/2026/06/29/ai-may-be-good-at-finding-security-vulnerabilities-but-it-cant-beat-human-stupidity/5263262",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ZTE released all-in-one FTTR-B solution for SME AI and connectivity at MWC Shanghai 2026",
+      "source": "The Register",
+      "published": "Mon, 29 Jun 2026 12:10:41 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/29/zte-released-all-in-one-fttr-b-solution-for-sme-ai-and-connectivity-at-mwc-shanghai-2026/5263601",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "ZTE released AI FTTR solution, empowering home network security",
+      "source": "The Register",
+      "published": "Mon, 29 Jun 2026 12:04:40 +0200",
+      "link": "https://www.theregister.com/networks/2026/06/29/zte-released-ai-fttr-solution-empowering-home-network-security/5263593",
       "matched_keywords": [
         "AI"
       ]
@@ -135,152 +190,6 @@
       "link": "https://www.theregister.com/personal-tech/2026/06/26/zte-advances-ai-and-gaming-strategy-at-mwc-shanghai-2026-with-nubia-neo-5-series-leading-the-way/5263035",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Italy probes AI-fueled price hikes in Microsoft 365",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 13:25:00 +0200",
-      "link": "https://www.theregister.com/saas/2026/06/26/italy-probes-ai-fueled-price-hikes-in-microsoft-365/5262986",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE CDO Cui Li at GTI Summit 2026: Co-creating an intelligent, ubiquitous 6G future and exploring new opportunities in the mobile AI era",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 13:17:44 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/26/zte-cdo-cui-li-at-gti-summit-2026-co-creating-an-intelligent-ubiquitous-6g-future-and-exploring-new-opportunities-in-the-mobile-ai-era/5262981",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE AIR Core unleashes a new era of agent services beyond connectivity",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 12:51:44 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/26/zte-air-core-unleashes-a-new-era-of-agent-services-beyond-connectivity/5262945",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Three FOSS projects for developers, procrastinators, and media wranglers",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/software/2026/06/26/three-foss-projects-for-developers-procrastinators-and-media-wranglers/5261631",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Chinese cybersecurity company claims it\u2019s built a better-than-Mythos bug finder",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 03:49:35 +0200",
-      "link": "https://www.theregister.com/security/2026/06/26/chinese-cybersecurity-company-claims-its-built-a-better-than-mythos-bug-finder/5262642",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AI giants back non-profit to retrain workers left behind by AI",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 01:16:52 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/26/ai-giants-back-non-profit-to-retrain-workers-left-behind-by-ai/5262601",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "They've read the scroll thing! AI helps decipher ancient document charred by Vesuvius",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 23:18:47 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/06/25/theyve-read-the-scroll-thing-ai-helps-decipher-ancient-document-charred-by-vesuvius/5262525",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI says 97.9 percent of its employees are now using agents",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 21:58:23 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-979-percent-of-its-employees-are-now-using-agents/5262499",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Recovery has to keep up with AI",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/recovery-has-to-keep-up-with-ai/5260452",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Apple takes over Swift Package Index, vows to remove  GitHub dependency",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 16:01:00 +0200",
-      "link": "https://www.theregister.com/software/2026/06/25/apple-takes-over-swift-package-index-vows-to-remove-github-dependency/5262048",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "Amazon pours another $13B into India's AI and cloud infrastructure",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 15:31:00 +0200",
-      "link": "https://www.theregister.com/paas-and-iaas/2026/06/25/amazon-pours-another-13b-into-indias-ai-and-cloud-infrastructure/5262067",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Collabora releases CODE 26.04 as rivalry between FOSS cloudy office suites heats up",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 13:47:00 +0200",
-      "link": "https://www.theregister.com/applications/2026/06/25/collabora-releases-code-2604-as-rivalry-between-foss-cloudy-office-suites-heats-up/5261468",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE builds a TCO-optimal AI factory to fuel token economy",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 13:02:39 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/zte-builds-a-tco-optimal-ai-factory-to-fuel-token-economy/5262082",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Elastic stretches workforce 7% thinner as AI does more of the heavy lifting",
-      "source": "The Register",
-      "published": "Thu, 25 Jun 2026 12:55:00 +0200",
-      "link": "https://www.theregister.com/databases/2026/06/25/elastic-stretches-workforce-7-thinner-as-ai-does-more-of-the-heavy-lifting/5261993",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Reachy Mini Desktop Robot Gets All-local, Conversational AI",
-      "source": "Hackaday",
-      "published": "Sun, 28 Jun 2026 23:00:42 +0000",
-      "link": "https://hackaday.com/2026/06/28/reachy-mini-desktop-robot-gets-all-local-conversational-ai/",
-      "matched_keywords": [
-        "AI",
-        "ai"
-      ]
-    },
-    {
-      "title": "Teaching An AI To Play A Racing Game Via Screen Input",
-      "source": "Hackaday",
-      "published": "Sun, 28 Jun 2026 17:00:14 +0000",
-      "link": "https://hackaday.com/2026/06/28/teaching-an-ai-to-play-a-racing-game-via-screen-input/",
-      "matched_keywords": [
-        "AI",
-        "ai"
       ]
     }
   ]
