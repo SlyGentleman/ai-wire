@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-06-30T11:05:02.064726+00:00",
+  "last_updated": "2026-07-01T11:05:02.039043+00:00",
   "entries": [
+    {
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "source": "Ars Technica",
+      "published": "Tue, 30 Jun 2026 20:03:14 +0000",
+      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
     {
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
       "source": "Ars Technica",
@@ -38,10 +48,83 @@
       ]
     },
     {
-      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-      "source": "Ars Technica",
-      "published": "Mon, 08 Jun 2026 18:34:23 +0000",
-      "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "title": "Japan wants 10 million more robots by 2040, some providing medical care",
+      "source": "The Register",
+      "published": "Wed, 01 Jul 2026 08:08:48 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/japan-wants-10-million-more-robots-by-2040-some-providing-medical-care/5264813",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
+      "source": "The Register",
+      "published": "Tue, 30 Jun 2026 22:25:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Changing AI math could reduce the hardware burden, researchers show",
+      "source": "The Register",
+      "published": "Tue, 30 Jun 2026 22:07:30 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/changing-ai-math-could-reduce-the-hardware-burden-researchers-show/5264609",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI agents: Cause of database sprawl. And also the proposed solution",
+      "source": "The Register",
+      "published": "Tue, 30 Jun 2026 18:01:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/ai-agents-cause-of-database-sprawl-and-also-the-proposed-solution/5264430",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "What the OCI MSA didn't solve for AI scaling",
+      "source": "The Register",
+      "published": "Tue, 30 Jun 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/hpc/2026/06/30/what-the-oci-msa-didnt-solve-for-ai-scaling/5262624",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Arm64 on the desktop? It\u2019s spendy and it\u2019s sluggish",
+      "source": "The Register",
+      "published": "Tue, 30 Jun 2026 16:30:00 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/06/30/arm64-on-the-desktop-its-spendy-and-its-sluggish/5264407",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "UK regulator wants Apple and Google to let devs steer clear of app store fees",
+      "source": "The Register",
+      "published": "Tue, 30 Jun 2026 15:52:09 +0200",
+      "link": "https://www.theregister.com/applications/2026/06/30/uk-regulator-wants-apple-and-google-to-let-devs-steer-clear-of-app-store-fees/5264370",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Where there's a will, AI still has work to do",
+      "source": "The Register",
+      "published": "Tue, 30 Jun 2026 13:30:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/where-theres-a-will-ai-still-has-work-to-do/5264033",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "How is AI changing datacenter network fabrics?",
+      "source": "The Register",
+      "published": "Tue, 30 Jun 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/networks/2026/06/30/how-is-ai-changing-datacenter-network-fabrics/5262667",
       "matched_keywords": [
         "AI"
       ]
@@ -83,111 +166,10 @@
       ]
     },
     {
-      "title": "ZTE released all-in-one FTTR-B solution for SME AI and connectivity at MWC Shanghai 2026",
-      "source": "The Register",
-      "published": "Mon, 29 Jun 2026 12:10:41 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/29/zte-released-all-in-one-fttr-b-solution-for-sme-ai-and-connectivity-at-mwc-shanghai-2026/5263601",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
       "title": "ZTE released AI FTTR solution, empowering home network security",
       "source": "The Register",
       "published": "Mon, 29 Jun 2026 12:04:40 +0200",
       "link": "https://www.theregister.com/networks/2026/06/29/zte-released-ai-fttr-solution-empowering-home-network-security/5263593",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "NASA tests AI medic for astronauts too far from Earth to call a doctor",
-      "source": "The Register",
-      "published": "Sat, 27 Jun 2026 11:20:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
-      "source": "The Register",
-      "published": "Sat, 27 Jun 2026 08:59:00 +0200",
-      "link": "https://www.theregister.com/security/2026/06/27/its-looking-like-a-hot-messy-summer-for-security-teams-as-ai-finds-countless-previously-hidden-vulns/5260478",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google wants AI regulation, but on its own terms",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 21:50:06 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/26/google-wants-ai-regulation-but-on-its-own-terms/5263276",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Amazon Q flaw let booby-trapped Git repos execute code, swipe cloud creds",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 17:34:00 +0200",
-      "link": "https://www.theregister.com/cyber-crime/2026/06/26/amazon-q-flaw-let-booby-trapped-git-repos-execute-code-swipe-cloud-creds/5263202",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Notion kills its Gmail client after AI agents keep humans from troubling inbox",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 15:01:16 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/26/notion-kills-its-gmail-client-after-ai-agents-keep-humans-from-troubling-inbox/5263024",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "First AI-powered 10 Gbps all-optical campus network in Jiangsu province goes live at Southeast University in China",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 14:24:56 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/26/first-ai-powered-10-gbps-all-optical-campus-network-in-jiangsu-province-goes-live-at-southeast-university-in-china/5263098",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE and Tianyi Digital Life jointly unveil flagship home AI router",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 14:17:29 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/26/zte-and-tianyi-digital-life-jointly-unveil-flagship-home-ai-router/5263090",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE showcases practical path to Level-4 autonomous networks through agentic AI and cross-domain innovation at DTW Ignite 2026",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 14:09:35 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/26/zte-showcases-practical-path-to-level-4-autonomous-networks-through-agentic-ai-and-cross-domain-innovation-at-dtw-ignite-2026/5263080",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE presents full-stack intelligent energy storage solutions at the Smarter E Europe 2026, powering Europe's energy transition",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 13:56:10 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/26/zte-presents-full-stack-intelligent-energy-storage-solutions-at-the-smarter-e-europe-2026-powering-europes-energy-transition/5263063",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE advances \"AI and Gaming\" strategy at MWC Shanghai 2026 with nubia Neo 5 Series leading the way",
-      "source": "The Register",
-      "published": "Fri, 26 Jun 2026 13:45:29 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/06/26/zte-advances-ai-and-gaming-strategy-at-mwc-shanghai-2026-with-nubia-neo-5-series-leading-the-way/5263035",
       "matched_keywords": [
         "AI"
       ]
