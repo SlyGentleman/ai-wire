@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T11:05:02.039043+00:00",
+  "last_updated": "2026-07-03T11:05:01.794877+00:00",
   "entries": [
     {
       "title": "New attack provides one more reason why AI browsers are a bad idea",
@@ -48,6 +48,170 @@
       ]
     },
     {
+      "title": "Amazon\u2019s Mechanical Turk to stop accepting new customers \u2013 and not even AI can save it",
+      "source": "The Register",
+      "published": "Fri, 03 Jul 2026 04:22:36 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Dev says Google warned him about account hijack \u2013 then charged him $11,000 anyway",
+      "source": "The Register",
+      "published": "Fri, 03 Jul 2026 01:08:16 +0200",
+      "link": "https://www.theregister.com/cyber-crime/2026/07/03/dev-says-google-warned-him-about-account-hijack-then-charged-him-11000-anyway/5266234",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Startup sues Palo Alto Networks' Koi Security, saying an AI-hallucinated report falsely linked it to Chinese espionage",
+      "source": "The Register",
+      "published": "Fri, 03 Jul 2026 00:47:46 +0200",
+      "link": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia floats double-dipping datacenter financing scheme",
+      "source": "The Register",
+      "published": "Thu, 02 Jul 2026 23:55:31 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Companies that add more AI also add more people",
+      "source": "The Register",
+      "published": "Thu, 02 Jul 2026 22:19:33 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/companies-that-add-more-ai-also-add-more-people/5266134",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Smooth AI criminal drives 'first' end-to-end agentic ransomware attack",
+      "source": "The Register",
+      "published": "Thu, 02 Jul 2026 20:05:50 +0200",
+      "link": "https://www.theregister.com/security/2026/07/02/smooth-ai-criminal-drives-first-end-to-end-agentic-ransomware-attack/5266073",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "SoftBank enters the rent-a-GPU race as America looks for support for AI training",
+      "source": "The Register",
+      "published": "Thu, 02 Jul 2026 18:59:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/softbank-enters-the-rent-a-gpu-race-as-america-looks-for-support-for-ai-training/5265998",
+      "matched_keywords": [
+        "AI",
+        "GPU"
+      ]
+    },
+    {
+      "title": "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI",
+      "source": "The Register",
+      "published": "Thu, 02 Jul 2026 18:01:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/sap-snaps-wallet-shut-for-travel-and-hiring-so-it-can-keep-shoveling-cash-into-ai/5265875",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UN warns of need for global governance to avoid an AI-pocalypse",
+      "source": "The Register",
+      "published": "Thu, 02 Jul 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/un-warns-of-need-for-global-governance-to-avoid-an-ai-pocalypse/5265188",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore",
+      "source": "The Register",
+      "published": "Thu, 02 Jul 2026 08:02:32 +0200",
+      "link": "https://www.theregister.com/legal/2026/07/02/trouble-keeps-finding-supermicro-as-strange-server-shipments-attract-police-attention-in-taiwan-and-singapore/5265520",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "Oracle outlines all the ways it could lose the farm it bet on AI",
+      "source": "The Register",
+      "published": "Thu, 02 Jul 2026 00:23:52 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/oracle-outlines-all-the-ways-it-could-lose-the-farm-it-bet-on-ai/5265438",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic is removing its covert code for catching Chinese competitors",
+      "source": "The Register",
+      "published": "Wed, 01 Jul 2026 22:56:31 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Godot says bye bye AI, bans vibe-coded contributions",
+      "source": "The Register",
+      "published": "Wed, 01 Jul 2026 22:29:07 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Somebody told DeepSeek to build in-browser ransomware and it gleefully complied",
+      "source": "The Register",
+      "published": "Wed, 01 Jul 2026 21:57:48 +0200",
+      "link": "https://www.theregister.com/security/2026/07/01/somebody-told-deepseek-to-build-in-browser-ransomware-and-it-gleefully-complied/5265311",
+      "matched_keywords": [
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "AI search could kill the web without new quality signals and revenue models",
+      "source": "The Register",
+      "published": "Wed, 01 Jul 2026 20:13:21 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/ai-search-could-kill-the-web-without-new-quality-signals-and-revenue-models/5265269",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Red teamers turned Claude Desktop into a double agent to do their evil bidding",
+      "source": "The Register",
+      "published": "Wed, 01 Jul 2026 19:00:00 +0200",
+      "link": "https://www.theregister.com/security/2026/07/01/red-teamers-turned-claude-desktop-into-a-double-agent-to-do-their-evil-bidding/5264692",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cloudflare to block cynical search-and-scrape bots from ad-supported web pages",
+      "source": "The Register",
+      "published": "Wed, 01 Jul 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/cloudflare-to-block-cynical-search-and-scrape-bots-from-ad-supported-web-pages/5264727",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "DRAM it! Cheap PCs being priced out of existence as memory cost bites",
+      "source": "The Register",
+      "published": "Wed, 01 Jul 2026 14:30:00 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/07/01/dram-it-cheap-pcs-being-priced-out-of-existence-as-memory-cost-bites/5265010",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "Japan wants 10 million more robots by 2040, some providing medical care",
       "source": "The Register",
       "published": "Wed, 01 Jul 2026 08:08:48 +0200",
@@ -76,102 +240,13 @@
       ]
     },
     {
-      "title": "AI agents: Cause of database sprawl. And also the proposed solution",
-      "source": "The Register",
-      "published": "Tue, 30 Jun 2026 18:01:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/ai-agents-cause-of-database-sprawl-and-also-the-proposed-solution/5264430",
+      "title": "Chain-of-Thought Spoofing Targets Reasoning AI Models",
+      "source": "Hackaday",
+      "published": "Fri, 03 Jul 2026 02:00:07 +0000",
+      "link": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "What the OCI MSA didn't solve for AI scaling",
-      "source": "The Register",
-      "published": "Tue, 30 Jun 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/hpc/2026/06/30/what-the-oci-msa-didnt-solve-for-ai-scaling/5262624",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Arm64 on the desktop? It\u2019s spendy and it\u2019s sluggish",
-      "source": "The Register",
-      "published": "Tue, 30 Jun 2026 16:30:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/06/30/arm64-on-the-desktop-its-spendy-and-its-sluggish/5264407",
-      "matched_keywords": [
-        "GPU"
-      ]
-    },
-    {
-      "title": "UK regulator wants Apple and Google to let devs steer clear of app store fees",
-      "source": "The Register",
-      "published": "Tue, 30 Jun 2026 15:52:09 +0200",
-      "link": "https://www.theregister.com/applications/2026/06/30/uk-regulator-wants-apple-and-google-to-let-devs-steer-clear-of-app-store-fees/5264370",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Where there's a will, AI still has work to do",
-      "source": "The Register",
-      "published": "Tue, 30 Jun 2026 13:30:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/where-theres-a-will-ai-still-has-work-to-do/5264033",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "How is AI changing datacenter network fabrics?",
-      "source": "The Register",
-      "published": "Tue, 30 Jun 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/30/how-is-ai-changing-datacenter-network-fabrics/5262667",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "South Korea\u2019s hot new sensation is 3S+1F \u2013 a quadrillion-Won AI plan, not a band",
-      "source": "The Register",
-      "published": "Tue, 30 Jun 2026 07:06:32 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/south-koreas-hot-new-sensation-is-3s1f-a-quadrillion-won-ai-plan-not-a-band/5264175",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection",
-      "source": "The Register",
-      "published": "Tue, 30 Jun 2026 01:33:09 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/security-researchers-tricked-llms-into-giving-them-cocaine-recipes-by-abusing-role-models-for-prompt-injection/5264115",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "How the AI bubble could pop and take down the global economy, according to the BIS",
-      "source": "The Register",
-      "published": "Mon, 29 Jun 2026 19:55:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI may be good at finding security vulnerabilities, but it can't beat human stupidity",
-      "source": "The Register",
-      "published": "Mon, 29 Jun 2026 15:45:00 +0200",
-      "link": "https://www.theregister.com/security/2026/06/29/ai-may-be-good-at-finding-security-vulnerabilities-but-it-cant-beat-human-stupidity/5263262",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ZTE released AI FTTR solution, empowering home network security",
-      "source": "The Register",
-      "published": "Mon, 29 Jun 2026 12:04:40 +0200",
-      "link": "https://www.theregister.com/networks/2026/06/29/zte-released-ai-fttr-solution-empowering-home-network-security/5263593",
-      "matched_keywords": [
-        "AI"
+        "AI",
+        "ai"
       ]
     }
   ]
