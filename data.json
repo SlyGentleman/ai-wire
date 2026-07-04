@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T11:05:01.794877+00:00",
+  "last_updated": "2026-07-04T11:05:01.572471+00:00",
   "entries": [
     {
       "title": "New attack provides one more reason why AI browsers are a bad idea",
@@ -45,6 +45,24 @@
       "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
       "matched_keywords": [
         "LLM"
+      ]
+    },
+    {
+      "title": "NetNut cracked as Google and FBI target 2 million-device botnet",
+      "source": "The Register",
+      "published": "Fri, 03 Jul 2026 14:03:00 +0200",
+      "link": "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "AI bills are baffling the C-suite after shift to usage-based pricing",
+      "source": "The Register",
+      "published": "Fri, 03 Jul 2026 12:35:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -209,44 +227,6 @@
       "link": "https://www.theregister.com/personal-tech/2026/07/01/dram-it-cheap-pcs-being-priced-out-of-existence-as-memory-cost-bites/5265010",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Japan wants 10 million more robots by 2040, some providing medical care",
-      "source": "The Register",
-      "published": "Wed, 01 Jul 2026 08:08:48 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/japan-wants-10-million-more-robots-by-2040-some-providing-medical-care/5264813",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
-      "source": "The Register",
-      "published": "Tue, 30 Jun 2026 22:25:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "Changing AI math could reduce the hardware burden, researchers show",
-      "source": "The Register",
-      "published": "Tue, 30 Jun 2026 22:07:30 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/30/changing-ai-math-could-reduce-the-hardware-burden-researchers-show/5264609",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Chain-of-Thought Spoofing Targets Reasoning AI Models",
-      "source": "Hackaday",
-      "published": "Fri, 03 Jul 2026 02:00:07 +0000",
-      "link": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models/",
-      "matched_keywords": [
-        "AI",
-        "ai"
       ]
     }
   ]
