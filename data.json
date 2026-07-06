@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T11:05:01.572471+00:00",
+  "last_updated": "2026-07-06T11:05:01.337374+00:00",
   "entries": [
     {
       "title": "New attack provides one more reason why AI browsers are a bad idea",
@@ -45,6 +45,24 @@
       "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
       "matched_keywords": [
         "LLM"
+      ]
+    },
+    {
+      "title": "Insert token to continue, says AI. Yeah, about that...",
+      "source": "The Register",
+      "published": "Mon, 06 Jul 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "EY sacks staff for allegedly accessing Australian Prime Minister\u2019s bank account",
+      "source": "The Register",
+      "published": "Mon, 06 Jul 2026 03:29:57 +0200",
+      "link": "https://www.theregister.com/legal/2026/07/06/ey-sacks-staff-for-allegedly-accessing-australian-prime-ministers-bank-account/5266687",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -207,24 +225,6 @@
       "source": "The Register",
       "published": "Wed, 01 Jul 2026 19:00:00 +0200",
       "link": "https://www.theregister.com/security/2026/07/01/red-teamers-turned-claude-desktop-into-a-double-agent-to-do-their-evil-bidding/5264692",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cloudflare to block cynical search-and-scrape bots from ad-supported web pages",
-      "source": "The Register",
-      "published": "Wed, 01 Jul 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/cloudflare-to-block-cynical-search-and-scrape-bots-from-ad-supported-web-pages/5264727",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "DRAM it! Cheap PCs being priced out of existence as memory cost bites",
-      "source": "The Register",
-      "published": "Wed, 01 Jul 2026 14:30:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/07/01/dram-it-cheap-pcs-being-priced-out-of-existence-as-memory-cost-bites/5265010",
       "matched_keywords": [
         "AI"
       ]
