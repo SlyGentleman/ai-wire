@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T11:05:01.337374+00:00",
+  "last_updated": "2026-07-07T11:05:01.361093+00:00",
   "entries": [
     {
       "title": "New attack provides one more reason why AI browsers are a bad idea",
@@ -45,6 +45,90 @@
       "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
       "matched_keywords": [
         "LLM"
+      ]
+    },
+    {
+      "title": "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
+      "source": "The Register",
+      "published": "Tue, 07 Jul 2026 11:43:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/mps-tell-brit-government-sort-out-your-tech-sovereignty-or-get-left-out-in-the-cold/5267076",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Broadcom and Apple extend custom silicon pact to 2031",
+      "source": "The Register",
+      "published": "Tue, 07 Jul 2026 09:19:27 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/07/07/broadcom-and-apple-extend-custom-silicon-pact-to-2031/5267491",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Samsung\u2019s profits jump 19x in a year and you don\u2019t need AI to figure out why",
+      "source": "The Register",
+      "published": "Tue, 07 Jul 2026 07:39:13 +0200",
+      "link": "https://www.theregister.com/systems/2026/07/07/samsungs-profits-jump-19x-in-a-year-and-you-dont-need-ai-to-figure-out-why/5267467",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI startup that\u2019s never turned a profit say's it'll totally be around in 2047 to close its $19B lease",
+      "source": "The Register",
+      "published": "Tue, 07 Jul 2026 01:37:35 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/ai-startup-thats-never-turned-a-profit-says-itll-totally-be-around-in-2047-to-close-its-19b-lease/5267385",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "Model"
+      ]
+    },
+    {
+      "title": "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
+      "source": "The Register",
+      "published": "Mon, 06 Jul 2026 22:20:39 +0200",
+      "link": "https://www.theregister.com/science/2026/07/06/boffins-bet-on-quantum-computers-ai-supers-to-solve-fusion-fuel-dilemma/5267199",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Software engineers can still rake in big bucks by working for fast-growing companies",
+      "source": "The Register",
+      "published": "Mon, 06 Jul 2026 21:57:45 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/06/software-engineers-can-still-rake-in-big-bucks-by-working-for-fast-growing-companies/5267213",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Madlad builds homebrew GPU using 8,192 RISC-V chips",
+      "source": "The Register",
+      "published": "Mon, 06 Jul 2026 21:39:04 +0200",
+      "link": "https://www.theregister.com/systems/2026/07/06/madlad-builds-homebrew-gpu-using-8192-risc-v-chips/5267175",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "AMD\u2019s Ryzen AI Halo makes local AI look easy, but at $4K, easy doesn't come cheap",
+      "source": "The Register",
+      "published": "Mon, 06 Jul 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Even banks and hyperscalers are now sounding the alarm about the AI bubble",
+      "source": "The Register",
+      "published": "Mon, 06 Jul 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -146,87 +230,6 @@
       "matched_keywords": [
         "AI",
         "GPU"
-      ]
-    },
-    {
-      "title": "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI",
-      "source": "The Register",
-      "published": "Thu, 02 Jul 2026 18:01:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/sap-snaps-wallet-shut-for-travel-and-hiring-so-it-can-keep-shoveling-cash-into-ai/5265875",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UN warns of need for global governance to avoid an AI-pocalypse",
-      "source": "The Register",
-      "published": "Thu, 02 Jul 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/un-warns-of-need-for-global-governance-to-avoid-an-ai-pocalypse/5265188",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore",
-      "source": "The Register",
-      "published": "Thu, 02 Jul 2026 08:02:32 +0200",
-      "link": "https://www.theregister.com/legal/2026/07/02/trouble-keeps-finding-supermicro-as-strange-server-shipments-attract-police-attention-in-taiwan-and-singapore/5265520",
-      "matched_keywords": [
-        "GPU"
-      ]
-    },
-    {
-      "title": "Oracle outlines all the ways it could lose the farm it bet on AI",
-      "source": "The Register",
-      "published": "Thu, 02 Jul 2026 00:23:52 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/oracle-outlines-all-the-ways-it-could-lose-the-farm-it-bet-on-ai/5265438",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic is removing its covert code for catching Chinese competitors",
-      "source": "The Register",
-      "published": "Wed, 01 Jul 2026 22:56:31 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Godot says bye bye AI, bans vibe-coded contributions",
-      "source": "The Register",
-      "published": "Wed, 01 Jul 2026 22:29:07 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Somebody told DeepSeek to build in-browser ransomware and it gleefully complied",
-      "source": "The Register",
-      "published": "Wed, 01 Jul 2026 21:57:48 +0200",
-      "link": "https://www.theregister.com/security/2026/07/01/somebody-told-deepseek-to-build-in-browser-ransomware-and-it-gleefully-complied/5265311",
-      "matched_keywords": [
-        "DeepSeek"
-      ]
-    },
-    {
-      "title": "AI search could kill the web without new quality signals and revenue models",
-      "source": "The Register",
-      "published": "Wed, 01 Jul 2026 20:13:21 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/ai-search-could-kill-the-web-without-new-quality-signals-and-revenue-models/5265269",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Red teamers turned Claude Desktop into a double agent to do their evil bidding",
-      "source": "The Register",
-      "published": "Wed, 01 Jul 2026 19:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/07/01/red-teamers-turned-claude-desktop-into-a-double-agent-to-do-their-evil-bidding/5264692",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
