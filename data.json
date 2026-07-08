@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-07T11:05:01.361093+00:00",
+  "last_updated": "2026-07-08T11:05:01.268238+00:00",
   "entries": [
+    {
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "source": "Ars Technica",
+      "published": "Wed, 08 Jul 2026 07:00:51 +0000",
+      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "New attack provides one more reason why AI browsers are a bad idea",
       "source": "Ars Technica",
@@ -45,6 +54,61 @@
       "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
       "matched_keywords": [
         "LLM"
+      ]
+    },
+    {
+      "title": "AI's biggest challenge is not compute - it's data storage",
+      "source": "The Register",
+      "published": "Wed, 08 Jul 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/storage/2026/07/08/ais-biggest-challenge-is-not-compute-its-data-storage/5267453",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "AI is becoming a bargain hunter's market, with a few luxury models on top",
+      "source": "The Register",
+      "published": "Wed, 08 Jul 2026 08:30:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/ai-is-becoming-a-bargain-hunters-market-with-a-few-luxury-models-on-top/5268050",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Avoid AI atrophy \u2013 new tool promises to reverse vibe coding skills decay",
+      "source": "The Register",
+      "published": "Tue, 07 Jul 2026 22:21:35 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/avoid-ai-atrophy-new-tool-promises-to-reverse-vibe-coding-skills-decay/5267913",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "GitHub AI agent leaks private repos when asked nicely",
+      "source": "The Register",
+      "published": "Tue, 07 Jul 2026 21:49:01 +0200",
+      "link": "https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Put all your data and AI to work and get it out of silos and lakehouses",
+      "source": "The Register",
+      "published": "Tue, 07 Jul 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/put-all-your-data-and-ai-to-work-and-get-it-out-of-silos-and-lakehouses/5267171",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Enterprise AI still smarting from leaping before looking",
+      "source": "The Register",
+      "published": "Tue, 07 Jul 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/security/2026/07/07/enterprise-ai-still-smarting-from-leaping-before-looking/5267353",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -147,89 +211,6 @@
       "link": "https://www.theregister.com/legal/2026/07/06/ey-sacks-staff-for-allegedly-accessing-australian-prime-ministers-bank-account/5266687",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "NetNut cracked as Google and FBI target 2 million-device botnet",
-      "source": "The Register",
-      "published": "Fri, 03 Jul 2026 14:03:00 +0200",
-      "link": "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "AI bills are baffling the C-suite after shift to usage-based pricing",
-      "source": "The Register",
-      "published": "Fri, 03 Jul 2026 12:35:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Amazon\u2019s Mechanical Turk to stop accepting new customers \u2013 and not even AI can save it",
-      "source": "The Register",
-      "published": "Fri, 03 Jul 2026 04:22:36 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Dev says Google warned him about account hijack \u2013 then charged him $11,000 anyway",
-      "source": "The Register",
-      "published": "Fri, 03 Jul 2026 01:08:16 +0200",
-      "link": "https://www.theregister.com/cyber-crime/2026/07/03/dev-says-google-warned-him-about-account-hijack-then-charged-him-11000-anyway/5266234",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Startup sues Palo Alto Networks' Koi Security, saying an AI-hallucinated report falsely linked it to Chinese espionage",
-      "source": "The Register",
-      "published": "Fri, 03 Jul 2026 00:47:46 +0200",
-      "link": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia floats double-dipping datacenter financing scheme",
-      "source": "The Register",
-      "published": "Thu, 02 Jul 2026 23:55:31 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Companies that add more AI also add more people",
-      "source": "The Register",
-      "published": "Thu, 02 Jul 2026 22:19:33 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/companies-that-add-more-ai-also-add-more-people/5266134",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Smooth AI criminal drives 'first' end-to-end agentic ransomware attack",
-      "source": "The Register",
-      "published": "Thu, 02 Jul 2026 20:05:50 +0200",
-      "link": "https://www.theregister.com/security/2026/07/02/smooth-ai-criminal-drives-first-end-to-end-agentic-ransomware-attack/5266073",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "SoftBank enters the rent-a-GPU race as America looks for support for AI training",
-      "source": "The Register",
-      "published": "Thu, 02 Jul 2026 18:59:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/softbank-enters-the-rent-a-gpu-race-as-america-looks-for-support-for-ai-training/5265998",
-      "matched_keywords": [
-        "AI",
-        "GPU"
       ]
     }
   ]
