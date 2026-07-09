@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-08T11:05:01.268238+00:00",
+  "last_updated": "2026-07-09T11:05:01.251117+00:00",
   "entries": [
+    {
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "source": "Ars Technica",
+      "published": "Wed, 08 Jul 2026 19:01:19 +0000",
+      "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
     {
       "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
       "source": "Ars Technica",
@@ -48,12 +57,95 @@
       ]
     },
     {
-      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-      "source": "Ars Technica",
-      "published": "Tue, 16 Jun 2026 11:15:46 +0000",
-      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "title": "Singaporean sovereign wealth fund Temasek thinks AI is going to pay off",
+      "source": "The Register",
+      "published": "Thu, 09 Jul 2026 06:20:09 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/09/singaporean-sovereign-wealth-fund-temasek-thinks-ai-is-going-to-pay-off/5268953",
       "matched_keywords": [
-        "LLM"
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI makes ChatGPT better at banter",
+      "source": "The Register",
+      "published": "Thu, 09 Jul 2026 01:16:08 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/09/openai-makes-chatgpt-better-at-banter/5268841",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The AI that spawned MechaHitler and deepfake porn puts on a suit to become legal advisor and Excel jockey",
+      "source": "The Register",
+      "published": "Thu, 09 Jul 2026 00:27:15 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/the-ai-that-spawned-mechahitler-and-deepfake-porn-puts-on-a-suit-to-become-legal-advisor-and-excel-jockey/5268803",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks",
+      "source": "The Register",
+      "published": "Wed, 08 Jul 2026 22:19:03 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/intel-backed-ai-chip-startup-sambanova-breathes-new-life-into-aging-nvidia-gpus-in-latest-benchmarks/5268721",
+      "matched_keywords": [
+        "AI",
+        "Nvidia",
+        "compute"
+      ]
+    },
+    {
+      "title": "Former GitHub CEO launches competitor designed for the age of vibe coding",
+      "source": "The Register",
+      "published": "Wed, 08 Jul 2026 21:55:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/former-github-ceo-launches-competitor-designed-for-the-age-of-vibe-coding/5268694",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI job listing suggests ChatGPT could someday replace junior analysts at Goldman Sachs",
+      "source": "The Register",
+      "published": "Wed, 08 Jul 2026 21:26:07 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/openai-job-listing-suggests-chatgpt-could-someday-replace-junior-analysts-at-goldman-sachs/5268632",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "GitHub Copilot: Sorry Dave, I can't do that harmful thing - unless you ask me in code",
+      "source": "The Register",
+      "published": "Wed, 08 Jul 2026 21:19:35 +0200",
+      "link": "https://www.theregister.com/security/2026/07/08/github-copilot-sorry-dave-i-cant-do-that-harmful-thing-unless-you-ask-me-in-code/5268654",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI memory crunch takes a bite out of PC shipments",
+      "source": "The Register",
+      "published": "Wed, 08 Jul 2026 17:57:34 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/07/08/ai-memory-crunch-takes-a-bite-out-of-pc-shipments/5268593",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Tool promises to make lazy academics' AI-written papers sound more human",
+      "source": "The Register",
+      "published": "Wed, 08 Jul 2026 17:55:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/tool-promises-to-make-lazy-academics-ai-written-papers-sound-more-human/5268460",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Bug in top AI coding agents shows that Unix-era security headaches never really die",
+      "source": "The Register",
+      "published": "Wed, 08 Jul 2026 16:00:00 +0200",
+      "link": "https://www.theregister.com/security/2026/07/08/bug-in-top-ai-coding-agents-shows-that-unix-era-security-headaches-never-really-die/5268025",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -119,98 +211,6 @@
       "matched_keywords": [
         "AI",
         "Anthropic"
-      ]
-    },
-    {
-      "title": "Broadcom and Apple extend custom silicon pact to 2031",
-      "source": "The Register",
-      "published": "Tue, 07 Jul 2026 09:19:27 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/07/07/broadcom-and-apple-extend-custom-silicon-pact-to-2031/5267491",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Samsung\u2019s profits jump 19x in a year and you don\u2019t need AI to figure out why",
-      "source": "The Register",
-      "published": "Tue, 07 Jul 2026 07:39:13 +0200",
-      "link": "https://www.theregister.com/systems/2026/07/07/samsungs-profits-jump-19x-in-a-year-and-you-dont-need-ai-to-figure-out-why/5267467",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI startup that\u2019s never turned a profit say's it'll totally be around in 2047 to close its $19B lease",
-      "source": "The Register",
-      "published": "Tue, 07 Jul 2026 01:37:35 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/ai-startup-thats-never-turned-a-profit-says-itll-totally-be-around-in-2047-to-close-its-19b-lease/5267385",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "Model"
-      ]
-    },
-    {
-      "title": "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
-      "source": "The Register",
-      "published": "Mon, 06 Jul 2026 22:20:39 +0200",
-      "link": "https://www.theregister.com/science/2026/07/06/boffins-bet-on-quantum-computers-ai-supers-to-solve-fusion-fuel-dilemma/5267199",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Software engineers can still rake in big bucks by working for fast-growing companies",
-      "source": "The Register",
-      "published": "Mon, 06 Jul 2026 21:57:45 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/06/software-engineers-can-still-rake-in-big-bucks-by-working-for-fast-growing-companies/5267213",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Madlad builds homebrew GPU using 8,192 RISC-V chips",
-      "source": "The Register",
-      "published": "Mon, 06 Jul 2026 21:39:04 +0200",
-      "link": "https://www.theregister.com/systems/2026/07/06/madlad-builds-homebrew-gpu-using-8192-risc-v-chips/5267175",
-      "matched_keywords": [
-        "GPU"
-      ]
-    },
-    {
-      "title": "AMD\u2019s Ryzen AI Halo makes local AI look easy, but at $4K, easy doesn't come cheap",
-      "source": "The Register",
-      "published": "Mon, 06 Jul 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Even banks and hyperscalers are now sounding the alarm about the AI bubble",
-      "source": "The Register",
-      "published": "Mon, 06 Jul 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Insert token to continue, says AI. Yeah, about that...",
-      "source": "The Register",
-      "published": "Mon, 06 Jul 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "EY sacks staff for allegedly accessing Australian Prime Minister\u2019s bank account",
-      "source": "The Register",
-      "published": "Mon, 06 Jul 2026 03:29:57 +0200",
-      "link": "https://www.theregister.com/legal/2026/07/06/ey-sacks-staff-for-allegedly-accessing-australian-prime-ministers-bank-account/5266687",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
