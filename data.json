@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T11:05:01.251117+00:00",
+  "last_updated": "2026-07-10T11:05:01.155338+00:00",
   "entries": [
     {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
@@ -48,10 +48,55 @@
       ]
     },
     {
-      "title": "\"Dangerous\" AI models are coming no matter what",
-      "source": "Ars Technica",
-      "published": "Wed, 17 Jun 2026 17:50:46 +0000",
-      "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+      "title": "BOFH: Cross-department AI pitches are easier to swallow with a pint in hand",
+      "source": "The Register",
+      "published": "Fri, 10 Jul 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/bofh/2026/07/10/bofh-cross-department-ai-pitches-are-easier-to-swallow-with-a-pint-in-hand/5269079",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft warns customers AI will mean busier Patch Tuesdays",
+      "source": "The Register",
+      "published": "Fri, 10 Jul 2026 03:56:29 +0200",
+      "link": "https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI slop writing has taken over the internet, particularly LinkedIn and X",
+      "source": "The Register",
+      "published": "Thu, 09 Jul 2026 23:01:04 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI tool scours the web for job openings, preps your resume and cover letter",
+      "source": "The Register",
+      "published": "Thu, 09 Jul 2026 19:40:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-tool-scours-the-web-for-job-openings-preps-your-resume-and-cover-letter/5269410",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Brown says AI make student brain no work good, teacher should help use it better",
+      "source": "The Register",
+      "published": "Thu, 09 Jul 2026 16:29:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/09/brown-says-ai-make-class-dumb-teacher-must-help-use-better/5269291",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK.gov withholds \u00a310M payment from Capita over pensions project fiasco, as dispute continues",
+      "source": "The Register",
+      "published": "Thu, 09 Jul 2026 16:01:00 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/07/09/ukgov-withholds-10m-payment-from-capita-over-pensions-project-fiasco-as-dispute-continues/5269227",
       "matched_keywords": [
         "AI"
       ]
@@ -146,71 +191,6 @@
       "link": "https://www.theregister.com/security/2026/07/08/bug-in-top-ai-coding-agents-shows-that-unix-era-security-headaches-never-really-die/5268025",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "AI's biggest challenge is not compute - it's data storage",
-      "source": "The Register",
-      "published": "Wed, 08 Jul 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/storage/2026/07/08/ais-biggest-challenge-is-not-compute-its-data-storage/5267453",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "AI is becoming a bargain hunter's market, with a few luxury models on top",
-      "source": "The Register",
-      "published": "Wed, 08 Jul 2026 08:30:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/ai-is-becoming-a-bargain-hunters-market-with-a-few-luxury-models-on-top/5268050",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Avoid AI atrophy \u2013 new tool promises to reverse vibe coding skills decay",
-      "source": "The Register",
-      "published": "Tue, 07 Jul 2026 22:21:35 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/avoid-ai-atrophy-new-tool-promises-to-reverse-vibe-coding-skills-decay/5267913",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "GitHub AI agent leaks private repos when asked nicely",
-      "source": "The Register",
-      "published": "Tue, 07 Jul 2026 21:49:01 +0200",
-      "link": "https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Put all your data and AI to work and get it out of silos and lakehouses",
-      "source": "The Register",
-      "published": "Tue, 07 Jul 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/put-all-your-data-and-ai-to-work-and-get-it-out-of-silos-and-lakehouses/5267171",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Enterprise AI still smarting from leaping before looking",
-      "source": "The Register",
-      "published": "Tue, 07 Jul 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/07/07/enterprise-ai-still-smarting-from-leaping-before-looking/5267353",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
-      "source": "The Register",
-      "published": "Tue, 07 Jul 2026 11:43:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/mps-tell-brit-government-sort-out-your-tech-sovereignty-or-get-left-out-in-the-cold/5267076",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
       ]
     }
   ]
