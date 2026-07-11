@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T11:05:01.155338+00:00",
+  "last_updated": "2026-07-11T11:05:01.678067+00:00",
   "entries": [
     {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
@@ -43,6 +43,25 @@
       "source": "Ars Technica",
       "published": "Tue, 23 Jun 2026 20:17:38 +0000",
       "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI's Atlas browser doesn't make it to its first birthday",
+      "source": "The Register",
+      "published": "Fri, 10 Jul 2026 16:59:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/10/openais-atlas-browser-doesnt-make-it-to-its-first-birthday/5269818",
+      "matched_keywords": [
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
+      "source": "The Register",
+      "published": "Fri, 10 Jul 2026 16:01:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/07/10/ai-driven-datacenter-builds-drive-microsofts-emissions-up-a-quarter-in-one-year/5269924",
       "matched_keywords": [
         "AI"
       ]
@@ -180,15 +199,6 @@
       "source": "The Register",
       "published": "Wed, 08 Jul 2026 17:55:00 +0200",
       "link": "https://www.theregister.com/ai-and-ml/2026/07/08/tool-promises-to-make-lazy-academics-ai-written-papers-sound-more-human/5268460",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Bug in top AI coding agents shows that Unix-era security headaches never really die",
-      "source": "The Register",
-      "published": "Wed, 08 Jul 2026 16:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/07/08/bug-in-top-ai-coding-agents-shows-that-unix-era-security-headaches-never-really-die/5268025",
       "matched_keywords": [
         "AI"
       ]
