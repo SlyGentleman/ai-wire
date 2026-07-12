@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T11:05:01.678067+00:00",
+  "last_updated": "2026-07-12T11:05:01.289386+00:00",
   "entries": [
     {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
@@ -45,6 +45,35 @@
       "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Memory makers are slaves to the boom-bust rollercoaster, and the AI boom is the wildest ride of all",
+      "source": "The Register",
+      "published": "Sun, 12 Jul 2026 13:04:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/12/memory-makers-are-slaves-to-the-boom-bust-rollercoaster-and-the-ai-boom-is-the-wildest-ride-of-all/5269549",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "It's an AI web, and we're just rats in the walls",
+      "source": "The Register",
+      "published": "Sun, 12 Jul 2026 09:34:00 +0200",
+      "link": "https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI customers are coming around to the idea that small is beautiful",
+      "source": "The Register",
+      "published": "Sat, 11 Jul 2026 16:11:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
       ]
     },
     {
@@ -181,24 +210,6 @@
       "source": "The Register",
       "published": "Wed, 08 Jul 2026 21:19:35 +0200",
       "link": "https://www.theregister.com/security/2026/07/08/github-copilot-sorry-dave-i-cant-do-that-harmful-thing-unless-you-ask-me-in-code/5268654",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI memory crunch takes a bite out of PC shipments",
-      "source": "The Register",
-      "published": "Wed, 08 Jul 2026 17:57:34 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/07/08/ai-memory-crunch-takes-a-bite-out-of-pc-shipments/5268593",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Tool promises to make lazy academics' AI-written papers sound more human",
-      "source": "The Register",
-      "published": "Wed, 08 Jul 2026 17:55:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/tool-promises-to-make-lazy-academics-ai-written-papers-sound-more-human/5268460",
       "matched_keywords": [
         "AI"
       ]
