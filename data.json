@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T11:05:01.289386+00:00",
+  "last_updated": "2026-07-13T11:05:01.694795+00:00",
   "entries": [
     {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
@@ -43,6 +43,42 @@
       "source": "Ars Technica",
       "published": "Tue, 23 Jun 2026 20:17:38 +0000",
       "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI needs a home, not a hotel",
+      "source": "The Register",
+      "published": "Mon, 13 Jul 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/ai-needs-a-home-not-a-hotel/5270167",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Apple accuses OpenAI of stealing its core tech secrets",
+      "source": "The Register",
+      "published": "Mon, 13 Jul 2026 09:31:00 +0200",
+      "link": "https://www.theregister.com/legal/2026/07/13/apple-accuses-openai-of-stealing-its-core-tech-secrets/5270256",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Meta admits its first \u2018superintelligence\u2019 was too stupid to survive for three days",
+      "source": "The Register",
+      "published": "Mon, 13 Jul 2026 05:44:28 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/meta-admits-its-first-superintelligence-was-too-stupid-to-survive-for-three-days/5270234",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Lenovo denies using banned Chinese SSDs where they're not allowed",
+      "source": "The Register",
+      "published": "Mon, 13 Jul 2026 03:14:31 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/07/13/lenovo-denies-using-banned-chinese-ssds-where-theyre-not-allowed/5270212",
       "matched_keywords": [
         "AI"
       ]
@@ -159,59 +195,25 @@
       ]
     },
     {
-      "title": "OpenAI makes ChatGPT better at banter",
-      "source": "The Register",
-      "published": "Thu, 09 Jul 2026 01:16:08 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/09/openai-makes-chatgpt-better-at-banter/5268841",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The AI that spawned MechaHitler and deepfake porn puts on a suit to become legal advisor and Excel jockey",
-      "source": "The Register",
-      "published": "Thu, 09 Jul 2026 00:27:15 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/the-ai-that-spawned-mechahitler-and-deepfake-porn-puts-on-a-suit-to-become-legal-advisor-and-excel-jockey/5268803",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks",
-      "source": "The Register",
-      "published": "Wed, 08 Jul 2026 22:19:03 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/intel-backed-ai-chip-startup-sambanova-breathes-new-life-into-aging-nvidia-gpus-in-latest-benchmarks/5268721",
+      "title": "Musing on AI from 1964",
+      "source": "Hackaday",
+      "published": "Mon, 13 Jul 2026 02:00:37 +0000",
+      "link": "https://hackaday.com/2026/07/12/musing-on-ai-from-1964/",
       "matched_keywords": [
         "AI",
+        "ai"
+      ]
+    },
+    {
+      "title": "Porting the Nvidia GPU Driver to Haiku for 3D Acceleration",
+      "source": "Hackaday",
+      "published": "Sun, 12 Jul 2026 20:00:07 +0000",
+      "link": "https://hackaday.com/2026/07/12/porting-the-nvidia-gpu-driver-to-haiku-for-3d-acceleration/",
+      "matched_keywords": [
+        "GPU",
         "Nvidia",
-        "compute"
-      ]
-    },
-    {
-      "title": "Former GitHub CEO launches competitor designed for the age of vibe coding",
-      "source": "The Register",
-      "published": "Wed, 08 Jul 2026 21:55:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/former-github-ceo-launches-competitor-designed-for-the-age-of-vibe-coding/5268694",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI job listing suggests ChatGPT could someday replace junior analysts at Goldman Sachs",
-      "source": "The Register",
-      "published": "Wed, 08 Jul 2026 21:26:07 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/openai-job-listing-suggests-chatgpt-could-someday-replace-junior-analysts-at-goldman-sachs/5268632",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "GitHub Copilot: Sorry Dave, I can't do that harmful thing - unless you ask me in code",
-      "source": "The Register",
-      "published": "Wed, 08 Jul 2026 21:19:35 +0200",
-      "link": "https://www.theregister.com/security/2026/07/08/github-copilot-sorry-dave-i-cant-do-that-harmful-thing-unless-you-ask-me-in-code/5268654",
-      "matched_keywords": [
-        "AI"
+        "gpu",
+        "nvidia"
       ]
     }
   ]
