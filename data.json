@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T11:05:01.694795+00:00",
+  "last_updated": "2026-07-14T11:05:01.518409+00:00",
   "entries": [
     {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
@@ -43,6 +43,81 @@
       "source": "Ars Technica",
       "published": "Tue, 23 Jun 2026 20:17:38 +0000",
       "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic's extravagant tokenizer complicates AI pricing",
+      "source": "The Register",
+      "published": "Tue, 14 Jul 2026 08:28:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/anthropics-extravagant-tokenizer-complicates-ai-pricing/5270792",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "India\u2019s tech services giant HCL is getting into the AI datacenter business",
+      "source": "The Register",
+      "published": "Tue, 14 Jul 2026 04:18:45 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/07/14/indias-tech-services-giant-hcl-is-getting-into-the-ai-datacenter-business/5270827",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Gobi X: Creating more energy for AI, not taking it from society",
+      "source": "The Register",
+      "published": "Tue, 14 Jul 2026 03:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/gobi-x-creating-more-energy-for-ai-not-taking-it-from-society/5270590",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Zuck's AI ambitions put Meta on course to become America's next big cloud provider",
+      "source": "The Register",
+      "published": "Tue, 14 Jul 2026 01:37:22 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/zucks-ai-ambitions-put-meta-on-course-to-become-americas-next-big-cloud-provider/5270758",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "The price is wrong: AI cost calculation has to consider task completion rates, not just token costs",
+      "source": "The Register",
+      "published": "Mon, 13 Jul 2026 21:26:24 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/the-price-is-wrong-ai-cost-calculation-has-to-consider-task-completion-rates-not-just-token-costs/5270683",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
+      "source": "The Register",
+      "published": "Mon, 13 Jul 2026 19:20:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "SREs to AI agents: Prove yourself before you touch production",
+      "source": "The Register",
+      "published": "Mon, 13 Jul 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/sres-to-ai-agents-prove-yourself-before-you-touch-production/5264658",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Sticker shock has execs rethinking this whole AI thing",
+      "source": "The Register",
+      "published": "Mon, 13 Jul 2026 16:16:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/sticker-shock-has-execs-rethinking-this-whole-ai-thing-1/5270073",
       "matched_keywords": [
         "AI"
       ]
@@ -138,82 +213,6 @@
       "link": "https://www.theregister.com/bofh/2026/07/10/bofh-cross-department-ai-pitches-are-easier-to-swallow-with-a-pint-in-hand/5269079",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Microsoft warns customers AI will mean busier Patch Tuesdays",
-      "source": "The Register",
-      "published": "Fri, 10 Jul 2026 03:56:29 +0200",
-      "link": "https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI slop writing has taken over the internet, particularly LinkedIn and X",
-      "source": "The Register",
-      "published": "Thu, 09 Jul 2026 23:01:04 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI tool scours the web for job openings, preps your resume and cover letter",
-      "source": "The Register",
-      "published": "Thu, 09 Jul 2026 19:40:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-tool-scours-the-web-for-job-openings-preps-your-resume-and-cover-letter/5269410",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Brown says AI make student brain no work good, teacher should help use it better",
-      "source": "The Register",
-      "published": "Thu, 09 Jul 2026 16:29:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/09/brown-says-ai-make-class-dumb-teacher-must-help-use-better/5269291",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK.gov withholds \u00a310M payment from Capita over pensions project fiasco, as dispute continues",
-      "source": "The Register",
-      "published": "Thu, 09 Jul 2026 16:01:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/07/09/ukgov-withholds-10m-payment-from-capita-over-pensions-project-fiasco-as-dispute-continues/5269227",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Singaporean sovereign wealth fund Temasek thinks AI is going to pay off",
-      "source": "The Register",
-      "published": "Thu, 09 Jul 2026 06:20:09 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/09/singaporean-sovereign-wealth-fund-temasek-thinks-ai-is-going-to-pay-off/5268953",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Musing on AI from 1964",
-      "source": "Hackaday",
-      "published": "Mon, 13 Jul 2026 02:00:37 +0000",
-      "link": "https://hackaday.com/2026/07/12/musing-on-ai-from-1964/",
-      "matched_keywords": [
-        "AI",
-        "ai"
-      ]
-    },
-    {
-      "title": "Porting the Nvidia GPU Driver to Haiku for 3D Acceleration",
-      "source": "Hackaday",
-      "published": "Sun, 12 Jul 2026 20:00:07 +0000",
-      "link": "https://hackaday.com/2026/07/12/porting-the-nvidia-gpu-driver-to-haiku-for-3d-acceleration/",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia",
-        "gpu",
-        "nvidia"
       ]
     }
   ]
