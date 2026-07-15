@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T11:05:01.518409+00:00",
+  "last_updated": "2026-07-15T11:05:02.038745+00:00",
   "entries": [
     {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
@@ -43,6 +43,97 @@
       "source": "Ars Technica",
       "published": "Tue, 23 Jun 2026 20:17:38 +0000",
       "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The Star Wars cantina scene shows we need a new hope for the agentic web",
+      "source": "The Register",
+      "published": "Wed, 15 Jul 2026 09:29:00 +0200",
+      "link": "https://www.theregister.com/columnists/2026/07/15/the-star-wars-cantina-scene-shows-we-need-a-new-hope-for-the-agentic-web/5270946",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "At last, a good reason to buy an AI PC: Reining in runaway token bills",
+      "source": "The Register",
+      "published": "Wed, 15 Jul 2026 08:26:38 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "South Korea to launch universal basic AI chatbot",
+      "source": "The Register",
+      "published": "Wed, 15 Jul 2026 06:54:11 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/07/15/south-korea-to-launch-universal-basic-ai-chatbot/5271566",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Australia demands AI companies must produce more energy than they consume, stop \u2018theft\u2019 of content",
+      "source": "The Register",
+      "published": "Wed, 15 Jul 2026 05:40:17 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google Cloud's VMware service loses resilience due to a dud update",
+      "source": "The Register",
+      "published": "Wed, 15 Jul 2026 02:16:21 +0200",
+      "link": "https://www.theregister.com/virtualization/2026/07/15/google-clouds-vmware-service-loses-resilience-due-to-a-dud-update/5271511",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark",
+      "source": "The Register",
+      "published": "Wed, 15 Jul 2026 01:00:33 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/15/openai-hides-codex-agent-instructions-behind-encryption-leaving-developers-in-the-dark/5271484",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "If you want Claude to speak nicely to you, try Hindi or Arabic",
+      "source": "The Register",
+      "published": "Tue, 14 Jul 2026 21:39:50 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/if-you-want-claude-to-speak-nicely-to-you-try-hindi-or-arabic/5271409",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "DeepMind bigbrain calls for America to set AI standards before it's too late",
+      "source": "The Register",
+      "published": "Tue, 14 Jul 2026 18:44:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/deepmind-bigbrain-calls-for-america-to-set-ai-standards-before-its-too-late/5271343",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "IBM's mainframe sales get mugged by AI hardware panic, stock sheds more than a quarter of its value",
+      "source": "The Register",
+      "published": "Tue, 14 Jul 2026 16:16:36 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/07/14/ibms-mainframe-sales-get-mugged-by-ai-hardware-panic-stock-sheds-more-than-a-quarter-of-its-value/5271230",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "'The bots are alive!' Jailbroken Gemini spun up new C2 server for Russian fraudster in just 6 minutes",
+      "source": "The Register",
+      "published": "Tue, 14 Jul 2026 14:15:00 +0200",
+      "link": "https://www.theregister.com/research/2026/07/14/the-bots-are-alive-jailbroken-gemini-spun-up-new-c2-server-for-russian-fraudster-in-just-6-minutes/5270131",
       "matched_keywords": [
         "AI"
       ]
@@ -118,99 +209,6 @@
       "source": "The Register",
       "published": "Mon, 13 Jul 2026 16:16:00 +0200",
       "link": "https://www.theregister.com/ai-and-ml/2026/07/13/sticker-shock-has-execs-rethinking-this-whole-ai-thing-1/5270073",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI needs a home, not a hotel",
-      "source": "The Register",
-      "published": "Mon, 13 Jul 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/ai-needs-a-home-not-a-hotel/5270167",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Apple accuses OpenAI of stealing its core tech secrets",
-      "source": "The Register",
-      "published": "Mon, 13 Jul 2026 09:31:00 +0200",
-      "link": "https://www.theregister.com/legal/2026/07/13/apple-accuses-openai-of-stealing-its-core-tech-secrets/5270256",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Meta admits its first \u2018superintelligence\u2019 was too stupid to survive for three days",
-      "source": "The Register",
-      "published": "Mon, 13 Jul 2026 05:44:28 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/meta-admits-its-first-superintelligence-was-too-stupid-to-survive-for-three-days/5270234",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Lenovo denies using banned Chinese SSDs where they're not allowed",
-      "source": "The Register",
-      "published": "Mon, 13 Jul 2026 03:14:31 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/07/13/lenovo-denies-using-banned-chinese-ssds-where-theyre-not-allowed/5270212",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Memory makers are slaves to the boom-bust rollercoaster, and the AI boom is the wildest ride of all",
-      "source": "The Register",
-      "published": "Sun, 12 Jul 2026 13:04:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/12/memory-makers-are-slaves-to-the-boom-bust-rollercoaster-and-the-ai-boom-is-the-wildest-ride-of-all/5269549",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "It's an AI web, and we're just rats in the walls",
-      "source": "The Register",
-      "published": "Sun, 12 Jul 2026 09:34:00 +0200",
-      "link": "https://www.theregister.com/columnists/2026/07/12/its-an-ai-web-and-were-just-rats-in-the-walls/5269760",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI customers are coming around to the idea that small is beautiful",
-      "source": "The Register",
-      "published": "Sat, 11 Jul 2026 16:11:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI's Atlas browser doesn't make it to its first birthday",
-      "source": "The Register",
-      "published": "Fri, 10 Jul 2026 16:59:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/10/openais-atlas-browser-doesnt-make-it-to-its-first-birthday/5269818",
-      "matched_keywords": [
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
-      "source": "The Register",
-      "published": "Fri, 10 Jul 2026 16:01:00 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/07/10/ai-driven-datacenter-builds-drive-microsofts-emissions-up-a-quarter-in-one-year/5269924",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "BOFH: Cross-department AI pitches are easier to swallow with a pint in hand",
-      "source": "The Register",
-      "published": "Fri, 10 Jul 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/bofh/2026/07/10/bofh-cross-department-ai-pitches-are-easier-to-swallow-with-a-pint-in-hand/5269079",
       "matched_keywords": [
         "AI"
       ]
