@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T11:05:02.038745+00:00",
+  "last_updated": "2026-07-16T11:05:01.202089+00:00",
   "entries": [
     {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
@@ -43,6 +43,44 @@
       "source": "Ars Technica",
       "published": "Tue, 23 Jun 2026 20:17:38 +0000",
       "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
+      "source": "The Register",
+      "published": "Thu, 16 Jul 2026 02:14:41 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/former-openai-cto-does-what-altman-wont-releases-a-frontier-ai-model-thats-actually-open/5272177",
+      "matched_keywords": [
+        "AI",
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design",
+      "source": "The Register",
+      "published": "Thu, 16 Jul 2026 00:30:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/15/cadences-aurastack-agent-melds-ai-with-hpc-to-speed-pcb-advanced-packaging-design/5271465",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Prominent Haskell defector pilloried by anti-AI purists",
+      "source": "The Register",
+      "published": "Wed, 15 Jul 2026 22:37:46 +0200",
+      "link": "https://www.theregister.com/devops/2026/07/15/prominent-haskell-defector-pilloried-by-anti-ai-purists/5272124",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Linus Torvalds tells AI haters to fork off",
+      "source": "The Register",
+      "published": "Wed, 15 Jul 2026 18:54:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894",
       "matched_keywords": [
         "AI"
       ]
@@ -149,68 +187,12 @@
       ]
     },
     {
-      "title": "India\u2019s tech services giant HCL is getting into the AI datacenter business",
-      "source": "The Register",
-      "published": "Tue, 14 Jul 2026 04:18:45 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/07/14/indias-tech-services-giant-hcl-is-getting-into-the-ai-datacenter-business/5270827",
+      "title": "Cut And Fold Your 3D Printer\u2019s Next Cover",
+      "source": "Hackaday",
+      "published": "Wed, 15 Jul 2026 20:00:09 +0000",
+      "link": "https://hackaday.com/2026/07/15/cut-and-fold-your-3d-printers-next-cover/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Gobi X: Creating more energy for AI, not taking it from society",
-      "source": "The Register",
-      "published": "Tue, 14 Jul 2026 03:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/gobi-x-creating-more-energy-for-ai-not-taking-it-from-society/5270590",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Zuck's AI ambitions put Meta on course to become America's next big cloud provider",
-      "source": "The Register",
-      "published": "Tue, 14 Jul 2026 01:37:22 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/zucks-ai-ambitions-put-meta-on-course-to-become-americas-next-big-cloud-provider/5270758",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "The price is wrong: AI cost calculation has to consider task completion rates, not just token costs",
-      "source": "The Register",
-      "published": "Mon, 13 Jul 2026 21:26:24 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/the-price-is-wrong-ai-cost-calculation-has-to-consider-task-completion-rates-not-just-token-costs/5270683",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
-      "source": "The Register",
-      "published": "Mon, 13 Jul 2026 19:20:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "SREs to AI agents: Prove yourself before you touch production",
-      "source": "The Register",
-      "published": "Mon, 13 Jul 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/sres-to-ai-agents-prove-yourself-before-you-touch-production/5264658",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Sticker shock has execs rethinking this whole AI thing",
-      "source": "The Register",
-      "published": "Mon, 13 Jul 2026 16:16:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/13/sticker-shock-has-execs-rethinking-this-whole-ai-thing-1/5270073",
-      "matched_keywords": [
-        "AI"
+        "model"
       ]
     }
   ]
