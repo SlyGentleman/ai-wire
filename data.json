@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-16T11:05:01.202089+00:00",
+  "last_updated": "2026-07-17T11:05:01.424369+00:00",
   "entries": [
+    {
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "source": "Ars Technica",
+      "published": "Thu, 16 Jul 2026 15:48:21 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
       "source": "Ars Technica",
@@ -39,16 +48,103 @@
       ]
     },
     {
-      "title": "Oracle\u2019s 21,000 layoffs help drive its debt-fueled AI investments",
-      "source": "Ars Technica",
-      "published": "Tue, 23 Jun 2026 20:17:38 +0000",
-      "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "title": "Google fixing Android lock screen bug that lets Gemini send SMS without a PIN",
+      "source": "The Register",
+      "published": "Fri, 17 Jul 2026 11:15:00 +0200",
+      "link": "https://www.theregister.com/security/2026/07/17/google-fixing-android-lock-screen-bug-that-lets-gemini-send-sms-without-a-pin/5273027",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "How Gartner can help turn your AI vision into business reality",
+      "source": "The Register",
+      "published": "Fri, 17 Jul 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/17/how-gartner-can-help-turn-your-ai-vision-into-business-reality/5270873",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
+      "title": "South Korea making its own security-centric AI model",
+      "source": "The Register",
+      "published": "Fri, 17 Jul 2026 03:56:40 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/17/south-korea-making-its-own-security-centric-ai-model/5274034",
+      "matched_keywords": [
+        "AI",
+        "LLM",
+        "model"
+      ]
+    },
+    {
+      "title": "OpenAI admits GPT-5.6 occasionally deletes files \u2013 but it's an 'honest mistake'",
+      "source": "The Register",
+      "published": "Fri, 17 Jul 2026 00:50:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/openai-admits-gpt-56-occasionally-deletes-files-but-its-an-honest-mistake/5274008",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Researcher poisons open-weight AI model for under $100",
+      "source": "The Register",
+      "published": "Thu, 16 Jul 2026 22:25:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-open-weight-ai-model-for-under-100/5273880",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "EU forces Google to share its toys with the other AI and search kids",
+      "source": "The Register",
+      "published": "Thu, 16 Jul 2026 18:48:41 +0200",
+      "link": "https://www.theregister.com/software/2026/07/16/eu-forces-google-to-share-its-toys-with-the-other-ai-and-search-kids/5273819",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "AI vendors have found someone to pay their infrastructure bills: You",
+      "source": "The Register",
+      "published": "Thu, 16 Jul 2026 18:21:00 +0200",
+      "link": "https://www.theregister.com/software/2026/07/16/ai-vendors-have-found-someone-to-pay-their-infrastructure-bills-you/5273712",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Kick your mouse out of the house with this AI-assisted keyboard utility",
+      "source": "The Register",
+      "published": "Thu, 16 Jul 2026 17:46:12 +0200",
+      "link": "https://www.theregister.com/software/2026/07/16/kick-your-mouse-out-of-the-house-with-this-ai-assisted-keyboard-utility/5271938",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "AI power binge delivers best half since 2022 for climate tech venture funding",
+      "source": "The Register",
+      "published": "Thu, 16 Jul 2026 14:05:25 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/ai-power-binge-delivers-best-half-since-2022-for-climate-tech-venture-funding/5272401",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "SpaceX open sources Grok Build in same week company was found beaming users' repos to the cloud",
+      "source": "The Register",
+      "published": "Thu, 16 Jul 2026 13:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/spacex-open-sources-grok-build-after-data-retention-furore/5272333",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Former OpenAI CTO does what Altman won't, releases a frontier AI model that's actually open",
       "source": "The Register",
       "published": "Thu, 16 Jul 2026 02:14:41 +0200",
       "link": "https://www.theregister.com/ai-and-ml/2026/07/16/former-openai-cto-does-what-altman-wont-releases-a-frontier-ai-model-thats-actually-open/5272177",
@@ -111,88 +207,6 @@
       "link": "https://www.theregister.com/public-sector/2026/07/15/south-korea-to-launch-universal-basic-ai-chatbot/5271566",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Australia demands AI companies must produce more energy than they consume, stop \u2018theft\u2019 of content",
-      "source": "The Register",
-      "published": "Wed, 15 Jul 2026 05:40:17 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google Cloud's VMware service loses resilience due to a dud update",
-      "source": "The Register",
-      "published": "Wed, 15 Jul 2026 02:16:21 +0200",
-      "link": "https://www.theregister.com/virtualization/2026/07/15/google-clouds-vmware-service-loses-resilience-due-to-a-dud-update/5271511",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark",
-      "source": "The Register",
-      "published": "Wed, 15 Jul 2026 01:00:33 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/15/openai-hides-codex-agent-instructions-behind-encryption-leaving-developers-in-the-dark/5271484",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "If you want Claude to speak nicely to you, try Hindi or Arabic",
-      "source": "The Register",
-      "published": "Tue, 14 Jul 2026 21:39:50 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/if-you-want-claude-to-speak-nicely-to-you-try-hindi-or-arabic/5271409",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "DeepMind bigbrain calls for America to set AI standards before it's too late",
-      "source": "The Register",
-      "published": "Tue, 14 Jul 2026 18:44:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/deepmind-bigbrain-calls-for-america-to-set-ai-standards-before-its-too-late/5271343",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "IBM's mainframe sales get mugged by AI hardware panic, stock sheds more than a quarter of its value",
-      "source": "The Register",
-      "published": "Tue, 14 Jul 2026 16:16:36 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/07/14/ibms-mainframe-sales-get-mugged-by-ai-hardware-panic-stock-sheds-more-than-a-quarter-of-its-value/5271230",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "'The bots are alive!' Jailbroken Gemini spun up new C2 server for Russian fraudster in just 6 minutes",
-      "source": "The Register",
-      "published": "Tue, 14 Jul 2026 14:15:00 +0200",
-      "link": "https://www.theregister.com/research/2026/07/14/the-bots-are-alive-jailbroken-gemini-spun-up-new-c2-server-for-russian-fraudster-in-just-6-minutes/5270131",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic's extravagant tokenizer complicates AI pricing",
-      "source": "The Register",
-      "published": "Tue, 14 Jul 2026 08:28:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/anthropics-extravagant-tokenizer-complicates-ai-pricing/5270792",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Cut And Fold Your 3D Printer\u2019s Next Cover",
-      "source": "Hackaday",
-      "published": "Wed, 15 Jul 2026 20:00:09 +0000",
-      "link": "https://hackaday.com/2026/07/15/cut-and-fold-your-3d-printers-next-cover/",
-      "matched_keywords": [
-        "model"
       ]
     }
   ]
