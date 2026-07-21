@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T11:05:02.095208+00:00",
+  "last_updated": "2026-07-21T11:05:01.358968+00:00",
   "entries": [
     {
       "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
@@ -43,6 +43,61 @@
       "source": "Ars Technica",
       "published": "Thu, 25 Jun 2026 19:04:57 +0000",
       "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out",
+      "source": "The Register",
+      "published": "Tue, 21 Jul 2026 12:00:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/07/21/scalding-hot-ai-accelerators-have-put-datacenters-in-hot-water-two-phase-cooling-could-chill-them-out/5275293",
+      "matched_keywords": [
+        "AI",
+        "GPU"
+      ]
+    },
+    {
+      "title": "Europe slaps AliExpress with \u20ac550 million fine for selling dodgy goods",
+      "source": "The Register",
+      "published": "Tue, 21 Jul 2026 08:58:05 +0200",
+      "link": "https://www.theregister.com/legal/2026/07/21/europe-slaps-aliexpress-with-550-million-fine-for-selling-dodgy-goods/5275428",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "Google Cloud outage shows it\u2019s still hard to understand hyperscalers\u2019 real resilience regimes",
+      "source": "The Register",
+      "published": "Tue, 21 Jul 2026 07:39:30 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/07/21/google-cloud-outage-shows-its-still-hard-to-understand-hyperscalers-real-resilience-regimes/5275405",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Frontier LLMs couldn't help Hugging Face fight off evil agents",
+      "source": "The Register",
+      "published": "Mon, 20 Jul 2026 20:46:47 +0200",
+      "link": "https://www.theregister.com/cyber-crime/2026/07/20/frontier-llms-couldnt-help-hugging-face-fight-off-evil-agents/5275168",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "EU's AI labeling rules take effect next month",
+      "source": "The Register",
+      "published": "Mon, 20 Jul 2026 15:27:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/20/eus-ai-labeling-rules-take-effect-next-month/5274917",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Watching the world burn as all the money flows into a multitrillion-dollar Magic 8 Ball",
+      "source": "The Register",
+      "published": "Mon, 20 Jul 2026 14:44:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/20/watching-the-world-burn-as-all-the-money-flows-into-a-multitrillion-dollar-magic-8-ball/5274553",
       "matched_keywords": [
         "AI"
       ]
@@ -150,70 +205,13 @@
       ]
     },
     {
-      "title": "Researcher poisons open-weight AI model for under $100",
-      "source": "The Register",
-      "published": "Thu, 16 Jul 2026 22:25:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-open-weight-ai-model-for-under-100/5273880",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "EU forces Google to share its toys with the other AI and search kids",
-      "source": "The Register",
-      "published": "Thu, 16 Jul 2026 18:48:41 +0200",
-      "link": "https://www.theregister.com/software/2026/07/16/eu-forces-google-to-share-its-toys-with-the-other-ai-and-search-kids/5273819",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "AI vendors have found someone to pay their infrastructure bills: You",
-      "source": "The Register",
-      "published": "Thu, 16 Jul 2026 18:21:00 +0200",
-      "link": "https://www.theregister.com/software/2026/07/16/ai-vendors-have-found-someone-to-pay-their-infrastructure-bills-you/5273712",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Kick your mouse out of the house with this AI-assisted keyboard utility",
-      "source": "The Register",
-      "published": "Thu, 16 Jul 2026 17:46:12 +0200",
-      "link": "https://www.theregister.com/software/2026/07/16/kick-your-mouse-out-of-the-house-with-this-ai-assisted-keyboard-utility/5271938",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "AI power binge delivers best half since 2022 for climate tech venture funding",
-      "source": "The Register",
-      "published": "Thu, 16 Jul 2026 14:05:25 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/ai-power-binge-delivers-best-half-since-2022-for-climate-tech-venture-funding/5272401",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "SpaceX open sources Grok Build in same week company was found beaming users' repos to the cloud",
-      "source": "The Register",
-      "published": "Thu, 16 Jul 2026 13:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/spacex-open-sources-grok-build-after-data-retention-furore/5272333",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Pong-like Cabinet for Classic Dinosaur Jumper",
+      "title": "Google Maps Killed the Restaurant Star",
       "source": "Hackaday",
-      "published": "Mon, 20 Jul 2026 02:00:02 +0000",
-      "link": "https://hackaday.com/2026/07/19/pong-like-cabinet-for-classic-dinosaur-jumper/",
+      "published": "Tue, 21 Jul 2026 05:00:16 +0000",
+      "link": "https://hackaday.com/2026/07/20/google-maps-killed-the-restaurant-star/",
       "matched_keywords": [
-        "Google"
+        "Google",
+        "google"
       ]
     }
   ]
