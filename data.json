@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-07-21T11:05:01.358968+00:00",
+  "last_updated": "2026-07-22T11:05:01.871777+00:00",
   "entries": [
+    {
+      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "source": "Ars Technica",
+      "published": "Tue, 21 Jul 2026 15:18:23 +0000",
+      "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+      "matched_keywords": [
+        "model"
+      ]
+    },
     {
       "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
       "source": "Ars Technica",
@@ -43,6 +52,71 @@
       "source": "Ars Technica",
       "published": "Thu, 25 Jun 2026 19:04:57 +0000",
       "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
+      "source": "The Register",
+      "published": "Wed, 22 Jul 2026 03:30:45 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Cisco's open-weight bug busters take on Google and OpenAI",
+      "source": "The Register",
+      "published": "Tue, 21 Jul 2026 23:17:20 +0200",
+      "link": "https://www.theregister.com/security/2026/07/21/ciscos-open-weight-bug-busters-take-on-google-and-openai/5275817",
+      "matched_keywords": [
+        "Google",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "AI's cheatin' heart will make you weep",
+      "source": "The Register",
+      "published": "Tue, 21 Jul 2026 21:45:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/21/ais-cheatin-heart-will-make-you-weep/5275784",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "US Marines' latest anti-drone toy is an AI turret that uses regular machine guns",
+      "source": "The Register",
+      "published": "Tue, 21 Jul 2026 21:14:56 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/07/21/us-marines-latest-anti-drone-toy-is-an-ai-turret-that-uses-regular-machine-guns/5275691",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Oracle faces $100M annual bill to back Wisconsin datacenter power promises",
+      "source": "The Register",
+      "published": "Tue, 21 Jul 2026 18:45:35 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Nvidia shows off Vera Rubin platform for tokenmaxxing",
+      "source": "The Register",
+      "published": "Tue, 21 Jul 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/07/21/nvidia-shows-off-vera-rubin-platform-for-tokenmaxxing/5275316",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "AI music platform Suno hits bum note as 55M users exposed in data breach, claims infosec expert",
+      "source": "The Register",
+      "published": "Tue, 21 Jul 2026 15:45:00 +0200",
+      "link": "https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514",
       "matched_keywords": [
         "AI"
       ]
@@ -148,70 +222,12 @@
       ]
     },
     {
-      "title": "AI spam filters are getting suckered by old-school text salting",
-      "source": "The Register",
-      "published": "Fri, 17 Jul 2026 18:15:22 +0200",
-      "link": "https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "Top EU court clips YouTube's intermediary defense over reviewed content",
-      "source": "The Register",
-      "published": "Fri, 17 Jul 2026 14:35:43 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/07/17/top-eu-court-clips-youtubes-intermediary-defense-over-reviewed-content/5274299",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Google fixing Android lock screen bug that lets Gemini send SMS without a PIN",
-      "source": "The Register",
-      "published": "Fri, 17 Jul 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/security/2026/07/17/google-fixing-android-lock-screen-bug-that-lets-gemini-send-sms-without-a-pin/5273027",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "How Gartner can help turn your AI vision into business reality",
-      "source": "The Register",
-      "published": "Fri, 17 Jul 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/17/how-gartner-can-help-turn-your-ai-vision-into-business-reality/5270873",
+      "title": "Who\u2019s Building that Data Center?",
+      "source": "Hackaday",
+      "published": "Tue, 21 Jul 2026 23:00:04 +0000",
+      "link": "https://hackaday.com/2026/07/21/whos-building-that-data-center/",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "South Korea making its own security-centric AI model",
-      "source": "The Register",
-      "published": "Fri, 17 Jul 2026 03:56:40 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/17/south-korea-making-its-own-security-centric-ai-model/5274034",
-      "matched_keywords": [
-        "AI",
-        "LLM",
-        "model"
-      ]
-    },
-    {
-      "title": "OpenAI admits GPT-5.6 occasionally deletes files \u2013 but it's an 'honest mistake'",
-      "source": "The Register",
-      "published": "Fri, 17 Jul 2026 00:50:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/openai-admits-gpt-56-occasionally-deletes-files-but-its-an-honest-mistake/5274008",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Google Maps Killed the Restaurant Star",
-      "source": "Hackaday",
-      "published": "Tue, 21 Jul 2026 05:00:16 +0000",
-      "link": "https://hackaday.com/2026/07/20/google-maps-killed-the-restaurant-star/",
-      "matched_keywords": [
-        "Google",
-        "google"
       ]
     }
   ]
