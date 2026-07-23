@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T11:05:01.871777+00:00",
+  "last_updated": "2026-07-23T11:05:01.843961+00:00",
   "entries": [
     {
       "title": "TreeSize won't renew perpetual-license support unless users subscribe",
@@ -52,6 +52,118 @@
       "source": "Ars Technica",
       "published": "Thu, 25 Jun 2026 19:04:57 +0000",
       "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Amazon's AGI department finds humans are optional",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 11:59:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/amazons-agi-department-finds-humans-are-optional/5276874",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Britain isn't considering datacenters' thirst for water in its 'AI superpower' ambitions",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/07/23/britain-isnt-considering-datacenters-thirst-for-water-in-its-ai-superpower-ambitions/5276363",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Senior White House official claims China\u2019s K3 model stolen from Anthropic",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 07:05:43 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/senior-white-house-official-claims-chinas-k3-model-stolen-from-anthropic/5276804",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "Google is hoarding TPUs to chase artificial general intelligence",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 03:45:34 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/google-is-hoarding-tpus-to-chase-artificial-general-intelligence/5276755",
+      "matched_keywords": [
+        "Google",
+        "compute"
+      ]
+    },
+    {
+      "title": "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 01:37:24 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-huggingface-attack-showing-how-open-chinese-models-are-winning/5276699",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Google Cloud is killing it",
+      "source": "The Register",
+      "published": "Wed, 22 Jul 2026 23:01:57 +0200",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/07/22/google-cloud-is-killing-it/5276632",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Sovereign AI is 'nonsense,' says Doctorow",
+      "source": "The Register",
+      "published": "Wed, 22 Jul 2026 21:48:26 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/22/sovereign-ai-is-nonsense-says-doctorow/5276578",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Fresh off AI layoffs, Block now wants to whack Slack with agent-human collab tool",
+      "source": "The Register",
+      "published": "Wed, 22 Jul 2026 20:57:14 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/22/fresh-off-ai-layoffs-block-now-wants-to-whack-slack-with-agent-human-collab-tool/5276529",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Linux kernel team publishes 432 CVEs in two days",
+      "source": "The Register",
+      "published": "Wed, 22 Jul 2026 18:58:33 +0200",
+      "link": "https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Grok muscles into Excel with an AI add-in of its own",
+      "source": "The Register",
+      "published": "Wed, 22 Jul 2026 16:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI tries the consulting path with 'Presence', charging enterprises boots-on-the-ground prices to deploy agents",
+      "source": "The Register",
+      "published": "Wed, 22 Jul 2026 15:15:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-tries-the-consulting-path-with-presence-charging-enterprises-boots-on-the-ground-prices-to-deploy-agents/5275867",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Sneaky Windows stealer targets 300+ apps, gives crims an AI profiler to maximize profits",
+      "source": "The Register",
+      "published": "Wed, 22 Jul 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/security/2026/07/22/sneaky-windows-stealer-targets-300-apps-gives-crims-an-ai-profiler-to-maximize-profits/5275962",
       "matched_keywords": [
         "AI"
       ]
@@ -150,84 +262,42 @@
       ]
     },
     {
-      "title": "Frontier LLMs couldn't help Hugging Face fight off evil agents",
-      "source": "The Register",
-      "published": "Mon, 20 Jul 2026 20:46:47 +0200",
-      "link": "https://www.theregister.com/cyber-crime/2026/07/20/frontier-llms-couldnt-help-hugging-face-fight-off-evil-agents/5275168",
+      "title": "Voice Control Toolkit Comes to a Pico Near You",
+      "source": "Hackaday",
+      "published": "Thu, 23 Jul 2026 08:00:28 +0000",
+      "link": "https://hackaday.com/2026/07/23/voice-control-toolkit-comes-to-a-pico-near-you/",
       "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Industrial GPU Adapted for the Desktop",
+      "source": "Hackaday",
+      "published": "Thu, 23 Jul 2026 05:00:00 +0000",
+      "link": "https://hackaday.com/2026/07/22/industrial-gpu-adapted-for-the-desktop/",
+      "matched_keywords": [
+        "GPU",
+        "gpu"
+      ]
+    },
+    {
+      "title": "V Formation Flying of Birds is Explained by a Minimal Wake\u2013Vortex Model",
+      "source": "Hackaday",
+      "published": "Thu, 23 Jul 2026 02:00:00 +0000",
+      "link": "https://hackaday.com/2026/07/22/v-formation-flying-of-birds-is-explained-by-a-minimal-wake-vortex-model/",
+      "matched_keywords": [
+        "Model",
         "model"
       ]
     },
     {
-      "title": "EU's AI labeling rules take effect next month",
-      "source": "The Register",
-      "published": "Mon, 20 Jul 2026 15:27:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/20/eus-ai-labeling-rules-take-effect-next-month/5274917",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Watching the world burn as all the money flows into a multitrillion-dollar Magic 8 Ball",
-      "source": "The Register",
-      "published": "Mon, 20 Jul 2026 14:44:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/20/watching-the-world-burn-as-all-the-money-flows-into-a-multitrillion-dollar-magic-8-ball/5274553",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Auditors tell UK government to do the math before banking on \u00a345B AI savings",
-      "source": "The Register",
-      "published": "Mon, 20 Jul 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/07/20/auditors-tell-uk-government-to-do-the-math-before-banking-on-45b-ai-savings/5274194",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI ops tools will create console sprawl and break IT more often: Gartner",
-      "source": "The Register",
-      "published": "Mon, 20 Jul 2026 05:28:36 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/20/ai-ops-tools-will-create-console-sprawl-and-break-it-more-often-gartner/5274712",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Chinese President Xi Jinping wants emergency response systems to keep AI in check",
-      "source": "The Register",
-      "published": "Mon, 20 Jul 2026 02:38:54 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/20/chinese-president-xi-jinping-wants-emergency-response-systems-to-keep-ai-in-check/5274687",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Connecting AI agents to outside services explodes the risk radius",
-      "source": "The Register",
-      "published": "Sun, 19 Jul 2026 18:05:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/19/connecting-ai-agents-to-outside-services-explodes-the-risk-radius/5274640",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Using AI makes people less likely to admit they don't know something",
-      "source": "The Register",
-      "published": "Sun, 19 Jul 2026 10:01:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Who\u2019s Building that Data Center?",
+      "title": "An LLM in the Kitchen",
       "source": "Hackaday",
-      "published": "Tue, 21 Jul 2026 23:00:04 +0000",
-      "link": "https://hackaday.com/2026/07/21/whos-building-that-data-center/",
+      "published": "Wed, 22 Jul 2026 23:00:00 +0000",
+      "link": "https://hackaday.com/2026/07/22/an-llm-in-the-kitchen/",
       "matched_keywords": [
-        "AI"
+        "LLM",
+        "llm"
       ]
     }
   ]
