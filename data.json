@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T11:05:01.843961+00:00",
+  "last_updated": "2026-07-24T11:05:01.600987+00:00",
   "entries": [
     {
       "title": "TreeSize won't renew perpetual-license support unless users subscribe",
@@ -57,6 +57,117 @@
       ]
     },
     {
+      "title": "Google meets the neighbors and gets both barrels over its new UK datacenter",
+      "source": "The Register",
+      "published": "Fri, 24 Jul 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/07/24/google-meets-the-neighbors-and-gets-both-barrels-over-its-new-uk-datacenter/5277188",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Google breaks Alibaba\u2019s record for Europe\u2019s largest DMA fine",
+      "source": "The Register",
+      "published": "Fri, 24 Jul 2026 09:32:00 +0200",
+      "link": "https://www.theregister.com/legal/2026/07/24/google-breaks-alibabas-record-for-europes-largest-dma-fine/5278017",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "OpenAI-Hugging Face attack doesn't mean agents are evil \u2013 unless you tell them to be",
+      "source": "The Register",
+      "published": "Fri, 24 Jul 2026 01:51:28 +0200",
+      "link": "https://www.theregister.com/security/2026/07/24/openai-hugging-face-attack-doesnt-mean-agents-are-evil-unless-you-tell-them-to-be/5277881",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "AMD and Cerebras join forces against Nvidia\u2019s Groq LPUs",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 23:33:45 +0200",
+      "link": "https://www.theregister.com/systems/2026/07/23/amd-and-cerebras-join-forces-against-nvidias-groq-lpus/5277817",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "OpenAI won't let some customers export their chats, but this tool will",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 22:48:39 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Codeberg gives vibe-coded projects the toss, promotes human FLOSS",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 21:26:52 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/codeberg-gives-vibe-coded-projects-the-toss-promotes-human-floss/5277717",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AMD attacks the rack with Helios systems that rival Nvidia's",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 19:26:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/07/23/amd-attacks-the-rack-with-helios-systems-that-rival-nvidias/5277246",
+      "matched_keywords": [
+        "AI",
+        "Nvidia",
+        "compute"
+      ]
+    },
+    {
+      "title": "Model Context Protocol prepares to break with its stateful past",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 18:15:00 +0200",
+      "link": "https://www.theregister.com/devops/2026/07/23/model-context-protocol-prepares-to-break-with-its-stateful-past/5276722",
+      "matched_keywords": [
+        "Model"
+      ]
+    },
+    {
+      "title": "Oracle drops 1,449 security patches like it's the new normal",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 17:31:00 +0200",
+      "link": "https://www.theregister.com/security/2026/07/23/oracle-drops-1449-security-patches-like-its-the-new-normal/5277114",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "GitHub slashes public bug bounty payouts as AI report flood buries its security team",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 17:15:00 +0200",
+      "link": "https://www.theregister.com/devops/2026/07/23/github-slashes-public-bug-bounty-payouts-as-ai-report-flood-buries-its-security-team/5277046",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "One ChatGPT link could smuggle a rogue AI agent into your company",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 15:02:00 +0200",
+      "link": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "IBM insists AI didn't kill software deals, just delayed them",
+      "source": "The Register",
+      "published": "Thu, 23 Jul 2026 13:34:42 +0200",
+      "link": "https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "Amazon's AGI department finds humans are optional",
       "source": "The Register",
       "published": "Thu, 23 Jul 2026 11:59:00 +0200",
@@ -96,10 +207,10 @@
       ]
     },
     {
-      "title": "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning",
+      "title": "OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning",
       "source": "The Register",
       "published": "Thu, 23 Jul 2026 01:37:24 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-huggingface-attack-showing-how-open-chinese-models-are-winning/5276699",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699",
       "matched_keywords": [
         "OpenAI"
       ]
@@ -175,129 +286,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939",
       "matched_keywords": [
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Cisco's open-weight bug busters take on Google and OpenAI",
-      "source": "The Register",
-      "published": "Tue, 21 Jul 2026 23:17:20 +0200",
-      "link": "https://www.theregister.com/security/2026/07/21/ciscos-open-weight-bug-busters-take-on-google-and-openai/5275817",
-      "matched_keywords": [
-        "Google",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "AI's cheatin' heart will make you weep",
-      "source": "The Register",
-      "published": "Tue, 21 Jul 2026 21:45:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/21/ais-cheatin-heart-will-make-you-weep/5275784",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "US Marines' latest anti-drone toy is an AI turret that uses regular machine guns",
-      "source": "The Register",
-      "published": "Tue, 21 Jul 2026 21:14:56 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/07/21/us-marines-latest-anti-drone-toy-is-an-ai-turret-that-uses-regular-machine-guns/5275691",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Oracle faces $100M annual bill to back Wisconsin datacenter power promises",
-      "source": "The Register",
-      "published": "Tue, 21 Jul 2026 18:45:35 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Nvidia shows off Vera Rubin platform for tokenmaxxing",
-      "source": "The Register",
-      "published": "Tue, 21 Jul 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/07/21/nvidia-shows-off-vera-rubin-platform-for-tokenmaxxing/5275316",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "AI music platform Suno hits bum note as 55M users exposed in data breach, claims infosec expert",
-      "source": "The Register",
-      "published": "Tue, 21 Jul 2026 15:45:00 +0200",
-      "link": "https://www.theregister.com/security/2026/07/21/breach-of-ai-music-platform-suno-affected-55m-user-accounts/5275514",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out",
-      "source": "The Register",
-      "published": "Tue, 21 Jul 2026 12:00:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/07/21/scalding-hot-ai-accelerators-have-put-datacenters-in-hot-water-two-phase-cooling-could-chill-them-out/5275293",
-      "matched_keywords": [
-        "AI",
-        "GPU"
-      ]
-    },
-    {
-      "title": "Europe slaps AliExpress with \u20ac550 million fine for selling dodgy goods",
-      "source": "The Register",
-      "published": "Tue, 21 Jul 2026 08:58:05 +0200",
-      "link": "https://www.theregister.com/legal/2026/07/21/europe-slaps-aliexpress-with-550-million-fine-for-selling-dodgy-goods/5275428",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "Google Cloud outage shows it\u2019s still hard to understand hyperscalers\u2019 real resilience regimes",
-      "source": "The Register",
-      "published": "Tue, 21 Jul 2026 07:39:30 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/07/21/google-cloud-outage-shows-its-still-hard-to-understand-hyperscalers-real-resilience-regimes/5275405",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Voice Control Toolkit Comes to a Pico Near You",
-      "source": "Hackaday",
-      "published": "Thu, 23 Jul 2026 08:00:28 +0000",
-      "link": "https://hackaday.com/2026/07/23/voice-control-toolkit-comes-to-a-pico-near-you/",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Industrial GPU Adapted for the Desktop",
-      "source": "Hackaday",
-      "published": "Thu, 23 Jul 2026 05:00:00 +0000",
-      "link": "https://hackaday.com/2026/07/22/industrial-gpu-adapted-for-the-desktop/",
-      "matched_keywords": [
-        "GPU",
-        "gpu"
-      ]
-    },
-    {
-      "title": "V Formation Flying of Birds is Explained by a Minimal Wake\u2013Vortex Model",
-      "source": "Hackaday",
-      "published": "Thu, 23 Jul 2026 02:00:00 +0000",
-      "link": "https://hackaday.com/2026/07/22/v-formation-flying-of-birds-is-explained-by-a-minimal-wake-vortex-model/",
-      "matched_keywords": [
-        "Model",
-        "model"
-      ]
-    },
-    {
-      "title": "An LLM in the Kitchen",
-      "source": "Hackaday",
-      "published": "Wed, 22 Jul 2026 23:00:00 +0000",
-      "link": "https://hackaday.com/2026/07/22/an-llm-in-the-kitchen/",
-      "matched_keywords": [
-        "LLM",
-        "llm"
       ]
     }
   ]
