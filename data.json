@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T11:05:01.600987+00:00",
+  "last_updated": "2026-07-25T11:05:01.924515+00:00",
   "entries": [
     {
       "title": "TreeSize won't renew perpetual-license support unless users subscribe",
@@ -52,6 +52,62 @@
       "source": "Ars Technica",
       "published": "Thu, 25 Jun 2026 19:04:57 +0000",
       "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anti-AI open source has an enemy in common, but almost nothing else",
+      "source": "The Register",
+      "published": "Sat, 25 Jul 2026 12:17:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/25/anti-ai-open-source-has-an-enemy-in-common-but-almost-nothing-else/5278275",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic debuts Opus 5 at half the price of its Fable sibling",
+      "source": "The Register",
+      "published": "Sat, 25 Jul 2026 01:03:06 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AMD vibe codes its way past the CUDA moat with ROCm.AI",
+      "source": "The Register",
+      "published": "Fri, 24 Jul 2026 23:55:38 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Tech leaders issue letter to train Uncle Sam about value of open weight AI",
+      "source": "The Register",
+      "published": "Fri, 24 Jul 2026 21:45:27 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/24/tech-leaders-issue-letter-to-train-uncle-sam-about-value-of-open-weight-ai/5278533",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cambodian Prime Minister Hun Manet met with ZTE to deepen cooperation in digital infrastructure and artificial intelligence (AI)",
+      "source": "The Register",
+      "published": "Fri, 24 Jul 2026 17:01:47 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/24/partner-content/5278416",
+      "matched_keywords": [
+        "AI",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "title": "Veterans Affairs signs $1.6B deal for an army of Salesforce AI agents",
+      "source": "The Register",
+      "published": "Fri, 24 Jul 2026 15:58:06 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/24/veterans-affairs-signs-16b-deal-for-an-army-of-salesforce-ai-agents/5278302",
       "matched_keywords": [
         "AI"
       ]
@@ -225,67 +281,14 @@
       ]
     },
     {
-      "title": "Sovereign AI is 'nonsense,' says Doctorow",
-      "source": "The Register",
-      "published": "Wed, 22 Jul 2026 21:48:26 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/22/sovereign-ai-is-nonsense-says-doctorow/5276578",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Fresh off AI layoffs, Block now wants to whack Slack with agent-human collab tool",
-      "source": "The Register",
-      "published": "Wed, 22 Jul 2026 20:57:14 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/22/fresh-off-ai-layoffs-block-now-wants-to-whack-slack-with-agent-human-collab-tool/5276529",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Linux kernel team publishes 432 CVEs in two days",
-      "source": "The Register",
-      "published": "Wed, 22 Jul 2026 18:58:33 +0200",
-      "link": "https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Grok muscles into Excel with an AI add-in of its own",
-      "source": "The Register",
-      "published": "Wed, 22 Jul 2026 16:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI tries the consulting path with 'Presence', charging enterprises boots-on-the-ground prices to deploy agents",
-      "source": "The Register",
-      "published": "Wed, 22 Jul 2026 15:15:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-tries-the-consulting-path-with-presence-charging-enterprises-boots-on-the-ground-prices-to-deploy-agents/5275867",
+      "title": "Codeberg Bans Cryptocurrency and LLM-Generated Code Projects",
+      "source": "Hackaday",
+      "published": "Fri, 24 Jul 2026 20:00:00 +0000",
+      "link": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects/",
       "matched_keywords": [
         "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Sneaky Windows stealer targets 300+ apps, gives crims an AI profiler to maximize profits",
-      "source": "The Register",
-      "published": "Wed, 22 Jul 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/07/22/sneaky-windows-stealer-targets-300-apps-gives-crims-an-ai-profiler-to-maximize-profits/5275962",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
-      "source": "The Register",
-      "published": "Wed, 22 Jul 2026 03:30:45 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939",
-      "matched_keywords": [
-        "OpenAI"
+        "LLM",
+        "llm"
       ]
     }
   ]
