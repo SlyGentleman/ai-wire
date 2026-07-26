@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T11:05:01.924515+00:00",
+  "last_updated": "2026-07-26T11:05:02.117313+00:00",
   "entries": [
     {
       "title": "TreeSize won't renew perpetual-license support unless users subscribe",
@@ -52,6 +52,15 @@
       "source": "Ars Technica",
       "published": "Thu, 25 Jun 2026 19:04:57 +0000",
       "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "How AI drove Shopify back to clean code",
+      "source": "The Register",
+      "published": "Sat, 25 Jul 2026 15:06:00 +0200",
+      "link": "https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901",
       "matched_keywords": [
         "AI"
       ]
@@ -263,32 +272,12 @@
       ]
     },
     {
-      "title": "OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning",
-      "source": "The Register",
-      "published": "Thu, 23 Jul 2026 01:37:24 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Google Cloud is killing it",
-      "source": "The Register",
-      "published": "Wed, 22 Jul 2026 23:01:57 +0200",
-      "link": "https://www.theregister.com/paas-and-iaas/2026/07/22/google-cloud-is-killing-it/5276632",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Codeberg Bans Cryptocurrency and LLM-Generated Code Projects",
+      "title": "How Film Industry Data Website The-Numbers.com got Mauled by Bots",
       "source": "Hackaday",
-      "published": "Fri, 24 Jul 2026 20:00:00 +0000",
-      "link": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects/",
+      "published": "Sun, 26 Jul 2026 05:00:00 +0000",
+      "link": "https://hackaday.com/2026/07/25/how-film-industry-data-website-the-numbers-com-got-mauled-by-bots/",
       "matched_keywords": [
-        "AI",
-        "LLM",
-        "llm"
+        "LLM"
       ]
     }
   ]
