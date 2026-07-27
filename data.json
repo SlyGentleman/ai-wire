@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T11:05:02.117313+00:00",
+  "last_updated": "2026-07-27T11:05:01.602404+00:00",
   "entries": [
     {
       "title": "TreeSize won't renew perpetual-license support unless users subscribe",
@@ -57,6 +57,24 @@
       ]
     },
     {
+      "title": "Google goes it alone with a new cybercrime crew taxonomy",
+      "source": "The Register",
+      "published": "Mon, 27 Jul 2026 09:31:00 +0200",
+      "link": "https://www.theregister.com/security/2026/07/27/google-goes-it-alone-with-a-new-cybercrime-crew-taxonomy/5278749",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Foxconn drops VMware, adopts hyperconverged upstart Arcrfra for workloads including AI",
+      "source": "The Register",
+      "published": "Mon, 27 Jul 2026 02:07:27 +0200",
+      "link": "https://www.theregister.com/virtualization/2026/07/27/foxconn-drops-vmware-adopts-hyperconverged-upstart-arcrfra-for-workloads-including-ai/5278684",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "How AI drove Shopify back to clean code",
       "source": "The Register",
       "published": "Sat, 25 Jul 2026 15:06:00 +0200",
@@ -100,16 +118,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/07/24/tech-leaders-issue-letter-to-train-uncle-sam-about-value-of-open-weight-ai/5278533",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Cambodian Prime Minister Hun Manet met with ZTE to deepen cooperation in digital infrastructure and artificial intelligence (AI)",
-      "source": "The Register",
-      "published": "Fri, 24 Jul 2026 17:01:47 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/24/partner-content/5278416",
-      "matched_keywords": [
-        "AI",
-        "artificial intelligence"
       ]
     },
     {
@@ -233,51 +241,13 @@
       ]
     },
     {
-      "title": "Amazon's AGI department finds humans are optional",
-      "source": "The Register",
-      "published": "Thu, 23 Jul 2026 11:59:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/amazons-agi-department-finds-humans-are-optional/5276874",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Britain isn't considering datacenters' thirst for water in its 'AI superpower' ambitions",
-      "source": "The Register",
-      "published": "Thu, 23 Jul 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/07/23/britain-isnt-considering-datacenters-thirst-for-water-in-its-ai-superpower-ambitions/5276363",
+      "title": "Hackaday Links: July 26, 2026",
+      "source": "Hackaday",
+      "published": "Sun, 26 Jul 2026 23:00:08 +0000",
+      "link": "https://hackaday.com/2026/07/26/hackaday-links-july-26-2026/",
       "matched_keywords": [
         "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "Senior White House official claims China\u2019s K3 model stolen from Anthropic",
-      "source": "The Register",
-      "published": "Thu, 23 Jul 2026 07:05:43 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/senior-white-house-official-claims-chinas-k3-model-stolen-from-anthropic/5276804",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "Google is hoarding TPUs to chase artificial general intelligence",
-      "source": "The Register",
-      "published": "Thu, 23 Jul 2026 03:45:34 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/google-is-hoarding-tpus-to-chase-artificial-general-intelligence/5276755",
-      "matched_keywords": [
-        "Google",
-        "compute"
-      ]
-    },
-    {
-      "title": "How Film Industry Data Website The-Numbers.com got Mauled by Bots",
-      "source": "Hackaday",
-      "published": "Sun, 26 Jul 2026 05:00:00 +0000",
-      "link": "https://hackaday.com/2026/07/25/how-film-industry-data-website-the-numbers-com-got-mauled-by-bots/",
-      "matched_keywords": [
-        "LLM"
+        "artificial intelligence"
       ]
     }
   ]
