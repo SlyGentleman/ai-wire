@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T11:05:01.501488+00:00",
+  "last_updated": "2026-07-31T11:05:01.145794+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -51,6 +51,60 @@
       "source": "Ars Technica",
       "published": "Wed, 08 Jul 2026 07:00:51 +0000",
       "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Tech buyers are baking in sovereignty from day one, says Forrester",
+      "source": "The Register",
+      "published": "Fri, 31 Jul 2026 12:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/31/tech-buyers-are-baking-in-sovereignty-from-day-one-says-forrester/5281208",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic\u2019s Claude escaped test sandbox to attack three organizations",
+      "source": "The Register",
+      "published": "Fri, 31 Jul 2026 04:19:39 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "LinkedIn realizes its users have been bathing in AI slop, offers a shower",
+      "source": "The Register",
+      "published": "Thu, 30 Jul 2026 22:26:49 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/linkedin-realizes-its-users-have-been-bathing-in-ai-slop-offers-a-shower/5281436",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Oracle adds Google Gemini to the agent menu",
+      "source": "The Register",
+      "published": "Thu, 30 Jul 2026 20:40:29 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/oracle-adds-google-gemini-to-the-agent-menu/5281331",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Open source project fools AI scrapers with poisoned font",
+      "source": "The Register",
+      "published": "Thu, 30 Jul 2026 19:19:23 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "From individual achievement to partner impact",
+      "source": "The Register",
+      "published": "Thu, 30 Jul 2026 16:00:00 +0200",
+      "link": "https://www.theregister.com/storage/2026/07/30/partner-content/5277414",
       "matched_keywords": [
         "AI"
       ]
@@ -141,106 +195,6 @@
       "source": "The Register",
       "published": "Wed, 29 Jul 2026 07:18:18 +0200",
       "link": "https://www.theregister.com/systems/2026/07/29/big-tech-demanding-deals-that-smooth-out-memory-prices-says-sk-hynix/5280182",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "A requiem for Optane, Intel's KV cache killer that could have eased the RAM price crunch",
-      "source": "The Register",
-      "published": "Wed, 29 Jul 2026 01:27:59 +0200",
-      "link": "https://www.theregister.com/storage/2026/07/29/a-requiem-for-optane-intels-kv-cache-killer-that-could-have-eased-the-ram-price-crunch/5280063",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "JFrog's 0-days let OpenAI's models hack Hugging Face",
-      "source": "The Register",
-      "published": "Wed, 29 Jul 2026 00:01:53 +0200",
-      "link": "https://www.theregister.com/security/2026/07/28/jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
-      "source": "The Register",
-      "published": "Tue, 28 Jul 2026 23:26:53 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
-      "matched_keywords": [
-        "AI",
-        "Model"
-      ]
-    },
-    {
-      "title": "War machines can run amok with AI in control",
-      "source": "The Register",
-      "published": "Tue, 28 Jul 2026 21:51:08 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/war-machines-can-run-amok-with-ai-in-control/5279937",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft and Wiz mind-meld agents catch more than 90% of bugs",
-      "source": "The Register",
-      "published": "Tue, 28 Jul 2026 21:21:01 +0200",
-      "link": "https://www.theregister.com/security/2026/07/28/microsoft-and-wiz-mind-meld-agents-catch-more-than-90-of-bugs/5279914",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "AI is storage's biggest opportunity \u2013 and biggest threat",
-      "source": "The Register",
-      "published": "Tue, 28 Jul 2026 18:51:59 +0200",
-      "link": "https://www.theregister.com/storage/2026/07/28/ai-is-storages-biggest-opportunity-and-biggest-threat/5279607",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "College prof hides prompt to catch AI cheaters, finds human nature is pretty much as we thought",
-      "source": "The Register",
-      "published": "Tue, 28 Jul 2026 18:20:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/5279864",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI-found bugs aren't proving any easier to exploit despite the hype",
-      "source": "The Register",
-      "published": "Tue, 28 Jul 2026 17:26:41 +0200",
-      "link": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Hugging Face rebuilt a third of its infrastructure after OpenAI agents ran amok",
-      "source": "The Register",
-      "published": "Tue, 28 Jul 2026 15:11:11 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/openais-agent-siege-forced-significant-rebuild-at-hugging-face/5279577",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Too many AI agents can get in each other's way",
-      "source": "The Register",
-      "published": "Tue, 28 Jul 2026 14:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/too-many-ai-agents-can-get-in-each-others-way/5279292",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Hyperscale, hypersensitive: US teacher cuffed for applauding datacenter critics",
-      "source": "The Register",
-      "published": "Tue, 28 Jul 2026 13:32:59 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/07/28/hyperscale-hypersensitive-us-teacher-cuffed-for-applauding-datacenter-critics/5279487",
       "matched_keywords": [
         "AI"
       ]
