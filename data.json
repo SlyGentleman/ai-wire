@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T11:05:01.157980+00:00",
+  "last_updated": "2026-08-02T11:05:01.516622+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -162,6 +162,15 @@
       "link": "https://www.theregister.com/hpc/2026/07/29/noaa-ditches-weather-predicting-supercomputers-for-google-cloud/5280697",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Browser-based 3D Editor Covers The Basics While Staying Local",
+      "source": "Hackaday",
+      "published": "Sat, 01 Aug 2026 17:00:42 +0000",
+      "link": "https://hackaday.com/2026/08/01/browser-based-3d-editor-covers-the-basics-while-staying-local/",
+      "matched_keywords": [
+        "model"
       ]
     }
   ]
