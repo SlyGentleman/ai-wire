@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T11:05:01.516622+00:00",
+  "last_updated": "2026-08-03T11:05:01.228638+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -53,6 +53,52 @@
       "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
+      "source": "The Register",
+      "published": "Mon, 03 Aug 2026 12:27:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/sci-fi-authors-scalzi-and-stross-decry-ais-dystopian-impact-on-their-craft/5282176",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
+      "source": "The Register",
+      "published": "Mon, 03 Aug 2026 11:15:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
+      "source": "The Register",
+      "published": "Mon, 03 Aug 2026 10:27:00 +0200",
+      "link": "https://www.theregister.com/columnists/2026/08/03/claude-code-is-revolutionizing-digital-archaeology-enterprise-better-dig-it/5281676",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI is 'both the weapon and the target' in latest wave of cyberattacks",
+      "source": "The Register",
+      "published": "Mon, 03 Aug 2026 09:01:00 +0200",
+      "link": "https://www.theregister.com/cyber-crime/2026/08/03/ai-is-both-the-weapon-and-the-target-in-latest-wave-of-cyberattacks/5281534",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Meta straps on a \u2018Kick Me\u2019 sign by mistakenly taking down video by India\u2019s prime minister",
+      "source": "The Register",
+      "published": "Mon, 03 Aug 2026 03:25:16 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/08/03/meta-straps-on-a-kick-me-sign-by-mistakenly-taking-down-video-by-indias-prime-minister/5282130",
+      "matched_keywords": [
+        "DeepSeek",
+        "model"
       ]
     },
     {
@@ -153,24 +199,6 @@
       "link": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "NOAA ditches weather-predicting supercomputers for Google Cloud",
-      "source": "The Register",
-      "published": "Wed, 29 Jul 2026 23:02:00 +0200",
-      "link": "https://www.theregister.com/hpc/2026/07/29/noaa-ditches-weather-predicting-supercomputers-for-google-cloud/5280697",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Browser-based 3D Editor Covers The Basics While Staying Local",
-      "source": "Hackaday",
-      "published": "Sat, 01 Aug 2026 17:00:42 +0000",
-      "link": "https://hackaday.com/2026/08/01/browser-based-3d-editor-covers-the-basics-while-staying-local/",
-      "matched_keywords": [
-        "model"
       ]
     }
   ]
