@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T11:05:01.228638+00:00",
+  "last_updated": "2026-08-04T11:05:01.277446+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -51,6 +51,71 @@
       "source": "Ars Technica",
       "published": "Wed, 08 Jul 2026 07:00:51 +0000",
       "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK mulls making employers ask before installing bossware",
+      "source": "The Register",
+      "published": "Tue, 04 Aug 2026 09:30:00 +0200",
+      "link": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "China turns up the heat with open model blitz as US model makers panic",
+      "source": "The Register",
+      "published": "Tue, 04 Aug 2026 00:40:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/china-turns-up-the-heat-with-open-model-blitz-as-us-model-makers-panic/5282526",
+      "matched_keywords": [
+        "DeepSeek",
+        "model"
+      ]
+    },
+    {
+      "title": "Google dev kit spurs first-ever agent-on-agent violence",
+      "source": "The Register",
+      "published": "Mon, 03 Aug 2026 22:30:37 +0200",
+      "link": "https://www.theregister.com/security/2026/08/03/google-dev-kit-spurs-first-ever-agent-on-agent-violence/5282496",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "AI slop pollutes the CVE pipeline with fake vulns",
+      "source": "The Register",
+      "published": "Mon, 03 Aug 2026 19:19:36 +0200",
+      "link": "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "MediaTek lines up $5B war chest for AI datacenter push",
+      "source": "The Register",
+      "published": "Mon, 03 Aug 2026 16:15:06 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/mediatek-lines-up-5b-war-chest-for-ai-datacenter-push/5282304",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google Earth's AI makeover survives for just one planetary rotation",
+      "source": "The Register",
+      "published": "Mon, 03 Aug 2026 14:58:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/google-earths-ai-makeover-survives-for-just-one-planetary-rotation/5282224",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "The AI bubble is already popping; we just don't know it yet",
+      "source": "The Register",
+      "published": "Mon, 03 Aug 2026 13:53:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
       "matched_keywords": [
         "AI"
       ]
@@ -170,33 +235,6 @@
       "source": "The Register",
       "published": "Thu, 30 Jul 2026 16:00:00 +0200",
       "link": "https://www.theregister.com/storage/2026/07/30/partner-content/5277414",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Excuses like 'AI did it' don't exist in the eyes of the law",
-      "source": "The Register",
-      "published": "Thu, 30 Jul 2026 08:30:00 +0200",
-      "link": "https://www.theregister.com/legal/2026/07/30/excuses-like-ai-did-it-dont-exist-in-the-eyes-of-the-law/5280767",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Qualcomm won\u2019t be a big datacenter player anytime soon",
-      "source": "The Register",
-      "published": "Thu, 30 Jul 2026 04:43:56 +0200",
-      "link": "https://www.theregister.com/systems/2026/07/30/qualcomm-wont-be-a-big-datacenter-player-anytime-soon/5280839",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
-      "source": "The Register",
-      "published": "Thu, 30 Jul 2026 01:17:56 +0200",
-      "link": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
       "matched_keywords": [
         "AI"
       ]
