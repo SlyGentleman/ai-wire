@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T11:05:01.277446+00:00",
+  "last_updated": "2026-08-05T11:05:01.978195+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -51,6 +51,61 @@
       "source": "Ars Technica",
       "published": "Wed, 08 Jul 2026 07:00:51 +0000",
       "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI researchers let models off the leash \u2013 then watched as they tried to add malware to a FOSS project",
+      "source": "The Register",
+      "published": "Wed, 05 Aug 2026 03:55:54 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AMD's results spotlight risks of putting all your AI eggs in too few baskets",
+      "source": "The Register",
+      "published": "Wed, 05 Aug 2026 02:40:10 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/amds-results-spotlight-risks-of-putting-all-your-ai-eggs-in-too-few-baskets/5283142",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "OpenAI wants teachers and profs to foist their work off on ChatGPT",
+      "source": "The Register",
+      "published": "Tue, 04 Aug 2026 23:03:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/04/openai-wants-teachers-and-profs-to-foist-their-work-off-on-chatgpt/5283064",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Bypassing AI guardrails is so easy a script kiddie can do it",
+      "source": "The Register",
+      "published": "Tue, 04 Aug 2026 19:15:00 +0200",
+      "link": "https://www.theregister.com/security/2026/08/04/bypassing-ai-guardrails-is-so-easy-a-script-kiddie-can-do-it/5282973",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI helps Microsoft bug hunters chase a record $20M payday",
+      "source": "The Register",
+      "published": "Tue, 04 Aug 2026 16:40:49 +0200",
+      "link": "https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cloud giants pour nearly $600B into capex as AI demand surges",
+      "source": "The Register",
+      "published": "Tue, 04 Aug 2026 15:09:00 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/08/04/cloud-giants-pour-nearly-600b-into-capex-as-ai-demand-surges/5282679",
       "matched_keywords": [
         "AI"
       ]
@@ -183,60 +238,6 @@
       "matched_keywords": [
         "Anthropic",
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Tech buyers are baking in sovereignty from day one, says Forrester",
-      "source": "The Register",
-      "published": "Fri, 31 Jul 2026 12:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/31/tech-buyers-are-baking-in-sovereignty-from-day-one-says-forrester/5281208",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic\u2019s Claude escaped test sandbox to attack three organizations",
-      "source": "The Register",
-      "published": "Fri, 31 Jul 2026 04:19:39 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "LinkedIn realizes its users have been bathing in AI slop, offers a shower",
-      "source": "The Register",
-      "published": "Thu, 30 Jul 2026 22:26:49 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/linkedin-realizes-its-users-have-been-bathing-in-ai-slop-offers-a-shower/5281436",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Oracle adds Google Gemini to the agent menu",
-      "source": "The Register",
-      "published": "Thu, 30 Jul 2026 20:40:29 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/oracle-adds-google-gemini-to-the-agent-menu/5281331",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Open source project fools AI scrapers with poisoned font",
-      "source": "The Register",
-      "published": "Thu, 30 Jul 2026 19:19:23 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "From individual achievement to partner impact",
-      "source": "The Register",
-      "published": "Thu, 30 Jul 2026 16:00:00 +0200",
-      "link": "https://www.theregister.com/storage/2026/07/30/partner-content/5277414",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
