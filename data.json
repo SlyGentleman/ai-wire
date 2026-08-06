@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T11:05:01.978195+00:00",
+  "last_updated": "2026-08-06T11:05:01.536877+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -47,12 +47,119 @@
       ]
     },
     {
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "source": "Ars Technica",
-      "published": "Wed, 08 Jul 2026 07:00:51 +0000",
-      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "title": "Meta latest to tell world its AI agent wandered out of test pen",
+      "source": "The Register",
+      "published": "Thu, 06 Aug 2026 12:24:04 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/meta-latest-to-tell-world-its-ai-agent-wandered-out-of-test-pen/5283947",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "News Corp labels some AI companies 'crass kleptomaniacs'",
+      "source": "The Register",
+      "published": "Thu, 06 Aug 2026 11:30:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/news-corp-labels-some-ai-companies-crass-kleptomaniacs/5283848",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Proxmox ports itself to Arm with help from Nvidia and Supermicro",
+      "source": "The Register",
+      "published": "Thu, 06 Aug 2026 05:45:29 +0200",
+      "link": "https://www.theregister.com/virtualization/2026/08/06/proxmox-ports-itself-to-arm-with-help-from-nvidia-and-supermicro/5283770",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack",
+      "source": "The Register",
+      "published": "Thu, 06 Aug 2026 03:47:19 +0200",
+      "link": "https://www.theregister.com/security/2026/08/06/openai-reveals-its-rogue-agent-swarm-went-a-little-bit-borg-ahead-of-hugging-face-hack/5283741",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "An off-grid AI sounds like a great survival assistant, but is better left to roleplaying the zombie apocalypse",
+      "source": "The Register",
+      "published": "Thu, 06 Aug 2026 00:33:40 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/an-off-grid-ai-sounds-like-a-great-survival-assistant-but-is-better-left-to-roleplaying-the-zombie-apocalypse/5283685",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Prompt injection isn't the bug, AI agent frameworks are",
+      "source": "The Register",
+      "published": "Wed, 05 Aug 2026 23:35:00 +0200",
+      "link": "https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Time Magazine has a separate version of its website with ads only AI can see",
+      "source": "The Register",
+      "published": "Wed, 05 Aug 2026 23:02:55 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/time-magazine-has-a-separate-version-of-its-website-with-ads-only-ai-can-see/5283640",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Elon pledges to give Nvidia a virtual monopoly over the stars",
+      "source": "The Register",
+      "published": "Wed, 05 Aug 2026 19:55:59 +0200",
+      "link": "https://www.theregister.com/systems/2026/08/05/elon-pledges-to-give-nvidia-a-virtual-monopoly-over-the-stars/5283605",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "IBM's agentic AI platform is under active attack - patch now",
+      "source": "The Register",
+      "published": "Wed, 05 Aug 2026 18:44:39 +0200",
+      "link": "https://www.theregister.com/security/2026/08/05/ibms-agentic-ai-platform-is-under-active-attack-patch-now/5283535",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Operationalize AI at scale with HPE and NVIDIA",
+      "source": "The Register",
+      "published": "Wed, 05 Aug 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/sponsored-operational-ai-at-scale-with-hpe-and-nvidia/5282929",
+      "matched_keywords": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "title": "SpaceX revenue rockets while AI spending burns billions",
+      "source": "The Register",
+      "published": "Wed, 05 Aug 2026 16:15:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/spacex-revenue-rockets-while-ai-spending-burns-billions/5283404",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cloud startup Volta claims $10B AI lab deal for Norway bit barn",
+      "source": "The Register",
+      "published": "Wed, 05 Aug 2026 15:04:00 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/08/05/cloud-startup-volta-claims-10b-ai-lab-deal-for-norway-bit-barn/5283352",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "GPU",
+        "compute"
       ]
     },
     {
@@ -65,10 +172,10 @@
       ]
     },
     {
-      "title": "AMD's results spotlight risks of putting all your AI eggs in too few baskets",
+      "title": "AMD's AI eggs are in too few baskets, Wall Street worries",
       "source": "The Register",
       "published": "Wed, 05 Aug 2026 02:40:10 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/amds-results-spotlight-risks-of-putting-all-your-ai-eggs-in-too-few-baskets/5283142",
+      "link": "https://www.theregister.com/systems/2026/08/05/amds-ai-eggs-are-in-too-few-baskets-wall-street-worries/5283142",
       "matched_keywords": [
         "AI",
         "Nvidia"
@@ -157,87 +264,12 @@
       ]
     },
     {
-      "title": "Google Earth's AI makeover survives for just one planetary rotation",
-      "source": "The Register",
-      "published": "Mon, 03 Aug 2026 14:58:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/google-earths-ai-makeover-survives-for-just-one-planetary-rotation/5282224",
+      "title": "Full Teardown of a 2026 Amazon Fire Stick HD",
+      "source": "Hackaday",
+      "published": "Wed, 05 Aug 2026 23:00:38 +0000",
+      "link": "https://hackaday.com/2026/08/05/full-teardown-of-a-2026-amazon-fire-stick-hd/",
       "matched_keywords": [
-        "AI",
         "Google"
-      ]
-    },
-    {
-      "title": "The AI bubble is already popping; we just don't know it yet",
-      "source": "The Register",
-      "published": "Mon, 03 Aug 2026 13:53:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
-      "source": "The Register",
-      "published": "Mon, 03 Aug 2026 12:27:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/sci-fi-authors-scalzi-and-stross-decry-ais-dystopian-impact-on-their-craft/5282176",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
-      "source": "The Register",
-      "published": "Mon, 03 Aug 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
-      "source": "The Register",
-      "published": "Mon, 03 Aug 2026 10:27:00 +0200",
-      "link": "https://www.theregister.com/columnists/2026/08/03/claude-code-is-revolutionizing-digital-archaeology-enterprise-better-dig-it/5281676",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI is 'both the weapon and the target' in latest wave of cyberattacks",
-      "source": "The Register",
-      "published": "Mon, 03 Aug 2026 09:01:00 +0200",
-      "link": "https://www.theregister.com/cyber-crime/2026/08/03/ai-is-both-the-weapon-and-the-target-in-latest-wave-of-cyberattacks/5281534",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Meta straps on a \u2018Kick Me\u2019 sign by mistakenly taking down video by India\u2019s prime minister",
-      "source": "The Register",
-      "published": "Mon, 03 Aug 2026 03:25:16 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/08/03/meta-straps-on-a-kick-me-sign-by-mistakenly-taking-down-video-by-indias-prime-minister/5282130",
-      "matched_keywords": [
-        "DeepSeek",
-        "model"
-      ]
-    },
-    {
-      "title": "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
-      "source": "The Register",
-      "published": "Sat, 01 Aug 2026 11:02:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Anthropic and OpenAI are competing to see whose agents can go rogue harder",
-      "source": "The Register",
-      "published": "Fri, 31 Jul 2026 17:04:04 +0200",
-      "link": "https://www.theregister.com/security/2026/07/31/anthropic-and-openai-are-competing-to-see-whose-agents-can-go-rogue-harder/5281797",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI"
       ]
     }
   ]
