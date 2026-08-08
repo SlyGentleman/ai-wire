@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T11:05:01.536877+00:00",
+  "last_updated": "2026-08-08T11:05:02.040482+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -44,6 +44,99 @@
       "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
+      "source": "The Register",
+      "published": "Sat, 08 Aug 2026 01:41:07 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/08/openai-pledges-to-add-astra-security-as-anthropic-loosens-fables-leash/5285161",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "AI titans to tidy agent frontier with plugin prescription",
+      "source": "The Register",
+      "published": "Fri, 07 Aug 2026 20:53:50 +0200",
+      "link": "https://www.theregister.com/devops/2026/08/07/ai-titans-to-tidy-agent-frontier-with-plugin-prescription/5285017",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ransomware attacks spike as world distracted by AI",
+      "source": "The Register",
+      "published": "Fri, 07 Aug 2026 18:45:00 +0200",
+      "link": "https://www.theregister.com/security/2026/08/07/ransomware-attacks-spike-as-world-distracted-by-ai/5284934",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "'Asimov was right' about rules for robots, says ex-US Cyber Director",
+      "source": "The Register",
+      "published": "Fri, 07 Aug 2026 12:03:00 +0200",
+      "link": "https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "How the famed USENIX Security conf is managing a flood of papers in the AI era",
+      "source": "The Register",
+      "published": "Fri, 07 Aug 2026 01:40:23 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/07/how-the-famed-usenix-security-conf-is-managing-a-flood-of-papers-in-the-ai-era/5284374",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon",
+      "source": "The Register",
+      "published": "Thu, 06 Aug 2026 22:05:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "AI struggles to patch vulns without adult supervision",
+      "source": "The Register",
+      "published": "Thu, 06 Aug 2026 21:04:30 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Latest GitHub outage squeezes Actions, Pages to death",
+      "source": "The Register",
+      "published": "Thu, 06 Aug 2026 20:30:48 +0200",
+      "link": "https://www.theregister.com/devops/2026/08/06/latest-github-outage-squeezes-actions-pages-to-death/5284297",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
+      "source": "The Register",
+      "published": "Thu, 06 Aug 2026 18:44:29 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Platform Engineering 2.0: your platform was built for a different era. AI just exposed it",
+      "source": "The Register",
+      "published": "Thu, 06 Aug 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/devops/2026/08/06/partner-content-platform-engineering-20-your-platform-was-built-for-a-different-era-ai-just-exposed-it/5283237",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -148,128 +241,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/08/05/spacex-revenue-rockets-while-ai-spending-burns-billions/5283404",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Cloud startup Volta claims $10B AI lab deal for Norway bit barn",
-      "source": "The Register",
-      "published": "Wed, 05 Aug 2026 15:04:00 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/08/05/cloud-startup-volta-claims-10b-ai-lab-deal-for-norway-bit-barn/5283352",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "GPU",
-        "compute"
-      ]
-    },
-    {
-      "title": "AI researchers let models off the leash \u2013 then watched as they tried to add malware to a FOSS project",
-      "source": "The Register",
-      "published": "Wed, 05 Aug 2026 03:55:54 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AMD's AI eggs are in too few baskets, Wall Street worries",
-      "source": "The Register",
-      "published": "Wed, 05 Aug 2026 02:40:10 +0200",
-      "link": "https://www.theregister.com/systems/2026/08/05/amds-ai-eggs-are-in-too-few-baskets-wall-street-worries/5283142",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "OpenAI wants teachers and profs to foist their work off on ChatGPT",
-      "source": "The Register",
-      "published": "Tue, 04 Aug 2026 23:03:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/04/openai-wants-teachers-and-profs-to-foist-their-work-off-on-chatgpt/5283064",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Bypassing AI guardrails is so easy a script kiddie can do it",
-      "source": "The Register",
-      "published": "Tue, 04 Aug 2026 19:15:00 +0200",
-      "link": "https://www.theregister.com/security/2026/08/04/bypassing-ai-guardrails-is-so-easy-a-script-kiddie-can-do-it/5282973",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI helps Microsoft bug hunters chase a record $20M payday",
-      "source": "The Register",
-      "published": "Tue, 04 Aug 2026 16:40:49 +0200",
-      "link": "https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cloud giants pour nearly $600B into capex as AI demand surges",
-      "source": "The Register",
-      "published": "Tue, 04 Aug 2026 15:09:00 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/08/04/cloud-giants-pour-nearly-600b-into-capex-as-ai-demand-surges/5282679",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK mulls making employers ask before installing bossware",
-      "source": "The Register",
-      "published": "Tue, 04 Aug 2026 09:30:00 +0200",
-      "link": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "China turns up the heat with open model blitz as US model makers panic",
-      "source": "The Register",
-      "published": "Tue, 04 Aug 2026 00:40:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/china-turns-up-the-heat-with-open-model-blitz-as-us-model-makers-panic/5282526",
-      "matched_keywords": [
-        "DeepSeek",
-        "model"
-      ]
-    },
-    {
-      "title": "Google dev kit spurs first-ever agent-on-agent violence",
-      "source": "The Register",
-      "published": "Mon, 03 Aug 2026 22:30:37 +0200",
-      "link": "https://www.theregister.com/security/2026/08/03/google-dev-kit-spurs-first-ever-agent-on-agent-violence/5282496",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "AI slop pollutes the CVE pipeline with fake vulns",
-      "source": "The Register",
-      "published": "Mon, 03 Aug 2026 19:19:36 +0200",
-      "link": "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "MediaTek lines up $5B war chest for AI datacenter push",
-      "source": "The Register",
-      "published": "Mon, 03 Aug 2026 16:15:06 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/mediatek-lines-up-5b-war-chest-for-ai-datacenter-push/5282304",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Full Teardown of a 2026 Amazon Fire Stick HD",
-      "source": "Hackaday",
-      "published": "Wed, 05 Aug 2026 23:00:38 +0000",
-      "link": "https://hackaday.com/2026/08/05/full-teardown-of-a-2026-amazon-fire-stick-hd/",
-      "matched_keywords": [
-        "Google"
       ]
     }
   ]
