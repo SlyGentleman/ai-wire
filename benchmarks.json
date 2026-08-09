@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T11:05:04.262907+00:00",
+  "last_updated": "2026-08-09T11:05:04.135469+00:00",
   "sources": [
     {
       "id": "swebench",
@@ -17,7 +17,7 @@
       "source_id": "swebench",
       "entries": [
         {
-          "model": "Claude 4.5 Opus (high reasoning)",
+          "model": "Claude 4.5 Opus (high)",
           "score": 76.8,
           "date": "2026-02-17",
           "meta": {
@@ -31,7 +31,7 @@
           }
         },
         {
-          "model": "Gemini 3 Flash (high reasoning)",
+          "model": "Gemini 3 Flash (high)",
           "score": 75.8,
           "date": "2026-02-17",
           "meta": {
@@ -45,7 +45,7 @@
           }
         },
         {
-          "model": "MiniMax M2.5 (high reasoning)",
+          "model": "MiniMax M2.5 (high)",
           "score": 75.8,
           "date": "2026-02-17",
           "meta": {
@@ -101,7 +101,7 @@
           }
         },
         {
-          "model": "GPT-5-2 Codex",
+          "model": "GPT 5.2 Codex",
           "score": 72.8,
           "date": "2026-02-19",
           "meta": {
@@ -115,7 +115,7 @@
           }
         },
         {
-          "model": "GLM-5 (high reasoning)",
+          "model": "GLM-5 (high)",
           "score": 72.8,
           "date": "2026-02-17",
           "meta": {
@@ -129,7 +129,7 @@
           }
         },
         {
-          "model": "GPT-5-2 (high reasoning)",
+          "model": "GPT-5-2 (high)",
           "score": 72.8,
           "date": "2026-02-17",
           "meta": {
@@ -143,7 +143,7 @@
           }
         },
         {
-          "model": "GPT-5.2 (2025-12-11) (high reasoning)",
+          "model": "GPT-5.2 (2025-12-11) (high)",
           "score": 71.8,
           "date": "2025-12-11",
           "meta": {
@@ -157,7 +157,7 @@
           }
         },
         {
-          "model": "Claude 4.5 Sonnet (high reasoning)",
+          "model": "Claude 4.5 Sonnet (high)",
           "score": 71.4,
           "date": "2026-02-17",
           "meta": {
@@ -171,7 +171,7 @@
           }
         },
         {
-          "model": "Kimi K2.5 (high reasoning)",
+          "model": "Kimi K2.5 (high)",
           "score": 70.8,
           "date": "2026-02-17",
           "meta": {
@@ -199,7 +199,7 @@
           }
         },
         {
-          "model": "DeepSeek V3.2 (high reasoning)",
+          "model": "DeepSeek V3.2 (high)",
           "score": 70.0,
           "date": "2026-02-17",
           "meta": {
@@ -255,7 +255,7 @@
           }
         },
         {
-          "model": "Claude 4.5 Haiku (high reasoning)",
+          "model": "Claude 4.5 Haiku (high)",
           "score": 66.6,
           "date": "2026-02-17",
           "meta": {
@@ -269,7 +269,7 @@
           }
         },
         {
-          "model": "GPT-5.1-codex (medium reasoning)",
+          "model": "GPT-5.1-codex (medium)",
           "score": 66.0,
           "date": "2025-11-24",
           "meta": {
@@ -283,7 +283,7 @@
           }
         },
         {
-          "model": "GPT-5.1 (2025-11-13) (medium reasoning)",
+          "model": "GPT-5.1 (2025-11-13) (medium)",
           "score": 66.0,
           "date": "2025-11-20",
           "meta": {
@@ -297,7 +297,7 @@
           }
         },
         {
-          "model": "GPT-5 (2025-08-07) (medium reasoning)",
+          "model": "GPT-5 (2025-08-07) (medium)",
           "score": 65.0,
           "date": "2025-08-07",
           "meta": {
@@ -367,7 +367,7 @@
           }
         },
         {
-          "model": "GPT-5 mini (2025-08-07) (medium reasoning)",
+          "model": "GPT-5 mini (2025-08-07) (medium)",
           "score": 59.8,
           "date": "2025-08-07",
           "meta": {
@@ -549,7 +549,7 @@
           }
         },
         {
-          "model": "GPT-5 nano (2025-08-07) (medium reasoning)",
+          "model": "GPT-5 nano (2025-08-07) (medium)",
           "score": 34.8,
           "date": "2025-08-07",
           "meta": {
@@ -671,20 +671,6 @@
             "verified": null,
             "oss": null,
             "folder": "20250803_mini-v1.0.0_qwen2-5-coder-32b-instruct",
-            "org_logo": null
-          }
-        },
-        {
-          "model": "GPT 5.2 Codex",
-          "score": 72.8,
-          "date": "2026-02-19",
-          "meta": {
-            "logs": null,
-            "trajs": "s3://swe-bench-submissions/bash-only/20260219_mini-v2.0.0_gpt-5-2-codex/trajs",
-            "site": "https://platform.openai.com/docs/models/gpt-5",
-            "verified": null,
-            "oss": null,
-            "folder": "20260219_mini-v2.0.0_gpt-5-2-codex",
             "org_logo": null
           }
         }
@@ -810,7 +796,7 @@
           }
         },
         {
-          "model": "GPT-5.2 (high reasoning)",
+          "model": "GPT-5.2 (high)",
           "score": 66.7,
           "date": "2026-02-13",
           "meta": {
@@ -824,7 +810,7 @@
           }
         },
         {
-          "model": "GPT-5-2 Codex",
+          "model": "GPT 5.2 Codex",
           "score": 66.3,
           "date": "2026-02-20",
           "meta": {
@@ -876,20 +862,6 @@
             "verified": null,
             "oss": null,
             "folder": "20260213_mini-v2.0.0a0_gpt-5-mini",
-            "org_logo": null
-          }
-        },
-        {
-          "model": "GPT 5.2 Codex",
-          "score": 66.3,
-          "date": "2026-02-20",
-          "meta": {
-            "logs": null,
-            "trajs": "s3://swe-bench-submissions/multilingual/20260220_mini-v2.0.0_gpt-5-2-codex/trajs",
-            "site": "https://platform.openai.com/docs/models/gpt-5",
-            "verified": null,
-            "oss": null,
-            "folder": "20260220_mini-v2.0.0_gpt-5-2-codex",
             "org_logo": null
           }
         }
@@ -1335,7 +1307,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + Claude 4.5 Opus (high reasoning)",
+          "model": "mini-SWE-agent + Claude 4.5 Opus (high)",
           "score": 76.8,
           "date": "2026-02-17",
           "meta": {
@@ -1363,7 +1335,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + Gemini 3 Flash (high reasoning)",
+          "model": "mini-SWE-agent + Gemini 3 Flash (high)",
           "score": 75.8,
           "date": "2026-02-17",
           "meta": {
@@ -1377,7 +1349,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + MiniMax M2.5 (high reasoning)",
+          "model": "mini-SWE-agent + MiniMax M2.5 (high)",
           "score": 75.8,
           "date": "2026-02-17",
           "meta": {
@@ -1587,7 +1559,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5-2 Codex",
+          "model": "mini-SWE-agent + GPT 5.2 Codex",
           "score": 72.8,
           "date": "2026-02-19",
           "meta": {
@@ -1601,7 +1573,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GLM-5 (high reasoning)",
+          "model": "mini-SWE-agent + GLM-5 (high)",
           "score": 72.8,
           "date": "2026-02-17",
           "meta": {
@@ -1615,7 +1587,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5-2 (high reasoning)",
+          "model": "mini-SWE-agent + GPT-5-2 (high)",
           "score": 72.8,
           "date": "2026-02-17",
           "meta": {
@@ -1657,7 +1629,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5.2 (2025-12-11) (high reasoning)",
+          "model": "mini-SWE-agent + GPT-5.2 (2025-12-11) (high)",
           "score": 71.8,
           "date": "2025-12-11",
           "meta": {
@@ -1671,7 +1643,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + Claude 4.5 Sonnet (high reasoning)",
+          "model": "mini-SWE-agent + Claude 4.5 Sonnet (high)",
           "score": 71.4,
           "date": "2026-02-17",
           "meta": {
@@ -1769,7 +1741,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + Kimi K2.5 (high reasoning)",
+          "model": "mini-SWE-agent + Kimi K2.5 (high)",
           "score": 70.8,
           "date": "2026-02-17",
           "meta": {
@@ -1881,7 +1853,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + DeepSeek V3.2 (high reasoning)",
+          "model": "mini-SWE-agent + DeepSeek V3.2 (high)",
           "score": 70.0,
           "date": "2026-02-17",
           "meta": {
@@ -1993,7 +1965,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + Claude 4.5 Haiku (high reasoning)",
+          "model": "mini-SWE-agent + Claude 4.5 Haiku (high)",
           "score": 66.6,
           "date": "2026-02-17",
           "meta": {
@@ -2021,7 +1993,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5.1-codex (medium reasoning)",
+          "model": "mini-SWE-agent + GPT-5.1-codex (medium)",
           "score": 66.0,
           "date": "2025-11-24",
           "meta": {
@@ -2035,7 +2007,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5.1 (2025-11-13) (medium reasoning)",
+          "model": "mini-SWE-agent + GPT-5.1 (2025-11-13) (medium)",
           "score": 66.0,
           "date": "2025-11-20",
           "meta": {
@@ -2105,7 +2077,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5 (2025-08-07) (medium reasoning)",
+          "model": "mini-SWE-agent + GPT-5 (2025-08-07) (medium)",
           "score": 65.0,
           "date": "2025-08-07",
           "meta": {
@@ -2343,7 +2315,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5 mini (2025-08-07) (medium reasoning)",
+          "model": "mini-SWE-agent + GPT-5 mini (2025-08-07) (medium)",
           "score": 59.8,
           "date": "2025-08-07",
           "meta": {
@@ -3295,7 +3267,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5 nano (2025-08-07) (medium reasoning)",
+          "model": "mini-SWE-agent + GPT-5 nano (2025-08-07) (medium)",
           "score": 34.8,
           "date": "2025-08-07",
           "meta": {

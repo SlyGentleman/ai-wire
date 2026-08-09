@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T11:05:02.040482+00:00",
+  "last_updated": "2026-08-09T11:05:01.833900+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -44,6 +44,17 @@
       "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
+      "source": "The Register",
+      "published": "Sat, 08 Aug 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
       ]
     },
     {
@@ -232,15 +243,6 @@
       "matched_keywords": [
         "AI",
         "NVIDIA"
-      ]
-    },
-    {
-      "title": "SpaceX revenue rockets while AI spending burns billions",
-      "source": "The Register",
-      "published": "Wed, 05 Aug 2026 16:15:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/spacex-revenue-rockets-while-ai-spending-burns-billions/5283404",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
