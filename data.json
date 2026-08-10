@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T11:05:01.833900+00:00",
+  "last_updated": "2026-08-10T11:05:01.375520+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -44,6 +44,24 @@
       "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
+      "source": "The Register",
+      "published": "Mon, 10 Aug 2026 07:56:15 +0200",
+      "link": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Advertisers are trying to influence AI bots with secret ads",
+      "source": "The Register",
+      "published": "Mon, 10 Aug 2026 05:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -197,52 +215,6 @@
       "matched_keywords": [
         "AI",
         "LLM"
-      ]
-    },
-    {
-      "title": "Prompt injection isn't the bug, AI agent frameworks are",
-      "source": "The Register",
-      "published": "Wed, 05 Aug 2026 23:35:00 +0200",
-      "link": "https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Time Magazine has a separate version of its website with ads only AI can see",
-      "source": "The Register",
-      "published": "Wed, 05 Aug 2026 23:02:55 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/time-magazine-has-a-separate-version-of-its-website-with-ads-only-ai-can-see/5283640",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Elon pledges to give Nvidia a virtual monopoly over the stars",
-      "source": "The Register",
-      "published": "Wed, 05 Aug 2026 19:55:59 +0200",
-      "link": "https://www.theregister.com/systems/2026/08/05/elon-pledges-to-give-nvidia-a-virtual-monopoly-over-the-stars/5283605",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "IBM's agentic AI platform is under active attack - patch now",
-      "source": "The Register",
-      "published": "Wed, 05 Aug 2026 18:44:39 +0200",
-      "link": "https://www.theregister.com/security/2026/08/05/ibms-agentic-ai-platform-is-under-active-attack-patch-now/5283535",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Operationalize AI at scale with HPE and NVIDIA",
-      "source": "The Register",
-      "published": "Wed, 05 Aug 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/sponsored-operational-ai-at-scale-with-hpe-and-nvidia/5282929",
-      "matched_keywords": [
-        "AI",
-        "NVIDIA"
       ]
     }
   ]

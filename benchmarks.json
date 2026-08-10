@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T11:05:04.135469+00:00",
+  "last_updated": "2026-08-10T11:05:03.384509+00:00",
   "sources": [
     {
       "id": "swebench",
@@ -59,7 +59,7 @@
           }
         },
         {
-          "model": "Claude Opus 4.6",
+          "model": "Claude 4.6 Opus",
           "score": 75.6,
           "date": "2026-02-17",
           "meta": {
@@ -73,7 +73,7 @@
           }
         },
         {
-          "model": "Claude 4.5 Opus medium (20251101)",
+          "model": "Claude 4.5 Opus (20251101) (medium)",
           "score": 74.4,
           "date": "2025-11-24",
           "meta": {
@@ -115,7 +115,7 @@
           }
         },
         {
-          "model": "GLM-5 (high)",
+          "model": "GLM 5 (high)",
           "score": 72.8,
           "date": "2026-02-17",
           "meta": {
@@ -129,7 +129,7 @@
           }
         },
         {
-          "model": "GPT-5-2 (high)",
+          "model": "GPT 5.2 (high)",
           "score": 72.8,
           "date": "2026-02-17",
           "meta": {
@@ -143,7 +143,7 @@
           }
         },
         {
-          "model": "GPT-5.2 (2025-12-11) (high)",
+          "model": "GPT 5.2 (2025-12-11) (high)",
           "score": 71.8,
           "date": "2025-12-11",
           "meta": {
@@ -227,7 +227,7 @@
           }
         },
         {
-          "model": "GPT-5.2 (2025-12-11)",
+          "model": "GPT 5.2 (2025-12-11)",
           "score": 69.0,
           "date": "2025-12-11",
           "meta": {
@@ -269,7 +269,7 @@
           }
         },
         {
-          "model": "GPT-5.1-codex (medium)",
+          "model": "GPT 5.1 Codex (medium)",
           "score": 66.0,
           "date": "2025-11-24",
           "meta": {
@@ -283,7 +283,7 @@
           }
         },
         {
-          "model": "GPT-5.1 (2025-11-13) (medium)",
+          "model": "GPT 5.1 (2025-11-13) (medium)",
           "score": 66.0,
           "date": "2025-11-20",
           "meta": {
@@ -297,7 +297,7 @@
           }
         },
         {
-          "model": "GPT-5 (2025-08-07) (medium)",
+          "model": "GPT 5 (2025-08-07) (medium)",
           "score": 65.0,
           "date": "2025-08-07",
           "meta": {
@@ -339,7 +339,7 @@
           }
         },
         {
-          "model": "Minimax M2",
+          "model": "MiniMax M2",
           "score": 61.0,
           "date": "2025-11-24",
           "meta": {
@@ -367,7 +367,7 @@
           }
         },
         {
-          "model": "GPT-5 mini (2025-08-07) (medium)",
+          "model": "GPT 5 mini (2025-08-07) (medium)",
           "score": 59.8,
           "date": "2025-08-07",
           "meta": {
@@ -395,7 +395,7 @@
           }
         },
         {
-          "model": "Devstral small (2512)",
+          "model": "Devstral Small (2512)",
           "score": 56.4,
           "date": "2025-12-09",
           "meta": {
@@ -409,7 +409,7 @@
           }
         },
         {
-          "model": "GPT-5 Mini",
+          "model": "GPT 5 mini",
           "score": 56.2,
           "date": "2026-02-17",
           "meta": {
@@ -437,7 +437,7 @@
           }
         },
         {
-          "model": "GLM-4.6 (T=1)",
+          "model": "GLM 4.6 (T=1)",
           "score": 55.4,
           "date": "2025-12-01",
           "meta": {
@@ -451,7 +451,7 @@
           }
         },
         {
-          "model": "GLM-4.5 (2025-08-22)",
+          "model": "GLM 4.5 (2025-08-22)",
           "score": 54.2,
           "date": "2025-08-22",
           "meta": {
@@ -535,7 +535,7 @@
           }
         },
         {
-          "model": "GPT-4.1 (2025-04-14)",
+          "model": "GPT 4.1 (2025-04-14)",
           "score": 39.58,
           "date": "2025-07-26",
           "meta": {
@@ -549,7 +549,7 @@
           }
         },
         {
-          "model": "GPT-5 nano (2025-08-07) (medium)",
+          "model": "GPT 5 nano (2025-08-07) (medium)",
           "score": 34.8,
           "date": "2025-08-07",
           "meta": {
@@ -591,7 +591,7 @@
           }
         },
         {
-          "model": "GPT-4.1-mini (2025-04-14)",
+          "model": "GPT 4.1 mini (2025-04-14)",
           "score": 23.94,
           "date": "2025-07-20",
           "meta": {
@@ -605,7 +605,7 @@
           }
         },
         {
-          "model": "GPT-4o (2024-11-20)",
+          "model": "GPT 4o (2024-11-20)",
           "score": 21.62,
           "date": "2025-07-20",
           "meta": {
@@ -633,7 +633,7 @@
           }
         },
         {
-          "model": "Gemini 2.0 flash",
+          "model": "Gemini 2.0 Flash",
           "score": 13.52,
           "date": "2025-07-26",
           "meta": {
@@ -726,7 +726,7 @@
           }
         },
         {
-          "model": "GLM-5",
+          "model": "GLM 5",
           "score": 69.7,
           "date": "2026-02-13",
           "meta": {
@@ -754,7 +754,7 @@
           }
         },
         {
-          "model": "Minimax 2.5",
+          "model": "MiniMax M2.5",
           "score": 68.3,
           "date": "2026-02-16",
           "meta": {
@@ -796,7 +796,7 @@
           }
         },
         {
-          "model": "GPT-5.2 (high)",
+          "model": "GPT 5.2 (high)",
           "score": 66.7,
           "date": "2026-02-13",
           "meta": {
@@ -852,7 +852,7 @@
           }
         },
         {
-          "model": "GPT-5 mini",
+          "model": "GPT 5 mini",
           "score": 39.7,
           "date": "2026-02-13",
           "meta": {
@@ -1377,7 +1377,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + Claude Opus 4.6",
+          "model": "mini-SWE-agent + Claude 4.6 Opus",
           "score": 75.6,
           "date": "2026-02-17",
           "meta": {
@@ -1489,7 +1489,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + Claude 4.5 Opus medium (20251101)",
+          "model": "mini-SWE-agent + Claude 4.5 Opus (20251101) (medium)",
           "score": 74.4,
           "date": "2025-11-24",
           "meta": {
@@ -1573,7 +1573,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GLM-5 (high)",
+          "model": "mini-SWE-agent + GLM 5 (high)",
           "score": 72.8,
           "date": "2026-02-17",
           "meta": {
@@ -1587,7 +1587,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5-2 (high)",
+          "model": "mini-SWE-agent + GPT 5.2 (high)",
           "score": 72.8,
           "date": "2026-02-17",
           "meta": {
@@ -1629,7 +1629,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5.2 (2025-12-11) (high)",
+          "model": "mini-SWE-agent + GPT 5.2 (2025-12-11) (high)",
           "score": 71.8,
           "date": "2025-12-11",
           "meta": {
@@ -1895,7 +1895,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5.2 (2025-12-11)",
+          "model": "mini-SWE-agent + GPT 5.2 (2025-12-11)",
           "score": 69.0,
           "date": "2025-12-11",
           "meta": {
@@ -1993,7 +1993,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5.1-codex (medium)",
+          "model": "mini-SWE-agent + GPT 5.1 Codex (medium)",
           "score": 66.0,
           "date": "2025-11-24",
           "meta": {
@@ -2007,7 +2007,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5.1 (2025-11-13) (medium)",
+          "model": "mini-SWE-agent + GPT 5.1 (2025-11-13) (medium)",
           "score": 66.0,
           "date": "2025-11-20",
           "meta": {
@@ -2077,7 +2077,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5 (2025-08-07) (medium)",
+          "model": "mini-SWE-agent + GPT 5 (2025-08-07) (medium)",
           "score": 65.0,
           "date": "2025-08-07",
           "meta": {
@@ -2245,7 +2245,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + Minimax M2",
+          "model": "mini-SWE-agent + MiniMax M2",
           "score": 61.0,
           "date": "2025-11-24",
           "meta": {
@@ -2315,7 +2315,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5 mini (2025-08-07) (medium)",
+          "model": "mini-SWE-agent + GPT 5 mini (2025-08-07) (medium)",
           "score": 59.8,
           "date": "2025-08-07",
           "meta": {
@@ -2441,7 +2441,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + Devstral small (2512)",
+          "model": "mini-SWE-agent + Devstral Small (2512)",
           "score": 56.4,
           "date": "2025-12-09",
           "meta": {
@@ -2455,7 +2455,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5 Mini",
+          "model": "mini-SWE-agent + GPT 5 mini",
           "score": 56.2,
           "date": "2026-02-17",
           "meta": {
@@ -2497,7 +2497,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GLM-4.6 (T=1)",
+          "model": "mini-SWE-agent + GLM 4.6 (T=1)",
           "score": 55.4,
           "date": "2025-12-01",
           "meta": {
@@ -2539,7 +2539,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GLM-4.5 (2025-08-22)",
+          "model": "mini-SWE-agent + GLM 4.5 (2025-08-22)",
           "score": 54.2,
           "date": "2025-08-22",
           "meta": {
@@ -3169,7 +3169,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-4.1 (2025-04-14)",
+          "model": "mini-SWE-agent + GPT 4.1 (2025-04-14)",
           "score": 39.58,
           "date": "2025-07-26",
           "meta": {
@@ -3267,7 +3267,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-5 nano (2025-08-07) (medium)",
+          "model": "mini-SWE-agent + GPT 5 nano (2025-08-07) (medium)",
           "score": 34.8,
           "date": "2025-08-07",
           "meta": {
@@ -3491,7 +3491,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-4.1-mini (2025-04-14)",
+          "model": "mini-SWE-agent + GPT 4.1 mini (2025-04-14)",
           "score": 23.94,
           "date": "2025-07-20",
           "meta": {
@@ -3547,7 +3547,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + GPT-4o (2024-11-20)",
+          "model": "mini-SWE-agent + GPT 4o (2024-11-20)",
           "score": 21.62,
           "date": "2025-07-20",
           "meta": {
@@ -3603,7 +3603,7 @@
           }
         },
         {
-          "model": "mini-SWE-agent + Gemini 2.0 flash",
+          "model": "mini-SWE-agent + Gemini 2.0 Flash",
           "score": 13.52,
           "date": "2025-07-26",
           "meta": {
