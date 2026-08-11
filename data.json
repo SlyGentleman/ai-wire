@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T11:05:01.375520+00:00",
+  "last_updated": "2026-08-11T11:05:02.031328+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -44,6 +44,88 @@
       "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "Building up the US power grid won't be wasted, even if the AI bubble bursts",
+      "source": "The Register",
+      "published": "Tue, 11 Aug 2026 12:31:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/08/11/building-up-the-us-power-grid-wont-be-wasted-even-if-the-ai-bubble-bursts/5285563",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Alibaba Cloud is using AI to help it use less AI",
+      "source": "The Register",
+      "published": "Tue, 11 Aug 2026 02:48:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/11/alibaba-cloud-is-using-ai-to-help-it-use-less-ai/5285815",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
+      "source": "The Register",
+      "published": "Tue, 11 Aug 2026 02:27:37 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Hey, big spender \u2013 OpenAI has a new SKU just for you",
+      "source": "The Register",
+      "published": "Mon, 10 Aug 2026 23:25:39 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "DEF CON hackers add new muscle to water utility protection",
+      "source": "The Register",
+      "published": "Mon, 10 Aug 2026 23:08:04 +0200",
+      "link": "https://www.theregister.com/security/2026/08/10/def-con-hackers-add-new-muscle-to-water-utility-protection/5285715",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The future is for billionaires \u2013 the rest of us will get open weight AI models, maybe",
+      "source": "The Register",
+      "published": "Mon, 10 Aug 2026 22:49:37 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Zuck rekindles open weights Llama drama with Muse Glimmer",
+      "source": "The Register",
+      "published": "Mon, 10 Aug 2026 22:05:48 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "North Korean spies are running local LLMs to cause AI mischief",
+      "source": "The Register",
+      "published": "Mon, 10 Aug 2026 19:23:12 +0200",
+      "link": "https://www.theregister.com/security/2026/08/10/north-korean-spies-are-running-local-llms-to-cause-ai-mischief/5285632",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Gym rat asks AI agent to book him a class, it hacks a waitlist API to bump him up the list",
+      "source": "The Register",
+      "published": "Mon, 10 Aug 2026 18:45:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/gym-rat-asks-ai-agent-to-book-him-a-class-it-hacks-a-waitlist-api-to-bump-him-up-the-list/5285591",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -139,82 +221,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Latest GitHub outage squeezes Actions, Pages to death",
-      "source": "The Register",
-      "published": "Thu, 06 Aug 2026 20:30:48 +0200",
-      "link": "https://www.theregister.com/devops/2026/08/06/latest-github-outage-squeezes-actions-pages-to-death/5284297",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
-      "source": "The Register",
-      "published": "Thu, 06 Aug 2026 18:44:29 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Platform Engineering 2.0: your platform was built for a different era. AI just exposed it",
-      "source": "The Register",
-      "published": "Thu, 06 Aug 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/devops/2026/08/06/partner-content-platform-engineering-20-your-platform-was-built-for-a-different-era-ai-just-exposed-it/5283237",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Meta latest to tell world its AI agent wandered out of test pen",
-      "source": "The Register",
-      "published": "Thu, 06 Aug 2026 12:24:04 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/meta-latest-to-tell-world-its-ai-agent-wandered-out-of-test-pen/5283947",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "News Corp labels some AI companies 'crass kleptomaniacs'",
-      "source": "The Register",
-      "published": "Thu, 06 Aug 2026 11:30:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/news-corp-labels-some-ai-companies-crass-kleptomaniacs/5283848",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Proxmox ports itself to Arm with help from Nvidia and Supermicro",
-      "source": "The Register",
-      "published": "Thu, 06 Aug 2026 05:45:29 +0200",
-      "link": "https://www.theregister.com/virtualization/2026/08/06/proxmox-ports-itself-to-arm-with-help-from-nvidia-and-supermicro/5283770",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack",
-      "source": "The Register",
-      "published": "Thu, 06 Aug 2026 03:47:19 +0200",
-      "link": "https://www.theregister.com/security/2026/08/06/openai-reveals-its-rogue-agent-swarm-went-a-little-bit-borg-ahead-of-hugging-face-hack/5283741",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "An off-grid AI sounds like a great survival assistant, but is better left to roleplaying the zombie apocalypse",
-      "source": "The Register",
-      "published": "Thu, 06 Aug 2026 00:33:40 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/an-off-grid-ai-sounds-like-a-great-survival-assistant-but-is-better-left-to-roleplaying-the-zombie-apocalypse/5283685",
-      "matched_keywords": [
-        "AI",
-        "LLM"
       ]
     }
   ]
