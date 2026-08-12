@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T11:05:02.031328+00:00",
+  "last_updated": "2026-08-12T11:05:01.811721+00:00",
   "entries": [
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -38,12 +38,49 @@
       ]
     },
     {
-      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-      "source": "Ars Technica",
-      "published": "Wed, 08 Jul 2026 19:01:19 +0000",
-      "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "title": "Big Cloud is poised to corner the market for enterprise hardware",
+      "source": "The Register",
+      "published": "Wed, 12 Aug 2026 12:52:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/08/12/big-cloud-is-poised-to-corner-the-market-for-enterprise-hardware/5286621",
       "matched_keywords": [
-        "Google"
+        "AI"
+      ]
+    },
+    {
+      "title": "Zuck\u2019s Chinese agentic prey escapes, will resume standalone ops",
+      "source": "The Register",
+      "published": "Wed, 12 Aug 2026 06:54:36 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/zucks-chinese-agentic-prey-escapes-will-resume-standalone-ops/5286598",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "India\u2019s central bank wants AI to approve loans that humans would reject",
+      "source": "The Register",
+      "published": "Wed, 12 Aug 2026 03:18:21 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/indias-central-bank-wants-ai-to-approve-loans-that-humans-would-reject/5286572",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Give Palantir up to $244M through 2028, says internal Defense Department memo",
+      "source": "The Register",
+      "published": "Tue, 11 Aug 2026 23:15:00 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/08/11/palantir-could-receive-244m-pentagon-no-bid-contract/5286438",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Together AI embraces the competition with $240M IBM Cloud deal",
+      "source": "The Register",
+      "published": "Tue, 11 Aug 2026 20:51:26 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/08/11/together-ai-embraces-the-competition-with-240m-ibm-cloud-deal/5286400",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
       ]
     },
     {
@@ -166,61 +203,6 @@
         "AI",
         "Anthropic",
         "OpenAI"
-      ]
-    },
-    {
-      "title": "AI titans to tidy agent frontier with plugin prescription",
-      "source": "The Register",
-      "published": "Fri, 07 Aug 2026 20:53:50 +0200",
-      "link": "https://www.theregister.com/devops/2026/08/07/ai-titans-to-tidy-agent-frontier-with-plugin-prescription/5285017",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ransomware attacks spike as world distracted by AI",
-      "source": "The Register",
-      "published": "Fri, 07 Aug 2026 18:45:00 +0200",
-      "link": "https://www.theregister.com/security/2026/08/07/ransomware-attacks-spike-as-world-distracted-by-ai/5284934",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "'Asimov was right' about rules for robots, says ex-US Cyber Director",
-      "source": "The Register",
-      "published": "Fri, 07 Aug 2026 12:03:00 +0200",
-      "link": "https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "How the famed USENIX Security conf is managing a flood of papers in the AI era",
-      "source": "The Register",
-      "published": "Fri, 07 Aug 2026 01:40:23 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/07/how-the-famed-usenix-security-conf-is-managing-a-flood-of-papers-in-the-ai-era/5284374",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon",
-      "source": "The Register",
-      "published": "Thu, 06 Aug 2026 22:05:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "AI struggles to patch vulns without adult supervision",
-      "source": "The Register",
-      "published": "Thu, 06 Aug 2026 21:04:30 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
