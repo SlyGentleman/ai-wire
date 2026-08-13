@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-12T11:05:01.811721+00:00",
+  "last_updated": "2026-08-13T11:05:01.210896+00:00",
   "entries": [
+    {
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "source": "Ars Technica",
+      "published": "Wed, 12 Aug 2026 21:43:21 +0000",
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "source": "Ars Technica",
@@ -35,6 +44,100 @@
       "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Twitch feeds your streams to Amazon's AI unless you tell it to stop",
+      "source": "The Register",
+      "published": "Thu, 13 Aug 2026 12:32:00 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/08/13/twitch-feeds-your-streams-to-amazons-ai-unless-you-tell-it-to-stop/5287258",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Passwords stored in public Google Doc then showed up in search results",
+      "source": "The Register",
+      "published": "Thu, 13 Aug 2026 09:00:00 +0200",
+      "link": "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Tencent says it could make instant profits on $53B hardware splurge by renting it for AI workloads",
+      "source": "The Register",
+      "published": "Thu, 13 Aug 2026 06:45:21 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/08/13/tencent-says-it-could-make-instant-profits-on-53b-hardware-splurge-by-renting-it-for-ai-workloads/5287181",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI ad service can bill customers for up to one day after they pause campaigns",
+      "source": "The Register",
+      "published": "Thu, 13 Aug 2026 02:28:31 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/13/openai-ad-service-can-bill-customers-for-up-to-one-day-after-they-pause-campaigns/5287110",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Rent-a-GPU outfit Nebius promises rapid 1 GW powerup plan isn't nebulous",
+      "source": "The Register",
+      "published": "Thu, 13 Aug 2026 00:56:39 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/08/12/rent-a-gpu-outfit-nebius-promises-rapid-1-gw-powerup-plan-isnt-nebulous/5287086",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
+      "source": "The Register",
+      "published": "Wed, 12 Aug 2026 23:45:16 +0200",
+      "link": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia's latest solution to soaring enterprise AI costs is...a router?",
+      "source": "The Register",
+      "published": "Wed, 12 Aug 2026 21:00:10 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/nvidias-latest-solution-for-soaring-enterprise-costs-nemo-switchyard-software-router/5286911",
+      "matched_keywords": [
+        "AI",
+        "Nvidia",
+        "model"
+      ]
+    },
+    {
+      "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
+      "source": "The Register",
+      "published": "Wed, 12 Aug 2026 18:57:33 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "CoreWeave revenue doubles as debt pile reaches $35.6B",
+      "source": "The Register",
+      "published": "Wed, 12 Aug 2026 18:13:58 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/08/12/coreweave-revenue-doubles-as-debt-pile-reaches-356b/5286832",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Sovereign AI overcomes compliance challenges and feeds innovation in public sector and other regulated industries, say HPE and NVIDIA",
+      "source": "The Register",
+      "published": "Wed, 12 Aug 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/sponsored-sovereign-ai-overcomes-compliance-challenges-and-feeds-innovation-in-public-sector-and-other-regulated-industries-say-hpe-and-nvidia/5285522",
+      "matched_keywords": [
+        "AI",
+        "NVIDIA"
       ]
     },
     {
@@ -117,91 +220,6 @@
       "published": "Mon, 10 Aug 2026 23:25:39 +0200",
       "link": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
       "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "DEF CON hackers add new muscle to water utility protection",
-      "source": "The Register",
-      "published": "Mon, 10 Aug 2026 23:08:04 +0200",
-      "link": "https://www.theregister.com/security/2026/08/10/def-con-hackers-add-new-muscle-to-water-utility-protection/5285715",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The future is for billionaires \u2013 the rest of us will get open weight AI models, maybe",
-      "source": "The Register",
-      "published": "Mon, 10 Aug 2026 22:49:37 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Zuck rekindles open weights Llama drama with Muse Glimmer",
-      "source": "The Register",
-      "published": "Mon, 10 Aug 2026 22:05:48 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "North Korean spies are running local LLMs to cause AI mischief",
-      "source": "The Register",
-      "published": "Mon, 10 Aug 2026 19:23:12 +0200",
-      "link": "https://www.theregister.com/security/2026/08/10/north-korean-spies-are-running-local-llms-to-cause-ai-mischief/5285632",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Gym rat asks AI agent to book him a class, it hacks a waitlist API to bump him up the list",
-      "source": "The Register",
-      "published": "Mon, 10 Aug 2026 18:45:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/gym-rat-asks-ai-agent-to-book-him-a-class-it-hacks-a-waitlist-api-to-bump-him-up-the-list/5285591",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
-      "source": "The Register",
-      "published": "Mon, 10 Aug 2026 07:56:15 +0200",
-      "link": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Advertisers are trying to influence AI bots with secret ads",
-      "source": "The Register",
-      "published": "Mon, 10 Aug 2026 05:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
-      "source": "The Register",
-      "published": "Sat, 08 Aug 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
-      "source": "The Register",
-      "published": "Sat, 08 Aug 2026 01:41:07 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/08/openai-pledges-to-add-astra-security-as-anthropic-loosens-fables-leash/5285161",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
         "OpenAI"
       ]
     }
