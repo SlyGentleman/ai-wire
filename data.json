@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T11:05:01.793065+00:00",
+  "last_updated": "2026-08-17T11:05:01.334870+00:00",
   "entries": [
     {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
@@ -53,6 +53,55 @@
       "source": "Ars Technica",
       "published": "Thu, 16 Jul 2026 15:48:21 +0000",
       "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Code fixers have fired up the AI warp drive. Strange new worlds await",
+      "source": "The Register",
+      "published": "Mon, 17 Aug 2026 11:04:00 +0200",
+      "link": "https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Black Hat and DEF CON are AI conferences now, too",
+      "source": "The Register",
+      "published": "Mon, 17 Aug 2026 09:30:00 +0200",
+      "link": "https://www.theregister.com/security/2026/08/17/black-hat-and-def-con-are-ai-conferences-now-too/5288076",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft blames AI for delayed Exchange update, can\u2019t say when it will arrive",
+      "source": "The Register",
+      "published": "Mon, 17 Aug 2026 04:31:58 +0200",
+      "link": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Chinese AI company Zhipu claims its new model is a better bug-finder than Anthropic, OpenAI",
+      "source": "The Register",
+      "published": "Mon, 17 Aug 2026 02:51:21 +0200",
+      "link": "https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "Google",
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Stopping a cyberattack while walking your dog - defensive AI security CEO says it's not ruff to do",
+      "source": "The Register",
+      "published": "Sun, 16 Aug 2026 12:06:00 +0200",
+      "link": "https://www.theregister.com/security/2026/08/16/stopping-a-cyberattack-while-walking-your-dog-defensive-ai-security-ceo-says-its-not-ruff-to-do/5288126",
       "matched_keywords": [
         "AI"
       ]
@@ -203,26 +252,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "CoreWeave revenue doubles as debt pile reaches $35.6B",
-      "source": "The Register",
-      "published": "Wed, 12 Aug 2026 18:13:58 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/08/12/coreweave-revenue-doubles-as-debt-pile-reaches-356b/5286832",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "Sovereign AI overcomes compliance challenges and feeds innovation in public sector and other regulated industries, say HPE and NVIDIA",
-      "source": "The Register",
-      "published": "Wed, 12 Aug 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/sponsored-sovereign-ai-overcomes-compliance-challenges-and-feeds-innovation-in-public-sector-and-other-regulated-industries-say-hpe-and-nvidia/5285522",
-      "matched_keywords": [
-        "AI",
-        "NVIDIA"
       ]
     }
   ]
