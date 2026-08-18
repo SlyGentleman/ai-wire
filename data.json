@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-17T11:05:01.334870+00:00",
+  "last_updated": "2026-08-18T11:05:01.781772+00:00",
   "entries": [
+    {
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "source": "Ars Technica",
+      "published": "Mon, 17 Aug 2026 14:22:54 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
     {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "source": "Ars Technica",
@@ -53,6 +62,73 @@
       "source": "Ars Technica",
       "published": "Thu, 16 Jul 2026 15:48:21 +0000",
       "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK puts Google AI on the flight path to fewer contrails",
+      "source": "The Register",
+      "published": "Tue, 18 Aug 2026 11:45:00 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "AI models get convenient amnesia about source material as they grow, MIT boffins find",
+      "source": "The Register",
+      "published": "Tue, 18 Aug 2026 11:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/ai-models-get-convenient-amnesia-about-source-material-as-they-grow-mit-boffins-find/5288846",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Google buys crashed airline Spirit\u2019s data at auction, because AI",
+      "source": "The Register",
+      "published": "Tue, 18 Aug 2026 08:43:06 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Payments giant Stripe is about to drop over $7 billion to become a gateway to AI token sales",
+      "source": "The Register",
+      "published": "Mon, 17 Aug 2026 22:10:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/17/payments-giant-stripe-is-about-to-drop-over-7-billion-to-become-a-gateway-to-ai-token-sales/5288743",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Siemens and Reinhausen turn up the voltage for hungry AI racks",
+      "source": "The Register",
+      "published": "Mon, 17 Aug 2026 20:30:11 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/08/17/siemens-and-reinhausen-turn-up-the-voltage-for-hungry-ai-racks/5288565",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Agentic AI costs set to balloon fivefold by 2028",
+      "source": "The Register",
+      "published": "Mon, 17 Aug 2026 14:27:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Be a hater all you want, AI's here to stay",
+      "source": "The Register",
+      "published": "Mon, 17 Aug 2026 12:18:14 +0200",
+      "link": "https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275",
       "matched_keywords": [
         "AI"
       ]
@@ -169,89 +245,6 @@
       "link": "https://www.theregister.com/software/2026/08/13/give-google-the-boot-by-building-your-own-search-engine/5287535",
       "matched_keywords": [
         "Google"
-      ]
-    },
-    {
-      "title": "Ryanair adds Google to its dual-cloud flight plan",
-      "source": "The Register",
-      "published": "Thu, 13 Aug 2026 14:31:00 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/08/13/ryanair-adds-google-to-its-dual-cloud-flight-plan/5287336",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Twitch feeds your streams to Amazon's AI unless you tell it to stop",
-      "source": "The Register",
-      "published": "Thu, 13 Aug 2026 12:32:00 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/08/13/twitch-feeds-your-streams-to-amazons-ai-unless-you-tell-it-to-stop/5287258",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Passwords stored in public Google Doc then showed up in search results",
-      "source": "The Register",
-      "published": "Thu, 13 Aug 2026 09:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Tencent says it could make instant profits on $53B hardware splurge by renting it for AI workloads",
-      "source": "The Register",
-      "published": "Thu, 13 Aug 2026 06:45:21 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/08/13/tencent-says-it-could-make-instant-profits-on-53b-hardware-splurge-by-renting-it-for-ai-workloads/5287181",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI ad service can bill customers for up to one day after they pause campaigns",
-      "source": "The Register",
-      "published": "Thu, 13 Aug 2026 02:28:31 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/13/openai-ad-service-can-bill-customers-for-up-to-one-day-after-they-pause-campaigns/5287110",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Rent-a-GPU outfit Nebius promises rapid 1 GW powerup plan isn't nebulous",
-      "source": "The Register",
-      "published": "Thu, 13 Aug 2026 00:56:39 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/08/12/rent-a-gpu-outfit-nebius-promises-rapid-1-gw-powerup-plan-isnt-nebulous/5287086",
-      "matched_keywords": [
-        "GPU"
-      ]
-    },
-    {
-      "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
-      "source": "The Register",
-      "published": "Wed, 12 Aug 2026 23:45:16 +0200",
-      "link": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia's latest solution to soaring enterprise AI costs is...a router?",
-      "source": "The Register",
-      "published": "Wed, 12 Aug 2026 21:00:10 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/nvidias-latest-solution-for-soaring-enterprise-costs-nemo-switchyard-software-router/5286911",
-      "matched_keywords": [
-        "AI",
-        "Nvidia",
-        "model"
-      ]
-    },
-    {
-      "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
-      "source": "The Register",
-      "published": "Wed, 12 Aug 2026 18:57:33 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
