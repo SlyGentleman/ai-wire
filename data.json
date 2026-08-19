@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T11:05:01.781772+00:00",
+  "last_updated": "2026-08-19T11:05:01.415421+00:00",
   "entries": [
     {
       "title": "Nvidia discloses $21B stake in SpaceX",
@@ -62,6 +62,62 @@
       "source": "Ars Technica",
       "published": "Thu, 16 Jul 2026 15:48:21 +0000",
       "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Scotland's AI Growth Zone gets a wee \u00a3300M power-up",
+      "source": "The Register",
+      "published": "Wed, 19 Aug 2026 13:02:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/08/19/scotlands-ai-growth-zone-gets-a-wee-300m-power-up/5289042",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Baidu says Chinese buyers want local AI chips due to \u2018supply chain\u2019 issues",
+      "source": "The Register",
+      "published": "Wed, 19 Aug 2026 06:07:58 +0200",
+      "link": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+      "source": "The Register",
+      "published": "Wed, 19 Aug 2026 02:00:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
+      "source": "The Register",
+      "published": "Wed, 19 Aug 2026 01:36:36 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
+      "matched_keywords": [
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Study finds Meta and Google mobile apps gorge on user data",
+      "source": "The Register",
+      "published": "Tue, 18 Aug 2026 18:01:00 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/08/18/study-finds-meta-and-google-mobile-apps-gorge-on-user-data/5289171",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Copilot tricked into telling reseachers how to hack itself",
+      "source": "The Register",
+      "published": "Tue, 18 Aug 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/research/2026/08/18/copilot-tricked-into-telling-reseachers-how-to-hack-itself/5288857",
       "matched_keywords": [
         "AI"
       ]
@@ -199,52 +255,6 @@
       "matched_keywords": [
         "AI",
         "DeepSeek"
-      ]
-    },
-    {
-      "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
-      "source": "The Register",
-      "published": "Fri, 14 Aug 2026 18:52:51 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Autonomous AI attacks pose 'clear and present danger' to critical infrastructure",
-      "source": "The Register",
-      "published": "Fri, 14 Aug 2026 15:03:00 +0200",
-      "link": "https://www.theregister.com/security/2026/08/14/autonomous-ai-attacks-pose-clear-and-present-danger-to-critical-infrastructure/5287594",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
-      "source": "The Register",
-      "published": "Fri, 14 Aug 2026 09:30:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/14/claude-code-returns-blank-thinking-blocks-but-reasoning-still-costs-you/5287557",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging",
-      "source": "The Register",
-      "published": "Fri, 14 Aug 2026 02:27:53 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Give Google the boot by building your own search engine",
-      "source": "The Register",
-      "published": "Thu, 13 Aug 2026 22:48:15 +0200",
-      "link": "https://www.theregister.com/software/2026/08/13/give-google-the-boot-by-building-your-own-search-engine/5287535",
-      "matched_keywords": [
-        "Google"
       ]
     }
   ]
