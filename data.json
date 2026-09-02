@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-19T11:05:01.415421+00:00",
+  "last_updated": "2026-09-02T11:05:01.196597+00:00",
   "entries": [
+    {
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "source": "Ars Technica",
+      "published": "Thu, 27 Aug 2026 12:58:59 +0000",
+      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "matched_keywords": [
+        "LLM",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
+      "source": "Ars Technica",
+      "published": "Wed, 26 Aug 2026 21:25:27 +0000",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "source": "Ars Technica",
+      "published": "Thu, 20 Aug 2026 13:00:35 +0000",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
     {
       "title": "Nvidia discloses $21B stake in SpaceX",
       "source": "Ars Technica",
@@ -31,230 +59,168 @@
       ]
     },
     {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "source": "Ars Technica",
-      "published": "Tue, 28 Jul 2026 21:36:39 +0000",
-      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "title": "UK goes shopping for homegrown AI with \u00a3100M procurement scheme",
+      "source": "The Register",
+      "published": "Wed, 02 Sep 2026 12:51:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/uk-goes-shopping-for-homegrown-ai-with-100m-procurement-scheme/5293680",
       "matched_keywords": [
-        "OpenAI"
+        "AI",
+        "compute"
       ]
     },
     {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "source": "Ars Technica",
-      "published": "Mon, 27 Jul 2026 21:56:14 +0000",
-      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "title": "UK cyber bill targets AI users, not the vendors building it",
+      "source": "The Register",
+      "published": "Wed, 02 Sep 2026 11:44:00 +0200",
+      "link": "https://www.theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-      "source": "Ars Technica",
-      "published": "Tue, 21 Jul 2026 15:18:23 +0000",
-      "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+      "title": "Anthropic promises zero data retention \u2013 but customers must check it worked",
+      "source": "The Register",
+      "published": "Wed, 02 Sep 2026 01:37:46 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/anthropic-promises-zero-data-retention-but-customers-must-check-it-worked/5293789",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Another Artifactory CVE under attack by AI agents or humans",
+      "source": "The Register",
+      "published": "Tue, 01 Sep 2026 23:07:13 +0200",
+      "link": "https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Attacker stole a METR API key, used $600K worth of credits, and no one noticed for weeks",
+      "source": "The Register",
+      "published": "Tue, 01 Sep 2026 22:45:00 +0200",
+      "link": "https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730",
       "matched_keywords": [
         "model"
       ]
     },
     {
-      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "source": "Ars Technica",
-      "published": "Thu, 16 Jul 2026 15:48:21 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "title": "Anthropic pledges to try harder to keep models under control, asks partners to chip in",
+      "source": "The Register",
+      "published": "Tue, 01 Sep 2026 21:27:23 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Oracle pins hopes on 'Star Wars' productivity jump to lightspeed from AI-assisted engineering",
+      "source": "The Register",
+      "published": "Tue, 01 Sep 2026 18:06:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/01/oracle-pins-hopes-on-star-wars-productivity-jump-to-lightspeed-from-ai-assisted-engineering-1/5293596",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Scotland's AI Growth Zone gets a wee \u00a3300M power-up",
+      "title": "Next bus to Altrincham delayed by Windows Defender",
       "source": "The Register",
-      "published": "Wed, 19 Aug 2026 13:02:00 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/08/19/scotlands-ai-growth-zone-gets-a-wee-300m-power-up/5289042",
+      "published": "Tue, 01 Sep 2026 11:15:00 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/09/01/next-bus-to-altrincham-delayed-by-windows-defender/5293289",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "Baidu says Chinese buyers want local AI chips due to \u2018supply chain\u2019 issues",
+      "title": "The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten",
       "source": "The Register",
-      "published": "Wed, 19 Aug 2026 06:07:58 +0200",
-      "link": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
+      "published": "Tue, 01 Sep 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI adoption at work is broad but shallow",
+      "source": "The Register",
+      "published": "Tue, 01 Sep 2026 01:43:37 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia is building an IP licensing empire on the back of NVLink",
+      "source": "The Register",
+      "published": "Tue, 01 Sep 2026 00:54:24 +0200",
+      "link": "https://www.theregister.com/systems/2026/08/31/nvidia-is-building-an-ip-licensing-empire-on-the-back-of-nvlink/5293530",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD",
+      "source": "The Register",
+      "published": "Mon, 31 Aug 2026 22:48:35 +0200",
+      "link": "https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520",
       "matched_keywords": [
         "AI",
         "Nvidia"
       ]
     },
     {
-      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+      "title": "Anthropic cracks down on hijacked user accounts mining AI tokens",
       "source": "The Register",
-      "published": "Wed, 19 Aug 2026 02:00:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
-      "source": "The Register",
-      "published": "Wed, 19 Aug 2026 01:36:36 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
-      "matched_keywords": [
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "Study finds Meta and Google mobile apps gorge on user data",
-      "source": "The Register",
-      "published": "Tue, 18 Aug 2026 18:01:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/08/18/study-finds-meta-and-google-mobile-apps-gorge-on-user-data/5289171",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Copilot tricked into telling reseachers how to hack itself",
-      "source": "The Register",
-      "published": "Tue, 18 Aug 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/research/2026/08/18/copilot-tricked-into-telling-reseachers-how-to-hack-itself/5288857",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK puts Google AI on the flight path to fewer contrails",
-      "source": "The Register",
-      "published": "Tue, 18 Aug 2026 11:45:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516",
+      "published": "Mon, 31 Aug 2026 18:03:46 +0200",
+      "link": "https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461",
       "matched_keywords": [
         "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "AI models get convenient amnesia about source material as they grow, MIT boffins find",
-      "source": "The Register",
-      "published": "Tue, 18 Aug 2026 11:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/ai-models-get-convenient-amnesia-about-source-material-as-they-grow-mit-boffins-find/5288846",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Google buys crashed airline Spirit\u2019s data at auction, because AI",
-      "source": "The Register",
-      "published": "Tue, 18 Aug 2026 08:43:06 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Payments giant Stripe is about to drop over $7 billion to become a gateway to AI token sales",
-      "source": "The Register",
-      "published": "Mon, 17 Aug 2026 22:10:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/17/payments-giant-stripe-is-about-to-drop-over-7-billion-to-become-a-gateway-to-ai-token-sales/5288743",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Siemens and Reinhausen turn up the voltage for hungry AI racks",
-      "source": "The Register",
-      "published": "Mon, 17 Aug 2026 20:30:11 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/08/17/siemens-and-reinhausen-turn-up-the-voltage-for-hungry-ai-racks/5288565",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Agentic AI costs set to balloon fivefold by 2028",
-      "source": "The Register",
-      "published": "Mon, 17 Aug 2026 14:27:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Be a hater all you want, AI's here to stay",
-      "source": "The Register",
-      "published": "Mon, 17 Aug 2026 12:18:14 +0200",
-      "link": "https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Code fixers have fired up the AI warp drive. Strange new worlds await",
-      "source": "The Register",
-      "published": "Mon, 17 Aug 2026 11:04:00 +0200",
-      "link": "https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Black Hat and DEF CON are AI conferences now, too",
-      "source": "The Register",
-      "published": "Mon, 17 Aug 2026 09:30:00 +0200",
-      "link": "https://www.theregister.com/security/2026/08/17/black-hat-and-def-con-are-ai-conferences-now-too/5288076",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft blames AI for delayed Exchange update, can\u2019t say when it will arrive",
-      "source": "The Register",
-      "published": "Mon, 17 Aug 2026 04:31:58 +0200",
-      "link": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Chinese AI company Zhipu claims its new model is a better bug-finder than Anthropic, OpenAI",
-      "source": "The Register",
-      "published": "Mon, 17 Aug 2026 02:51:21 +0200",
-      "link": "https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "Google",
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "Stopping a cyberattack while walking your dog - defensive AI security CEO says it's not ruff to do",
-      "source": "The Register",
-      "published": "Sun, 16 Aug 2026 12:06:00 +0200",
-      "link": "https://www.theregister.com/security/2026/08/16/stopping-a-cyberattack-while-walking-your-dog-defensive-ai-security-ceo-says-its-not-ruff-to-do/5288126",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic says text watermarking scheme relies on inconsequential words",
-      "source": "The Register",
-      "published": "Sat, 15 Aug 2026 02:44:41 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/15/anthropic-says-text-watermarking-scheme-relies-on-inconsequential-words/5288156",
-      "matched_keywords": [
         "Anthropic"
       ]
     },
     {
-      "title": "DeepSeek's innovative harness treats everything as a plug-in",
+      "title": "Energy biz SSE smacked around in court by a guy and AI",
       "source": "The Register",
-      "published": "Fri, 14 Aug 2026 22:25:56 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/14/deepseeks-innovative-harness-treats-everything-as-a-plug-in/5288095",
+      "published": "Mon, 31 Aug 2026 09:45:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/31/energy-biz-sse-smacked-around-in-court-by-a-guy-and-ai/5293391",
       "matched_keywords": [
-        "AI",
-        "DeepSeek"
+        "AI"
+      ]
+    },
+    {
+      "title": "The balkanization of virtualization will de-throne VMware, which doesn't mind a bit",
+      "source": "The Register",
+      "published": "Mon, 31 Aug 2026 09:01:00 +0200",
+      "link": "https://www.theregister.com/virtualization/2026/08/31/the-balkanization-of-virtualization-will-de-throne-vmware-which-doesnt-mind-a-bit/5292488",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Debian votes to let contributors code with AI",
+      "source": "The Register",
+      "published": "Sun, 30 Aug 2026 23:01:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "German-Japanese researchers invent electricity-free tech that could cool datacenters",
+      "source": "The Register",
+      "published": "Fri, 28 Aug 2026 22:23:23 +0200",
+      "link": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "LibreOffice 26.8 is out \u2013 local first, and with no AI",
+      "source": "The Register",
+      "published": "Fri, 28 Aug 2026 17:45:00 +0200",
+      "link": "https://www.theregister.com/applications/2026/08/28/libreoffice-268-is-out-local-first-and-with-no-ai/5293301",
+      "matched_keywords": [
+        "AI"
       ]
     }
   ]
