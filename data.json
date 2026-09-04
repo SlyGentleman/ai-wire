@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T11:05:01.443175+00:00",
+  "last_updated": "2026-09-04T11:05:01.411465+00:00",
   "entries": [
     {
       "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
@@ -56,6 +56,83 @@
       "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "US law firm accuses UK AI software firm of unwanted contract renewal when it tried to leave",
+      "source": "The Register",
+      "published": "Fri, 04 Sep 2026 11:15:00 +0200",
+      "link": "https://www.theregister.com/legal/2026/09/04/us-law-firm-accuses-uk-ai-software-firm-of-unwanted-contract-renewal-when-it-tried-to-leave/5293995",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google engineer unplugged every fiber they could see and \u2013 surprise! \u2013 took down a chunk of the G-Cloud",
+      "source": "The Register",
+      "published": "Fri, 04 Sep 2026 06:48:25 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/09/04/google-engineer-unplugged-every-fiber-they-could-see-and-surprise-took-down-a-chunk-of-the-g-cloud/5294418",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "OpenAI commits $1B in AI credits to frontline cyber defenders",
+      "source": "The Register",
+      "published": "Fri, 04 Sep 2026 01:47:05 +0200",
+      "link": "https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "OpenAI throws Astra into the top-tier model ring",
+      "source": "The Register",
+      "published": "Fri, 04 Sep 2026 00:42:22 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/openai-throws-astra-into-the-top-tier-model-ring/5294378",
+      "matched_keywords": [
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Hugging Face is too important to fall into Nvidia's hands",
+      "source": "The Register",
+      "published": "Fri, 04 Sep 2026 00:15:26 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/hugging-face-is-too-important-to-fall-into-nvidias-hands/5294363",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "True AI-pocalypse as ChatGPT, Claude, and Grok all go down at once",
+      "source": "The Register",
+      "published": "Thu, 03 Sep 2026 20:24:55 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/chatgpt-claude-and-grok-all-had-outages-at-the-same-time/5294322",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Hugging Face CEO says 'planets aligned' for Nvidia deal, aims to reach 100M users",
+      "source": "The Register",
+      "published": "Thu, 03 Sep 2026 19:23:39 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/hugging-face-ceo-says-planets-aligned-for-nvidia-deal-aims-to-reach-100m-users/5294293",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Nvidia buys Hugging Face for $12.9B, promises not to squeeze too hard",
+      "source": "The Register",
+      "published": "Thu, 03 Sep 2026 15:03:13 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/nvidia-buys-hugging-face-for-129b-promises-not-to-squeeze-too-hard/5294208",
+      "matched_keywords": [
+        "AI",
+        "GPU",
+        "Nvidia",
+        "model"
       ]
     },
     {
@@ -164,85 +241,21 @@
       ]
     },
     {
-      "title": "UK goes shopping for homegrown AI with \u00a3100M procurement scheme",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 12:51:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/uk-goes-shopping-for-homegrown-ai-with-100m-procurement-scheme/5293680",
+      "title": "The Birds Outside, Drawn For You Automatically",
+      "source": "Hackaday",
+      "published": "Fri, 04 Sep 2026 08:00:38 +0000",
+      "link": "https://hackaday.com/2026/09/04/the-birds-outside-drawn-for-you-automatically/",
       "matched_keywords": [
-        "AI",
-        "compute"
+        "artificial intelligence"
       ]
     },
     {
-      "title": "UK cyber bill targets AI users, not the vendors building it",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 11:44:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic promises zero data retention \u2013 but customers must check it worked",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 01:37:46 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/anthropic-promises-zero-data-retention-but-customers-must-check-it-worked/5293789",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Another Artifactory CVE under attack by AI agents or humans",
-      "source": "The Register",
-      "published": "Tue, 01 Sep 2026 23:07:13 +0200",
-      "link": "https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Attacker stole a METR API key, used $600K worth of credits, and no one noticed for weeks",
-      "source": "The Register",
-      "published": "Tue, 01 Sep 2026 22:45:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730",
+      "title": "Tube Launch Boosts Rocket\u2019s Performance",
+      "source": "Hackaday",
+      "published": "Fri, 04 Sep 2026 05:00:23 +0000",
+      "link": "https://hackaday.com/2026/09/03/tube-launch-boosts-rockets-performance/",
       "matched_keywords": [
         "model"
-      ]
-    },
-    {
-      "title": "Anthropic pledges to try harder to keep models under control, asks partners to chip in",
-      "source": "The Register",
-      "published": "Tue, 01 Sep 2026 21:27:23 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Oracle pins hopes on 'Star Wars' productivity jump to lightspeed from AI-assisted engineering",
-      "source": "The Register",
-      "published": "Tue, 01 Sep 2026 18:06:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/01/oracle-pins-hopes-on-star-wars-productivity-jump-to-lightspeed-from-ai-assisted-engineering-1/5293596",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Next bus to Altrincham delayed by Windows Defender",
-      "source": "The Register",
-      "published": "Tue, 01 Sep 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/09/01/next-bus-to-altrincham-delayed-by-windows-defender/5293289",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten",
-      "source": "The Register",
-      "published": "Tue, 01 Sep 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
