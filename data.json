@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-04T11:05:01.411465+00:00",
+  "last_updated": "2026-09-06T11:05:01.168313+00:00",
   "entries": [
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "source": "Ars Technica",
+      "published": "Fri, 04 Sep 2026 22:17:36 +0000",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "source": "Ars Technica",
+      "published": "Fri, 04 Sep 2026 17:18:12 +0000",
+      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
       "source": "Ars Technica",
@@ -39,23 +57,40 @@
       ]
     },
     {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "source": "Ars Technica",
-      "published": "Fri, 14 Aug 2026 14:27:14 +0000",
-      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "title": "Anthropic lays groundwork for bots that shop for you",
+      "source": "The Register",
+      "published": "Fri, 04 Sep 2026 22:36:07 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/04/anthropic-lays-groundwork-for-bots-that-shop-for-you/5294621",
       "matched_keywords": [
         "AI",
-        "Anthropic",
-        "OpenAI"
+        "Anthropic"
       ]
     },
     {
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "source": "Ars Technica",
-      "published": "Wed, 12 Aug 2026 21:43:21 +0000",
-      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "title": "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
+      "source": "The Register",
+      "published": "Fri, 04 Sep 2026 22:12:11 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "ASCII smuggling isn't just an AI security risk",
+      "source": "The Register",
+      "published": "Fri, 04 Sep 2026 21:23:25 +0200",
+      "link": "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident",
+      "source": "The Register",
+      "published": "Fri, 04 Sep 2026 18:02:08 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554",
+      "matched_keywords": [
+        "OpenAI"
       ]
     },
     {
@@ -183,78 +218,14 @@
       ]
     },
     {
-      "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 21:59:26 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049",
+      "title": "Can AI Now Design PCBs That Just Work?",
+      "source": "Hackaday",
+      "published": "Sun, 06 Sep 2026 02:00:46 +0000",
+      "link": "https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/",
       "matched_keywords": [
         "AI",
-        "Google",
-        "model"
-      ]
-    },
-    {
-      "title": "AI agents carried out every step of this ransomware attack \u2013 then left the victim an 80-page security audit",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 20:28:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Infosec pros say we're not ready to lose control of AI",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 19:56:49 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/infosec-pros-say-were-not-ready-to-lose-control-of-ai/5294001",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic hires architect of UK AI policy as MPs warn of 'clear conflict of interest'",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 15:15:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/09/02/anthropic-hires-architect-of-uk-ai-policy-as-mps-warn-of-clear-conflict-of-interest/5293903",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "LLM"
-      ]
-    },
-    {
-      "title": "Next-gen AI networks may hinge on the telephone switchboard's return",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/networks/2026/09/02/nvidia-joins-investment-into-ipronics-to-build-out-optical-circuit-switching-ocs-tech/5293764",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft update disarms Outlook and Teams on Arm PCs",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 14:30:00 +0200",
-      "link": "https://www.theregister.com/os-platforms/2026/09/02/microsoft-update-disarms-outlook-and-teams-on-arm-pcs/5293849",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The Birds Outside, Drawn For You Automatically",
-      "source": "Hackaday",
-      "published": "Fri, 04 Sep 2026 08:00:38 +0000",
-      "link": "https://hackaday.com/2026/09/04/the-birds-outside-drawn-for-you-automatically/",
-      "matched_keywords": [
-        "artificial intelligence"
-      ]
-    },
-    {
-      "title": "Tube Launch Boosts Rocket\u2019s Performance",
-      "source": "Hackaday",
-      "published": "Fri, 04 Sep 2026 05:00:23 +0000",
-      "link": "https://hackaday.com/2026/09/03/tube-launch-boosts-rockets-performance/",
-      "matched_keywords": [
+        "OpenAI",
+        "ai",
         "model"
       ]
     }
