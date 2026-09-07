@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T11:05:01.168313+00:00",
+  "last_updated": "2026-09-07T11:05:01.238680+00:00",
   "entries": [
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -54,6 +54,45 @@
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "matched_keywords": [
         "Nvidia"
+      ]
+    },
+    {
+      "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on",
+      "source": "The Register",
+      "published": "Mon, 07 Sep 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Jensen's purchase of a new toy could reshape the entire AI industry",
+      "source": "The Register",
+      "published": "Mon, 07 Sep 2026 07:30:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/07/jensens-purchase-of-a-new-toy-could-reshape-the-entire-ai-industry/5294610",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Might as well blame AI for this giant Linux release candidate, says Linus Torvalds",
+      "source": "The Register",
+      "published": "Mon, 07 Sep 2026 04:32:33 +0200",
+      "link": "https://www.theregister.com/os-platforms/2026/09/07/might-as-well-blame-ai-for-this-giant-linux-release-candidate-says-linus-torvalds/5294697",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Thailand pauses all datacenter builds and approvals",
+      "source": "The Register",
+      "published": "Mon, 07 Sep 2026 03:05:51 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/09/07/thailand-pauses-all-datacenter-builds-and-approvals/5294688",
+      "matched_keywords": [
+        "DeepSeek",
+        "GPU",
+        "model"
       ]
     },
     {
@@ -167,65 +206,6 @@
         "AI",
         "GPU",
         "Nvidia",
-        "model"
-      ]
-    },
-    {
-      "title": "Your VMware renewal invoice ate your AI budget \u2013 what now?",
-      "source": "The Register",
-      "published": "Thu, 03 Sep 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/virtualization/2026/09/03/sponsored-your-vmware-renewal-invoice-ate-your-ai-budget-what-now/5287907",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "To keep the AI hacking genie bottled up, try one-way networks",
-      "source": "The Register",
-      "published": "Thu, 03 Sep 2026 08:33:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/to-keep-the-ai-hacking-genie-bottled-up-try-one-way-networks/5294121",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Zuck's Muse to Spark joy with open weights release 'soon'",
-      "source": "The Register",
-      "published": "Thu, 03 Sep 2026 00:31:10 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/zucks-muse-to-spark-joy-with-open-weights-release-soon/5294093",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "Claude Mythos only model to complete full cyber kill chain, experts say",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 23:31:31 +0200",
-      "link": "https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "AI-assisted mushroom hunting is a recipe for a bad trip",
-      "source": "The Register",
-      "published": "Wed, 02 Sep 2026 22:34:41 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Can AI Now Design PCBs That Just Work?",
-      "source": "Hackaday",
-      "published": "Sun, 06 Sep 2026 02:00:46 +0000",
-      "link": "https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/",
-      "matched_keywords": [
-        "AI",
-        "OpenAI",
-        "ai",
         "model"
       ]
     }
