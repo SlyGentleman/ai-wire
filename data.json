@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T11:05:01.238680+00:00",
+  "last_updated": "2026-09-08T11:05:01.252565+00:00",
   "entries": [
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -54,6 +54,34 @@
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "matched_keywords": [
         "Nvidia"
+      ]
+    },
+    {
+      "title": "Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform",
+      "source": "The Register",
+      "published": "Tue, 08 Sep 2026 10:35:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/08/arm-pushes-agentic-ai-and-desktop-quality-graphics-in-next-gen-phone-platform/5294867",
+      "matched_keywords": [
+        "AI",
+        "GPU"
+      ]
+    },
+    {
+      "title": "Matt Clifford to leave ARIA before Anthropic role becomes a 'distraction'",
+      "source": "The Register",
+      "published": "Mon, 07 Sep 2026 18:02:47 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/09/07/matt-clifford-to-leave-aria-before-anthropic-role-becomes-a-distraction/5294861",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "DRAM contract prices forecast to grow only 13-18% in Q3",
+      "source": "The Register",
+      "published": "Mon, 07 Sep 2026 17:20:00 +0200",
+      "link": "https://www.theregister.com/storage/2026/09/07/dram-contract-prices-forecast-to-grow-only-13-18-in-q3/5294776",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -167,45 +195,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/09/03/openai-throws-astra-into-the-top-tier-model-ring/5294378",
       "matched_keywords": [
         "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "Hugging Face is too important to fall into Nvidia's hands",
-      "source": "The Register",
-      "published": "Fri, 04 Sep 2026 00:15:26 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/hugging-face-is-too-important-to-fall-into-nvidias-hands/5294363",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "True AI-pocalypse as ChatGPT, Claude, and Grok all go down at once",
-      "source": "The Register",
-      "published": "Thu, 03 Sep 2026 20:24:55 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/chatgpt-claude-and-grok-all-had-outages-at-the-same-time/5294322",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Hugging Face CEO says 'planets aligned' for Nvidia deal, aims to reach 100M users",
-      "source": "The Register",
-      "published": "Thu, 03 Sep 2026 19:23:39 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/hugging-face-ceo-says-planets-aligned-for-nvidia-deal-aims-to-reach-100m-users/5294293",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Nvidia buys Hugging Face for $12.9B, promises not to squeeze too hard",
-      "source": "The Register",
-      "published": "Thu, 03 Sep 2026 15:03:13 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/nvidia-buys-hugging-face-for-129b-promises-not-to-squeeze-too-hard/5294208",
-      "matched_keywords": [
-        "AI",
-        "GPU",
-        "Nvidia",
         "model"
       ]
     }
