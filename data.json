@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-09-08T11:05:01.252565+00:00",
+  "last_updated": "2026-09-09T11:05:01.148725+00:00",
   "entries": [
+    {
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "source": "Ars Technica",
+      "published": "Tue, 08 Sep 2026 21:11:46 +0000",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "source": "Ars Technica",
@@ -54,6 +63,103 @@
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "matched_keywords": [
         "Nvidia"
+      ]
+    },
+    {
+      "title": "Another Microsoft team admits it\u2019s struggling to handle flood of AI-generated code",
+      "source": "The Register",
+      "published": "Wed, 09 Sep 2026 08:34:21 +0200",
+      "link": "https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Philippines bets AI will lift GDP by 12 percent in seven years \u2013 without hurting outsourcing",
+      "source": "The Register",
+      "published": "Wed, 09 Sep 2026 07:25:44 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/09/09/philippines-bets-ai-will-lift-gdp-by-12-percent-in-seven-years-without-hurting-outsourcing/5295178",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "US claims Chinese AI companies\u2019 core AI strategy is distilling American models",
+      "source": "The Register",
+      "published": "Wed, 09 Sep 2026 04:59:20 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/us-claims-chinese-ai-companies-core-ai-strategy-is-distilling-american-models/5295171",
+      "matched_keywords": [
+        "AI",
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "OpenAI GPT-6 Astra will run a retailer without cheating and sell more stuff than Anthropic",
+      "source": "The Register",
+      "published": "Wed, 09 Sep 2026 01:14:17 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/openai-gpt-6-astra-will-run-a-retailer-without-cheating-and-sell-more-stuff-than-anthropic/5295144",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Google DeepMind rises above the AI scrum with genome atlas",
+      "source": "The Register",
+      "published": "Wed, 09 Sep 2026 00:50:25 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/08/google-deepmind-rises-above-the-ai-scrum-with-genome-atlas/5295137",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack",
+      "source": "The Register",
+      "published": "Tue, 08 Sep 2026 23:12:19 +0200",
+      "link": "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Google research shows when AI agents communicate, some cheat while others tattle",
+      "source": "The Register",
+      "published": "Tue, 08 Sep 2026 20:59:14 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Amazon ropes Qualcomm into something, something AI, networking chips",
+      "source": "The Register",
+      "published": "Tue, 08 Sep 2026 19:29:24 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/09/08/amazon-ropes-qualcomm-into-something-something-ai-networking-chips/5295071",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Mistral bags \u20ac3B to build Europe's sovereign AI champion",
+      "source": "The Register",
+      "published": "Tue, 08 Sep 2026 14:45:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/08/mistral-bags-3b-to-build-europes-sovereign-ai-champion/5294941",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Extortion crews have their eyes on high-value AI data, Google warns",
+      "source": "The Register",
+      "published": "Tue, 08 Sep 2026 14:00:00 +0200",
+      "link": "https://www.theregister.com/research/2026/09/08/extortion-crews-have-their-eyes-on-high-value-ai-data-google-warns/5294640",
+      "matched_keywords": [
+        "AI",
+        "Google"
       ]
     },
     {
@@ -120,81 +226,6 @@
       "matched_keywords": [
         "DeepSeek",
         "GPU",
-        "model"
-      ]
-    },
-    {
-      "title": "Anthropic lays groundwork for bots that shop for you",
-      "source": "The Register",
-      "published": "Fri, 04 Sep 2026 22:36:07 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/04/anthropic-lays-groundwork-for-bots-that-shop-for-you/5294621",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
-      "source": "The Register",
-      "published": "Fri, 04 Sep 2026 22:12:11 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ASCII smuggling isn't just an AI security risk",
-      "source": "The Register",
-      "published": "Fri, 04 Sep 2026 21:23:25 +0200",
-      "link": "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident",
-      "source": "The Register",
-      "published": "Fri, 04 Sep 2026 18:02:08 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "US law firm accuses UK AI software firm of unwanted contract renewal when it tried to leave",
-      "source": "The Register",
-      "published": "Fri, 04 Sep 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/legal/2026/09/04/us-law-firm-accuses-uk-ai-software-firm-of-unwanted-contract-renewal-when-it-tried-to-leave/5293995",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google engineer unplugged every fiber they could see and \u2013 surprise! \u2013 took down a chunk of the G-Cloud",
-      "source": "The Register",
-      "published": "Fri, 04 Sep 2026 06:48:25 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/09/04/google-engineer-unplugged-every-fiber-they-could-see-and-surprise-took-down-a-chunk-of-the-g-cloud/5294418",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "OpenAI commits $1B in AI credits to frontline cyber defenders",
-      "source": "The Register",
-      "published": "Fri, 04 Sep 2026 01:47:05 +0200",
-      "link": "https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI throws Astra into the top-tier model ring",
-      "source": "The Register",
-      "published": "Fri, 04 Sep 2026 00:42:22 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/openai-throws-astra-into-the-top-tier-model-ring/5294378",
-      "matched_keywords": [
-        "OpenAI",
         "model"
       ]
     }
