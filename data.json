@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-09-09T11:05:01.148725+00:00",
+  "last_updated": "2026-09-10T11:05:01.306788+00:00",
   "entries": [
+    {
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "source": "Ars Technica",
+      "published": "Wed, 09 Sep 2026 20:55:02 +0000",
+      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Why this month's Microsoft patch release is a doozy",
       "source": "Ars Technica",
@@ -63,6 +72,73 @@
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "matched_keywords": [
         "Nvidia"
+      ]
+    },
+    {
+      "title": "Microsoft goes after Salesforce and ERP users with AI-powered converter",
+      "source": "The Register",
+      "published": "Thu, 10 Sep 2026 06:53:32 +0200",
+      "link": "https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic reveals fourth likely crime committed by its AI",
+      "source": "The Register",
+      "published": "Thu, 10 Sep 2026 01:20:59 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits",
+      "source": "The Register",
+      "published": "Thu, 10 Sep 2026 00:28:53 +0200",
+      "link": "https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI models don't kill people \u2013 people kill people",
+      "source": "The Register",
+      "published": "Wed, 09 Sep 2026 22:44:06 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Samsung to help fortify OpenAI's semiconductor supply chain",
+      "source": "The Register",
+      "published": "Wed, 09 Sep 2026 22:18:35 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374",
+      "matched_keywords": [
+        "OpenAI",
+        "compute"
+      ]
+    },
+    {
+      "title": "Google takes the nuclear option for \u20ac13B Finland expansion",
+      "source": "The Register",
+      "published": "Wed, 09 Sep 2026 18:00:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/09/09/google-takes-the-nuclear-option-for-13b-finland-expansion/5295306",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "WeChat worm could pwn a friend before they even answered the call",
+      "source": "The Register",
+      "published": "Wed, 09 Sep 2026 14:45:00 +0200",
+      "link": "https://www.theregister.com/security/2026/09/09/wechat-worm-could-pwn-a-friend-before-they-even-answered-the-call/5295234",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -179,54 +255,6 @@
       "link": "https://www.theregister.com/public-sector/2026/09/07/matt-clifford-to-leave-aria-before-anthropic-role-becomes-a-distraction/5294861",
       "matched_keywords": [
         "Anthropic"
-      ]
-    },
-    {
-      "title": "DRAM contract prices forecast to grow only 13-18% in Q3",
-      "source": "The Register",
-      "published": "Mon, 07 Sep 2026 17:20:00 +0200",
-      "link": "https://www.theregister.com/storage/2026/09/07/dram-contract-prices-forecast-to-grow-only-13-18-in-q3/5294776",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on",
-      "source": "The Register",
-      "published": "Mon, 07 Sep 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Jensen's purchase of a new toy could reshape the entire AI industry",
-      "source": "The Register",
-      "published": "Mon, 07 Sep 2026 07:30:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/07/jensens-purchase-of-a-new-toy-could-reshape-the-entire-ai-industry/5294610",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Might as well blame AI for this giant Linux release candidate, says Linus Torvalds",
-      "source": "The Register",
-      "published": "Mon, 07 Sep 2026 04:32:33 +0200",
-      "link": "https://www.theregister.com/os-platforms/2026/09/07/might-as-well-blame-ai-for-this-giant-linux-release-candidate-says-linus-torvalds/5294697",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Thailand pauses all datacenter builds and approvals",
-      "source": "The Register",
-      "published": "Mon, 07 Sep 2026 03:05:51 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/09/07/thailand-pauses-all-datacenter-builds-and-approvals/5294688",
-      "matched_keywords": [
-        "DeepSeek",
-        "GPU",
-        "model"
       ]
     }
   ]
