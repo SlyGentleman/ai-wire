@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-10T11:05:01.306788+00:00",
+  "last_updated": "2026-09-11T11:05:01.410577+00:00",
   "entries": [
     {
-      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "source": "Ars Technica",
       "published": "Wed, 09 Sep 2026 20:55:02 +0000",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
@@ -72,6 +72,100 @@
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "matched_keywords": [
         "Nvidia"
+      ]
+    },
+    {
+      "title": "DeepSeek's new model sets a template for powerful LLMs that run lean",
+      "source": "The Register",
+      "published": "Fri, 11 Sep 2026 09:15:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/11/deepseeks-new-model-sets-a-template-for-powerful-llms-that-run-lean/5295715",
+      "matched_keywords": [
+        "DeepSeek",
+        "model"
+      ]
+    },
+    {
+      "title": "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
+      "source": "The Register",
+      "published": "Fri, 11 Sep 2026 04:43:10 +0200",
+      "link": "https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI arms devs with AI conversation tool that can talk and listen at the same time",
+      "source": "The Register",
+      "published": "Fri, 11 Sep 2026 00:59:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/openai-arms-devs-with-ai-conversation-tool-that-can-talk-and-listen-at-the-same-time/5295708",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Latest Anthropic horror story chills with tales of kamikaze drone swarms and bioweapons research",
+      "source": "The Register",
+      "published": "Fri, 11 Sep 2026 00:38:35 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "Hundreds of AI agents helped PaperCut attacker hit 395+ orgs, and some went off script",
+      "source": "The Register",
+      "published": "Thu, 10 Sep 2026 20:49:43 +0200",
+      "link": "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI's website-hijacking swarm reached far further than we thought",
+      "source": "The Register",
+      "published": "Thu, 10 Sep 2026 20:15:10 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/openais-website-hijacking-swarm-reached-far-further-than-we-thought/5295644",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "AI job cuts could come with a costly undo button",
+      "source": "The Register",
+      "published": "Thu, 10 Sep 2026 18:21:22 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/ai-job-cuts-could-come-with-a-costly-undo-button/5295605",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nscale swallows lion's share of UK datacenter investment",
+      "source": "The Register",
+      "published": "Thu, 10 Sep 2026 16:08:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/09/10/nscale-swallows-lions-share-of-uk-datacenter-investment/5295541",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "d-Matrix drinks the Nvidia Kool-Aid with NVLink Fusion and MGX rack designs",
+      "source": "The Register",
+      "published": "Thu, 10 Sep 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/10/d-matrix-drinks-the-nvidia-kool-aid-with-nvlink-fusion-and-mgx-rack-designs/5295403",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "AI uprising postponed after Copilot falls off the web",
+      "source": "The Register",
+      "published": "Thu, 10 Sep 2026 12:30:50 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/10/ai-uprising-postponed-after-copilot-falls-off-the-web/5295475",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -196,65 +290,6 @@
       "link": "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
       "matched_keywords": [
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Google research shows when AI agents communicate, some cheat while others tattle",
-      "source": "The Register",
-      "published": "Tue, 08 Sep 2026 20:59:14 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Amazon ropes Qualcomm into something, something AI, networking chips",
-      "source": "The Register",
-      "published": "Tue, 08 Sep 2026 19:29:24 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/09/08/amazon-ropes-qualcomm-into-something-something-ai-networking-chips/5295071",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "Mistral bags \u20ac3B to build Europe's sovereign AI champion",
-      "source": "The Register",
-      "published": "Tue, 08 Sep 2026 14:45:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/08/mistral-bags-3b-to-build-europes-sovereign-ai-champion/5294941",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Extortion crews have their eyes on high-value AI data, Google warns",
-      "source": "The Register",
-      "published": "Tue, 08 Sep 2026 14:00:00 +0200",
-      "link": "https://www.theregister.com/research/2026/09/08/extortion-crews-have-their-eyes-on-high-value-ai-data-google-warns/5294640",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform",
-      "source": "The Register",
-      "published": "Tue, 08 Sep 2026 10:35:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/09/08/arm-pushes-agentic-ai-and-desktop-quality-graphics-in-next-gen-phone-platform/5294867",
-      "matched_keywords": [
-        "AI",
-        "GPU"
-      ]
-    },
-    {
-      "title": "Matt Clifford to leave ARIA before Anthropic role becomes a 'distraction'",
-      "source": "The Register",
-      "published": "Mon, 07 Sep 2026 18:02:47 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/09/07/matt-clifford-to-leave-aria-before-anthropic-role-becomes-a-distraction/5294861",
-      "matched_keywords": [
-        "Anthropic"
       ]
     }
   ]
