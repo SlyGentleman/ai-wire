@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T11:05:01.410577+00:00",
+  "last_updated": "2026-09-12T11:05:02.021432+00:00",
   "entries": [
     {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -66,12 +66,39 @@
       ]
     },
     {
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "source": "Ars Technica",
-      "published": "Mon, 17 Aug 2026 14:22:54 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "title": "AI more likely to kill animals if it saves fuel or money",
+      "source": "The Register",
+      "published": "Fri, 11 Sep 2026 23:49:59 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
       "matched_keywords": [
-        "Nvidia"
+        "AI"
+      ]
+    },
+    {
+      "title": "Higher prices can't crimp server sales as AI drives demand",
+      "source": "The Register",
+      "published": "Fri, 11 Sep 2026 16:27:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/11/higher-prices-cant-crimp-server-sales-as-ai-drives-demand/5295827",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Britain's technology brief is now everyone's job and nobody's responsibility",
+      "source": "The Register",
+      "published": "Fri, 11 Sep 2026 15:12:00 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/09/11/britains-technology-brief-is-now-everyones-job-and-nobodys-responsibility/5295849",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Union body tells UK government workers must get a say before AI clocks in",
+      "source": "The Register",
+      "published": "Fri, 11 Sep 2026 12:35:22 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/09/11/union-body-tells-uk-government-workers-must-get-a-say-before-ai-clocks-in/5295806",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -233,63 +260,6 @@
       "link": "https://www.theregister.com/security/2026/09/09/wechat-worm-could-pwn-a-friend-before-they-even-answered-the-call/5295234",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Another Microsoft team admits it\u2019s struggling to handle flood of AI-generated code",
-      "source": "The Register",
-      "published": "Wed, 09 Sep 2026 08:34:21 +0200",
-      "link": "https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Philippines bets AI will lift GDP by 12 percent in seven years \u2013 without hurting outsourcing",
-      "source": "The Register",
-      "published": "Wed, 09 Sep 2026 07:25:44 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/09/09/philippines-bets-ai-will-lift-gdp-by-12-percent-in-seven-years-without-hurting-outsourcing/5295178",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "US claims Chinese AI companies\u2019 core AI strategy is distilling American models",
-      "source": "The Register",
-      "published": "Wed, 09 Sep 2026 04:59:20 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/us-claims-chinese-ai-companies-core-ai-strategy-is-distilling-american-models/5295171",
-      "matched_keywords": [
-        "AI",
-        "DeepSeek"
-      ]
-    },
-    {
-      "title": "OpenAI GPT-6 Astra will run a retailer without cheating and sell more stuff than Anthropic",
-      "source": "The Register",
-      "published": "Wed, 09 Sep 2026 01:14:17 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/openai-gpt-6-astra-will-run-a-retailer-without-cheating-and-sell-more-stuff-than-anthropic/5295144",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Google DeepMind rises above the AI scrum with genome atlas",
-      "source": "The Register",
-      "published": "Wed, 09 Sep 2026 00:50:25 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/08/google-deepmind-rises-above-the-ai-scrum-with-genome-atlas/5295137",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack",
-      "source": "The Register",
-      "published": "Tue, 08 Sep 2026 23:12:19 +0200",
-      "link": "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
-      "matched_keywords": [
-        "OpenAI"
       ]
     }
   ]
