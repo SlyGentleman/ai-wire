@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T11:05:01.982435+00:00",
+  "last_updated": "2026-09-16T11:05:01.411419+00:00",
   "entries": [
     {
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -72,6 +72,64 @@
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "matched_keywords": [
         "LLM"
+      ]
+    },
+    {
+      "title": "Bring on the AI swarms. They\u2019re the only thing that can defend us now that AI is free",
+      "source": "The Register",
+      "published": "Wed, 16 Sep 2026 08:31:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/16/bring-on-the-ai-swarms-theyre-the-only-thing-that-can-defend-us-now-that-ai-is-free/5296727",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "TypeSafe AI debuts model for machines that plays Doom",
+      "source": "The Register",
+      "published": "Wed, 16 Sep 2026 03:35:16 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "AI networking startups race to replace Nvidia's NVLink",
+      "source": "The Register",
+      "published": "Tue, 15 Sep 2026 22:56:48 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/15/ai-networking-startups-race-to-replace-nvidias-nvlink/5296672",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Your AI agents' reports and questions have a new inbox, courtesy of AWS",
+      "source": "The Register",
+      "published": "Tue, 15 Sep 2026 22:25:44 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/15/your-ai-agents-reports-and-questions-have-a-new-inbox-courtesy-of-aws/5296661",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Who's governing your AI? A trust framework for enterprise agents and models",
+      "source": "The Register",
+      "published": "Tue, 15 Sep 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic and OpenAI look to Uncle Sam to make them too big to fail",
+      "source": "The Register",
+      "published": "Tue, 15 Sep 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/15/anthropic-and-openai-look-to-uncle-sam-to-make-them-too-big-to-fail/5296403",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI",
+        "model"
       ]
     },
     {
@@ -177,94 +235,12 @@
       ]
     },
     {
-      "title": "The myth of killer AI is a self-serving attempt at regulatory capture",
-      "source": "The Register",
-      "published": "Mon, 14 Sep 2026 12:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/the-myth-of-killer-ai-is-a-self-serving-attempt-at-regulatory-capture/5295978",
+      "title": "Tips To Model Your Next CNC Cabinet in CAD Before Buying Anything",
+      "source": "Hackaday",
+      "published": "Wed, 16 Sep 2026 02:00:19 +0000",
+      "link": "https://hackaday.com/2026/09/15/tips-to-model-your-next-cnc-cabinet-in-cad-before-buying-anything/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI and its main promoters are not enterprise-ready, says Gartner",
-      "source": "The Register",
-      "published": "Mon, 14 Sep 2026 07:11:19 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074",
-      "matched_keywords": [
-        "AI",
-        "Model"
-      ]
-    },
-    {
-      "title": "Big AI sets out its terms for regulatory capture and calls it \u2018Pace the frontier\u2019",
-      "source": "The Register",
-      "published": "Mon, 14 Sep 2026 03:15:16 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
-      "source": "The Register",
-      "published": "Sun, 13 Sep 2026 13:21:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
-      "source": "The Register",
-      "published": "Sat, 12 Sep 2026 15:26:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "AI more likely to kill animals if it saves fuel or money",
-      "source": "The Register",
-      "published": "Fri, 11 Sep 2026 23:49:59 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Higher prices can't crimp server sales as AI drives demand",
-      "source": "The Register",
-      "published": "Fri, 11 Sep 2026 16:27:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/09/11/higher-prices-cant-crimp-server-sales-as-ai-drives-demand/5295827",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Britain's technology brief is now everyone's job and nobody's responsibility",
-      "source": "The Register",
-      "published": "Fri, 11 Sep 2026 15:12:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/09/11/britains-technology-brief-is-now-everyones-job-and-nobodys-responsibility/5295849",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Union body tells UK government workers must get a say before AI clocks in",
-      "source": "The Register",
-      "published": "Fri, 11 Sep 2026 12:35:22 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/09/11/union-body-tells-uk-government-workers-must-get-a-say-before-ai-clocks-in/5295806",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "DeepSeek's new model sets a template for powerful LLMs that run lean",
-      "source": "The Register",
-      "published": "Fri, 11 Sep 2026 09:15:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/11/deepseeks-new-model-sets-a-template-for-powerful-llms-that-run-lean/5295715",
-      "matched_keywords": [
-        "DeepSeek",
+        "Model",
         "model"
       ]
     }
