@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T11:05:01.411419+00:00",
+  "last_updated": "2026-09-17T11:05:01.419188+00:00",
   "entries": [
     {
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -66,12 +66,66 @@
       ]
     },
     {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "source": "Ars Technica",
-      "published": "Thu, 20 Aug 2026 13:00:35 +0000",
-      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "title": "OpenAI admits its agents went off the rails another six times",
+      "source": "The Register",
+      "published": "Thu, 17 Sep 2026 04:39:03 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/17/openai-admits-its-agents-went-off-the-rails-another-six-times/5297016",
       "matched_keywords": [
-        "LLM"
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "AI agents can modify themselves without humans telling them to do so",
+      "source": "The Register",
+      "published": "Thu, 17 Sep 2026 00:10:24 +0200",
+      "link": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia goes green to keep grid capacity from zapping its revenues",
+      "source": "The Register",
+      "published": "Wed, 16 Sep 2026 23:37:05 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/16/nvidia-goes-green-to-keep-grid-capacity-from-zapping-its-revenues/5296984",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "OpenAI's new sponsored agents are happy to chat about selling you things",
+      "source": "The Register",
+      "published": "Wed, 16 Sep 2026 20:32:37 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/16/openais-new-sponsored-agents-are-happy-to-chat-about-selling-you-things/5296946",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Google Pixel phones pwned in zero-click attacks",
+      "source": "The Register",
+      "published": "Wed, 16 Sep 2026 19:56:31 +0200",
+      "link": "https://www.theregister.com/security/2026/09/16/google-pixel-phones-pwned-in-zero-click-attacks/5296936",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Enterprises are sweating legacy IT assets as AI investment grows",
+      "source": "The Register",
+      "published": "Wed, 16 Sep 2026 18:15:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/16/enterprises-are-sweating-legacy-it-assets-as-ai-investment-grows/5296896",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Spain gets its first taste of AI-aided cyber attack",
+      "source": "The Register",
+      "published": "Wed, 16 Sep 2026 13:56:55 +0200",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/16/spain-gets-its-first-taste-of-ai-aided-cyber-attack/5296844",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -150,98 +204,6 @@
       "matched_keywords": [
         "AI",
         "GPU"
-      ]
-    },
-    {
-      "title": "Most people who quit M365 for Google do it out of spite, but there\u2019s no ROI in that",
-      "source": "The Register",
-      "published": "Tue, 15 Sep 2026 09:23:34 +0200",
-      "link": "https://www.theregister.com/saas/2026/09/15/most-people-who-quit-m365-for-google-do-it-out-of-spite-but-theres-no-roi-in-that/5296460",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "The latest AI doomsayer is China\u2019s intelligence boss",
-      "source": "The Register",
-      "published": "Tue, 15 Sep 2026 06:56:09 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "COBOL dev won .Net hackathon with help from AI \u2013 and their CIO loves it",
-      "source": "The Register",
-      "published": "Tue, 15 Sep 2026 03:47:17 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft drafts feel-good AI model guidelines and wants your input",
-      "source": "The Register",
-      "published": "Tue, 15 Sep 2026 02:15:29 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/15/microsoft-drafts-feel-good-ai-model-guidelines-and-wants-your-input/5296431",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Oracle celebrates banner quarter with another round of layoffs",
-      "source": "The Register",
-      "published": "Mon, 14 Sep 2026 22:46:57 +0200",
-      "link": "https://www.theregister.com/databases/2026/09/14/oracle-celebrates-banner-quarter-with-another-round-of-layoffs/5296395",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI's malicious bot swarm attacked RubyGems",
-      "source": "The Register",
-      "published": "Mon, 14 Sep 2026 20:03:58 +0200",
-      "link": "https://www.theregister.com/security/2026/09/14/openais-malicious-bot-swarm-attacked-rubygems/5296356",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Ex-FTC boss Khan urges Uncle Sam to break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "source": "The Register",
-      "published": "Mon, 14 Sep 2026 18:59:24 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Teravolt looks to cannibalize older industries to meet AI power demand",
-      "source": "The Register",
-      "published": "Mon, 14 Sep 2026 15:45:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/teravolt-looks-to-cannibalize-older-industries-to-meet-ai-power-demand/5296014",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "MPs and peers tell UK to stop winging it on AI regulation",
-      "source": "The Register",
-      "published": "Mon, 14 Sep 2026 14:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/mps-and-peers-tell-uk-to-stop-winging-it-on-ai-regulation/5296108",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Tips To Model Your Next CNC Cabinet in CAD Before Buying Anything",
-      "source": "Hackaday",
-      "published": "Wed, 16 Sep 2026 02:00:19 +0000",
-      "link": "https://hackaday.com/2026/09/15/tips-to-model-your-next-cnc-cabinet-in-cad-before-buying-anything/",
-      "matched_keywords": [
-        "Model",
-        "model"
       ]
     }
   ]
