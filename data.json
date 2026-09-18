@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-09-17T11:05:01.419188+00:00",
+  "last_updated": "2026-09-18T11:05:01.287307+00:00",
   "entries": [
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "source": "Ars Technica",
+      "published": "Thu, 17 Sep 2026 18:33:13 +0000",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
       "source": "Ars Technica",
@@ -63,6 +72,91 @@
       "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "KPMG tech cuts come with a severance sum some staff call insulting",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 12:32:00 +0200",
+      "link": "https://www.theregister.com/channel/2026/09/18/kpmg-tech-cuts-come-with-a-severance-sum-some-staff-call-insulting/5296942",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI risks make some insurers wary of corporate liability",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 07:33:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/ai-risks-make-some-insurers-wary-of-corporate-liability/5297347",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AWS confesses its console causes cloudy confusion for new users",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 06:52:40 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/09/18/aws-confesses-its-console-causes-cloudy-confusion-for-new-users/5297365",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "USA\u2019s Venezuela takeover comes with bonus exposure to Chinese AI surveillance tech",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 04:28:30 +0200",
+      "link": "https://www.theregister.com/security/2026/09/18/usas-venezuela-takeover-comes-with-bonus-exposure-to-chinese-ai-surveillance-tech/5297357",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 00:42:29 +0200",
+      "link": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Scientific papers become agentic chatbots with new tool",
+      "source": "The Register",
+      "published": "Thu, 17 Sep 2026 18:42:35 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/17/scientific-papers-become-agentic-chatbots-with-new-tool/5297276",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Grassroots coalition asks politicians to choose voters over Big AI's $140M machine",
+      "source": "The Register",
+      "published": "Thu, 17 Sep 2026 16:29:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/17/grassroots-coalition-asks-politicians-to-choose-voters-over-big-ais-140m-machine/5297186",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI model watermarking changes agent behavior",
+      "source": "The Register",
+      "published": "Thu, 17 Sep 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Microsoft AI chief warns Anthropic not to put ideas in Claude's head",
+      "source": "The Register",
+      "published": "Thu, 17 Sep 2026 14:15:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/17/microsoft-ai-chief-warns-anthropic-not-to-put-ideas-in-claudes-head/5297149",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
+        "OpenAI",
+        "model"
       ]
     },
     {
@@ -145,65 +239,6 @@
       "matched_keywords": [
         "AI",
         "model"
-      ]
-    },
-    {
-      "title": "AI networking startups race to replace Nvidia's NVLink",
-      "source": "The Register",
-      "published": "Tue, 15 Sep 2026 22:56:48 +0200",
-      "link": "https://www.theregister.com/systems/2026/09/15/ai-networking-startups-race-to-replace-nvidias-nvlink/5296672",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Your AI agents' reports and questions have a new inbox, courtesy of AWS",
-      "source": "The Register",
-      "published": "Tue, 15 Sep 2026 22:25:44 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/15/your-ai-agents-reports-and-questions-have-a-new-inbox-courtesy-of-aws/5296661",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Who's governing your AI? A trust framework for enterprise agents and models",
-      "source": "The Register",
-      "published": "Tue, 15 Sep 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic and OpenAI look to Uncle Sam to make them too big to fail",
-      "source": "The Register",
-      "published": "Tue, 15 Sep 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/15/anthropic-and-openai-look-to-uncle-sam-to-make-them-too-big-to-fail/5296403",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "Open weights are not open source: Why AI's favorite label is under dispute",
-      "source": "The Register",
-      "published": "Tue, 15 Sep 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/columnists/2026/09/15/open-weights-are-not-open-source-why-ais-favorite-label-is-under-dispute/5295436",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "How Everpure plans to stop AI from starving without data",
-      "source": "The Register",
-      "published": "Tue, 15 Sep 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/ai-ml/2026/09/15/sponsored-how-everpure-plans-to-stop-ai-from-starving-without-data/5295812",
-      "matched_keywords": [
-        "AI",
-        "GPU"
       ]
     }
   ]
