@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T11:05:01.287307+00:00",
+  "last_updated": "2026-09-19T11:05:01.645611+00:00",
   "entries": [
     {
       "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -70,6 +70,71 @@
       "source": "Ars Technica",
       "published": "Wed, 26 Aug 2026 21:25:27 +0000",
       "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic decides to support OpenAI's markdown instructions spec",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 23:33:16 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 23:11:05 +0200",
+      "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "Compsci grads facing recession-like job prospects thanks to AI",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 21:48:22 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 19:16:00 +0200",
+      "link": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 18:19:27 +0200",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 16:25:00 +0200",
+      "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "The ideal database for AI agents doesn't exist yet, says Percona CEO",
+      "source": "The Register",
+      "published": "Fri, 18 Sep 2026 14:34:00 +0200",
+      "link": "https://www.theregister.com/databases/2026/09/18/the-ideal-database-for-ai-agents-doesnt-exist-yet-says-percona-ceo/5296906",
       "matched_keywords": [
         "AI"
       ]
@@ -211,34 +276,6 @@
       "link": "https://www.theregister.com/systems/2026/09/16/enterprises-are-sweating-legacy-it-assets-as-ai-investment-grows/5296896",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Spain gets its first taste of AI-aided cyber attack",
-      "source": "The Register",
-      "published": "Wed, 16 Sep 2026 13:56:55 +0200",
-      "link": "https://www.theregister.com/cyber-crime/2026/09/16/spain-gets-its-first-taste-of-ai-aided-cyber-attack/5296844",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Bring on the AI swarms. They\u2019re the only thing that can defend us now that AI is free",
-      "source": "The Register",
-      "published": "Wed, 16 Sep 2026 08:31:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/16/bring-on-the-ai-swarms-theyre-the-only-thing-that-can-defend-us-now-that-ai-is-free/5296727",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "TypeSafe AI debuts model for machines that plays Doom",
-      "source": "The Register",
-      "published": "Wed, 16 Sep 2026 03:35:16 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
-      "matched_keywords": [
-        "AI",
-        "model"
       ]
     }
   ]
