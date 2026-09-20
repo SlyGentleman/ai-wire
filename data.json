@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T11:05:01.645611+00:00",
+  "last_updated": "2026-09-20T11:05:01.282080+00:00",
   "entries": [
     {
       "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -70,6 +70,15 @@
       "source": "Ars Technica",
       "published": "Wed, 26 Aug 2026 21:25:27 +0000",
       "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI boom could leave an e-waste trail that wraps 6 times around Earth",
+      "source": "The Register",
+      "published": "Sat, 19 Sep 2026 15:30:00 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451",
       "matched_keywords": [
         "AI"
       ]
@@ -252,30 +261,14 @@
       ]
     },
     {
-      "title": "OpenAI's new sponsored agents are happy to chat about selling you things",
-      "source": "The Register",
-      "published": "Wed, 16 Sep 2026 20:32:37 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/16/openais-new-sponsored-agents-are-happy-to-chat-about-selling-you-things/5296946",
+      "title": "No GPU, No Problem: Flagship LLMs on a GPU-less Teenaged Server",
+      "source": "Hackaday",
+      "published": "Sun, 20 Sep 2026 08:00:12 +0000",
+      "link": "https://hackaday.com/2026/09/20/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server/",
       "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Google Pixel phones pwned in zero-click attacks",
-      "source": "The Register",
-      "published": "Wed, 16 Sep 2026 19:56:31 +0200",
-      "link": "https://www.theregister.com/security/2026/09/16/google-pixel-phones-pwned-in-zero-click-attacks/5296936",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Enterprises are sweating legacy IT assets as AI investment grows",
-      "source": "The Register",
-      "published": "Wed, 16 Sep 2026 18:15:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/09/16/enterprises-are-sweating-legacy-it-assets-as-ai-investment-grows/5296896",
-      "matched_keywords": [
-        "AI"
+        "GPU",
+        "LLM",
+        "gpu"
       ]
     }
   ]
