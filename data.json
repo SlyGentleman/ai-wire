@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-09-20T11:05:01.282080+00:00",
+  "last_updated": "2026-09-21T11:05:01.157369+00:00",
   "entries": [
+    {
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "source": "Ars Technica",
+      "published": "Sun, 20 Sep 2026 11:07:00 +0000",
+      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
     {
       "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
       "source": "Ars Technica",
@@ -72,6 +81,25 @@
       "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Salesforce wants to charge for AI outcomes, but first it needs to figure out how",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 11:07:00 +0200",
+      "link": "https://www.theregister.com/software/2026/09/21/salesforce-wants-to-charge-for-ai-outcomes-but-first-it-needs-to-figure-out-how/5297402",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google joins the \u2018Oops, our agents hacked someone\u2019 club after partner\u2019s internet access error",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 05:50:54 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/21/google-joins-the-oops-our-agents-hacked-someone-club-after-partners-internet-access-error/5297640",
+      "matched_keywords": [
+        "Google",
+        "OpenAI"
       ]
     },
     {
@@ -231,44 +259,6 @@
         "Anthropic",
         "OpenAI",
         "model"
-      ]
-    },
-    {
-      "title": "OpenAI admits its agents went off the rails another six times",
-      "source": "The Register",
-      "published": "Thu, 17 Sep 2026 04:39:03 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/17/openai-admits-its-agents-went-off-the-rails-another-six-times/5297016",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "AI agents can modify themselves without humans telling them to do so",
-      "source": "The Register",
-      "published": "Thu, 17 Sep 2026 00:10:24 +0200",
-      "link": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia goes green to keep grid capacity from zapping its revenues",
-      "source": "The Register",
-      "published": "Wed, 16 Sep 2026 23:37:05 +0200",
-      "link": "https://www.theregister.com/systems/2026/09/16/nvidia-goes-green-to-keep-grid-capacity-from-zapping-its-revenues/5296984",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "No GPU, No Problem: Flagship LLMs on a GPU-less Teenaged Server",
-      "source": "Hackaday",
-      "published": "Sun, 20 Sep 2026 08:00:12 +0000",
-      "link": "https://hackaday.com/2026/09/20/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server/",
-      "matched_keywords": [
-        "GPU",
-        "LLM",
-        "gpu"
       ]
     }
   ]
