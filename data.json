@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-09-21T11:05:01.157369+00:00",
+  "last_updated": "2026-09-22T11:05:01.680639+00:00",
   "entries": [
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "source": "Ars Technica",
+      "published": "Mon, 21 Sep 2026 22:24:38 +0000",
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
       "source": "Ars Technica",
@@ -75,12 +84,114 @@
       ]
     },
     {
-      "title": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
-      "source": "Ars Technica",
-      "published": "Wed, 26 Aug 2026 21:25:27 +0000",
-      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "title": "GOV.UK founder warns AI gold rush could leave Britain locked in",
+      "source": "The Register",
+      "published": "Tue, 22 Sep 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/09/22/govuk-founder-warns-ai-gold-rush-could-leave-britain-locked-in/5297828",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them",
+      "source": "The Register",
+      "published": "Tue, 22 Sep 2026 07:42:32 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+      "source": "The Register",
+      "published": "Tue, 22 Sep 2026 00:32:51 +0200",
+      "link": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Perpetual underdog AMD nips at Nvidia's heels as it joins the $1T club",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 22:59:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Meta Muse AI app flaw lets local malware redirect dictation traffic",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 21:59:52 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 21:10:53 +0200",
+      "link": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Google smacks forehead, realizes $899+ thin-and-lights were what it was missing",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 20:47:52 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/09/21/google-smacks-forehead-realizes-899-thin-and-lights-were-what-it-was-missing/5297947",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "London neocloud Nscale takes its $1B loss to Wall Street",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 19:15:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/09/21/london-neocloud-nscale-takes-its-1b-loss-to-wall-street/5297824",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "AI can't outprompt a shortage of power, water, and land",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 18:35:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/09/21/ai-cant-outprompt-a-shortage-of-power-water-and-land/5297811",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Schneider says hotter coolant can make AI datacenters less thirsty",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 16:29:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/09/21/schneider-says-hotter-coolant-can-make-ai-datacenters-less-thirsty/5297759",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Amazon shows Meta's Muse AI shopping agent the door",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 15:28:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "American datacenters might be getting dirtier, but at least they'll be efficient",
+      "source": "The Register",
+      "published": "Mon, 21 Sep 2026 13:15:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/21/american-datacenters-might-be-getting-dirtier-but-at-least-theyll-be-efficient/5297526",
+      "matched_keywords": [
+        "Nvidia",
+        "compute"
       ]
     },
     {
@@ -183,82 +294,6 @@
       "link": "https://www.theregister.com/channel/2026/09/18/kpmg-tech-cuts-come-with-a-severance-sum-some-staff-call-insulting/5296942",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "AI risks make some insurers wary of corporate liability",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 07:33:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/ai-risks-make-some-insurers-wary-of-corporate-liability/5297347",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AWS confesses its console causes cloudy confusion for new users",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 06:52:40 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/09/18/aws-confesses-its-console-causes-cloudy-confusion-for-new-users/5297365",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "USA\u2019s Venezuela takeover comes with bonus exposure to Chinese AI surveillance tech",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 04:28:30 +0200",
-      "link": "https://www.theregister.com/security/2026/09/18/usas-venezuela-takeover-comes-with-bonus-exposure-to-chinese-ai-surveillance-tech/5297357",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 00:42:29 +0200",
-      "link": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Scientific papers become agentic chatbots with new tool",
-      "source": "The Register",
-      "published": "Thu, 17 Sep 2026 18:42:35 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/17/scientific-papers-become-agentic-chatbots-with-new-tool/5297276",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Grassroots coalition asks politicians to choose voters over Big AI's $140M machine",
-      "source": "The Register",
-      "published": "Thu, 17 Sep 2026 16:29:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/17/grassroots-coalition-asks-politicians-to-choose-voters-over-big-ais-140m-machine/5297186",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI model watermarking changes agent behavior",
-      "source": "The Register",
-      "published": "Thu, 17 Sep 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Microsoft AI chief warns Anthropic not to put ideas in Claude's head",
-      "source": "The Register",
-      "published": "Thu, 17 Sep 2026 14:15:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/17/microsoft-ai-chief-warns-anthropic-not-to-put-ideas-in-claudes-head/5297149",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI",
-        "model"
       ]
     }
   ]
