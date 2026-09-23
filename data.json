@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-09-22T11:05:01.680639+00:00",
+  "last_updated": "2026-09-23T11:05:01.628062+00:00",
   "entries": [
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "source": "Ars Technica",
+      "published": "Tue, 22 Sep 2026 19:45:47 +0000",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "source": "Ars Technica",
@@ -74,13 +83,108 @@
       ]
     },
     {
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "source": "Ars Technica",
-      "published": "Thu, 27 Aug 2026 12:58:59 +0000",
-      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "title": "Shut up and calculate: Jev's new AI primitives for coders",
+      "source": "The Register",
+      "published": "Wed, 23 Sep 2026 09:27:00 +0200",
+      "link": "https://www.theregister.com/devops/2026/09/23/shut-up-and-calculate-jevs-new-ai-primitives-for-coders/5298431",
       "matched_keywords": [
-        "LLM",
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "In the age of AI, teaching networking principles remains more important than learning protocols",
+      "source": "The Register",
+      "published": "Wed, 23 Sep 2026 08:25:26 +0200",
+      "link": "https://www.theregister.com/networks/2026/09/23/in-the-age-of-ai-teaching-networking-principles-remains-more-important-than-learning-protocols/5298478",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Artificial intelligence must have a new name, says politician who likes renaming bodies of water",
+      "source": "The Register",
+      "published": "Wed, 23 Sep 2026 06:32:53 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/09/23/artificial-intelligence-must-have-a-new-name-says-politician-who-likes-renaming-bodies-of-water/5298470",
+      "matched_keywords": [
+        "Artificial intelligence"
+      ]
+    },
+    {
+      "title": "Frontier AI keeps racing despite calls to slow down",
+      "source": "The Register",
+      "published": "Wed, 23 Sep 2026 02:02:47 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
+      "matched_keywords": [
+        "AI",
+        "Anthropic",
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
+      "source": "The Register",
+      "published": "Tue, 22 Sep 2026 23:33:29 +0200",
+      "link": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Security firm finds naming AI agents after Seinfeld characters helps bots join the team",
+      "source": "The Register",
+      "published": "Tue, 22 Sep 2026 22:43:17 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/22/security-firm-finds-naming-ai-agents-after-seinfeld-characters-helps-bots-join-the-team/5298424",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ABBYY gives old-school OCR a job in the AI pipeline",
+      "source": "The Register",
+      "published": "Tue, 22 Sep 2026 19:15:00 +0200",
+      "link": "https://www.theregister.com/applications/2026/09/22/abbyy-gives-old-school-ocr-a-job-in-the-ai-pipeline/5298361",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Z.ai says sorry for slurping up your code, open sources ZCode",
+      "source": "The Register",
+      "published": "Tue, 22 Sep 2026 17:59:00 +0200",
+      "link": "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
+      "matched_keywords": [
+        "AI",
+        "ai"
+      ]
+    },
+    {
+      "title": "Privacy group slams EU for changing the data rules to cater to AI",
+      "source": "The Register",
+      "published": "Tue, 22 Sep 2026 17:30:00 +0200",
+      "link": "https://www.theregister.com/legal/2026/09/22/privacy-group-slams-eu-for-changing-the-data-rules-to-cater-to-ai/5298175",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Who signed off on that AI agent? Nobody? Thought so.",
+      "source": "The Register",
+      "published": "Tue, 22 Sep 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/security/2026/09/22/sponsored/5297693",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Civo plots 40 edge datacenters to power Britain's sovereign AI",
+      "source": "The Register",
+      "published": "Tue, 22 Sep 2026 14:13:00 +0200",
+      "link": "https://www.theregister.com/off-prem/2026/09/22/civo-plots-40-edge-datacenters-to-power-britains-sovereign-ai/5298141",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
       ]
     },
     {
@@ -199,99 +303,6 @@
       "source": "The Register",
       "published": "Mon, 21 Sep 2026 11:07:00 +0200",
       "link": "https://www.theregister.com/software/2026/09/21/salesforce-wants-to-charge-for-ai-outcomes-but-first-it-needs-to-figure-out-how/5297402",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google joins the \u2018Oops, our agents hacked someone\u2019 club after partner\u2019s internet access error",
-      "source": "The Register",
-      "published": "Mon, 21 Sep 2026 05:50:54 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/21/google-joins-the-oops-our-agents-hacked-someone-club-after-partners-internet-access-error/5297640",
-      "matched_keywords": [
-        "Google",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "AI boom could leave an e-waste trail that wraps 6 times around Earth",
-      "source": "The Register",
-      "published": "Sat, 19 Sep 2026 15:30:00 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic decides to support OpenAI's markdown instructions spec",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 23:33:16 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 23:11:05 +0200",
-      "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "Compsci grads facing recession-like job prospects thanks to AI",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 21:48:22 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 19:16:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 18:19:27 +0200",
-      "link": "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 16:25:00 +0200",
-      "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "The ideal database for AI agents doesn't exist yet, says Percona CEO",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 14:34:00 +0200",
-      "link": "https://www.theregister.com/databases/2026/09/18/the-ideal-database-for-ai-agents-doesnt-exist-yet-says-percona-ceo/5296906",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "KPMG tech cuts come with a severance sum some staff call insulting",
-      "source": "The Register",
-      "published": "Fri, 18 Sep 2026 12:32:00 +0200",
-      "link": "https://www.theregister.com/channel/2026/09/18/kpmg-tech-cuts-come-with-a-severance-sum-some-staff-call-insulting/5296942",
       "matched_keywords": [
         "AI"
       ]
