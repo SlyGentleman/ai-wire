@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T11:05:01.303295+00:00",
+  "last_updated": "2026-09-25T11:05:01.322042+00:00",
   "entries": [
     {
       "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -83,6 +83,136 @@
       ]
     },
     {
+      "title": "Huawei Cloud Rolls Out Enterprise AI Products Across the Board, Building an Open Agentic Cloud",
+      "source": "The Register",
+      "published": "Fri, 25 Sep 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/25/partner-content-huawei-cloud-rolls-out-enterprise-ai-products-across-the-board-building-an-open-agentic-cloud/5298765",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter",
+      "source": "The Register",
+      "published": "Fri, 25 Sep 2026 01:57:01 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/25/google-gemini-can-present-cartoon-or-lifelike-avatars-to-lip-sync-generative-chatter/5299016",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
+      "source": "The Register",
+      "published": "Fri, 25 Sep 2026 01:32:15 +0200",
+      "link": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google's TPUs to catch some rays in orbit next week",
+      "source": "The Register",
+      "published": "Fri, 25 Sep 2026 00:12:48 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/24/googles-tpus-to-catch-some-rays-in-orbit-next-week/5298990",
+      "matched_keywords": [
+        "Google",
+        "compute"
+      ]
+    },
+    {
+      "title": "F-Droid app store thumbs its nose at Google's dev crackdown",
+      "source": "The Register",
+      "published": "Thu, 24 Sep 2026 22:52:29 +0200",
+      "link": "https://www.theregister.com/applications/2026/09/24/f-droid-app-store-thumbs-its-nose-at-googles-dev-crackdown/5298974",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Docker's new sandboxes aim to contain AI agents for real",
+      "source": "The Register",
+      "published": "Thu, 24 Sep 2026 21:51:26 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/24/dockers-new-sandboxes-aim-to-contain-ai-agents-for-real/5298964",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Meta's new AI fidget is a ... Tamagotchi?",
+      "source": "The Register",
+      "published": "Thu, 24 Sep 2026 19:44:35 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/09/24/metas-new-ai-fidget-is-a-tamagotchi/5298936",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "iPhone 18 Pro benchmark boosted by giving it a cold drink",
+      "source": "The Register",
+      "published": "Thu, 24 Sep 2026 18:34:18 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/09/24/iphone-18-pro-benchmark-boosted-by-giving-it-a-cold-drink/5298918",
+      "matched_keywords": [
+        "benchmark"
+      ]
+    },
+    {
+      "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
+      "source": "The Register",
+      "published": "Thu, 24 Sep 2026 18:33:00 +0200",
+      "link": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI boom could wipe 230 million budget phones a year from the market",
+      "source": "The Register",
+      "published": "Thu, 24 Sep 2026 18:00:00 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/09/24/ai-boom-could-wipe-230-million-budget-phones-a-year-from-the-market/5298906",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ask HPE and NVIDIA the AI data question you cannot ask in public",
+      "source": "The Register",
+      "published": "Thu, 24 Sep 2026 16:49:40 +0200",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/09/24/sponsored/5298888",
+      "matched_keywords": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "title": "Talk of AI in KDE sets the community ablaze",
+      "source": "The Register",
+      "published": "Thu, 24 Sep 2026 16:32:00 +0200",
+      "link": "https://www.theregister.com/software/2026/09/24/talk-of-ai-in-kde-sets-the-community-ablaze/5298854",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "Google to critical infra orgs: Our AI scanners won't be evil, promise",
+      "source": "The Register",
+      "published": "Thu, 24 Sep 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/security/2026/09/24/google-to-critical-infra-orgs-our-ai-scanners-wont-be-evil-promise/5298685",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Meta ads steered Polish Android users into a premium-rate billing trap",
+      "source": "The Register",
+      "published": "Thu, 24 Sep 2026 13:26:00 +0200",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/24/meta-ads-steered-polish-android-users-into-a-premium-rate-billing-trap/5298790",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
       "title": "India\u2019s outsourced software industry grows 9.5 percent to reach $239 billion",
       "source": "The Register",
       "published": "Thu, 24 Sep 2026 05:34:18 +0200",
@@ -132,126 +262,12 @@
       ]
     },
     {
-      "title": "Shut up and calculate: Jev's new AI primitives for coders",
-      "source": "The Register",
-      "published": "Wed, 23 Sep 2026 09:27:00 +0200",
-      "link": "https://www.theregister.com/devops/2026/09/23/shut-up-and-calculate-jevs-new-ai-primitives-for-coders/5298431",
+      "title": "GM\u2019s Experimental EV from 1969",
+      "source": "Hackaday",
+      "published": "Fri, 25 Sep 2026 05:00:47 +0000",
+      "link": "https://hackaday.com/2026/09/24/gms-experimental-ev-from-1969/",
       "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "In the age of AI, teaching networking principles remains more important than learning protocols",
-      "source": "The Register",
-      "published": "Wed, 23 Sep 2026 08:25:26 +0200",
-      "link": "https://www.theregister.com/networks/2026/09/23/in-the-age-of-ai-teaching-networking-principles-remains-more-important-than-learning-protocols/5298478",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Artificial intelligence must have a new name, says politician who likes renaming bodies of water",
-      "source": "The Register",
-      "published": "Wed, 23 Sep 2026 06:32:53 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/09/23/artificial-intelligence-must-have-a-new-name-says-politician-who-likes-renaming-bodies-of-water/5298470",
-      "matched_keywords": [
-        "Artificial intelligence"
-      ]
-    },
-    {
-      "title": "Frontier AI keeps racing despite calls to slow down",
-      "source": "The Register",
-      "published": "Wed, 23 Sep 2026 02:02:47 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
-      "matched_keywords": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
-      "source": "The Register",
-      "published": "Tue, 22 Sep 2026 23:33:29 +0200",
-      "link": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Security firm finds naming AI agents after Seinfeld characters helps bots join the team",
-      "source": "The Register",
-      "published": "Tue, 22 Sep 2026 22:43:17 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/22/security-firm-finds-naming-ai-agents-after-seinfeld-characters-helps-bots-join-the-team/5298424",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ABBYY gives old-school OCR a job in the AI pipeline",
-      "source": "The Register",
-      "published": "Tue, 22 Sep 2026 19:15:00 +0200",
-      "link": "https://www.theregister.com/applications/2026/09/22/abbyy-gives-old-school-ocr-a-job-in-the-ai-pipeline/5298361",
-      "matched_keywords": [
-        "AI",
         "LLM"
-      ]
-    },
-    {
-      "title": "Z.ai says sorry for slurping up your code, open sources ZCode",
-      "source": "The Register",
-      "published": "Tue, 22 Sep 2026 17:59:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
-      "matched_keywords": [
-        "AI",
-        "ai"
-      ]
-    },
-    {
-      "title": "Privacy group slams EU for changing the data rules to cater to AI",
-      "source": "The Register",
-      "published": "Tue, 22 Sep 2026 17:30:00 +0200",
-      "link": "https://www.theregister.com/legal/2026/09/22/privacy-group-slams-eu-for-changing-the-data-rules-to-cater-to-ai/5298175",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Who signed off on that AI agent? Nobody? Thought so.",
-      "source": "The Register",
-      "published": "Tue, 22 Sep 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/22/sponsored/5297693",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Civo plots 40 edge datacenters to power Britain's sovereign AI",
-      "source": "The Register",
-      "published": "Tue, 22 Sep 2026 14:13:00 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/09/22/civo-plots-40-edge-datacenters-to-power-britains-sovereign-ai/5298141",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "GOV.UK founder warns AI gold rush could leave Britain locked in",
-      "source": "The Register",
-      "published": "Tue, 22 Sep 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/09/22/govuk-founder-warns-ai-gold-rush-could-leave-britain-locked-in/5297828",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them",
-      "source": "The Register",
-      "published": "Tue, 22 Sep 2026 07:42:32 +0200",
-      "link": "https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
