@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-09-25T11:05:01.322042+00:00",
+  "last_updated": "2026-09-26T11:05:01.780201+00:00",
   "entries": [
+    {
+      "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
+      "source": "Ars Technica",
+      "published": "Fri, 25 Sep 2026 19:38:59 +0000",
+      "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
     {
       "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
       "source": "Ars Technica",
@@ -80,6 +89,24 @@
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Fake Google Security Team ad says 'no script reading' in voice phishing - then prints the script",
+      "source": "The Register",
+      "published": "Fri, 25 Sep 2026 21:13:20 +0200",
+      "link": "https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Google-backed energy outfit brings 33 MW of 4 GW geothermal potential online in Utah",
+      "source": "The Register",
+      "published": "Fri, 25 Sep 2026 20:02:25 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/25/google-backed-energy-outfit-brings-33-mw-of-4-gw-geothermal-potential-online-in-utah/5299243",
+      "matched_keywords": [
+        "Google"
       ]
     },
     {
@@ -210,64 +237,6 @@
       "link": "https://www.theregister.com/cyber-crime/2026/09/24/meta-ads-steered-polish-android-users-into-a-premium-rate-billing-trap/5298790",
       "matched_keywords": [
         "Google"
-      ]
-    },
-    {
-      "title": "India\u2019s outsourced software industry grows 9.5 percent to reach $239 billion",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 05:34:18 +0200",
-      "link": "https://www.theregister.com/channel/2026/09/24/indias-outsourced-software-industry-grows-95-percent-to-reach-239-billion/5298721",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI's Astra model went for a drive and no one died",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 02:54:18 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/24/openais-astra-model-went-for-a-drive-and-no-one-died/5298715",
-      "matched_keywords": [
-        "LLM",
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "OpenAI agents \u2018infiltrated Australian government website\u2019",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 02:03:03 +0200",
-      "link": "https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Mop the slop from your LinkedIn feed with a new open-source Chrome extension",
-      "source": "The Register",
-      "published": "Wed, 23 Sep 2026 22:23:13 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/23/mop-the-slop-from-your-linkedin-feed-with-a-new-open-source-chrome-extension/5298679",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Closing the observability gap for the AI-ready enterprise",
-      "source": "The Register",
-      "published": "Wed, 23 Sep 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "GM\u2019s Experimental EV from 1969",
-      "source": "Hackaday",
-      "published": "Fri, 25 Sep 2026 05:00:47 +0000",
-      "link": "https://hackaday.com/2026/09/24/gms-experimental-ev-from-1969/",
-      "matched_keywords": [
-        "LLM"
       ]
     }
   ]
