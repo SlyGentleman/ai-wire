@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T11:05:01.780201+00:00",
+  "last_updated": "2026-09-27T11:05:01.315006+00:00",
   "entries": [
     {
       "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
@@ -87,6 +87,15 @@
       "source": "Ars Technica",
       "published": "Fri, 04 Sep 2026 17:18:12 +0000",
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Big AI's content problem: Take the work, keep the money",
+      "source": "The Register",
+      "published": "Sun, 27 Sep 2026 11:35:00 +0200",
+      "link": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
       "matched_keywords": [
         "AI"
       ]
@@ -237,6 +246,15 @@
       "link": "https://www.theregister.com/cyber-crime/2026/09/24/meta-ads-steered-polish-android-users-into-a-premium-rate-billing-trap/5298790",
       "matched_keywords": [
         "Google"
+      ]
+    },
+    {
+      "title": "A Pocket-Sized Digital Fish Tank",
+      "source": "Hackaday",
+      "published": "Sat, 26 Sep 2026 17:00:21 +0000",
+      "link": "https://hackaday.com/2026/09/26/a-pocket-sized-digital-fish-tank/",
+      "matched_keywords": [
+        "AI"
       ]
     }
   ]
