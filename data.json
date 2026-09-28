@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T11:05:01.315006+00:00",
+  "last_updated": "2026-09-28T11:05:01.491339+00:00",
   "entries": [
     {
       "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
@@ -89,6 +89,15 @@
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought",
+      "source": "The Register",
+      "published": "Mon, 28 Sep 2026 07:30:50 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350",
+      "matched_keywords": [
+        "OpenAI"
       ]
     },
     {
@@ -227,34 +236,6 @@
       "matched_keywords": [
         "AI",
         "LLM"
-      ]
-    },
-    {
-      "title": "Google to critical infra orgs: Our AI scanners won't be evil, promise",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/24/google-to-critical-infra-orgs-our-ai-scanners-wont-be-evil-promise/5298685",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Meta ads steered Polish Android users into a premium-rate billing trap",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 13:26:00 +0200",
-      "link": "https://www.theregister.com/cyber-crime/2026/09/24/meta-ads-steered-polish-android-users-into-a-premium-rate-billing-trap/5298790",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "A Pocket-Sized Digital Fish Tank",
-      "source": "Hackaday",
-      "published": "Sat, 26 Sep 2026 17:00:21 +0000",
-      "link": "https://hackaday.com/2026/09/26/a-pocket-sized-digital-fish-tank/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
