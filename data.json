@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T11:05:01.491339+00:00",
+  "last_updated": "2026-09-29T11:05:01.768349+00:00",
   "entries": [
     {
       "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
@@ -92,6 +92,99 @@
       ]
     },
     {
+      "title": "HMRC bets up to \u00a32.4B on Salesforce for taxpayer CRM overhaul",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/09/29/hmrc-bets-up-to-24b-on-salesforce-for-taxpayer-crm-overhaul/5299389",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google ending ChromeOS support two years early",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 06:55:35 +0200",
+      "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "OpenAI\u2019s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 04:13:51 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "AMD bets $8.2B that worlds matter more than words in AI",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 00:01:33 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/amd-bets-82b-that-worlds-matter-more-than-words-in-ai/5299609",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AWS needs to embrace its place as the Home Depot of AI infrastructure",
+      "source": "The Register",
+      "published": "Mon, 28 Sep 2026 23:05:00 +0200",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/09/28/aws-needs-to-embrace-its-place-as-the-home-depot-of-ai-infrastructure/5299602",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns",
+      "source": "The Register",
+      "published": "Mon, 28 Sep 2026 21:44:34 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-gpt-6-astra-really-good-at-supply-chain-attacks-uk-gov-warns/5299588",
+      "matched_keywords": [
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Microsoft's Copilot super app comes with a meter attached",
+      "source": "The Register",
+      "published": "Mon, 28 Sep 2026 17:36:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/microsofts-copilot-super-app-comes-with-a-meter-attached/5299515",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Europe's AI ambitions rest on somebody else's supply chain",
+      "source": "The Register",
+      "published": "Mon, 28 Sep 2026 16:16:28 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/28/europes-ai-ambitions-rest-on-somebody-elses-supply-chain/5299486",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI agents went the long way round for UN data",
+      "source": "The Register",
+      "published": "Mon, 28 Sep 2026 15:31:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-agents-went-the-long-way-round-for-un-data/5299452",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Jev is rapidly rising to challenge the LLM for enterprise AI supremacy",
+      "source": "The Register",
+      "published": "Mon, 28 Sep 2026 12:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/jev-is-rapidly-rising-to-challenge-the-llm-for-enterprise-ai-supremacy/5299260",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
       "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought",
       "source": "The Register",
       "published": "Mon, 28 Sep 2026 07:30:50 +0200",
@@ -125,117 +218,6 @@
       "link": "https://www.theregister.com/systems/2026/09/25/google-backed-energy-outfit-brings-33-mw-of-4-gw-geothermal-potential-online-in-utah/5299243",
       "matched_keywords": [
         "Google"
-      ]
-    },
-    {
-      "title": "Huawei Cloud Rolls Out Enterprise AI Products Across the Board, Building an Open Agentic Cloud",
-      "source": "The Register",
-      "published": "Fri, 25 Sep 2026 10:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/25/partner-content-huawei-cloud-rolls-out-enterprise-ai-products-across-the-board-building-an-open-agentic-cloud/5298765",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter",
-      "source": "The Register",
-      "published": "Fri, 25 Sep 2026 01:57:01 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/25/google-gemini-can-present-cartoon-or-lifelike-avatars-to-lip-sync-generative-chatter/5299016",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
-      "source": "The Register",
-      "published": "Fri, 25 Sep 2026 01:32:15 +0200",
-      "link": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google's TPUs to catch some rays in orbit next week",
-      "source": "The Register",
-      "published": "Fri, 25 Sep 2026 00:12:48 +0200",
-      "link": "https://www.theregister.com/systems/2026/09/24/googles-tpus-to-catch-some-rays-in-orbit-next-week/5298990",
-      "matched_keywords": [
-        "Google",
-        "compute"
-      ]
-    },
-    {
-      "title": "F-Droid app store thumbs its nose at Google's dev crackdown",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 22:52:29 +0200",
-      "link": "https://www.theregister.com/applications/2026/09/24/f-droid-app-store-thumbs-its-nose-at-googles-dev-crackdown/5298974",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Docker's new sandboxes aim to contain AI agents for real",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 21:51:26 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/24/dockers-new-sandboxes-aim-to-contain-ai-agents-for-real/5298964",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Meta's new AI fidget is a ... Tamagotchi?",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 19:44:35 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/09/24/metas-new-ai-fidget-is-a-tamagotchi/5298936",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "iPhone 18 Pro benchmark boosted by giving it a cold drink",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 18:34:18 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/09/24/iphone-18-pro-benchmark-boosted-by-giving-it-a-cold-drink/5298918",
-      "matched_keywords": [
-        "benchmark"
-      ]
-    },
-    {
-      "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 18:33:00 +0200",
-      "link": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI boom could wipe 230 million budget phones a year from the market",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 18:00:00 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/09/24/ai-boom-could-wipe-230-million-budget-phones-a-year-from-the-market/5298906",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ask HPE and NVIDIA the AI data question you cannot ask in public",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 16:49:40 +0200",
-      "link": "https://www.theregister.com/paas-and-iaas/2026/09/24/sponsored/5298888",
-      "matched_keywords": [
-        "AI",
-        "NVIDIA"
-      ]
-    },
-    {
-      "title": "Talk of AI in KDE sets the community ablaze",
-      "source": "The Register",
-      "published": "Thu, 24 Sep 2026 16:32:00 +0200",
-      "link": "https://www.theregister.com/software/2026/09/24/talk-of-ai-in-kde-sets-the-community-ablaze/5298854",
-      "matched_keywords": [
-        "AI",
-        "LLM"
       ]
     }
   ]
