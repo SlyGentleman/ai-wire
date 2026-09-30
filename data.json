@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T11:05:01.768349+00:00",
+  "last_updated": "2026-09-30T11:05:01.675969+00:00",
   "entries": [
     {
       "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
@@ -92,6 +92,126 @@
       ]
     },
     {
+      "title": "America is planning more AI datacenters than its chip supply can fill",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 12:45:00 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/09/30/america-is-planning-more-ai-datacenters-than-its-chip-supply-can-fill/5299845",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenClaw slips on a suit to evade widespread business bans",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 07:04:22 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/openclaw-slips-on-a-suit-to-evade-widespread-business-bans/5299962",
+      "matched_keywords": [
+        "Nvidia",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Trump administration gets Big Tech to sign weak, non-binding, AI regulations",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 04:11:23 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 23:34:39 +0200",
+      "link": "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI tries disarming AI angst with cute graphics and always-on agents",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 23:12:58 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-tries-disarming-ai-angst-with-cute-graphics-and-always-on-agents/5299915",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Trump launches America.gov with AI chatbots at its core",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 22:14:32 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Zuckerberg touts enterprise AI push because Meta would never do anything to damage your reputation",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 21:35:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/zuckerberg-touts-enterprise-ai-push-because-meta-would-never-do-anything-to-damage-your-reputation/5299655",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Close the observability gap with agentic observability",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 21:02:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/sponsored-close-the-observability-gap-with-agentic-observability/5299410",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI models keep posting screenshots showing sensitive data from inside tech companies",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 18:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI benches GPT-6.1 Astra for overstepping the mark",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 15:43:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Leaked IPO docs: Anthropic tempts investors with existential risk warning",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 14:53:13 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/leaked-ipo-docs-anthropic-tempts-investors-with-existential-risk-warning/5299763",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Investors are pricing in a 32.6% AI productivity boost for software engineers",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 14:30:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/investors-are-pricing-in-a-326-ai-productivity-boost-for-software-engineers/5299645",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Former X-Force hackers chase the offensive cyber gold rush",
+      "source": "The Register",
+      "published": "Tue, 29 Sep 2026 13:30:00 +0200",
+      "link": "https://www.theregister.com/security/2026/09/29/former-x-force-hackers-chase-the-offensive-cyber-gold-rush/5299662",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "HMRC bets up to \u00a32.4B on Salesforce for taxpayer CRM overhaul",
       "source": "The Register",
       "published": "Tue, 29 Sep 2026 10:30:00 +0200",
@@ -172,52 +292,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-agents-went-the-long-way-round-for-un-data/5299452",
       "matched_keywords": [
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Jev is rapidly rising to challenge the LLM for enterprise AI supremacy",
-      "source": "The Register",
-      "published": "Mon, 28 Sep 2026 12:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/jev-is-rapidly-rising-to-challenge-the-llm-for-enterprise-ai-supremacy/5299260",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought",
-      "source": "The Register",
-      "published": "Mon, 28 Sep 2026 07:30:50 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Big AI's content problem: Take the work, keep the money",
-      "source": "The Register",
-      "published": "Sun, 27 Sep 2026 11:35:00 +0200",
-      "link": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Fake Google Security Team ad says 'no script reading' in voice phishing - then prints the script",
-      "source": "The Register",
-      "published": "Fri, 25 Sep 2026 21:13:20 +0200",
-      "link": "https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Google-backed energy outfit brings 33 MW of 4 GW geothermal potential online in Utah",
-      "source": "The Register",
-      "published": "Fri, 25 Sep 2026 20:02:25 +0200",
-      "link": "https://www.theregister.com/systems/2026/09/25/google-backed-energy-outfit-brings-33-mw-of-4-gw-geothermal-potential-online-in-utah/5299243",
-      "matched_keywords": [
-        "Google"
       ]
     }
   ]
