@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T11:05:01.675969+00:00",
+  "last_updated": "2026-10-01T11:05:01.442494+00:00",
   "entries": [
     {
       "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
@@ -87,6 +87,92 @@
       "source": "Ars Technica",
       "published": "Fri, 04 Sep 2026 17:18:12 +0000",
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The tech industry is hot for shopping bots, but they're years away",
+      "source": "The Register",
+      "published": "Thu, 01 Oct 2026 09:30:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/01/the-tech-industry-is-hot-for-shopping-bots-but-theyre-years-away/5300325",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 23:36:00 +0200",
+      "link": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+      "matched_keywords": [
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 22:16:14 +0200",
+      "link": "https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Peter Norvig says all aboard for AI coding",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 21:05:25 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/peter-norvig-says-all-aboard-for-ai-coding/5300244",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Show colleagues how much you care by sending an AI avatar to your Google Meet call",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 18:03:07 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/show-colleagues-how-much-you-care-by-sending-an-ai-avatar-to-your-google-meet-call/5300205",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "AI market needs to make $6 trillion a year by 2031 to fund its infrastructure habit",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 17:51:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/ai-market-needs-to-make-6-trillion-a-year-by-2031-to-fund-its-infrastructure-habit/5300175",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Where does your AI data actually live?",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/sponsored-where-does-your-ai-data-actually-live/5300134",
+      "matched_keywords": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "title": "OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 16:53:00 +0200",
+      "link": "https://www.theregister.com/columnists/2026/09/30/openai-apes-aws-marketplace-while-anthropic-remains-stubbornly-microsoftian/5300056",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "7 in 10 enterprises expected to abandon vendor-built agentic AI by 2028",
+      "source": "The Register",
+      "published": "Wed, 30 Sep 2026 14:58:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021",
       "matched_keywords": [
         "AI"
       ]
@@ -200,98 +286,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/09/29/investors-are-pricing-in-a-326-ai-productivity-boost-for-software-engineers/5299645",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Former X-Force hackers chase the offensive cyber gold rush",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 13:30:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/29/former-x-force-hackers-chase-the-offensive-cyber-gold-rush/5299662",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "HMRC bets up to \u00a32.4B on Salesforce for taxpayer CRM overhaul",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/09/29/hmrc-bets-up-to-24b-on-salesforce-for-taxpayer-crm-overhaul/5299389",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google ending ChromeOS support two years early",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 06:55:35 +0200",
-      "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "OpenAI\u2019s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 04:13:51 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "AMD bets $8.2B that worlds matter more than words in AI",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 00:01:33 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/amd-bets-82b-that-worlds-matter-more-than-words-in-ai/5299609",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AWS needs to embrace its place as the Home Depot of AI infrastructure",
-      "source": "The Register",
-      "published": "Mon, 28 Sep 2026 23:05:00 +0200",
-      "link": "https://www.theregister.com/paas-and-iaas/2026/09/28/aws-needs-to-embrace-its-place-as-the-home-depot-of-ai-infrastructure/5299602",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns",
-      "source": "The Register",
-      "published": "Mon, 28 Sep 2026 21:44:34 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-gpt-6-astra-really-good-at-supply-chain-attacks-uk-gov-warns/5299588",
-      "matched_keywords": [
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "Microsoft's Copilot super app comes with a meter attached",
-      "source": "The Register",
-      "published": "Mon, 28 Sep 2026 17:36:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/microsofts-copilot-super-app-comes-with-a-meter-attached/5299515",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Europe's AI ambitions rest on somebody else's supply chain",
-      "source": "The Register",
-      "published": "Mon, 28 Sep 2026 16:16:28 +0200",
-      "link": "https://www.theregister.com/systems/2026/09/28/europes-ai-ambitions-rest-on-somebody-elses-supply-chain/5299486",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI agents went the long way round for UN data",
-      "source": "The Register",
-      "published": "Mon, 28 Sep 2026 15:31:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-agents-went-the-long-way-round-for-un-data/5299452",
-      "matched_keywords": [
-        "OpenAI"
       ]
     }
   ]
