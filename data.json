@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T11:05:01.442494+00:00",
+  "last_updated": "2026-10-02T11:05:01.680755+00:00",
   "entries": [
     {
       "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
@@ -89,6 +89,62 @@
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Google launches first datacenter satellite and research that finds orbiting bit barns can work",
+      "source": "The Register",
+      "published": "Fri, 02 Oct 2026 04:08:45 +0200",
+      "link": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "AI agents hacked the hackers, stealing email addresses from security research org",
+      "source": "The Register",
+      "published": "Thu, 01 Oct 2026 23:26:42 +0200",
+      "link": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Stanford prof is beating the drum for a new protocol to replace TCP",
+      "source": "The Register",
+      "published": "Thu, 01 Oct 2026 22:00:45 +0200",
+      "link": "https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing",
+      "source": "The Register",
+      "published": "Thu, 01 Oct 2026 18:43:30 +0200",
+      "link": "https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AWS offers local, open source leash for agent harnesses",
+      "source": "The Register",
+      "published": "Thu, 01 Oct 2026 18:11:25 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/01/aws-offers-local-open-source-leash-for-agent-harnesses/5300578",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Build the right AI factory for your needs: partner for success",
+      "source": "The Register",
+      "published": "Thu, 01 Oct 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/01/sponsored-build-the-right-ai-factory-for-your-needs-partner-for-success/5300143",
+      "matched_keywords": [
+        "AI",
+        "NVIDIA"
       ]
     },
     {
@@ -182,108 +238,6 @@
       "source": "The Register",
       "published": "Wed, 30 Sep 2026 12:45:00 +0200",
       "link": "https://www.theregister.com/on-prem/2026/09/30/america-is-planning-more-ai-datacenters-than-its-chip-supply-can-fill/5299845",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenClaw slips on a suit to evade widespread business bans",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 07:04:22 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/openclaw-slips-on-a-suit-to-evade-widespread-business-bans/5299962",
-      "matched_keywords": [
-        "Nvidia",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Trump administration gets Big Tech to sign weak, non-binding, AI regulations",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 04:11:23 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 23:34:39 +0200",
-      "link": "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI tries disarming AI angst with cute graphics and always-on agents",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 23:12:58 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-tries-disarming-ai-angst-with-cute-graphics-and-always-on-agents/5299915",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Trump launches America.gov with AI chatbots at its core",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 22:14:32 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Zuckerberg touts enterprise AI push because Meta would never do anything to damage your reputation",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 21:35:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/zuckerberg-touts-enterprise-ai-push-because-meta-would-never-do-anything-to-damage-your-reputation/5299655",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Close the observability gap with agentic observability",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 21:02:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/sponsored-close-the-observability-gap-with-agentic-observability/5299410",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI models keep posting screenshots showing sensitive data from inside tech companies",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 18:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI benches GPT-6.1 Astra for overstepping the mark",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 15:43:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Leaked IPO docs: Anthropic tempts investors with existential risk warning",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 14:53:13 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/leaked-ipo-docs-anthropic-tempts-investors-with-existential-risk-warning/5299763",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Investors are pricing in a 32.6% AI productivity boost for software engineers",
-      "source": "The Register",
-      "published": "Tue, 29 Sep 2026 14:30:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/investors-are-pricing-in-a-326-ai-productivity-boost-for-software-engineers/5299645",
       "matched_keywords": [
         "AI"
       ]
