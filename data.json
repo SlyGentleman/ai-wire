@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-02T11:05:01.680755+00:00",
+  "last_updated": "2026-10-03T11:05:01.399753+00:00",
   "entries": [
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "source": "Ars Technica",
+      "published": "Fri, 02 Oct 2026 23:03:16 +0000",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
       "source": "Ars Technica",
@@ -89,6 +98,89 @@
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Palantir's fondness for French food cooked up tech's latest fad \u2013 forward-deployed engineers",
+      "source": "The Register",
+      "published": "Sat, 03 Oct 2026 10:02:00 +0200",
+      "link": "https://www.theregister.com/channel/2026/10/03/palantirs-fondness-for-french-food-cooked-up-techs-latest-fad-forward-deployed-engineers/5300360",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google hearts Apple's Swift so much it's pumping out server-side support",
+      "source": "The Register",
+      "published": "Fri, 02 Oct 2026 21:52:40 +0200",
+      "link": "https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "arXiv imposes rate limit on paper submissions to stem the AI slop tide",
+      "source": "The Register",
+      "published": "Fri, 02 Oct 2026 20:02:32 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
+      "source": "The Register",
+      "published": "Fri, 02 Oct 2026 19:37:05 +0200",
+      "link": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam\u2019s approval",
+      "source": "The Register",
+      "published": "Fri, 02 Oct 2026 17:20:00 +0200",
+      "link": "https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "OpenAI's wandering AI agents earn it a California subpoena",
+      "source": "The Register",
+      "published": "Fri, 02 Oct 2026 16:34:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+      "source": "The Register",
+      "published": "Fri, 02 Oct 2026 15:50:39 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI shows three staff the door over alleged information misuse",
+      "source": "The Register",
+      "published": "Fri, 02 Oct 2026 15:05:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch",
+      "source": "The Register",
+      "published": "Fri, 02 Oct 2026 15:00:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622",
+      "matched_keywords": [
+        "Nvidia"
       ]
     },
     {
@@ -181,63 +273,6 @@
       "source": "The Register",
       "published": "Wed, 30 Sep 2026 21:05:25 +0200",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/30/peter-norvig-says-all-aboard-for-ai-coding/5300244",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Show colleagues how much you care by sending an AI avatar to your Google Meet call",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 18:03:07 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/show-colleagues-how-much-you-care-by-sending-an-ai-avatar-to-your-google-meet-call/5300205",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "AI market needs to make $6 trillion a year by 2031 to fund its infrastructure habit",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 17:51:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/ai-market-needs-to-make-6-trillion-a-year-by-2031-to-fund-its-infrastructure-habit/5300175",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Where does your AI data actually live?",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/sponsored-where-does-your-ai-data-actually-live/5300134",
-      "matched_keywords": [
-        "AI",
-        "NVIDIA"
-      ]
-    },
-    {
-      "title": "OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 16:53:00 +0200",
-      "link": "https://www.theregister.com/columnists/2026/09/30/openai-apes-aws-marketplace-while-anthropic-remains-stubbornly-microsoftian/5300056",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "7 in 10 enterprises expected to abandon vendor-built agentic AI by 2028",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 14:58:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "America is planning more AI datacenters than its chip supply can fill",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 12:45:00 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/09/30/america-is-planning-more-ai-datacenters-than-its-chip-supply-can-fill/5299845",
       "matched_keywords": [
         "AI"
       ]
