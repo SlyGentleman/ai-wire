@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T11:05:01.399753+00:00",
+  "last_updated": "2026-10-04T11:05:01.914147+00:00",
   "entries": [
     {
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -98,6 +98,16 @@
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+      "source": "The Register",
+      "published": "Sat, 03 Oct 2026 17:27:00 +0200",
+      "link": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
       ]
     },
     {
@@ -256,25 +266,6 @@
       "matched_keywords": [
         "OpenAI",
         "model"
-      ]
-    },
-    {
-      "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 22:16:14 +0200",
-      "link": "https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Peter Norvig says all aboard for AI coding",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 21:05:25 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/peter-norvig-says-all-aboard-for-ai-coding/5300244",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
