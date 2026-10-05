@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T11:05:01.914147+00:00",
+  "last_updated": "2026-10-05T11:05:01.644734+00:00",
   "entries": [
     {
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -96,6 +96,24 @@
       "source": "Ars Technica",
       "published": "Fri, 04 Sep 2026 17:18:12 +0000",
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Brighter isn't better and more is less. The AI slowdown is nigh, no matter who says what",
+      "source": "The Register",
+      "published": "Mon, 05 Oct 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/05/brighter-isnt-better-and-more-is-less-the-ai-slowdown-is-nigh-no-matter-who-says-what/5300747",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Fulcrum Echo promises AI text in the style of any writer, so I tested it",
+      "source": "The Register",
+      "published": "Sun, 04 Oct 2026 17:15:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944",
       "matched_keywords": [
         "AI"
       ]
@@ -250,22 +268,12 @@
       ]
     },
     {
-      "title": "The tech industry is hot for shopping bots, but they're years away",
-      "source": "The Register",
-      "published": "Thu, 01 Oct 2026 09:30:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/01/the-tech-industry-is-hot-for-shopping-bots-but-theyre-years-away/5300325",
+      "title": "Conveyor Belt GBoard Brings the Keys to You",
+      "source": "Hackaday",
+      "published": "Mon, 05 Oct 2026 08:00:24 +0000",
+      "link": "https://hackaday.com/2026/10/05/conveyor-belt-gboard-brings-the-keys-to-you/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
-      "source": "The Register",
-      "published": "Wed, 30 Sep 2026 23:36:00 +0200",
-      "link": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
-      "matched_keywords": [
-        "OpenAI",
-        "model"
+        "Google"
       ]
     }
   ]
