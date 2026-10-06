@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T11:05:01.644734+00:00",
+  "last_updated": "2026-10-06T11:05:01.187306+00:00",
   "entries": [
     {
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -92,12 +92,96 @@
       ]
     },
     {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "source": "Ars Technica",
-      "published": "Fri, 04 Sep 2026 17:18:12 +0000",
-      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "title": "KPMG tells staff facing the axe: Here's \u00a3100, now zip it",
+      "source": "The Register",
+      "published": "Tue, 06 Oct 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/channel/2026/10/06/kpmg-tells-staff-facing-the-axe-heres-100-now-zip-it/5301093",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "OpenAI rolls out weak sauce watermarking for AI text",
+      "source": "The Register",
+      "published": "Tue, 06 Oct 2026 08:02:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/openai-rolls-out-weak-sauce-watermarking-for-ai-text/5301257",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool",
+      "source": "The Register",
+      "published": "Mon, 05 Oct 2026 21:24:19 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Altman-backed Volantis reveals plan to vault the memory wall by baking photonics into AI accelerators",
+      "source": "The Register",
+      "published": "Mon, 05 Oct 2026 18:32:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/10/05/altman-backed-volantis-reveals-plan-to-vault-the-memory-wall-by-baking-photonics-into-ai-accelerators/5300959",
+      "matched_keywords": [
+        "AI",
+        "compute"
+      ]
+    },
+    {
+      "title": "OpenAI to flood your eyeballs with visual ads",
+      "source": "The Register",
+      "published": "Mon, 05 Oct 2026 17:54:45 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/05/openai-to-flood-your-eyeballs-with-visual-ads/5301152",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Debian's latest kernel security update has 1,313 reasons to patch",
+      "source": "The Register",
+      "published": "Mon, 05 Oct 2026 17:35:00 +0200",
+      "link": "https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The question you would ask HPE and NVIDIA if nobody was recording",
+      "source": "The Register",
+      "published": "Mon, 05 Oct 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/05/sponsored-the-question-you-would-ask-hpe-and-nvidia-if-nobody-was-recording/5300427",
+      "matched_keywords": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "title": "Musk follows Trump's lead, swaps AI for SI in SpaceX rebrand",
+      "source": "The Register",
+      "published": "Mon, 05 Oct 2026 16:29:00 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/10/05/musk-follows-trumps-lead-swaps-ai-for-si-in-spacex-rebrand/5301090",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic says its IPO could herald the end of the world as we know it",
+      "source": "The Register",
+      "published": "Mon, 05 Oct 2026 14:27:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/05/anthropic-says-its-ipo-could-herald-the-end-of-the-world-as-we-know-it/5300908",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Ubuntu 'Stonking Stingray' beta swims out: Deeper Rust 'oxidization' plus LLM speech-to-text",
+      "source": "The Register",
+      "published": "Mon, 05 Oct 2026 13:25:00 +0200",
+      "link": "https://www.theregister.com/os-platforms/2026/10/05/ubuntu-stonking-stingray-beta-swims-out-deeper-rust-oxidization-plus-llm-speech-to-text/5301023",
+      "matched_keywords": [
+        "LLM"
       ]
     },
     {
@@ -212,68 +296,13 @@
       ]
     },
     {
-      "title": "Google launches first datacenter satellite and research that finds orbiting bit barns can work",
-      "source": "The Register",
-      "published": "Fri, 02 Oct 2026 04:08:45 +0200",
-      "link": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "AI agents hacked the hackers, stealing email addresses from security research org",
-      "source": "The Register",
-      "published": "Thu, 01 Oct 2026 23:26:42 +0200",
-      "link": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Stanford prof is beating the drum for a new protocol to replace TCP",
-      "source": "The Register",
-      "published": "Thu, 01 Oct 2026 22:00:45 +0200",
-      "link": "https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing",
-      "source": "The Register",
-      "published": "Thu, 01 Oct 2026 18:43:30 +0200",
-      "link": "https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AWS offers local, open source leash for agent harnesses",
-      "source": "The Register",
-      "published": "Thu, 01 Oct 2026 18:11:25 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/01/aws-offers-local-open-source-leash-for-agent-harnesses/5300578",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Build the right AI factory for your needs: partner for success",
-      "source": "The Register",
-      "published": "Thu, 01 Oct 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/01/sponsored-build-the-right-ai-factory-for-your-needs-partner-for-success/5300143",
-      "matched_keywords": [
-        "AI",
-        "NVIDIA"
-      ]
-    },
-    {
-      "title": "Conveyor Belt GBoard Brings the Keys to You",
+      "title": "A New Type of LLM on the Block: Decision-Making Models",
       "source": "Hackaday",
-      "published": "Mon, 05 Oct 2026 08:00:24 +0000",
-      "link": "https://hackaday.com/2026/10/05/conveyor-belt-gboard-brings-the-keys-to-you/",
+      "published": "Tue, 06 Oct 2026 08:00:29 +0000",
+      "link": "https://hackaday.com/2026/10/06/a-new-type-of-llm-on-the-block-decision-making-models/",
       "matched_keywords": [
-        "Google"
+        "LLM",
+        "llm"
       ]
     }
   ]
