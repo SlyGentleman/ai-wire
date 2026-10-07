@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-06T11:05:01.187306+00:00",
+  "last_updated": "2026-10-07T11:05:01.245102+00:00",
   "entries": [
+    {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "source": "Ars Technica",
+      "published": "Tue, 06 Oct 2026 19:21:14 +0000",
+      "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "source": "Ars Technica",
+      "published": "Tue, 06 Oct 2026 12:21:53 +0000",
+      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "source": "Ars Technica",
@@ -74,19 +92,66 @@
       ]
     },
     {
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "source": "Ars Technica",
-      "published": "Tue, 08 Sep 2026 21:11:46 +0000",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "title": "COSMIC shuts the door on AI code as GNOME debates letting bug reports in",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 10:09:00 +0200",
+      "link": "https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "source": "Ars Technica",
-      "published": "Fri, 04 Sep 2026 22:17:36 +0000",
-      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "title": "South Korean president calls for creation of tools that stop all cyber-attacks",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 05:56:25 +0200",
+      "link": "https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic reconfigures its cool kids security program",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 01:29:27 +0200",
+      "link": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Google teams with nuclear power giant to give reactors a tune-up",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 01:08:31 +0200",
+      "link": "https://www.theregister.com/systems/2026/10/07/google-teams-with-nuclear-power-giant-to-give-reactors-a-tune-up/5301498",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
+      "source": "The Register",
+      "published": "Tue, 06 Oct 2026 23:11:38 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/anthropic-claude-subscription-plan-provides-more-value-than-openais-study-says/5301470",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+      "source": "The Register",
+      "published": "Tue, 06 Oct 2026 20:03:25 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/european-ai-flag-bearer-mistrals-new-open-weights-model-is-le-chonk/5301443",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Wikimedia Foundation comes forward as latest OpenAI agent assault victim",
+      "source": "The Register",
+      "published": "Tue, 06 Oct 2026 18:04:15 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/wikimedia-foundation-comes-forward-as-latest-openai-agent-assault-victim/5301400",
       "matched_keywords": [
         "OpenAI"
       ]
@@ -228,81 +293,6 @@
       "link": "https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921",
       "matched_keywords": [
         "Google"
-      ]
-    },
-    {
-      "title": "arXiv imposes rate limit on paper submissions to stem the AI slop tide",
-      "source": "The Register",
-      "published": "Fri, 02 Oct 2026 20:02:32 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
-      "source": "The Register",
-      "published": "Fri, 02 Oct 2026 19:37:05 +0200",
-      "link": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam\u2019s approval",
-      "source": "The Register",
-      "published": "Fri, 02 Oct 2026 17:20:00 +0200",
-      "link": "https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "OpenAI's wandering AI agents earn it a California subpoena",
-      "source": "The Register",
-      "published": "Fri, 02 Oct 2026 16:34:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-      "source": "The Register",
-      "published": "Fri, 02 Oct 2026 15:50:39 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI shows three staff the door over alleged information misuse",
-      "source": "The Register",
-      "published": "Fri, 02 Oct 2026 15:05:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch",
-      "source": "The Register",
-      "published": "Fri, 02 Oct 2026 15:00:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "A New Type of LLM on the Block: Decision-Making Models",
-      "source": "Hackaday",
-      "published": "Tue, 06 Oct 2026 08:00:29 +0000",
-      "link": "https://hackaday.com/2026/10/06/a-new-type-of-llm-on-the-block-decision-making-models/",
-      "matched_keywords": [
-        "LLM",
-        "llm"
       ]
     }
   ]
