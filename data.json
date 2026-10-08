@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T11:05:01.245102+00:00",
+  "last_updated": "2026-10-08T11:05:01.696731+00:00",
   "entries": [
     {
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -92,6 +92,90 @@
       ]
     },
     {
+      "title": "Embedding the human factor into AI agent adoption",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/08/sponsored-embedding-the-human-factor-into-ai-agent-adoption/5301370",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Singapore\u2019s central bank wants all FinTech AI use cases subject to independent review",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 02:53:03 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI dots inspire open source imitators amid technical difficulties",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 22:45:05 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/07/openai-dots-inspire-open-source-imitators-amid-technical-difficulties/5301734",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Microsoft N1Xes Intel in favor of Nvidia's shiny new SoCs in Surface Laptop Ultra",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 21:57:45 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722",
+      "matched_keywords": [
+        "Nvidia",
+        "model"
+      ]
+    },
+    {
+      "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 21:38:06 +0200",
+      "link": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Browser-in-browser attacks use fake Meta Muse Ad lure to steal credentials",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 21:33:00 +0200",
+      "link": "https://www.theregister.com/research/2026/10/07/browser-in-browser-attacks-use-fake-meta-muse-ad-lure-to-steal-credentials/5301505",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 19:42:06 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/07/aws-launches-open-source-ai-agent-sandbox-to-prevent-yolo-mode-disasters/5301687",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Poetry is the new AI security threat as PoeLLM malware infects 3K+ servers",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 18:01:08 +0200",
+      "link": "https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672",
+      "matched_keywords": [
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "title": "When one datacenter is no longer enough",
+      "source": "The Register",
+      "published": "Wed, 07 Oct 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/07/sponsored-when-one-datacenter-is-no-longer-enough/5301030",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "COSMIC shuts the door on AI code as GNOME debates letting bug reports in",
       "source": "The Register",
       "published": "Wed, 07 Oct 2026 10:09:00 +0200",
@@ -173,126 +257,6 @@
       "matched_keywords": [
         "AI",
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool",
-      "source": "The Register",
-      "published": "Mon, 05 Oct 2026 21:24:19 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Altman-backed Volantis reveals plan to vault the memory wall by baking photonics into AI accelerators",
-      "source": "The Register",
-      "published": "Mon, 05 Oct 2026 18:32:00 +0200",
-      "link": "https://www.theregister.com/systems/2026/10/05/altman-backed-volantis-reveals-plan-to-vault-the-memory-wall-by-baking-photonics-into-ai-accelerators/5300959",
-      "matched_keywords": [
-        "AI",
-        "compute"
-      ]
-    },
-    {
-      "title": "OpenAI to flood your eyeballs with visual ads",
-      "source": "The Register",
-      "published": "Mon, 05 Oct 2026 17:54:45 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/05/openai-to-flood-your-eyeballs-with-visual-ads/5301152",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Debian's latest kernel security update has 1,313 reasons to patch",
-      "source": "The Register",
-      "published": "Mon, 05 Oct 2026 17:35:00 +0200",
-      "link": "https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The question you would ask HPE and NVIDIA if nobody was recording",
-      "source": "The Register",
-      "published": "Mon, 05 Oct 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/05/sponsored-the-question-you-would-ask-hpe-and-nvidia-if-nobody-was-recording/5300427",
-      "matched_keywords": [
-        "AI",
-        "NVIDIA"
-      ]
-    },
-    {
-      "title": "Musk follows Trump's lead, swaps AI for SI in SpaceX rebrand",
-      "source": "The Register",
-      "published": "Mon, 05 Oct 2026 16:29:00 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/10/05/musk-follows-trumps-lead-swaps-ai-for-si-in-spacex-rebrand/5301090",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic says its IPO could herald the end of the world as we know it",
-      "source": "The Register",
-      "published": "Mon, 05 Oct 2026 14:27:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/05/anthropic-says-its-ipo-could-herald-the-end-of-the-world-as-we-know-it/5300908",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Ubuntu 'Stonking Stingray' beta swims out: Deeper Rust 'oxidization' plus LLM speech-to-text",
-      "source": "The Register",
-      "published": "Mon, 05 Oct 2026 13:25:00 +0200",
-      "link": "https://www.theregister.com/os-platforms/2026/10/05/ubuntu-stonking-stingray-beta-swims-out-deeper-rust-oxidization-plus-llm-speech-to-text/5301023",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "Brighter isn't better and more is less. The AI slowdown is nigh, no matter who says what",
-      "source": "The Register",
-      "published": "Mon, 05 Oct 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/05/brighter-isnt-better-and-more-is-less-the-ai-slowdown-is-nigh-no-matter-who-says-what/5300747",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Fulcrum Echo promises AI text in the style of any writer, so I tested it",
-      "source": "The Register",
-      "published": "Sun, 04 Oct 2026 17:15:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
-      "source": "The Register",
-      "published": "Sat, 03 Oct 2026 17:27:00 +0200",
-      "link": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "Palantir's fondness for French food cooked up tech's latest fad \u2013 forward-deployed engineers",
-      "source": "The Register",
-      "published": "Sat, 03 Oct 2026 10:02:00 +0200",
-      "link": "https://www.theregister.com/channel/2026/10/03/palantirs-fondness-for-french-food-cooked-up-techs-latest-fad-forward-deployed-engineers/5300360",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google hearts Apple's Swift so much it's pumping out server-side support",
-      "source": "The Register",
-      "published": "Fri, 02 Oct 2026 21:52:40 +0200",
-      "link": "https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921",
-      "matched_keywords": [
-        "Google"
       ]
     }
   ]
