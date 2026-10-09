@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T11:05:01.696731+00:00",
+  "last_updated": "2026-10-09T11:05:02.039630+00:00",
   "entries": [
     {
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -92,6 +92,111 @@
       ]
     },
     {
+      "title": "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
+      "source": "The Register",
+      "published": "Fri, 09 Oct 2026 11:46:00 +0200",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AI company moves to defend critical infrastructure and open-source projects from AI",
+      "source": "The Register",
+      "published": "Fri, 09 Oct 2026 01:57:40 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/09/ai-company-moves-to-defend-critical-infrastructure-and-open-source-projects-from-ai/5302128",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Nvidia found $1B under the couch to help secure American scientific computing dominance",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 23:44:03 +0200",
+      "link": "https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "There can be only one: Google Cloud casts Gemini as your enterprise AI hero",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 22:16:27 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "High-severity Nvidia bug could crash GPU monitoring on exposed servers",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 20:17:08 +0200",
+      "link": "https://www.theregister.com/security/2026/10/08/high-severity-nvidia-bug-could-crash-gpu-monitoring-on-exposed-servers/5302077",
+      "matched_keywords": [
+        "GPU",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 19:22:32 +0200",
+      "link": "https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Gremlin now uses AI to break distributed systems faster",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 19:09:17 +0200",
+      "link": "https://www.theregister.com/on-prem/2026/10/08/gremlin-now-uses-ai-to-break-distributed-systems-faster/5302051",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 18:54:48 +0200",
+      "link": "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "CrowdStrike finds possible bank hacker's CV among exposed AI logs",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 15:27:00 +0200",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/08/crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs/5301908",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI giants promise to play nice with personal data after UK watchdog scrutiny",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 14:35:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Samsung eyes $80B quarterly profit as memory buyers pay the price",
+      "source": "The Register",
+      "published": "Thu, 08 Oct 2026 14:14:00 +0200",
+      "link": "https://www.theregister.com/systems/2026/10/08/samsung-eyes-80b-quarterly-profit-as-memory-buyers-pay-the-price/5301933",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "Embedding the human factor into AI agent adoption",
       "source": "The Register",
       "published": "Thu, 08 Oct 2026 10:00:00 +0200",
@@ -173,90 +278,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/10/07/sponsored-when-one-datacenter-is-no-longer-enough/5301030",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "COSMIC shuts the door on AI code as GNOME debates letting bug reports in",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 10:09:00 +0200",
-      "link": "https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "South Korean president calls for creation of tools that stop all cyber-attacks",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 05:56:25 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic reconfigures its cool kids security program",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 01:29:27 +0200",
-      "link": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Google teams with nuclear power giant to give reactors a tune-up",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 01:08:31 +0200",
-      "link": "https://www.theregister.com/systems/2026/10/07/google-teams-with-nuclear-power-giant-to-give-reactors-a-tune-up/5301498",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
-      "source": "The Register",
-      "published": "Tue, 06 Oct 2026 23:11:38 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/anthropic-claude-subscription-plan-provides-more-value-than-openais-study-says/5301470",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
-      "source": "The Register",
-      "published": "Tue, 06 Oct 2026 20:03:25 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/european-ai-flag-bearer-mistrals-new-open-weights-model-is-le-chonk/5301443",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Wikimedia Foundation comes forward as latest OpenAI agent assault victim",
-      "source": "The Register",
-      "published": "Tue, 06 Oct 2026 18:04:15 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/wikimedia-foundation-comes-forward-as-latest-openai-agent-assault-victim/5301400",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "KPMG tells staff facing the axe: Here's \u00a3100, now zip it",
-      "source": "The Register",
-      "published": "Tue, 06 Oct 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/channel/2026/10/06/kpmg-tells-staff-facing-the-axe-heres-100-now-zip-it/5301093",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI rolls out weak sauce watermarking for AI text",
-      "source": "The Register",
-      "published": "Tue, 06 Oct 2026 08:02:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/openai-rolls-out-weak-sauce-watermarking-for-ai-text/5301257",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
       ]
     }
   ]
