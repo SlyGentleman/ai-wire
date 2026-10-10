@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T11:05:02.039630+00:00",
+  "last_updated": "2026-10-10T11:05:01.734959+00:00",
   "entries": [
     {
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -83,12 +83,68 @@
       ]
     },
     {
-      "title": "Four groups caught using the same Chrome and Windows exploit kit",
-      "source": "Ars Technica",
-      "published": "Wed, 09 Sep 2026 20:55:02 +0000",
-      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "title": "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
+      "source": "The Register",
+      "published": "Sat, 10 Oct 2026 10:14:00 +0200",
+      "link": "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Microsoft leans on open weight model from Chinese AI lab to challenge Jev",
+      "source": "The Register",
+      "published": "Sat, 10 Oct 2026 09:10:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/10/microsoft-leans-on-open-weight-model-from-chinese-ai-lab-to-challenge-jev/5302473",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Growing pains: how distributed AI training changes the network between datacenters",
+      "source": "The Register",
+      "published": "Fri, 09 Oct 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/networks/2026/10/09/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301554",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Oracle lets AI agents do the work, provided you stay in Big Red's world",
+      "source": "The Register",
+      "published": "Fri, 09 Oct 2026 16:44:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/09/oracle-lets-ai-agents-do-the-work-provided-you-stay-in-big-reds-world/5302270",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Global PC shipments crater 20% as rising prices hammer demand",
+      "source": "The Register",
+      "published": "Fri, 09 Oct 2026 15:44:00 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "US Navy bets another $150M on fighter drone that skips the runway",
+      "source": "The Register",
+      "published": "Fri, 09 Oct 2026 14:44:00 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/10/09/us-navy-bets-another-150m-on-fighter-drone-that-skips-the-runway/5302237",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic asks users to stop being mean to Claude",
+      "source": "The Register",
+      "published": "Fri, 09 Oct 2026 12:42:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+      "matched_keywords": [
+        "Anthropic"
       ]
     },
     {
@@ -222,62 +278,6 @@
       "matched_keywords": [
         "AI",
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Microsoft N1Xes Intel in favor of Nvidia's shiny new SoCs in Surface Laptop Ultra",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 21:57:45 +0200",
-      "link": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722",
-      "matched_keywords": [
-        "Nvidia",
-        "model"
-      ]
-    },
-    {
-      "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 21:38:06 +0200",
-      "link": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Browser-in-browser attacks use fake Meta Muse Ad lure to steal credentials",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 21:33:00 +0200",
-      "link": "https://www.theregister.com/research/2026/10/07/browser-in-browser-attacks-use-fake-meta-muse-ad-lure-to-steal-credentials/5301505",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 19:42:06 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/07/aws-launches-open-source-ai-agent-sandbox-to-prevent-yolo-mode-disasters/5301687",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Poetry is the new AI security threat as PoeLLM malware infects 3K+ servers",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 18:01:08 +0200",
-      "link": "https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "When one datacenter is no longer enough",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 17:00:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/07/sponsored-when-one-datacenter-is-no-longer-enough/5301030",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
