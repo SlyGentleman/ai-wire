@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T11:05:01.734959+00:00",
+  "last_updated": "2026-10-11T11:05:01.596884+00:00",
   "entries": [
     {
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -78,6 +78,15 @@
       "source": "Ars Technica",
       "published": "Mon, 14 Sep 2026 21:04:32 +0000",
       "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "HPE's networking boss says AI will handle all trouble tickets without humans in two years",
+      "source": "The Register",
+      "published": "Sun, 11 Oct 2026 11:37:00 +0200",
+      "link": "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179",
       "matched_keywords": [
         "AI"
       ]
@@ -268,16 +277,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "OpenAI dots inspire open source imitators amid technical difficulties",
-      "source": "The Register",
-      "published": "Wed, 07 Oct 2026 22:45:05 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/07/openai-dots-inspire-open-source-imitators-amid-technical-difficulties/5301734",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
       ]
     }
   ]
