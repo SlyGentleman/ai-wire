@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-10-14T11:05:01.836272+00:00",
+  "last_updated": "2026-10-15T11:05:02.028843+00:00",
   "entries": [
+    {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "source": "Ars Technica",
+      "published": "Wed, 14 Oct 2026 12:55:06 +0000",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
     {
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
       "source": "Ars Technica",
@@ -74,12 +84,76 @@
       ]
     },
     {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "source": "Ars Technica",
-      "published": "Mon, 14 Sep 2026 21:04:32 +0000",
-      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "title": "UK keeps AI safeguards in the maybe pile for Cyber Security BIll",
+      "source": "The Register",
+      "published": "Thu, 15 Oct 2026 11:15:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Royal Navy goes fishing for suppliers to build its Type 93 robot submarine",
+      "source": "The Register",
+      "published": "Thu, 15 Oct 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/10/15/royal-navy-goes-fishing-for-suppliers-to-build-its-type-93-robot-submarine/5303038",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Chaos ensues when AI interviewer meets AI interviewee",
+      "source": "The Register",
+      "published": "Wed, 14 Oct 2026 22:53:37 +0200",
+      "link": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Linux kernel devs drop obligatory confession of AI tool usage",
+      "source": "The Register",
+      "published": "Wed, 14 Oct 2026 22:16:31 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
+      "source": "The Register",
+      "published": "Wed, 14 Oct 2026 21:12:33 +0200",
+      "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Researchers cig-nal their faith in AI by taking up smoking",
+      "source": "The Register",
+      "published": "Wed, 14 Oct 2026 18:18:59 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cisco, Nvidia team up to build fatter, faster pluggable",
+      "source": "The Register",
+      "published": "Wed, 14 Oct 2026 15:30:00 +0200",
+      "link": "https://www.theregister.com/networks/2026/10/14/cisco-nvidia-team-up-to-build-fatter-faster-pluggable/5302970",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "US tech giants warn Europe that ditching US tech giants could cost \u20ac115B",
+      "source": "The Register",
+      "published": "Wed, 14 Oct 2026 14:45:00 +0200",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031",
+      "matched_keywords": [
+        "Google"
       ]
     },
     {
@@ -232,66 +306,19 @@
       ]
     },
     {
-      "title": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
-      "source": "The Register",
-      "published": "Mon, 12 Oct 2026 15:45:00 +0200",
-      "link": "https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Imagine there's no Shiny Hunters \u2013 AI could make human hacking crews obsolete",
-      "source": "The Register",
-      "published": "Mon, 12 Oct 2026 12:27:00 +0200",
-      "link": "https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
-      "source": "The Register",
-      "published": "Sun, 11 Oct 2026 13:30:00 +0200",
-      "link": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "HPE's networking boss says AI will handle all trouble tickets without humans in two years",
-      "source": "The Register",
-      "published": "Sun, 11 Oct 2026 11:37:00 +0200",
-      "link": "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
-      "source": "The Register",
-      "published": "Sat, 10 Oct 2026 10:14:00 +0200",
-      "link": "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Microsoft leans on open weight model from Chinese AI lab to challenge Jev",
-      "source": "The Register",
-      "published": "Sat, 10 Oct 2026 09:10:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/10/microsoft-leans-on-open-weight-model-from-chinese-ai-lab-to-challenge-jev/5302473",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Testing Oneself for AI Slop",
+      "title": "Building An M7 Pan Tilt Head Controller",
       "source": "Hackaday",
-      "published": "Wed, 14 Oct 2026 11:00:06 +0000",
-      "link": "https://hackaday.com/2026/10/14/testing-oneself-for-ai-slop/",
+      "published": "Thu, 15 Oct 2026 08:00:43 +0000",
+      "link": "https://hackaday.com/2026/10/15/building-an-m7-pan-tilt-head-controller/",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "AI Controls iPhone Via ESP32",
+      "source": "Hackaday",
+      "published": "Thu, 15 Oct 2026 02:00:25 +0000",
+      "link": "https://hackaday.com/2026/10/14/ai-controls-iphone-via-esp32/",
       "matched_keywords": [
         "AI",
         "ai"
