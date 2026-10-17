@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-16T11:05:01.535004+00:00",
+  "last_updated": "2026-10-17T11:05:01.927180+00:00",
   "entries": [
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "source": "Ars Technica",
+      "published": "Fri, 16 Oct 2026 20:59:01 +0000",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Anthropic warns small AI models could self-replicate through IoT devices",
       "source": "Ars Technica",
@@ -66,12 +75,68 @@
       ]
     },
     {
-      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "source": "Ars Technica",
-      "published": "Sun, 20 Sep 2026 11:07:00 +0000",
-      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
+      "source": "The Register",
+      "published": "Sat, 17 Oct 2026 11:00:00 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569",
       "matched_keywords": [
-        "Google"
+        "AI"
+      ]
+    },
+    {
+      "title": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price",
+      "source": "The Register",
+      "published": "Fri, 16 Oct 2026 22:31:00 +0200",
+      "link": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621",
+      "matched_keywords": [
+        "AI",
+        "Nvidia",
+        "compute"
+      ]
+    },
+    {
+      "title": "Meta grants itself right to scrape content from business customers for model training",
+      "source": "The Register",
+      "published": "Fri, 16 Oct 2026 22:00:42 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "New online tool will check lawyers' sloppy AI-written briefs since they can't seem to be bothered",
+      "source": "The Register",
+      "published": "Fri, 16 Oct 2026 18:08:35 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/16/new-online-tool-will-check-lawyers-sloppy-ai-written-briefs-since-they-cant-seem-to-be-bothered/5303589",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "NTT Global Data Centers weighs the price tag of not building fast enough",
+      "source": "The Register",
+      "published": "Fri, 16 Oct 2026 17:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/16/sponsored-global-data-centers-weighs-the-price-tag-of-not-building-fast-enough/5303402",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Want your AI chats to stay private? Brave TEEs up end-to-end encryption",
+      "source": "The Register",
+      "published": "Fri, 16 Oct 2026 14:15:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/16/want-your-ai-chats-to-stay-private-brave-tees-up-end-to-end-encryption/5303462",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "source": "The Register",
+      "published": "Fri, 16 Oct 2026 12:00:00 +0200",
+      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -181,100 +246,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Cisco, Nvidia team up to build fatter, faster pluggable",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 15:30:00 +0200",
-      "link": "https://www.theregister.com/networks/2026/10/14/cisco-nvidia-team-up-to-build-fatter-faster-pluggable/5302970",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "US tech giants warn Europe that ditching US tech giants could cost \u20ac115B",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 14:45:00 +0200",
-      "link": "https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 11:55:00 +0200",
-      "link": "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 11:00:00 +0200",
-      "link": "https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK government chases AI while aging IT leaves it exposed, PAC chair warns",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 10:15:00 +0200",
-      "link": "https://www.theregister.com/public-sector/2026/10/14/uk-government-chases-ai-while-aging-it-leaves-it-exposed-pac-chair-warns/5302674",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "It won't kill you, or humanity, to get off the AI upgrade treadmill",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 09:30:00 +0200",
-      "link": "https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic reinvents source control as Claude floods the world with code",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 00:37:04 +0200",
-      "link": "https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
-      "source": "The Register",
-      "published": "Tue, 13 Oct 2026 22:20:25 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks",
-      "source": "The Register",
-      "published": "Tue, 13 Oct 2026 21:16:53 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891",
-      "matched_keywords": [
-        "AI",
-        "GPU"
-      ]
-    },
-    {
-      "title": "Linux Kernel Drops AI Tag Requirement, Uses Meta AI For Code Reviews",
-      "source": "Hackaday",
-      "published": "Thu, 15 Oct 2026 20:00:12 +0000",
-      "link": "https://hackaday.com/2026/10/15/linux-kernel-drops-ai-tag-requirement-uses-meta-ai-for-code-reviews/",
-      "matched_keywords": [
-        "AI",
-        "LLM",
-        "ai"
       ]
     }
   ]
