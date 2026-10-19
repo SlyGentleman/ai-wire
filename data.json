@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T11:05:01.927180+00:00",
+  "last_updated": "2026-10-19T11:05:01.652342+00:00",
   "entries": [
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -70,6 +70,33 @@
       "source": "Ars Technica",
       "published": "Mon, 21 Sep 2026 22:24:38 +0000",
       "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI\u2019s epic cash call is matched only by its ability to strangle revenue streams",
+      "source": "The Register",
+      "published": "Mon, 19 Oct 2026 10:30:00 +0200",
+      "link": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
+      "source": "The Register",
+      "published": "Mon, 19 Oct 2026 10:00:00 +0200",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ICANN vows to work faster, improve transparency",
+      "source": "The Register",
+      "published": "Mon, 19 Oct 2026 05:28:34 +0200",
+      "link": "https://www.theregister.com/networks/2026/10/19/icann-vows-to-work-faster-improve-transparency/5303751",
       "matched_keywords": [
         "AI"
       ]
@@ -191,61 +218,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202",
       "matched_keywords": [
         "OpenAI"
-      ]
-    },
-    {
-      "title": "UK keeps AI safeguards in the maybe pile for Cyber Security BIll",
-      "source": "The Register",
-      "published": "Thu, 15 Oct 2026 11:15:00 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Royal Navy goes fishing for suppliers to build its Type 93 robot submarine",
-      "source": "The Register",
-      "published": "Thu, 15 Oct 2026 10:30:00 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/10/15/royal-navy-goes-fishing-for-suppliers-to-build-its-type-93-robot-submarine/5303038",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Chaos ensues when AI interviewer meets AI interviewee",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 22:53:37 +0200",
-      "link": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Linux kernel devs drop obligatory confession of AI tool usage",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 22:16:31 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 21:12:33 +0200",
-      "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Researchers cig-nal their faith in AI by taking up smoking",
-      "source": "The Register",
-      "published": "Wed, 14 Oct 2026 18:18:59 +0200",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
