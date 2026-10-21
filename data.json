@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T11:05:01.169472+00:00",
+  "last_updated": "2026-10-21T11:05:01.443326+00:00",
   "entries": [
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -48,28 +48,147 @@
       ]
     },
     {
-      "title": "Your uncle\u2019s frozen Mac says it\u2019s infected after viewing a Google ad. Now what?",
-      "source": "Ars Technica",
-      "published": "Fri, 25 Sep 2026 19:38:59 +0000",
-      "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "source": "Ars Technica",
-      "published": "Tue, 22 Sep 2026 19:45:47 +0000",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "title": "Happiness is the next AI KPI if Oxford boffins have their way",
+      "source": "The Register",
+      "published": "Wed, 21 Oct 2026 09:15:00 +0000",
+      "link": "https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253",
       "matched_keywords": [
         "AI"
       ]
     },
     {
-      "title": "One-stop Tool Shows Apple Intelligence The Door",
-      "source": "Hackaday",
-      "published": "Mon, 19 Oct 2026 15:30:11 +0000",
-      "link": "https://hackaday.com/2026/10/19/one-stop-tool-shows-apple-intelligence-the-door/",
+      "title": "Auto tech startup claims it traced hack attempt back to rival's IP address",
+      "source": "The Register",
+      "published": "Tue, 20 Oct 2026 22:00:46 +0000",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
+      "matched_keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure",
+      "source": "The Register",
+      "published": "Tue, 20 Oct 2026 20:39:42 +0000",
+      "link": "https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269",
+      "matched_keywords": [
+        "Nvidia",
+        "model"
+      ]
+    },
+    {
+      "title": "openEuler brings China's enterprise Linux ambitions to the desktop",
+      "source": "The Register",
+      "published": "Tue, 20 Oct 2026 15:30:00 +0000",
+      "link": "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "How going dual-native means VM/container co-existence and sovereign security in the AI era",
+      "source": "The Register",
+      "published": "Tue, 20 Oct 2026 15:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/20/sponsored-how-going-dual-native-means-vm/container-co-existence-and-sovereign-security-in-the-ai-era/5303862",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "HPE to launch AI straight to the Moon",
+      "source": "The Register",
+      "published": "Tue, 20 Oct 2026 14:00:00 +0000",
+      "link": "https://www.theregister.com/science/2026/10/20/hpe-to-launch-ai-straight-to-the-moon/5303983",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google Cloud says a 'power event' caused today's outage",
+      "source": "The Register",
+      "published": "Tue, 20 Oct 2026 12:49:56 +0000",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "UK finance watchdog wants firms to report AI failures and close calls",
+      "source": "The Register",
+      "published": "Tue, 20 Oct 2026 09:57:08 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google Cloud's London zones takes a nap, multiple services disrupted",
+      "source": "The Register",
+      "published": "Tue, 20 Oct 2026 09:34:28 +0000",
+      "link": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-clouds-london-zones-takes-a-nap-multiple-services-disrupted/5304084",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "DeepSeek deep-sixed at all US federal civilian agencies",
+      "source": "The Register",
+      "published": "Tue, 20 Oct 2026 00:11:10 +0000",
+      "link": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
+      "matched_keywords": [
+        "AI",
+        "DeepSeek"
+      ]
+    },
+    {
+      "title": "Security patches need patches now that attackers have AI",
+      "source": "The Register",
+      "published": "Mon, 19 Oct 2026 18:23:40 +0000",
+      "link": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Red Hat helps teach about tech writing",
+      "source": "The Register",
+      "published": "Mon, 19 Oct 2026 16:11:00 +0000",
+      "link": "https://www.theregister.com/os-platforms/2026/10/19/red-hat-helps-teach-about-tech-writing/5303868",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
+      "source": "The Register",
+      "published": "Mon, 19 Oct 2026 12:15:48 +0000",
+      "link": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI\u2019s epic cash call is matched only by its ability to strangle revenue streams",
+      "source": "The Register",
+      "published": "Mon, 19 Oct 2026 08:30:00 +0000",
+      "link": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
+      "source": "The Register",
+      "published": "Mon, 19 Oct 2026 08:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ICANN vows to work faster, improve transparency",
+      "source": "The Register",
+      "published": "Mon, 19 Oct 2026 03:28:34 +0000",
+      "link": "https://www.theregister.com/networks/2026/10/19/icann-vows-to-work-faster-improve-transparency/5303751",
       "matched_keywords": [
         "AI"
       ]
