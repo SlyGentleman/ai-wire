@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T11:05:01.443326+00:00",
+  "last_updated": "2026-10-22T11:05:01.624977+00:00",
   "entries": [
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -45,6 +45,108 @@
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet",
+      "source": "The Register",
+      "published": "Thu, 22 Oct 2026 08:30:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/22/vendors-asking-forward-deployed-engineers-to-make-good-on-trillion-dollar-ai-bet/5304366",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Why the immediate future of liquid cooling is hybrid",
+      "source": "The Register",
+      "published": "Thu, 22 Oct 2026 08:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/22/partner-content-why-the-immediate-future-of-liquid-cooling-is-hybrid/5303795",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
+      "source": "The Register",
+      "published": "Thu, 22 Oct 2026 00:54:33 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you",
+      "source": "The Register",
+      "published": "Wed, 21 Oct 2026 20:13:33 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia woos wary Europeans with more open weights models",
+      "source": "The Register",
+      "published": "Wed, 21 Oct 2026 19:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-woos-wary-europeans-with-more-open-weights-models/5304552",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "AI will eat a fifth of tech budgets in 2027, but don't expect it to pay for itself",
+      "source": "The Register",
+      "published": "Wed, 21 Oct 2026 17:30:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-will-eat-a-fifth-of-tech-budgets-in-2027-but-dont-expect-it-to-pay-for-itself/5304466",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
+      "source": "The Register",
+      "published": "Wed, 21 Oct 2026 15:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
+      "source": "The Register",
+      "published": "Wed, 21 Oct 2026 12:43:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
+      "source": "The Register",
+      "published": "Wed, 21 Oct 2026 12:00:00 +0000",
+      "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia <span class=\"t42\">picks OpenShell to </span>tame AI gents",
+      "source": "The Register",
+      "published": "Wed, 21 Oct 2026 11:30:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
+      "source": "The Register",
+      "published": "Wed, 21 Oct 2026 11:30:00 +0000",
+      "link": "https://www.theregister.com/on-prem/2026/10/21/nvidias-grand-plan-for-speeding-up-datacenter-deployments-ai-trailer-parks/5304303",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
       ]
     },
     {
@@ -127,70 +229,6 @@
       "link": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-clouds-london-zones-takes-a-nap-multiple-services-disrupted/5304084",
       "matched_keywords": [
         "Google"
-      ]
-    },
-    {
-      "title": "DeepSeek deep-sixed at all US federal civilian agencies",
-      "source": "The Register",
-      "published": "Tue, 20 Oct 2026 00:11:10 +0000",
-      "link": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
-      "matched_keywords": [
-        "AI",
-        "DeepSeek"
-      ]
-    },
-    {
-      "title": "Security patches need patches now that attackers have AI",
-      "source": "The Register",
-      "published": "Mon, 19 Oct 2026 18:23:40 +0000",
-      "link": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Red Hat helps teach about tech writing",
-      "source": "The Register",
-      "published": "Mon, 19 Oct 2026 16:11:00 +0000",
-      "link": "https://www.theregister.com/os-platforms/2026/10/19/red-hat-helps-teach-about-tech-writing/5303868",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
-      "source": "The Register",
-      "published": "Mon, 19 Oct 2026 12:15:48 +0000",
-      "link": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI\u2019s epic cash call is matched only by its ability to strangle revenue streams",
-      "source": "The Register",
-      "published": "Mon, 19 Oct 2026 08:30:00 +0000",
-      "link": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
-      "source": "The Register",
-      "published": "Mon, 19 Oct 2026 08:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ICANN vows to work faster, improve transparency",
-      "source": "The Register",
-      "published": "Mon, 19 Oct 2026 03:28:34 +0000",
-      "link": "https://www.theregister.com/networks/2026/10/19/icann-vows-to-work-faster-improve-transparency/5303751",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
