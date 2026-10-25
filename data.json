@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T11:05:01.785523+00:00",
+  "last_updated": "2026-10-25T11:05:01.718788+00:00",
   "entries": [
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -68,10 +68,10 @@
       ]
     },
     {
-      "title": "AI models think humans are a bunch of amoral sheep",
+      "title": "AI models describe humans as a bunch of amoral sheep",
       "source": "The Register",
       "published": "Fri, 23 Oct 2026 16:26:13 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-describe-humans-as-a-bunch-of-amoral-sheep/5305123",
       "matched_keywords": [
         "AI"
       ]
@@ -209,34 +209,6 @@
       "source": "The Register",
       "published": "Wed, 21 Oct 2026 15:00:00 +0000",
       "link": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
-      "source": "The Register",
-      "published": "Wed, 21 Oct 2026 12:43:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
-      "source": "The Register",
-      "published": "Wed, 21 Oct 2026 12:00:00 +0000",
-      "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia <span class=\"t42\">picks OpenShell to </span>tame AI gents",
-      "source": "The Register",
-      "published": "Wed, 21 Oct 2026 11:30:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
       "matched_keywords": [
         "AI",
         "Nvidia"
