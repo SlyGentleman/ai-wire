@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T11:05:01.718788+00:00",
+  "last_updated": "2026-10-26T11:05:01.208990+00:00",
   "entries": [
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -45,6 +45,25 @@
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Euro open source specialist proposes LLM gateway to ease token bills",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 10:15:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 00:39:57 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+      "matched_keywords": [
+        "AI",
+        "DeepSeek"
       ]
     },
     {
@@ -192,25 +211,6 @@
       "published": "Wed, 21 Oct 2026 19:00:00 +0000",
       "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-woos-wary-europeans-with-more-open-weights-models/5304552",
       "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "AI will eat a fifth of tech budgets in 2027, but don't expect it to pay for itself",
-      "source": "The Register",
-      "published": "Wed, 21 Oct 2026 17:30:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-will-eat-a-fifth-of-tech-budgets-in-2027-but-dont-expect-it-to-pay-for-itself/5304466",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
-      "source": "The Register",
-      "published": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
-      "matched_keywords": [
-        "AI",
         "Nvidia"
       ]
     }
