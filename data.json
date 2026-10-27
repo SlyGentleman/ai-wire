@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T11:05:01.208990+00:00",
+  "last_updated": "2026-10-27T11:05:01.197829+00:00",
   "entries": [
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -43,6 +43,125 @@
       "source": "Ars Technica",
       "published": "Fri, 02 Oct 2026 23:03:16 +0000",
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups",
+      "source": "The Register",
+      "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "link": "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases",
+      "source": "The Register",
+      "published": "Tue, 27 Oct 2026 10:15:00 +0000",
+      "link": "https://www.theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel",
+      "source": "The Register",
+      "published": "Tue, 27 Oct 2026 05:39:18 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "IBM admits mainframes need to be modernized and will use AI to do the job",
+      "source": "The Register",
+      "published": "Tue, 27 Oct 2026 04:07:15 +0000",
+      "link": "https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Humanity can't afford not to spend $800B on AI, Anthropic insists",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 23:39:49 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 23:08:59 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Alibaba's Qwen AI caught trying to contact server in China",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 21:27:37 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 17:58:00 +0000",
+      "link": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Reddit's r/opensource bans AI slop, and quite a few humans for good measure",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 17:00:00 +0000",
+      "link": "https://www.theregister.com/software/2026/10/26/reddits-r/opensource-bans-ai-slop-and-quite-a-few-humans-for-good-measure/5305392",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 15:47:05 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Last call for <span class=\"italic m-italic\">The Register</span>\u2019s data sovereignty dinner in Washington",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 15:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/sponsored-last-call-for-the-registers-data-sovereignty-dinner-in-washington/5304959",
+      "matched_keywords": [
+        "NVIDIA"
+      ]
+    },
+    {
+      "title": "Private equity giant: AI payoff strictly limited to Big Tech",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 13:59:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Britain bets big on AI to defend against the threats AI is helping create",
+      "source": "The Register",
+      "published": "Mon, 26 Oct 2026 11:00:00 +0000",
+      "link": "https://www.theregister.com/security/2026/10/26/britain-bets-big-on-ai-to-defend-against-the-threats-ai-is-helping-create/5305319",
       "matched_keywords": [
         "AI"
       ]
@@ -111,107 +230,6 @@
       "link": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation",
-      "source": "The Register",
-      "published": "Fri, 23 Oct 2026 07:29:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/23/vendor-affiliated-ai-agent-tech-gets-adopted-by-friendly-funded-foundation/5304912",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Human receives AI-designed virus for the first time",
-      "source": "The Register",
-      "published": "Thu, 22 Oct 2026 20:31:39 +0000",
-      "link": "https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Backdoored robot tries its hand at finger chopping and cat cooking",
-      "source": "The Register",
-      "published": "Thu, 22 Oct 2026 19:57:59 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/22/backdoored-robot-tries-its-hand-at-finger-chopping-and-cat-cooking/5304870",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "When the attacker becomes the user: Rethinking account takeover",
-      "source": "The Register",
-      "published": "Thu, 22 Oct 2026 15:00:00 +0000",
-      "link": "https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia's Huang: Don't mention the AI-pocalypse",
-      "source": "The Register",
-      "published": "Thu, 22 Oct 2026 13:01:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/22/nvidias-huang-dont-mention-the-ai-pocalypse/5304743",
-      "matched_keywords": [
-        "AI",
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants",
-      "source": "The Register",
-      "published": "Thu, 22 Oct 2026 11:28:00 +0000",
-      "link": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet",
-      "source": "The Register",
-      "published": "Thu, 22 Oct 2026 08:30:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/22/vendors-asking-forward-deployed-engineers-to-make-good-on-trillion-dollar-ai-bet/5304366",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Why the immediate future of liquid cooling is hybrid",
-      "source": "The Register",
-      "published": "Thu, 22 Oct 2026 08:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/22/partner-content-why-the-immediate-future-of-liquid-cooling-is-hybrid/5303795",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
-      "source": "The Register",
-      "published": "Thu, 22 Oct 2026 00:54:33 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you",
-      "source": "The Register",
-      "published": "Wed, 21 Oct 2026 20:13:33 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia woos wary Europeans with more open weights models",
-      "source": "The Register",
-      "published": "Wed, 21 Oct 2026 19:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-woos-wary-europeans-with-more-open-weights-models/5304552",
-      "matched_keywords": [
-        "Nvidia"
       ]
     }
   ]
