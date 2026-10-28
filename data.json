@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T11:05:01.197829+00:00",
+  "last_updated": "2026-10-28T11:05:02.009509+00:00",
   "entries": [
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -43,6 +43,72 @@
       "source": "Ars Technica",
       "published": "Fri, 02 Oct 2026 23:03:16 +0000",
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Neocloud thinks AI agents - not meatbags - will be its main customers",
+      "source": "The Register",
+      "published": "Wed, 28 Oct 2026 09:30:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI slows growth for Infosys and keeps it afloat at the same time",
+      "source": "The Register",
+      "published": "Wed, 28 Oct 2026 02:18:02 +0000",
+      "link": "https://www.theregister.com/channel/2026/10/28/ai-slows-growth-for-infosys-and-keeps-it-afloat-at-the-same-time/5305879",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
+      "source": "The Register",
+      "published": "Tue, 27 Oct 2026 20:20:27 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "Nvidia",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Anthropic now lets Claude users jump out of plane without parachute",
+      "source": "The Register",
+      "published": "Tue, 27 Oct 2026 19:29:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
+      "source": "The Register",
+      "published": "Tue, 27 Oct 2026 19:11:02 +0000",
+      "link": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "EU privacy advocates accuse US data annotation firm of snooping on contractors",
+      "source": "The Register",
+      "published": "Tue, 27 Oct 2026 17:29:00 +0000",
+      "link": "https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "A whopping 3% of boardroom execs spy productivity and costs savings from AI",
+      "source": "The Register",
+      "published": "Tue, 27 Oct 2026 14:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/a-whopping-3-of-boardroom-execs-spy-productivity-and-costs-savings-from-ai/5305675",
       "matched_keywords": [
         "AI"
       ]
@@ -173,63 +239,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170",
       "matched_keywords": [
         "LLM"
-      ]
-    },
-    {
-      "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 00:39:57 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
-      "matched_keywords": [
-        "AI",
-        "DeepSeek"
-      ]
-    },
-    {
-      "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
-      "source": "The Register",
-      "published": "Fri, 23 Oct 2026 22:36:11 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
-      "source": "The Register",
-      "published": "Fri, 23 Oct 2026 19:14:57 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "AI models describe humans as a bunch of amoral sheep",
-      "source": "The Register",
-      "published": "Fri, 23 Oct 2026 16:26:13 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-describe-humans-as-a-bunch-of-amoral-sheep/5305123",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Michigan prof creates Python-like Jac language for AI agents",
-      "source": "The Register",
-      "published": "Fri, 23 Oct 2026 15:46:19 +0000",
-      "link": "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
-      "source": "The Register",
-      "published": "Fri, 23 Oct 2026 11:31:00 +0000",
-      "link": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
