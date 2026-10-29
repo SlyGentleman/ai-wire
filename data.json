@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T11:05:02.009509+00:00",
+  "last_updated": "2026-10-29T11:05:01.709672+00:00",
   "entries": [
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -43,6 +43,119 @@
       "source": "Ars Technica",
       "published": "Fri, 02 Oct 2026 23:03:16 +0000",
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Traces of new Pi hardware spotted in GitHub",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 11:00:00 +0000",
+      "link": "https://www.theregister.com/personal-tech/2026/10/29/traces-of-new-pi-hardware-spotted-in-github/5306022",
+      "matched_keywords": [
+        "Model"
+      ]
+    },
+    {
+      "title": "HPE puts storage to work on AI\u2019s expensive memory problem",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 09:00:00 +0000",
+      "link": "https://www.theregister.com/storage/2026/10/29/partner-content-hpe-puts-storage-to-work-on-ais-expensive-memory-problem/5305793",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google's Gemini 4 Carbon looks like a diamond in the rough",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 05:29:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149",
+      "matched_keywords": [
+        "Anthropic",
+        "Google"
+      ]
+    },
+    {
+      "title": "Tape is so not dead that Fujifilm will increase production capacity 5x",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 03:34:32 +0000",
+      "link": "https://www.theregister.com/storage/2026/10/29/tape-is-so-not-dead-that-fujifilm-will-increase-production-capacity-5x/5306189",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google struggling to make AI Mode searches pay",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 01:12:24 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
+      "matched_keywords": [
+        "AI",
+        "Google",
+        "compute"
+      ]
+    },
+    {
+      "title": "Please state the nature of the medical emergency: Google is building a robot medic for NASA",
+      "source": "The Register",
+      "published": "Wed, 28 Oct 2026 20:44:22 +0000",
+      "link": "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Anthropic engineer declares the coding interview dead",
+      "source": "The Register",
+      "published": "Wed, 28 Oct 2026 20:22:56 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/28/anthropic-engineer-declares-the-coding-interview-dead/5306115",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Amazon tells tokenmaxxing devs to slow their AI roll",
+      "source": "The Register",
+      "published": "Wed, 28 Oct 2026 16:49:14 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "GitHub powering up four million extra cores to stop its service going down",
+      "source": "The Register",
+      "published": "Wed, 28 Oct 2026 16:30:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "How Google fumbled the frontend with Angular 2",
+      "source": "The Register",
+      "published": "Wed, 28 Oct 2026 15:11:46 +0000",
+      "link": "https://www.theregister.com/devops/2026/10/28/how-google-fumbled-the-frontend-with-angular-2/5306030",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Cisco open sources tool for detecting AI agents on hacking sprees",
+      "source": "The Register",
+      "published": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "link": "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
+      "source": "The Register",
+      "published": "Wed, 28 Oct 2026 11:45:00 +0000",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
       "matched_keywords": [
         "AI"
       ]
@@ -166,79 +279,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
       "matched_keywords": [
         "OpenAI"
-      ]
-    },
-    {
-      "title": "Alibaba's Qwen AI caught trying to contact server in China",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 21:27:37 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 17:58:00 +0000",
-      "link": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Reddit's r/opensource bans AI slop, and quite a few humans for good measure",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 17:00:00 +0000",
-      "link": "https://www.theregister.com/software/2026/10/26/reddits-r/opensource-bans-ai-slop-and-quite-a-few-humans-for-good-measure/5305392",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 15:47:05 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Last call for <span class=\"italic m-italic\">The Register</span>\u2019s data sovereignty dinner in Washington",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 15:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/sponsored-last-call-for-the-registers-data-sovereignty-dinner-in-washington/5304959",
-      "matched_keywords": [
-        "NVIDIA"
-      ]
-    },
-    {
-      "title": "Private equity giant: AI payoff strictly limited to Big Tech",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 13:59:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Britain bets big on AI to defend against the threats AI is helping create",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 11:00:00 +0000",
-      "link": "https://www.theregister.com/security/2026/10/26/britain-bets-big-on-ai-to-defend-against-the-threats-ai-is-helping-create/5305319",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Euro open source specialist proposes LLM gateway to ease token bills",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 10:15:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170",
-      "matched_keywords": [
-        "LLM"
       ]
     }
   ]
