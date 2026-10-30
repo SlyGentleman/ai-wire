@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T11:05:01.709672+00:00",
+  "last_updated": "2026-10-30T11:05:01.651502+00:00",
   "entries": [
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -45,6 +45,108 @@
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "matched_keywords": [
         "AI"
+      ]
+    },
+    {
+      "title": "Accenture AI agents are sifting through applicants",
+      "source": "The Register",
+      "published": "Fri, 30 Oct 2026 11:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/30/accenture-ai-agents-are-sifting-through-applicants/5306460",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google's search revenue Ferrari hits an AI-powered speed bump",
+      "source": "The Register",
+      "published": "Fri, 30 Oct 2026 07:33:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/30/googles-search-revenue-ferrari-hits-an-ai-powered-speed-bump/5306520",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue",
+      "source": "The Register",
+      "published": "Fri, 30 Oct 2026 05:42:24 +0000",
+      "link": "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "In the year AI re-wrote the infosec rulebook, it\u2019s comforting to know crypto exchanges still have bad security",
+      "source": "The Register",
+      "published": "Fri, 30 Oct 2026 04:22:12 +0000",
+      "link": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 23:12:26 +0000",
+      "link": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Howler will have AI answer your questions, then burn the chat",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 20:04:05 +0000",
+      "link": "https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Startup wants to make AI agents safe for DevOps duty",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 19:46:08 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/29/startup-wants-to-make-ai-agents-safe-for-devops-duty/5306477",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "GSA left sensitive Google Drive files open to staff, contractors",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 15:56:44 +0000",
+      "link": "https://www.theregister.com/public-sector/2026/10/29/gsa-left-sensitive-google-drive-files-open-to-staff-contractors/5306430",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Oracle wants to bill you for every AI task, not just every seat",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 15:30:00 +0000",
+      "link": "https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Built to bend: Postgres\u2019s inventor and a steward on what AI really needs",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 15:00:00 +0000",
+      "link": "https://www.theregister.com/databases/2026/10/29/partner-content-built-to-bend-postgress-inventor-and-a-steward-on-what-ai-really-needs/5305957",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "LibreOffice's 'no AI' stance meets LLM-assisted code",
+      "source": "The Register",
+      "published": "Thu, 29 Oct 2026 11:29:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084",
+      "matched_keywords": [
+        "AI",
+        "LLM"
       ]
     },
     {
@@ -167,118 +269,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "AI slows growth for Infosys and keeps it afloat at the same time",
-      "source": "The Register",
-      "published": "Wed, 28 Oct 2026 02:18:02 +0000",
-      "link": "https://www.theregister.com/channel/2026/10/28/ai-slows-growth-for-infosys-and-keeps-it-afloat-at-the-same-time/5305879",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
-      "source": "The Register",
-      "published": "Tue, 27 Oct 2026 20:20:27 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
-      "matched_keywords": [
-        "AI",
-        "Google",
-        "Nvidia",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Anthropic now lets Claude users jump out of plane without parachute",
-      "source": "The Register",
-      "published": "Tue, 27 Oct 2026 19:29:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
-      "source": "The Register",
-      "published": "Tue, 27 Oct 2026 19:11:02 +0000",
-      "link": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "EU privacy advocates accuse US data annotation firm of snooping on contractors",
-      "source": "The Register",
-      "published": "Tue, 27 Oct 2026 17:29:00 +0000",
-      "link": "https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "A whopping 3% of boardroom execs spy productivity and costs savings from AI",
-      "source": "The Register",
-      "published": "Tue, 27 Oct 2026 14:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/a-whopping-3-of-boardroom-execs-spy-productivity-and-costs-savings-from-ai/5305675",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups",
-      "source": "The Register",
-      "published": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "link": "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases",
-      "source": "The Register",
-      "published": "Tue, 27 Oct 2026 10:15:00 +0000",
-      "link": "https://www.theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel",
-      "source": "The Register",
-      "published": "Tue, 27 Oct 2026 05:39:18 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "IBM admits mainframes need to be modernized and will use AI to do the job",
-      "source": "The Register",
-      "published": "Tue, 27 Oct 2026 04:07:15 +0000",
-      "link": "https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Humanity can't afford not to spend $800B on AI, Anthropic insists",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 23:39:49 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
-      "source": "The Register",
-      "published": "Mon, 26 Oct 2026 23:08:59 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
-      "matched_keywords": [
-        "OpenAI"
       ]
     }
   ]
