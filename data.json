@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-10-30T11:05:01.651502+00:00",
+  "last_updated": "2026-10-31T11:05:01.532176+00:00",
   "entries": [
+    {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "source": "Ars Technica",
+      "published": "Fri, 30 Oct 2026 21:09:54 +0000",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "source": "Ars Technica",
@@ -39,10 +48,64 @@
       ]
     },
     {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "source": "Ars Technica",
-      "published": "Fri, 02 Oct 2026 23:03:16 +0000",
-      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+      "source": "The Register",
+      "published": "Sat, 31 Oct 2026 11:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Backbone of a beast \u2013 charting Nvidia's rise to networking titan",
+      "source": "The Register",
+      "published": "Sat, 31 Oct 2026 08:03:00 +0000",
+      "link": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
+      "source": "The Register",
+      "published": "Fri, 30 Oct 2026 20:32:32 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
+      "source": "The Register",
+      "published": "Fri, 30 Oct 2026 19:37:12 +0000",
+      "link": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic: That Claude Code extension compromise\u2026 couldn't be us",
+      "source": "The Register",
+      "published": "Fri, 30 Oct 2026 16:27:00 +0000",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AlpineBSD announced \u2013 an AI-free FOSS OS",
+      "source": "The Register",
+      "published": "Fri, 30 Oct 2026 14:45:00 +0000",
+      "link": "https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI projects not paying off? Keep at it, says Uni Productivity Institute",
+      "source": "The Register",
+      "published": "Fri, 30 Oct 2026 13:15:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/30/ai-projects-not-paying-off-keep-at-it-says-uni-productivity-institute/5306581",
       "matched_keywords": [
         "AI"
       ]
@@ -215,60 +278,6 @@
       "matched_keywords": [
         "AI",
         "Anthropic"
-      ]
-    },
-    {
-      "title": "Amazon tells tokenmaxxing devs to slow their AI roll",
-      "source": "The Register",
-      "published": "Wed, 28 Oct 2026 16:49:14 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "GitHub powering up four million extra cores to stop its service going down",
-      "source": "The Register",
-      "published": "Wed, 28 Oct 2026 16:30:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "How Google fumbled the frontend with Angular 2",
-      "source": "The Register",
-      "published": "Wed, 28 Oct 2026 15:11:46 +0000",
-      "link": "https://www.theregister.com/devops/2026/10/28/how-google-fumbled-the-frontend-with-angular-2/5306030",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Cisco open sources tool for detecting AI agents on hacking sprees",
-      "source": "The Register",
-      "published": "Wed, 28 Oct 2026 12:00:00 +0000",
-      "link": "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
-      "source": "The Register",
-      "published": "Wed, 28 Oct 2026 11:45:00 +0000",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Neocloud thinks AI agents - not meatbags - will be its main customers",
-      "source": "The Register",
-      "published": "Wed, 28 Oct 2026 09:30:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
