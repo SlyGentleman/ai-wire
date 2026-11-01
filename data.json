@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T11:05:01.532176+00:00",
+  "last_updated": "2026-11-01T12:05:02.113588+00:00",
   "entries": [
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -45,6 +45,16 @@
       "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
       "matched_keywords": [
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Google's AI satellite sends a very expensive haiku to Earth",
+      "source": "The Register",
+      "published": "Sat, 31 Oct 2026 15:36:14 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+      "matched_keywords": [
+        "AI",
+        "Google"
       ]
     },
     {
@@ -250,34 +260,13 @@
       ]
     },
     {
-      "title": "Google struggling to make AI Mode searches pay",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 01:12:24 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
+      "title": "DIY WiFi Analyzer Sniffs Out Congestion and Coverage Issues, Suggests Fixes",
+      "source": "Hackaday",
+      "published": "Sat, 31 Oct 2026 17:00:53 +0000",
+      "link": "https://hackaday.com/2026/10/31/diy-wifi-analyzer-sniffs-out-congestion-and-coverage-issues-suggests-fixes/",
       "matched_keywords": [
         "AI",
-        "Google",
-        "compute"
-      ]
-    },
-    {
-      "title": "Please state the nature of the medical emergency: Google is building a robot medic for NASA",
-      "source": "The Register",
-      "published": "Wed, 28 Oct 2026 20:44:22 +0000",
-      "link": "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Anthropic engineer declares the coding interview dead",
-      "source": "The Register",
-      "published": "Wed, 28 Oct 2026 20:22:56 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/28/anthropic-engineer-declares-the-coding-interview-dead/5306115",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
+        "model"
       ]
     }
   ]
