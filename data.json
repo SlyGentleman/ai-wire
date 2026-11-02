@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T12:05:02.113588+00:00",
+  "last_updated": "2026-11-02T12:05:01.312941+00:00",
   "entries": [
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -45,6 +45,63 @@
       "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
       "matched_keywords": [
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Vintage fun: Prodding AI agents using retro hardware just because you can",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 11:00:00 +0000",
+      "link": "https://www.theregister.com/offbeat/2026/11/02/vintage-fun-prodding-ai-agents-using-retro-hardware-just-because-you-can/5306705",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "From Expertise to Intelligence: NISCO Deploys World's First Swarm-Intelligence Steel Model at Scale",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 09:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/02/partner-content-from-expertise-to-intelligence-nisco-deploys-worlds-first-swarm-intelligence-steel-model-at-scale/5306614",
+      "matched_keywords": [
+        "AI",
+        "Model"
+      ]
+    },
+    {
+      "title": "Chap who coded Google\u2019s Pac-Man clone reveals how the game freaked out Firefox",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 06:05:39 +0000",
+      "link": "https://www.theregister.com/personal-tech/2026/11/02/chap-who-coded-googles-pac-man-clone-reveals-how-the-game-freaked-out-firefox/5306879",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "India floats AI plan under which \u2018The model travels to the data, rather than the data travelling to the model\u2019",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 04:39:50 +0000",
+      "link": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Google says Asian advertisers spending less due to Europe's customs changes",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 01:02:26 +0000",
+      "link": "https://www.theregister.com/legal/2026/11/02/google-says-asian-advertisers-spending-less-due-to-europes-customs-changes/5306860",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Linus Torvalds says Linux kernel is out of \u2018stabilization phase\u2019 and using \u2018much healthier model\u2019 for AI contributions",
+      "source": "The Register",
+      "published": "Sun, 01 Nov 2026 23:11:41 +0000",
+      "link": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
+      "matched_keywords": [
+        "AI",
+        "model"
       ]
     },
     {
@@ -210,63 +267,6 @@
       "link": "https://www.theregister.com/databases/2026/10/29/partner-content-built-to-bend-postgress-inventor-and-a-steward-on-what-ai-really-needs/5305957",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "LibreOffice's 'no AI' stance meets LLM-assisted code",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 11:29:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084",
-      "matched_keywords": [
-        "AI",
-        "LLM"
-      ]
-    },
-    {
-      "title": "Traces of new Pi hardware spotted in GitHub",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 11:00:00 +0000",
-      "link": "https://www.theregister.com/personal-tech/2026/10/29/traces-of-new-pi-hardware-spotted-in-github/5306022",
-      "matched_keywords": [
-        "Model"
-      ]
-    },
-    {
-      "title": "HPE puts storage to work on AI\u2019s expensive memory problem",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 09:00:00 +0000",
-      "link": "https://www.theregister.com/storage/2026/10/29/partner-content-hpe-puts-storage-to-work-on-ais-expensive-memory-problem/5305793",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google's Gemini 4 Carbon looks like a diamond in the rough",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 05:29:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149",
-      "matched_keywords": [
-        "Anthropic",
-        "Google"
-      ]
-    },
-    {
-      "title": "Tape is so not dead that Fujifilm will increase production capacity 5x",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 03:34:32 +0000",
-      "link": "https://www.theregister.com/storage/2026/10/29/tape-is-so-not-dead-that-fujifilm-will-increase-production-capacity-5x/5306189",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "DIY WiFi Analyzer Sniffs Out Congestion and Coverage Issues, Suggests Fixes",
-      "source": "Hackaday",
-      "published": "Sat, 31 Oct 2026 17:00:53 +0000",
-      "link": "https://hackaday.com/2026/10/31/diy-wifi-analyzer-sniffs-out-congestion-and-coverage-issues-suggests-fixes/",
-      "matched_keywords": [
-        "AI",
-        "model"
       ]
     }
   ]
