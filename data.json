@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T12:05:01.312941+00:00",
+  "last_updated": "2026-11-03T12:05:01.644294+00:00",
   "entries": [
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -48,6 +48,100 @@
       ]
     },
     {
+      "title": "Forget retraining - AI can now tweak another AI's weights",
+      "source": "The Register",
+      "published": "Tue, 03 Nov 2026 08:15:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
+      "matched_keywords": [
+        "AI",
+        "benchmark"
+      ]
+    },
+    {
+      "title": "Open models can do 90% of agentic work at a twentieth of the cost of a frontier LLM: Gartner",
+      "source": "The Register",
+      "published": "Tue, 03 Nov 2026 06:19:50 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "Toyota shows off SoC that stores model weights and its OS on integrated memory",
+      "source": "The Register",
+      "published": "Tue, 03 Nov 2026 03:25:32 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117",
+      "matched_keywords": [
+        "AI",
+        "model"
+      ]
+    },
+    {
+      "title": "Anthropic's compute tab could top $1T as Q3 revenue nears $17B",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 23:25:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089",
+      "matched_keywords": [
+        "Anthropic",
+        "compute"
+      ]
+    },
+    {
+      "title": "AI could break legal systems by finding previously hidden loopholes",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 21:12:21 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/02/ai-could-break-legal-systems-by-finding-previously-hidden-loopholes/5307066",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 18:02:55 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Thieves pilfer environment variables from Trigger AI workflow tool",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 16:44:30 +0000",
+      "link": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Token thieves costing companies $100K+ per day in illicit LLM charges",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 16:00:00 +0000",
+      "link": "https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967",
+      "matched_keywords": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "SUSE to cut one in ten employees because of... AI",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 15:30:00 +0000",
+      "link": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic's IPO prospectus is big on promises, short on answers to tough questions",
+      "source": "The Register",
+      "published": "Mon, 02 Nov 2026 12:30:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-ipo-prospectus-is-big-on-promises-short-on-answers-to-tough-questions/5306811",
+      "matched_keywords": [
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Vintage fun: Prodding AI agents using retro hardware just because you can",
       "source": "The Register",
       "published": "Mon, 02 Nov 2026 11:00:00 +0000",
@@ -57,13 +151,13 @@
       ]
     },
     {
-      "title": "From Expertise to Intelligence: NISCO Deploys World's First Swarm-Intelligence Steel Model at Scale",
+      "title": "From expertise to intelligence: NISCO deploys world's first swarm-intelligence steel model at scale",
       "source": "The Register",
       "published": "Mon, 02 Nov 2026 09:00:00 +0000",
       "link": "https://www.theregister.com/ai-and-ml/2026/11/02/partner-content-from-expertise-to-intelligence-nisco-deploys-worlds-first-swarm-intelligence-steel-model-at-scale/5306614",
       "matched_keywords": [
         "AI",
-        "Model"
+        "model"
       ]
     },
     {
@@ -95,7 +189,7 @@
       ]
     },
     {
-      "title": "Linus Torvalds says Linux kernel is out of \u2018stabilization phase\u2019 and using \u2018much healthier model\u2019 for AI contributions",
+      "title": "Linus Torvalds says Linux kernel is out of 'stabilization phase' and using 'much healthier model' for AI contributions",
       "source": "The Register",
       "published": "Sun, 01 Nov 2026 23:11:41 +0000",
       "link": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
@@ -173,98 +267,6 @@
       "source": "The Register",
       "published": "Fri, 30 Oct 2026 13:15:00 +0000",
       "link": "https://www.theregister.com/ai-and-ml/2026/10/30/ai-projects-not-paying-off-keep-at-it-says-uni-productivity-institute/5306581",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Accenture AI agents are sifting through applicants",
-      "source": "The Register",
-      "published": "Fri, 30 Oct 2026 11:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/30/accenture-ai-agents-are-sifting-through-applicants/5306460",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google's search revenue Ferrari hits an AI-powered speed bump",
-      "source": "The Register",
-      "published": "Fri, 30 Oct 2026 07:33:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/30/googles-search-revenue-ferrari-hits-an-ai-powered-speed-bump/5306520",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue",
-      "source": "The Register",
-      "published": "Fri, 30 Oct 2026 05:42:24 +0000",
-      "link": "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "In the year AI re-wrote the infosec rulebook, it\u2019s comforting to know crypto exchanges still have bad security",
-      "source": "The Register",
-      "published": "Fri, 30 Oct 2026 04:22:12 +0000",
-      "link": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 23:12:26 +0000",
-      "link": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Howler will have AI answer your questions, then burn the chat",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 20:04:05 +0000",
-      "link": "https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Startup wants to make AI agents safe for DevOps duty",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 19:46:08 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/29/startup-wants-to-make-ai-agents-safe-for-devops-duty/5306477",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "GSA left sensitive Google Drive files open to staff, contractors",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 15:56:44 +0000",
-      "link": "https://www.theregister.com/public-sector/2026/10/29/gsa-left-sensitive-google-drive-files-open-to-staff-contractors/5306430",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Oracle wants to bill you for every AI task, not just every seat",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 15:30:00 +0000",
-      "link": "https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Built to bend: Postgres\u2019s inventor and a steward on what AI really needs",
-      "source": "The Register",
-      "published": "Thu, 29 Oct 2026 15:00:00 +0000",
-      "link": "https://www.theregister.com/databases/2026/10/29/partner-content-built-to-bend-postgress-inventor-and-a-steward-on-what-ai-really-needs/5305957",
       "matched_keywords": [
         "AI"
       ]
