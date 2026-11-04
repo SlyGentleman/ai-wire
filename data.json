@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T12:05:01.644294+00:00",
+  "last_updated": "2026-11-04T12:05:01.630011+00:00",
   "entries": [
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -45,6 +45,96 @@
       "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
       "matched_keywords": [
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Microsoft's AI PC push meets a wall of RAM prices, but Redmond is still beating the drum",
+      "source": "The Register",
+      "published": "Wed, 04 Nov 2026 10:15:00 +0000",
+      "link": "https://www.theregister.com/personal-tech/2026/11/04/microsofts-ai-pc-push-meets-a-wall-of-ram-prices-but-redmond-is-still-beating-the-drum/5307335",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AMD on track to overtake Intel as biggest x86 outfit",
+      "source": "The Register",
+      "published": "Wed, 04 Nov 2026 04:24:06 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Aussie Adobe assailant Canva announces layoffs in re-org affecting 22% of staff",
+      "source": "The Register",
+      "published": "Wed, 04 Nov 2026 00:14:41 +0000",
+      "link": "https://www.theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia is happy to take your money whether you're using open or closed models, says Jensen Huang",
+      "source": "The Register",
+      "published": "Tue, 03 Nov 2026 21:00:32 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+      "source": "The Register",
+      "published": "Tue, 03 Nov 2026 20:07:29 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI policy wonks declare 'sovereign agents' a threat to civilization",
+      "source": "The Register",
+      "published": "Tue, 03 Nov 2026 19:33:01 +0000",
+      "link": "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Improved asteroid deflection model runs faster, reveals more doomsday worries",
+      "source": "The Register",
+      "published": "Tue, 03 Nov 2026 17:36:36 +0000",
+      "link": "https://www.theregister.com/science/2026/11/03/improved-asteroid-deflection-model-runs-faster-reveals-more-doomsday-worries/5307317",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon bakeoff reveals best JavaScript frameworks for AI",
+      "source": "The Register",
+      "published": "Tue, 03 Nov 2026 14:51:35 +0000",
+      "link": "https://www.theregister.com/devops/2026/11/03/pokemon-bakeoff-reveals-best-javascript-frameworks-for-ai/5307249",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Drax wants to feed Britain's AI habit with \u00a320B datacenter at biomass power station",
+      "source": "The Register",
+      "published": "Tue, 03 Nov 2026 13:27:33 +0000",
+      "link": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
+      "source": "The Register",
+      "published": "Tue, 03 Nov 2026 12:39:25 +0000",
+      "link": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -161,112 +251,10 @@
       ]
     },
     {
-      "title": "Chap who coded Google\u2019s Pac-Man clone reveals how the game freaked out Firefox",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 06:05:39 +0000",
-      "link": "https://www.theregister.com/personal-tech/2026/11/02/chap-who-coded-googles-pac-man-clone-reveals-how-the-game-freaked-out-firefox/5306879",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "India floats AI plan under which \u2018The model travels to the data, rather than the data travelling to the model\u2019",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 04:39:50 +0000",
-      "link": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Google says Asian advertisers spending less due to Europe's customs changes",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 01:02:26 +0000",
-      "link": "https://www.theregister.com/legal/2026/11/02/google-says-asian-advertisers-spending-less-due-to-europes-customs-changes/5306860",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Linus Torvalds says Linux kernel is out of 'stabilization phase' and using 'much healthier model' for AI contributions",
-      "source": "The Register",
-      "published": "Sun, 01 Nov 2026 23:11:41 +0000",
-      "link": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Google's AI satellite sends a very expensive haiku to Earth",
-      "source": "The Register",
-      "published": "Sat, 31 Oct 2026 15:36:14 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
-      "source": "The Register",
-      "published": "Sat, 31 Oct 2026 11:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Backbone of a beast \u2013 charting Nvidia's rise to networking titan",
-      "source": "The Register",
-      "published": "Sat, 31 Oct 2026 08:03:00 +0000",
-      "link": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
-      "source": "The Register",
-      "published": "Fri, 30 Oct 2026 20:32:32 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
-      "source": "The Register",
-      "published": "Fri, 30 Oct 2026 19:37:12 +0000",
-      "link": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic: That Claude Code extension compromise\u2026 couldn't be us",
-      "source": "The Register",
-      "published": "Fri, 30 Oct 2026 16:27:00 +0000",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AlpineBSD announced \u2013 an AI-free FOSS OS",
-      "source": "The Register",
-      "published": "Fri, 30 Oct 2026 14:45:00 +0000",
-      "link": "https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI projects not paying off? Keep at it, says Uni Productivity Institute",
-      "source": "The Register",
-      "published": "Fri, 30 Oct 2026 13:15:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/30/ai-projects-not-paying-off-keep-at-it-says-uni-productivity-institute/5306581",
+      "title": "As LLMs Devour the Storage Market, Fujifilm Bets on Tape",
+      "source": "Hackaday",
+      "published": "Wed, 04 Nov 2026 06:00:13 +0000",
+      "link": "https://hackaday.com/2026/11/03/as-llms-devour-the-storage-market-fujifilm-bets-on-tape/",
       "matched_keywords": [
         "AI"
       ]
