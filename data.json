@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T12:05:01.630011+00:00",
+  "last_updated": "2026-11-05T12:05:01.723985+00:00",
   "entries": [
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -30,28 +30,64 @@
       ]
     },
     {
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-      "source": "Ars Technica",
-      "published": "Tue, 06 Oct 2026 19:21:14 +0000",
-      "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "title": "When datacenters lose power, generators should kick in. That didn\u2019t happen for Google in London",
+      "source": "The Register",
+      "published": "Thu, 05 Nov 2026 06:19:54 +0000",
+      "link": "https://www.theregister.com/off-prem/2026/11/05/when-datacenters-lose-power-generators-should-kick-in-that-didnt-happen-for-google-in-london/5307739",
       "matched_keywords": [
         "Google"
       ]
     },
     {
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "source": "Ars Technica",
-      "published": "Tue, 06 Oct 2026 12:21:53 +0000",
-      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "title": "Meta brings Conductor on board its model train",
+      "source": "The Register",
+      "published": "Thu, 05 Nov 2026 00:35:29 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/05/meta-brings-conductor-on-board-its-model-train/5307711",
       "matched_keywords": [
-        "OpenAI"
+        "model"
       ]
     },
     {
-      "title": "Microsoft's AI PC push meets a wall of RAM prices, but Redmond is still beating the drum",
+      "title": "Building AI factories at enterprise scale",
+      "source": "The Register",
+      "published": "Thu, 05 Nov 2026 00:01:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Hey, Siri: Plug into my app like you said you'd do way back in 2024",
+      "source": "The Register",
+      "published": "Wed, 04 Nov 2026 20:56:16 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/04/hey-siri-plug-into-my-app-like-you-said-youd-do-way-back-in-2024/5307659",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Turn your home into a giant crane game with this open source robot",
+      "source": "The Register",
+      "published": "Wed, 04 Nov 2026 18:35:00 +0000",
+      "link": "https://www.theregister.com/offbeat/2026/11/04/turn-your-home-into-a-giant-crane-game-with-this-open-source-robot/5307628",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Bare metal boom: On-prem server sales for HPC and AI up 20% this year",
+      "source": "The Register",
+      "published": "Wed, 04 Nov 2026 17:30:00 +0000",
+      "link": "https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Windows pushed AI PCs, but now it's hit a wall of RAM prices",
       "source": "The Register",
       "published": "Wed, 04 Nov 2026 10:15:00 +0000",
-      "link": "https://www.theregister.com/personal-tech/2026/11/04/microsofts-ai-pc-push-meets-a-wall-of-ram-prices-but-redmond-is-still-beating-the-drum/5307335",
+      "link": "https://www.theregister.com/personal-tech/2026/11/04/windows-pushed-ai-pcs-but-now-its-hit-a-wall-of-ram-prices/5307335",
       "matched_keywords": [
         "AI"
       ]
@@ -154,109 +190,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
       "matched_keywords": [
         "LLM"
-      ]
-    },
-    {
-      "title": "Toyota shows off SoC that stores model weights and its OS on integrated memory",
-      "source": "The Register",
-      "published": "Tue, 03 Nov 2026 03:25:32 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "Anthropic's compute tab could top $1T as Q3 revenue nears $17B",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 23:25:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089",
-      "matched_keywords": [
-        "Anthropic",
-        "compute"
-      ]
-    },
-    {
-      "title": "AI could break legal systems by finding previously hidden loopholes",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 21:12:21 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/02/ai-could-break-legal-systems-by-finding-previously-hidden-loopholes/5307066",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 18:02:55 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Thieves pilfer environment variables from Trigger AI workflow tool",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 16:44:30 +0000",
-      "link": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Token thieves costing companies $100K+ per day in illicit LLM charges",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 16:00:00 +0000",
-      "link": "https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "SUSE to cut one in ten employees because of... AI",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 15:30:00 +0000",
-      "link": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic's IPO prospectus is big on promises, short on answers to tough questions",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 12:30:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-ipo-prospectus-is-big-on-promises-short-on-answers-to-tough-questions/5306811",
-      "matched_keywords": [
-        "Anthropic",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Vintage fun: Prodding AI agents using retro hardware just because you can",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 11:00:00 +0000",
-      "link": "https://www.theregister.com/offbeat/2026/11/02/vintage-fun-prodding-ai-agents-using-retro-hardware-just-because-you-can/5306705",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "From expertise to intelligence: NISCO deploys world's first swarm-intelligence steel model at scale",
-      "source": "The Register",
-      "published": "Mon, 02 Nov 2026 09:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/02/partner-content-from-expertise-to-intelligence-nisco-deploys-worlds-first-swarm-intelligence-steel-model-at-scale/5306614",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "As LLMs Devour the Storage Market, Fujifilm Bets on Tape",
-      "source": "Hackaday",
-      "published": "Wed, 04 Nov 2026 06:00:13 +0000",
-      "link": "https://hackaday.com/2026/11/03/as-llms-devour-the-storage-market-fujifilm-bets-on-tape/",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
