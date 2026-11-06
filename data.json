@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T12:05:01.723985+00:00",
+  "last_updated": "2026-11-06T12:05:01.193767+00:00",
   "entries": [
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -26,6 +26,79 @@
       "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
       "matched_keywords": [
         "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Bank of England pours cold water on AI productivity boom",
+      "source": "The Register",
+      "published": "Fri, 06 Nov 2026 11:43:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK ministers seek powers to investigate when AI agents are let off the leash",
+      "source": "The Register",
+      "published": "Fri, 06 Nov 2026 11:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI agents are a 'bane' for some website operators, says Cloudflare",
+      "source": "The Register",
+      "published": "Fri, 06 Nov 2026 04:25:14 +0000",
+      "link": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Threat actor targets Indian fintechs on weekends when defenders aren\u2019t watching",
+      "source": "The Register",
+      "published": "Fri, 06 Nov 2026 01:17:40 +0000",
+      "link": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
+      "source": "The Register",
+      "published": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "link": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+      "matched_keywords": [
+        "OpenAI",
+        "model"
+      ]
+    },
+    {
+      "title": "Memory makers mint megabucks while buyers beg for mercy",
+      "source": "The Register",
+      "published": "Thu, 05 Nov 2026 15:07:34 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "'Stop dirty datacenters': Europe-wide protests planned demanding building moratorium",
+      "source": "The Register",
+      "published": "Thu, 05 Nov 2026 13:29:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790",
+      "matched_keywords": [
+        "compute"
+      ]
+    },
+    {
+      "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
+      "source": "The Register",
+      "published": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "link": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+      "matched_keywords": [
         "Anthropic"
       ]
     },
@@ -111,85 +184,13 @@
       ]
     },
     {
-      "title": "Nvidia is happy to take your money whether you're using open or closed models, says Jensen Huang",
-      "source": "The Register",
-      "published": "Tue, 03 Nov 2026 21:00:32 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368",
+      "title": "Reviving Google Cardboard, Without Google or Cardboard",
+      "source": "Hackaday",
+      "published": "Fri, 06 Nov 2026 00:00:19 +0000",
+      "link": "https://hackaday.com/2026/11/05/reviving-google-cardboard-without-google-or-cardboard/",
       "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
-      "source": "The Register",
-      "published": "Tue, 03 Nov 2026 20:07:29 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI policy wonks declare 'sovereign agents' a threat to civilization",
-      "source": "The Register",
-      "published": "Tue, 03 Nov 2026 19:33:01 +0000",
-      "link": "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Improved asteroid deflection model runs faster, reveals more doomsday worries",
-      "source": "The Register",
-      "published": "Tue, 03 Nov 2026 17:36:36 +0000",
-      "link": "https://www.theregister.com/science/2026/11/03/improved-asteroid-deflection-model-runs-faster-reveals-more-doomsday-worries/5307317",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "Pok\u00e9mon bakeoff reveals best JavaScript frameworks for AI",
-      "source": "The Register",
-      "published": "Tue, 03 Nov 2026 14:51:35 +0000",
-      "link": "https://www.theregister.com/devops/2026/11/03/pokemon-bakeoff-reveals-best-javascript-frameworks-for-ai/5307249",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Drax wants to feed Britain's AI habit with \u00a320B datacenter at biomass power station",
-      "source": "The Register",
-      "published": "Tue, 03 Nov 2026 13:27:33 +0000",
-      "link": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
-      "source": "The Register",
-      "published": "Tue, 03 Nov 2026 12:39:25 +0000",
-      "link": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Forget retraining - AI can now tweak another AI's weights",
-      "source": "The Register",
-      "published": "Tue, 03 Nov 2026 08:15:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
-      "matched_keywords": [
-        "AI",
-        "benchmark"
-      ]
-    },
-    {
-      "title": "Open models can do 90% of agentic work at a twentieth of the cost of a frontier LLM: Gartner",
-      "source": "The Register",
-      "published": "Tue, 03 Nov 2026 06:19:50 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
-      "matched_keywords": [
-        "LLM"
+        "Google",
+        "google"
       ]
     }
   ]
