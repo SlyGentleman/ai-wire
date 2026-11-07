@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-11-06T12:05:01.193767+00:00",
+  "last_updated": "2026-11-07T12:05:01.220926+00:00",
   "entries": [
+    {
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "source": "Ars Technica",
+      "published": "Fri, 06 Nov 2026 20:56:41 +0000",
+      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
       "source": "Ars Technica",
@@ -27,6 +36,25 @@
       "matched_keywords": [
         "AI",
         "Anthropic"
+      ]
+    },
+    {
+      "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
+      "source": "The Register",
+      "published": "Fri, 06 Nov 2026 18:36:42 +0000",
+      "link": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
+      "matched_keywords": [
+        "AI",
+        "GPU"
+      ]
+    },
+    {
+      "title": "DoJ's 'Super Intelligence Task Force' up and running",
+      "source": "The Register",
+      "published": "Fri, 06 Nov 2026 15:15:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -145,52 +173,6 @@
       "link": "https://www.theregister.com/offbeat/2026/11/04/turn-your-home-into-a-giant-crane-game-with-this-open-source-robot/5307628",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Bare metal boom: On-prem server sales for HPC and AI up 20% this year",
-      "source": "The Register",
-      "published": "Wed, 04 Nov 2026 17:30:00 +0000",
-      "link": "https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Windows pushed AI PCs, but now it's hit a wall of RAM prices",
-      "source": "The Register",
-      "published": "Wed, 04 Nov 2026 10:15:00 +0000",
-      "link": "https://www.theregister.com/personal-tech/2026/11/04/windows-pushed-ai-pcs-but-now-its-hit-a-wall-of-ram-prices/5307335",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AMD on track to overtake Intel as biggest x86 outfit",
-      "source": "The Register",
-      "published": "Wed, 04 Nov 2026 04:24:06 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Aussie Adobe assailant Canva announces layoffs in re-org affecting 22% of staff",
-      "source": "The Register",
-      "published": "Wed, 04 Nov 2026 00:14:41 +0000",
-      "link": "https://www.theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Reviving Google Cardboard, Without Google or Cardboard",
-      "source": "Hackaday",
-      "published": "Fri, 06 Nov 2026 00:00:19 +0000",
-      "link": "https://hackaday.com/2026/11/05/reviving-google-cardboard-without-google-or-cardboard/",
-      "matched_keywords": [
-        "Google",
-        "google"
       ]
     }
   ]
