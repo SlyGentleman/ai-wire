@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T12:05:01.220926+00:00",
+  "last_updated": "2026-11-08T12:05:01.705316+00:00",
   "entries": [
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -36,6 +36,16 @@
       "matched_keywords": [
         "AI",
         "Anthropic"
+      ]
+    },
+    {
+      "title": "Fireworks says you\u2019re wasting money on AI unless you\u2019re using all the models",
+      "source": "The Register",
+      "published": "Sat, 07 Nov 2026 15:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+      "matched_keywords": [
+        "AI",
+        "model"
       ]
     },
     {
@@ -162,15 +172,6 @@
       "source": "The Register",
       "published": "Wed, 04 Nov 2026 20:56:16 +0000",
       "link": "https://www.theregister.com/ai-and-ml/2026/11/04/hey-siri-plug-into-my-app-like-you-said-youd-do-way-back-in-2024/5307659",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Turn your home into a giant crane game with this open source robot",
-      "source": "The Register",
-      "published": "Wed, 04 Nov 2026 18:35:00 +0000",
-      "link": "https://www.theregister.com/offbeat/2026/11/04/turn-your-home-into-a-giant-crane-game-with-this-open-source-robot/5307628",
       "matched_keywords": [
         "AI"
       ]
