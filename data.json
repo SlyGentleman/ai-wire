@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T12:05:01.705316+00:00",
+  "last_updated": "2026-11-09T12:05:02.042025+00:00",
   "entries": [
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -36,6 +36,42 @@
       "matched_keywords": [
         "AI",
         "Anthropic"
+      ]
+    },
+    {
+      "title": "AI echo chambers and sanity in tech leadership: Three case studies",
+      "source": "The Register",
+      "published": "Mon, 09 Nov 2026 11:59:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/09/ai-echo-chambers-and-sanity-in-tech-leadership-three-case-studies/5308046",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI Slop FM radio experiment puts machines on trial, one dodgy tune at a time",
+      "source": "The Register",
+      "published": "Mon, 09 Nov 2026 10:15:00 +0000",
+      "link": "https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+      "source": "The Register",
+      "published": "Mon, 09 Nov 2026 04:53:08 +0000",
+      "link": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang starring in possible remake of The Spy Who Shagged Me",
+      "source": "The Register",
+      "published": "Mon, 09 Nov 2026 00:04:47 +0000",
+      "link": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-starring-in-possible-remake-of-the-spy-who-shagged-me/5308327",
+      "matched_keywords": [
+        "Nvidia"
       ]
     },
     {
@@ -150,30 +186,21 @@
       ]
     },
     {
-      "title": "Meta brings Conductor on board its model train",
-      "source": "The Register",
-      "published": "Thu, 05 Nov 2026 00:35:29 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/05/meta-brings-conductor-on-board-its-model-train/5307711",
+      "title": "A Smart Alarm Clock That Doesn\u2019t Sell Your Soul",
+      "source": "Hackaday",
+      "published": "Mon, 09 Nov 2026 06:00:41 +0000",
+      "link": "https://hackaday.com/2026/11/08/a-smart-alarm-clock-that-doesnt-sell-your-soul/",
       "matched_keywords": [
-        "model"
+        "Google"
       ]
     },
     {
-      "title": "Building AI factories at enterprise scale",
-      "source": "The Register",
-      "published": "Thu, 05 Nov 2026 00:01:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629",
+      "title": "Saving a Vintage High-Voltage Power Supply From the Scrap Heap",
+      "source": "Hackaday",
+      "published": "Mon, 09 Nov 2026 03:00:42 +0000",
+      "link": "https://hackaday.com/2026/11/08/saving-a-vintage-high-voltage-power-supply-from-the-scrap-heap/",
       "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Hey, Siri: Plug into my app like you said you'd do way back in 2024",
-      "source": "The Register",
-      "published": "Wed, 04 Nov 2026 20:56:16 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/04/hey-siri-plug-into-my-app-like-you-said-youd-do-way-back-in-2024/5307659",
-      "matched_keywords": [
-        "AI"
+        "Model"
       ]
     }
   ]
