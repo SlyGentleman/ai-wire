@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T12:05:02.042025+00:00",
+  "last_updated": "2026-11-10T12:05:01.507650+00:00",
   "entries": [
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -29,13 +29,50 @@
       ]
     },
     {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "source": "Ars Technica",
-      "published": "Wed, 14 Oct 2026 12:55:06 +0000",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
+      "source": "The Register",
+      "published": "Tue, 10 Nov 2026 12:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
       "matched_keywords": [
         "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Microsoft is giving Claude the keys to UK Copilot tenants by default",
+      "source": "The Register",
+      "published": "Tue, 10 Nov 2026 11:30:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693",
+      "matched_keywords": [
         "Anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic's super bug-finding Mythos model is going into Cisco and IBM products",
+      "source": "The Register",
+      "published": "Tue, 10 Nov 2026 00:00:20 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
+      "matched_keywords": [
+        "Anthropic",
+        "model"
+      ]
+    },
+    {
+      "title": "The AI bubble can wait, but your exit plan can't",
+      "source": "The Register",
+      "published": "Mon, 09 Nov 2026 14:02:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/09/the-ai-bubble-can-wait-but-your-exit-plan-cant/5308415",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Datacenters, Elon Musk, and AI are all on the chopping block once Congress changes hands in 2027",
+      "source": "The Register",
+      "published": "Mon, 09 Nov 2026 12:14:00 +0000",
+      "link": "https://www.theregister.com/legal/2026/11/09/datacenters-elon-musk-and-ai-are-all-on-the-chopping-block-once-congress-changes-hands-in-2027/5308250",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -66,10 +103,10 @@
       ]
     },
     {
-      "title": "Nvidia CEO Jensen Huang starring in possible remake of The Spy Who Shagged Me",
+      "title": "Nvidia CEO Jensen Huang admits affair with possible Chinese asset",
       "source": "The Register",
       "published": "Mon, 09 Nov 2026 00:04:47 +0000",
-      "link": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-starring-in-possible-remake-of-the-spy-who-shagged-me/5308327",
+      "link": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-admits-affair-with-possible-chinese-asset/5308327",
       "matched_keywords": [
         "Nvidia"
       ]
@@ -119,88 +156,6 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "AI agents are a 'bane' for some website operators, says Cloudflare",
-      "source": "The Register",
-      "published": "Fri, 06 Nov 2026 04:25:14 +0000",
-      "link": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Threat actor targets Indian fintechs on weekends when defenders aren\u2019t watching",
-      "source": "The Register",
-      "published": "Fri, 06 Nov 2026 01:17:40 +0000",
-      "link": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
-      "source": "The Register",
-      "published": "Thu, 05 Nov 2026 17:00:00 +0000",
-      "link": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
-      "matched_keywords": [
-        "OpenAI",
-        "model"
-      ]
-    },
-    {
-      "title": "Memory makers mint megabucks while buyers beg for mercy",
-      "source": "The Register",
-      "published": "Thu, 05 Nov 2026 15:07:34 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "'Stop dirty datacenters': Europe-wide protests planned demanding building moratorium",
-      "source": "The Register",
-      "published": "Thu, 05 Nov 2026 13:29:00 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790",
-      "matched_keywords": [
-        "compute"
-      ]
-    },
-    {
-      "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
-      "source": "The Register",
-      "published": "Thu, 05 Nov 2026 13:00:00 +0000",
-      "link": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "When datacenters lose power, generators should kick in. That didn\u2019t happen for Google in London",
-      "source": "The Register",
-      "published": "Thu, 05 Nov 2026 06:19:54 +0000",
-      "link": "https://www.theregister.com/off-prem/2026/11/05/when-datacenters-lose-power-generators-should-kick-in-that-didnt-happen-for-google-in-london/5307739",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "A Smart Alarm Clock That Doesn\u2019t Sell Your Soul",
-      "source": "Hackaday",
-      "published": "Mon, 09 Nov 2026 06:00:41 +0000",
-      "link": "https://hackaday.com/2026/11/08/a-smart-alarm-clock-that-doesnt-sell-your-soul/",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Saving a Vintage High-Voltage Power Supply From the Scrap Heap",
-      "source": "Hackaday",
-      "published": "Mon, 09 Nov 2026 03:00:42 +0000",
-      "link": "https://hackaday.com/2026/11/08/saving-a-vintage-high-voltage-power-supply-from-the-scrap-heap/",
-      "matched_keywords": [
-        "Model"
       ]
     }
   ]
