@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T12:05:01.507650+00:00",
+  "last_updated": "2026-11-11T12:05:01.374546+00:00",
   "entries": [
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -26,6 +26,97 @@
       "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
       "matched_keywords": [
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Google gooses Python AI performance by... removing Python",
+      "source": "The Register",
+      "published": "Wed, 11 Nov 2026 11:30:00 +0000",
+      "link": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "AMD: Where we're going we don't need (as much) DRAM",
+      "source": "The Register",
+      "published": "Wed, 11 Nov 2026 09:59:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OpenAI builds a kill switch for its research models",
+      "source": "The Register",
+      "published": "Wed, 11 Nov 2026 05:20:56 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Australia may make knowingly selling unsafe AI a crime",
+      "source": "The Register",
+      "published": "Wed, 11 Nov 2026 02:14:13 +0000",
+      "link": "https://www.theregister.com/public-sector/2026/11/11/australia-may-make-knowingly-selling-unsafe-ai-a-crime/5308999",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic tiptoes into MS Office territory",
+      "source": "The Register",
+      "published": "Tue, 10 Nov 2026 23:45:26 +0000",
+      "link": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "To thwart reverse engineering by agents, dev proposes blinding them",
+      "source": "The Register",
+      "published": "Tue, 10 Nov 2026 20:35:11 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/to-thwart-reverse-engineering-by-agents-dev-proposes-blinding-them/5308897",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "14-year-old creates tool for AI agents to band together like a team",
+      "source": "The Register",
+      "published": "Tue, 10 Nov 2026 18:31:53 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/14-year-old-creates-tool-for-ai-agents-to-band-together-like-a-team/5308841",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin",
+      "source": "The Register",
+      "published": "Tue, 10 Nov 2026 17:00:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Fireworks AI gets burned twice as customer data exposure widens",
+      "source": "The Register",
+      "published": "Tue, 10 Nov 2026 15:28:00 +0000",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Stanford's century-long AI study admits it's already out of date",
+      "source": "The Register",
+      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/stanfords-century-long-ai-study-admits-its-already-out-of-date/5308574",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -89,71 +180,6 @@
       "source": "The Register",
       "published": "Mon, 09 Nov 2026 10:15:00 +0000",
       "link": "https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
-      "source": "The Register",
-      "published": "Mon, 09 Nov 2026 04:53:08 +0000",
-      "link": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang admits affair with possible Chinese asset",
-      "source": "The Register",
-      "published": "Mon, 09 Nov 2026 00:04:47 +0000",
-      "link": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-admits-affair-with-possible-chinese-asset/5308327",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Fireworks says you\u2019re wasting money on AI unless you\u2019re using all the models",
-      "source": "The Register",
-      "published": "Sat, 07 Nov 2026 15:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
-      "matched_keywords": [
-        "AI",
-        "model"
-      ]
-    },
-    {
-      "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
-      "source": "The Register",
-      "published": "Fri, 06 Nov 2026 18:36:42 +0000",
-      "link": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
-      "matched_keywords": [
-        "AI",
-        "GPU"
-      ]
-    },
-    {
-      "title": "DoJ's 'Super Intelligence Task Force' up and running",
-      "source": "The Register",
-      "published": "Fri, 06 Nov 2026 15:15:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Bank of England pours cold water on AI productivity boom",
-      "source": "The Register",
-      "published": "Fri, 06 Nov 2026 11:43:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK ministers seek powers to investigate when AI agents are let off the leash",
-      "source": "The Register",
-      "published": "Fri, 06 Nov 2026 11:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
       "matched_keywords": [
         "AI"
       ]
