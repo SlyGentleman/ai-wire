@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T12:05:01.374546+00:00",
+  "last_updated": "2026-11-12T12:05:01.470005+00:00",
   "entries": [
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -26,6 +26,15 @@
       "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
       "matched_keywords": [
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Your AI agent is only as good as your endpoint data",
+      "source": "The Register",
+      "published": "Thu, 12 Nov 2026 09:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -149,37 +158,10 @@
       ]
     },
     {
-      "title": "The AI bubble can wait, but your exit plan can't",
-      "source": "The Register",
-      "published": "Mon, 09 Nov 2026 14:02:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/09/the-ai-bubble-can-wait-but-your-exit-plan-cant/5308415",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Datacenters, Elon Musk, and AI are all on the chopping block once Congress changes hands in 2027",
-      "source": "The Register",
-      "published": "Mon, 09 Nov 2026 12:14:00 +0000",
-      "link": "https://www.theregister.com/legal/2026/11/09/datacenters-elon-musk-and-ai-are-all-on-the-chopping-block-once-congress-changes-hands-in-2027/5308250",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI echo chambers and sanity in tech leadership: Three case studies",
-      "source": "The Register",
-      "published": "Mon, 09 Nov 2026 11:59:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/09/ai-echo-chambers-and-sanity-in-tech-leadership-three-case-studies/5308046",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI Slop FM radio experiment puts machines on trial, one dodgy tune at a time",
-      "source": "The Register",
-      "published": "Mon, 09 Nov 2026 10:15:00 +0000",
-      "link": "https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161",
+      "title": "FLOSS Weekly Episode 883: Telnet Broke Us",
+      "source": "Hackaday",
+      "published": "Thu, 12 Nov 2026 00:00:42 +0000",
+      "link": "https://hackaday.com/2026/11/11/floss-weekly-episode-883-telnet-broke-us/",
       "matched_keywords": [
         "AI"
       ]
