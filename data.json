@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T12:05:01.470005+00:00",
+  "last_updated": "2026-11-13T12:05:01.940175+00:00",
   "entries": [
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -26,6 +26,89 @@
       "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
       "matched_keywords": [
         "OpenAI"
+      ]
+    },
+    {
+      "title": "BOFH: The best way to stop an idea spreading is a controlled burn",
+      "source": "The Register",
+      "published": "Fri, 13 Nov 2026 11:45:00 +0000",
+      "link": "https://www.theregister.com/bofh/2026/11/13/bofh-the-best-way-to-stop-an-idea-spreading-is-a-controlled-burn/5309292",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Alibaba's Qwen3.8 re-educated with a more Western worldview",
+      "source": "The Register",
+      "published": "Fri, 13 Nov 2026 01:25:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555",
+      "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "Google promises its new smart specs won't give creeps their ideal view",
+      "source": "The Register",
+      "published": "Thu, 12 Nov 2026 22:17:08 +0000",
+      "link": "https://www.theregister.com/personal-tech/2026/11/12/google-promises-its-new-smart-specs-wont-give-creeps-their-ideal-view/5309497",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "A third of US AI chatters are hot at bots, hurling insults at LLMs",
+      "source": "The Register",
+      "published": "Thu, 12 Nov 2026 21:33:58 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI launches security products, tells orgs they\u2019re doomed if they don\u2019t use them",
+      "source": "The Register",
+      "published": "Thu, 12 Nov 2026 20:48:45 +0000",
+      "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+      "matched_keywords": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Jensen Huang's self-sabotage sends Nvidia into a midlife crisis",
+      "source": "The Register",
+      "published": "Thu, 12 Nov 2026 20:06:29 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/12/jensen-huangs-self-sabotage-sends-nvidia-into-a-midlife-crisis/5309480",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "United Airlines wants you to check in, not your chatbot",
+      "source": "The Register",
+      "published": "Thu, 12 Nov 2026 15:37:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia chief executive",
+      "source": "The Register",
+      "published": "Thu, 12 Nov 2026 14:21:35 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "The latest FreeBSD report is here, and the AI debate is ongoing",
+      "source": "The Register",
+      "published": "Thu, 12 Nov 2026 12:32:18 +0000",
+      "link": "https://www.theregister.com/os-platforms/2026/11/12/the-latest-freebsd-report-is-here-and-the-ai-debate-is-ongoing/5309206",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -70,98 +153,6 @@
       "source": "The Register",
       "published": "Wed, 11 Nov 2026 02:14:13 +0000",
       "link": "https://www.theregister.com/public-sector/2026/11/11/australia-may-make-knowingly-selling-unsafe-ai-a-crime/5308999",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Anthropic tiptoes into MS Office territory",
-      "source": "The Register",
-      "published": "Tue, 10 Nov 2026 23:45:26 +0000",
-      "link": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "To thwart reverse engineering by agents, dev proposes blinding them",
-      "source": "The Register",
-      "published": "Tue, 10 Nov 2026 20:35:11 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/to-thwart-reverse-engineering-by-agents-dev-proposes-blinding-them/5308897",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "14-year-old creates tool for AI agents to band together like a team",
-      "source": "The Register",
-      "published": "Tue, 10 Nov 2026 18:31:53 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/14-year-old-creates-tool-for-ai-agents-to-band-together-like-a-team/5308841",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin",
-      "source": "The Register",
-      "published": "Tue, 10 Nov 2026 17:00:00 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Fireworks AI gets burned twice as customer data exposure widens",
-      "source": "The Register",
-      "published": "Tue, 10 Nov 2026 15:28:00 +0000",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Stanford's century-long AI study admits it's already out of date",
-      "source": "The Register",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/stanfords-century-long-ai-study-admits-its-already-out-of-date/5308574",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
-      "source": "The Register",
-      "published": "Tue, 10 Nov 2026 12:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Microsoft is giving Claude the keys to UK Copilot tenants by default",
-      "source": "The Register",
-      "published": "Tue, 10 Nov 2026 11:30:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic's super bug-finding Mythos model is going into Cisco and IBM products",
-      "source": "The Register",
-      "published": "Tue, 10 Nov 2026 00:00:20 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
-      "matched_keywords": [
-        "Anthropic",
-        "model"
-      ]
-    },
-    {
-      "title": "FLOSS Weekly Episode 883: Telnet Broke Us",
-      "source": "Hackaday",
-      "published": "Thu, 12 Nov 2026 00:00:42 +0000",
-      "link": "https://hackaday.com/2026/11/11/floss-weekly-episode-883-telnet-broke-us/",
       "matched_keywords": [
         "AI"
       ]
