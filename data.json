@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T12:05:01.940175+00:00",
+  "last_updated": "2026-11-14T12:05:01.185348+00:00",
   "entries": [
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -26,6 +26,46 @@
       "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
       "matched_keywords": [
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
+      "source": "The Register",
+      "published": "Fri, 13 Nov 2026 21:16:22 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891",
+      "matched_keywords": [
+        "AI",
+        "DeepSeek",
+        "Nvidia",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Meatbags suck at spotting lying LLMs, so let AI narc on itself",
+      "source": "The Register",
+      "published": "Fri, 13 Nov 2026 20:27:31 +0000",
+      "link": "https://www.theregister.com/offbeat/2026/11/13/meatbags-suck-at-spotting-lying-llms-so-let-ai-narc-on-itself/5309876",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Mozilla leaves Solo website owners to go it alone as hosting shuts down",
+      "source": "The Register",
+      "published": "Fri, 13 Nov 2026 16:59:00 +0000",
+      "link": "https://www.theregister.com/software/2026/11/13/mozilla-leaves-solo-website-owners-to-go-it-alone-as-hosting-shuts-down/5309632",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Most affairs don't matter except to the people involved. Ex-Nvidia CEO Jensen's blunder will rock the world",
+      "source": "The Register",
+      "published": "Fri, 13 Nov 2026 14:45:00 +0000",
+      "link": "https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
       ]
     },
     {
@@ -116,43 +156,6 @@
       "source": "The Register",
       "published": "Thu, 12 Nov 2026 09:00:00 +0000",
       "link": "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google gooses Python AI performance by... removing Python",
-      "source": "The Register",
-      "published": "Wed, 11 Nov 2026 11:30:00 +0000",
-      "link": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "AMD: Where we're going we don't need (as much) DRAM",
-      "source": "The Register",
-      "published": "Wed, 11 Nov 2026 09:59:00 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "OpenAI builds a kill switch for its research models",
-      "source": "The Register",
-      "published": "Wed, 11 Nov 2026 05:20:56 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Australia may make knowingly selling unsafe AI a crime",
-      "source": "The Register",
-      "published": "Wed, 11 Nov 2026 02:14:13 +0000",
-      "link": "https://www.theregister.com/public-sector/2026/11/11/australia-may-make-knowingly-selling-unsafe-ai-a-crime/5308999",
       "matched_keywords": [
         "AI"
       ]
