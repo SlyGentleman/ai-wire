@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T12:05:01.566940+00:00",
+  "last_updated": "2026-11-16T12:05:01.463771+00:00",
   "entries": [
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -147,15 +147,6 @@
       "source": "The Register",
       "published": "Thu, 12 Nov 2026 12:32:18 +0000",
       "link": "https://www.theregister.com/os-platforms/2026/11/12/the-latest-freebsd-report-is-here-and-the-ai-debate-is-ongoing/5309206",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Your AI agent is only as good as your endpoint data",
-      "source": "The Register",
-      "published": "Thu, 12 Nov 2026 09:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469",
       "matched_keywords": [
         "AI"
       ]
