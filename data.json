@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-11-16T12:05:01.463771+00:00",
+  "last_updated": "2026-11-17T12:05:01.933864+00:00",
   "entries": [
+    {
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "source": "Ars Technica",
+      "published": "Mon, 16 Nov 2026 20:37:47 +0000",
+      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "source": "Ars Technica",
@@ -20,12 +29,122 @@
       ]
     },
     {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "source": "Ars Technica",
-      "published": "Fri, 16 Oct 2026 20:59:01 +0000",
-      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "title": "350 tech jobs hammered as TCS takes over work at iconic Australian retailer",
+      "source": "The Register",
+      "published": "Tue, 17 Nov 2026 03:51:20 +0000",
+      "link": "https://www.theregister.com/channel/2026/11/17/350-tech-jobs-hammered-as-tcs-takes-over-work-at-iconic-australian-retailer/5310324",
       "matched_keywords": [
+        "model"
+      ]
+    },
+    {
+      "title": "US extends chip sale restrictions to more Asian countries to reduce risk of \u2018diversion\u2019 to China",
+      "source": "The Register",
+      "published": "Tue, 17 Nov 2026 00:55:39 +0000",
+      "link": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "California sues OpenAI for misleading public about AI safety",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 23:43:17 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297",
+      "matched_keywords": [
+        "AI",
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 19:52:00 +0000",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "China\u2019s grip on Top500 remains uncontested as US chases AI-HPC fusion",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 19:00:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/16/chinas-grip-on-top500-remains-uncontested-as-us-chases-ai-hpc-fusion/5310205",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Ubuntu gets AI-generated security fixes for those feeling brave",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 18:01:00 +0000",
+      "link": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 16:15:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Has AI\u2019s \u2018Black October\u2019 changed the way you secure your code?",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 16:00:00 +0000",
+      "link": "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google: AI agent turned a security patch into a working exploit with no human help",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 14:00:00 +0000",
+      "link": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "The Jensen Huang saga could be the beginning of the end of the AI bubble \u2013 or just a boon for competitors",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 13:30:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/16/the-jensen-huang-saga-could-be-the-beginning-of-the-end-of-the-ai-bubble-or-just-a-boon-for-competitors/5309856",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Los Alamos boffins to put NextSilicon's Maverick-2 through natural selection in Darwin testbed",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/16/los-alamos-boffins-to-put-nextsilicons-maverick-2-through-natural-selection-in-darwin-testbed/5309862",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "Datacenters' share of UK planning applications nearly triples in three years",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 12:01:00 +0000",
+      "link": "https://www.theregister.com/on-prem/2026/11/16/datacenters-share-of-uk-planning-applications-nearly-triples-in-three-years/5310029",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Elon Musk leads Silicon Valley's campaign to put Jensen Huang back in charge at Nvidia",
+      "source": "The Register",
+      "published": "Mon, 16 Nov 2026 11:31:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/16/elon-musk-leads-silicon-valleys-campaign-to-put-jensen-huang-back-in-charge-at-nvidia/5310050",
+      "matched_keywords": [
+        "Nvidia"
       ]
     },
     {
@@ -66,89 +185,6 @@
       "matched_keywords": [
         "AI",
         "Nvidia"
-      ]
-    },
-    {
-      "title": "BOFH: The best way to stop an idea spreading is a controlled burn",
-      "source": "The Register",
-      "published": "Fri, 13 Nov 2026 11:45:00 +0000",
-      "link": "https://www.theregister.com/bofh/2026/11/13/bofh-the-best-way-to-stop-an-idea-spreading-is-a-controlled-burn/5309292",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Alibaba's Qwen3.8 re-educated with a more Western worldview",
-      "source": "The Register",
-      "published": "Fri, 13 Nov 2026 01:25:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "Google promises its new smart specs won't give creeps their ideal view",
-      "source": "The Register",
-      "published": "Thu, 12 Nov 2026 22:17:08 +0000",
-      "link": "https://www.theregister.com/personal-tech/2026/11/12/google-promises-its-new-smart-specs-wont-give-creeps-their-ideal-view/5309497",
-      "matched_keywords": [
-        "Google"
-      ]
-    },
-    {
-      "title": "A third of US AI chatters are hot at bots, hurling insults at LLMs",
-      "source": "The Register",
-      "published": "Thu, 12 Nov 2026 21:33:58 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI launches security products, tells orgs they\u2019re doomed if they don\u2019t use them",
-      "source": "The Register",
-      "published": "Thu, 12 Nov 2026 20:48:45 +0000",
-      "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Jensen Huang's self-sabotage sends Nvidia into a midlife crisis",
-      "source": "The Register",
-      "published": "Thu, 12 Nov 2026 20:06:29 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/12/jensen-huangs-self-sabotage-sends-nvidia-into-a-midlife-crisis/5309480",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "United Airlines wants you to check in, not your chatbot",
-      "source": "The Register",
-      "published": "Thu, 12 Nov 2026 15:37:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Jensen Huang resigns as Nvidia chief executive",
-      "source": "The Register",
-      "published": "Thu, 12 Nov 2026 14:21:35 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "The latest FreeBSD report is here, and the AI debate is ongoing",
-      "source": "The Register",
-      "published": "Thu, 12 Nov 2026 12:32:18 +0000",
-      "link": "https://www.theregister.com/os-platforms/2026/11/12/the-latest-freebsd-report-is-here-and-the-ai-debate-is-ongoing/5309206",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
