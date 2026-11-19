@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T12:05:01.602210+00:00",
+  "last_updated": "2026-11-19T12:05:01.241490+00:00",
   "entries": [
     {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -35,6 +35,89 @@
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "matched_keywords": [
         "Anthropic"
+      ]
+    },
+    {
+      "title": "Uncensored AI models are thriving on code hosting platforms",
+      "source": "The Register",
+      "published": "Thu, 19 Nov 2026 09:30:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/uncensored-ai-models-are-thriving-on-code-hosting-platforms/5310891",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Google continues model chemistry experiment with Neon",
+      "source": "The Register",
+      "published": "Thu, 19 Nov 2026 08:30:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/google-continues-model-chemistry-experiment-with-neon/5310934",
+      "matched_keywords": [
+        "Google",
+        "model"
+      ]
+    },
+    {
+      "title": "Chinese web giant Tencent says new US GPU ban \u2018sets everyone back in China\u2019",
+      "source": "The Register",
+      "published": "Thu, 19 Nov 2026 00:39:16 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927",
+      "matched_keywords": [
+        "GPU"
+      ]
+    },
+    {
+      "title": "Anthropic decides to go head-to-head with GTA VI release, schedules IPO for the same day",
+      "source": "The Register",
+      "published": "Wed, 18 Nov 2026 21:40:09 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/18/anthropic-decides-to-go-head-to-head-with-gta-vi-release-schedules-ipo-for-the-same-day/5310872",
+      "matched_keywords": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "AI found more critical bugs in another widely used technology running 225M websites",
+      "source": "The Register",
+      "published": "Wed, 18 Nov 2026 21:11:04 +0000",
+      "link": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "To rank the world's biggest supercomputers, we're gonna need a bigger bench",
+      "source": "The Register",
+      "published": "Wed, 18 Nov 2026 20:15:44 +0000",
+      "link": "https://www.theregister.com/hpc/2026/11/18/to-rank-the-worlds-biggest-supercomputers-were-gonna-need-a-bigger-bench/5310878",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The wrong setting for AI cache can cost you a lot of cash",
+      "source": "The Register",
+      "published": "Wed, 18 Nov 2026 16:17:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI-powered cyber threats are changing the rules of enterprise recovery",
+      "source": "The Register",
+      "published": "Wed, 18 Nov 2026 15:00:00 +0000",
+      "link": "https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Business as usual, but Huang ain't coming back, says Nvidia",
+      "source": "The Register",
+      "published": "Wed, 18 Nov 2026 13:54:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772",
+      "matched_keywords": [
+        "GPU",
+        "Nvidia"
       ]
     },
     {
@@ -154,99 +237,6 @@
       "link": "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "350 tech jobs hammered as TCS takes over work at iconic Australian retailer",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 03:51:20 +0000",
-      "link": "https://www.theregister.com/channel/2026/11/17/350-tech-jobs-hammered-as-tcs-takes-over-work-at-iconic-australian-retailer/5310324",
-      "matched_keywords": [
-        "model"
-      ]
-    },
-    {
-      "title": "US extends chip sale restrictions to more Asian countries to reduce risk of \u2018diversion\u2019 to China",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 00:55:39 +0000",
-      "link": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "California sues OpenAI for misleading public about AI safety",
-      "source": "The Register",
-      "published": "Mon, 16 Nov 2026 23:43:17 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297",
-      "matched_keywords": [
-        "AI",
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
-      "source": "The Register",
-      "published": "Mon, 16 Nov 2026 19:52:00 +0000",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "China\u2019s grip on Top500 remains uncontested as US chases AI-HPC fusion",
-      "source": "The Register",
-      "published": "Mon, 16 Nov 2026 19:00:00 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/16/chinas-grip-on-top500-remains-uncontested-as-us-chases-ai-hpc-fusion/5310205",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Ubuntu gets AI-generated security fixes for those feeling brave",
-      "source": "The Register",
-      "published": "Mon, 16 Nov 2026 18:01:00 +0000",
-      "link": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)",
-      "source": "The Register",
-      "published": "Mon, 16 Nov 2026 16:15:00 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Has AI\u2019s \u2018Black October\u2019 changed the way you secure your code?",
-      "source": "The Register",
-      "published": "Mon, 16 Nov 2026 16:00:00 +0000",
-      "link": "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google: AI agent turned a security patch into a working exploit with no human help",
-      "source": "The Register",
-      "published": "Mon, 16 Nov 2026 14:00:00 +0000",
-      "link": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Not-So-Large Language Model Fits On a Floppy Disk",
-      "source": "Hackaday",
-      "published": "Wed, 18 Nov 2026 09:00:50 +0000",
-      "link": "https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/",
-      "matched_keywords": [
-        "Model",
-        "model"
       ]
     }
   ]
