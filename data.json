@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T12:05:01.241490+00:00",
+  "last_updated": "2026-11-20T12:05:01.467100+00:00",
   "entries": [
     {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -35,6 +35,53 @@
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "matched_keywords": [
         "Anthropic"
+      ]
+    },
+    {
+      "title": "US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies",
+      "source": "The Register",
+      "published": "Fri, 20 Nov 2026 04:04:56 +0000",
+      "link": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Nvidia adds possible hack to list of very bad things under investigation",
+      "source": "The Register",
+      "published": "Thu, 19 Nov 2026 18:52:53 +0000",
+      "link": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading",
+      "source": "The Register",
+      "published": "Thu, 19 Nov 2026 17:09:45 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143",
+      "matched_keywords": [
+        "Anthropic",
+        "compute"
+      ]
+    },
+    {
+      "title": "European Commission scrambles to contain AI-assisted cyberattack",
+      "source": "The Register",
+      "published": "Thu, 19 Nov 2026 15:14:54 +0000",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Qualcomm offers test drive of its rack-scale Nvidia AI challenger",
+      "source": "The Register",
+      "published": "Thu, 19 Nov 2026 14:03:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966",
+      "matched_keywords": [
+        "AI",
+        "Nvidia"
       ]
     },
     {
@@ -143,98 +190,6 @@
       "source": "The Register",
       "published": "Wed, 18 Nov 2026 06:32:00 +0000",
       "link": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "GPU giants throw HPC users some tasty crumbs",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 22:37:46 +0000",
-      "link": "https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Satya sorry for SaaS-y SNAFU - look over there, more AI!",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 21:44:58 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/17/satya-sorry-for-saas-y-snafu-look-over-there-more-ai/5310594",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Jensen Huang thrilled to be spending time with family, but will retake leadership burden if Nvidia asks",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 21:15:42 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/17/jensen-huang-thrilled-to-be-spending-time-with-family-but-will-retake-leadership-burden-if-nvidia-asks/5310585",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Gemini test proves once again that amoral AI agents will do almost anything if told \u2018NEVER give up\u2019",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 19:52:57 +0000",
-      "link": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 17:45:00 +0000",
-      "link": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
-      "matched_keywords": [
-        "LLM"
-      ]
-    },
-    {
-      "title": "Opting out of Gemini tracking? Google will still hold your data 20x longer",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 17:00:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Hackers smash 'n' grab AI vendor: Take  off with license data of Uber drivers",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 16:15:00 +0000",
-      "link": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Nvidia places chip exports under boardroom supervision after Huang's exit",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 15:01:00 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/17/nvidia-places-chip-exports-under-boardroom-supervision-after-huangs-exit/5310429",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "AI toys are on the naughty list again this year",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 13:00:00 +0000",
-      "link": "https://www.theregister.com/offbeat/2026/11/17/ai-toys-are-on-the-naughty-list-again-this-year/5310261",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
-      "source": "The Register",
-      "published": "Tue, 17 Nov 2026 12:31:00 +0000",
-      "link": "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
       "matched_keywords": [
         "AI"
       ]
