@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-11-20T12:05:01.467100+00:00",
+  "last_updated": "2026-11-21T12:05:01.575232+00:00",
   "entries": [
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "source": "Ars Technica",
+      "published": "Fri, 20 Nov 2026 20:59:08 +0000",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "source": "Ars Technica",
@@ -35,6 +44,61 @@
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "matched_keywords": [
         "Anthropic"
+      ]
+    },
+    {
+      "title": "Signal slams door on prying AI agents to protect privacy",
+      "source": "The Register",
+      "published": "Fri, 20 Nov 2026 20:42:04 +0000",
+      "link": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "Nvidia\u2019s journey to forge the one CPU SKU to rule them all",
+      "source": "The Register",
+      "published": "Fri, 20 Nov 2026 18:45:50 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "source": "The Register",
+      "published": "Fri, 20 Nov 2026 17:30:00 +0000",
+      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Dutch data watchdog highlights safety issues with AI glasses",
+      "source": "The Register",
+      "published": "Fri, 20 Nov 2026 16:44:00 +0000",
+      "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI boom threatens circuit board crunch to rival pandemic-era chip shortage",
+      "source": "The Register",
+      "published": "Fri, 20 Nov 2026 16:01:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
+      "source": "The Register",
+      "published": "Fri, 20 Nov 2026 12:47:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -144,52 +208,6 @@
       "source": "The Register",
       "published": "Wed, 18 Nov 2026 16:17:00 +0000",
       "link": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI-powered cyber threats are changing the rules of enterprise recovery",
-      "source": "The Register",
-      "published": "Wed, 18 Nov 2026 15:00:00 +0000",
-      "link": "https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Business as usual, but Huang ain't coming back, says Nvidia",
-      "source": "The Register",
-      "published": "Wed, 18 Nov 2026 13:54:00 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772",
-      "matched_keywords": [
-        "GPU",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out",
-      "source": "The Register",
-      "published": "Wed, 18 Nov 2026 10:14:00 +0000",
-      "link": "https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK MPs want AI watchdog with power to pull the plug on dangerous models",
-      "source": "The Register",
-      "published": "Wed, 18 Nov 2026 09:30:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-      "source": "The Register",
-      "published": "Wed, 18 Nov 2026 06:32:00 +0000",
-      "link": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
       "matched_keywords": [
         "AI"
       ]
