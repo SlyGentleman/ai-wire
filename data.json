@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T12:05:01.575232+00:00",
+  "last_updated": "2026-11-23T12:05:01.760322+00:00",
   "entries": [
     {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -44,6 +44,24 @@
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "matched_keywords": [
         "Anthropic"
+      ]
+    },
+    {
+      "title": "Google claims last week\u2019s critical VMware bug was under attack in September",
+      "source": "The Register",
+      "published": "Mon, 23 Nov 2026 04:39:19 +0000",
+      "link": "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547",
+      "matched_keywords": [
+        "Google"
+      ]
+    },
+    {
+      "title": "$1 of GPT-5.1 tokens finds new ways around China\u2019s Great Firewall",
+      "source": "The Register",
+      "published": "Mon, 23 Nov 2026 00:23:31 +0000",
+      "link": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -158,58 +176,13 @@
       ]
     },
     {
-      "title": "Google continues model chemistry experiment with Neon",
-      "source": "The Register",
-      "published": "Thu, 19 Nov 2026 08:30:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/google-continues-model-chemistry-experiment-with-neon/5310934",
+      "title": "Building a Single-Chip USB GPU",
+      "source": "Hackaday",
+      "published": "Sun, 22 Nov 2026 18:00:49 +0000",
+      "link": "https://hackaday.com/2026/11/22/building-a-single-chip-usb-gpu/",
       "matched_keywords": [
-        "Google",
-        "model"
-      ]
-    },
-    {
-      "title": "Chinese web giant Tencent says new US GPU ban \u2018sets everyone back in China\u2019",
-      "source": "The Register",
-      "published": "Thu, 19 Nov 2026 00:39:16 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927",
-      "matched_keywords": [
-        "GPU"
-      ]
-    },
-    {
-      "title": "Anthropic decides to go head-to-head with GTA VI release, schedules IPO for the same day",
-      "source": "The Register",
-      "published": "Wed, 18 Nov 2026 21:40:09 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/18/anthropic-decides-to-go-head-to-head-with-gta-vi-release-schedules-ipo-for-the-same-day/5310872",
-      "matched_keywords": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AI found more critical bugs in another widely used technology running 225M websites",
-      "source": "The Register",
-      "published": "Wed, 18 Nov 2026 21:11:04 +0000",
-      "link": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "To rank the world's biggest supercomputers, we're gonna need a bigger bench",
-      "source": "The Register",
-      "published": "Wed, 18 Nov 2026 20:15:44 +0000",
-      "link": "https://www.theregister.com/hpc/2026/11/18/to-rank-the-worlds-biggest-supercomputers-were-gonna-need-a-bigger-bench/5310878",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "The wrong setting for AI cache can cost you a lot of cash",
-      "source": "The Register",
-      "published": "Wed, 18 Nov 2026 16:17:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
-      "matched_keywords": [
-        "AI"
+        "GPU",
+        "gpu"
       ]
     }
   ]
