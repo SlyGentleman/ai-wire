@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-11-23T12:05:01.760322+00:00",
+  "last_updated": "2026-11-25T12:05:01.745516+00:00",
   "entries": [
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "source": "Ars Technica",
+      "published": "Tue, 24 Nov 2026 12:30:05 +0000",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
     {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "source": "Ars Technica",
@@ -47,6 +56,136 @@
       ]
     },
     {
+      "title": "Dell and HPE both say they\u2019ve become \u2018different companies\u2019",
+      "source": "The Register",
+      "published": "Wed, 25 Nov 2026 01:17:30 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping",
+      "source": "The Register",
+      "published": "Tue, 24 Nov 2026 20:57:08 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
+      "source": "The Register",
+      "published": "Tue, 24 Nov 2026 17:00:00 +0000",
+      "link": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft refreshes Copilot app search for users without an AI subscription",
+      "source": "The Register",
+      "published": "Tue, 24 Nov 2026 17:00:00 +0000",
+      "link": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895",
+      "matched_keywords": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
+      "source": "The Register",
+      "published": "Tue, 24 Nov 2026 15:15:00 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Claude Ship puts AI at the helm of pull request approvals",
+      "source": "The Register",
+      "published": "Tue, 24 Nov 2026 14:29:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+      "source": "The Register",
+      "published": "Tue, 24 Nov 2026 11:32:41 +0000",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "InferNode gives Bell Labs' Inferno OS a 64-bit second wind",
+      "source": "The Register",
+      "published": "Tue, 24 Nov 2026 10:09:00 +0000",
+      "link": "https://www.theregister.com/os-platforms/2026/11/24/infernode-gives-bell-labs-inferno-os-a-64-bit-second-wind/5311704",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "UK gov invests in defense startup making virtual training ground for AI",
+      "source": "The Register",
+      "published": "Tue, 24 Nov 2026 09:16:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+      "source": "The Register",
+      "published": "Tue, 24 Nov 2026 01:46:56 +0000",
+      "link": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+      "matched_keywords": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+      "source": "The Register",
+      "published": "Tue, 24 Nov 2026 00:18:17 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775",
+      "matched_keywords": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
+      "source": "The Register",
+      "published": "Mon, 23 Nov 2026 21:17:15 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Nvidia board puts Jensen Huang back as boss",
+      "source": "The Register",
+      "published": "Mon, 23 Nov 2026 14:35:50 +0000",
+      "link": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674",
+      "matched_keywords": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Everything going down at once wasn't evidence of a conspiracy \u2013 but the truth may be scarier",
+      "source": "The Register",
+      "published": "Mon, 23 Nov 2026 14:04:00 +0000",
+      "link": "https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
       "title": "Google claims last week\u2019s critical VMware bug was under attack in September",
       "source": "The Register",
       "published": "Mon, 23 Nov 2026 04:39:19 +0000",
@@ -62,127 +201,6 @@
       "link": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
       "matched_keywords": [
         "AI"
-      ]
-    },
-    {
-      "title": "Signal slams door on prying AI agents to protect privacy",
-      "source": "The Register",
-      "published": "Fri, 20 Nov 2026 20:42:04 +0000",
-      "link": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "Nvidia\u2019s journey to forge the one CPU SKU to rule them all",
-      "source": "The Register",
-      "published": "Fri, 20 Nov 2026 18:45:50 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
-      "source": "The Register",
-      "published": "Fri, 20 Nov 2026 17:30:00 +0000",
-      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Dutch data watchdog highlights safety issues with AI glasses",
-      "source": "The Register",
-      "published": "Fri, 20 Nov 2026 16:44:00 +0000",
-      "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI boom threatens circuit board crunch to rival pandemic-era chip shortage",
-      "source": "The Register",
-      "published": "Fri, 20 Nov 2026 16:01:00 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
-      "source": "The Register",
-      "published": "Fri, 20 Nov 2026 12:47:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies",
-      "source": "The Register",
-      "published": "Fri, 20 Nov 2026 04:04:56 +0000",
-      "link": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Nvidia adds possible hack to list of very bad things under investigation",
-      "source": "The Register",
-      "published": "Thu, 19 Nov 2026 18:52:53 +0000",
-      "link": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
-      "matched_keywords": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading",
-      "source": "The Register",
-      "published": "Thu, 19 Nov 2026 17:09:45 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143",
-      "matched_keywords": [
-        "Anthropic",
-        "compute"
-      ]
-    },
-    {
-      "title": "European Commission scrambles to contain AI-assisted cyberattack",
-      "source": "The Register",
-      "published": "Thu, 19 Nov 2026 15:14:54 +0000",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Qualcomm offers test drive of its rack-scale Nvidia AI challenger",
-      "source": "The Register",
-      "published": "Thu, 19 Nov 2026 14:03:00 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966",
-      "matched_keywords": [
-        "AI",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Uncensored AI models are thriving on code hosting platforms",
-      "source": "The Register",
-      "published": "Thu, 19 Nov 2026 09:30:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/19/uncensored-ai-models-are-thriving-on-code-hosting-platforms/5310891",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Building a Single-Chip USB GPU",
-      "source": "Hackaday",
-      "published": "Sun, 22 Nov 2026 18:00:49 +0000",
-      "link": "https://hackaday.com/2026/11/22/building-a-single-chip-usb-gpu/",
-      "matched_keywords": [
-        "GPU",
-        "gpu"
       ]
     }
   ]
