@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T12:05:01.750488+00:00",
+  "last_updated": "2026-11-27T12:05:01.297665+00:00",
   "entries": [
     {
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -53,6 +53,42 @@
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "matched_keywords": [
         "Anthropic"
+      ]
+    },
+    {
+      "title": "Europe's AI sovereignty push: Lots of cloud, not much silver lining",
+      "source": "The Register",
+      "published": "Fri, 27 Nov 2026 11:32:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI boom leaves network operators waiting up to 18 months for kit",
+      "source": "The Register",
+      "published": "Fri, 27 Nov 2026 10:45:00 +0000",
+      "link": "https://www.theregister.com/networks/2026/11/27/ai-boom-leaves-network-operators-waiting-up-to-18-months-for-kit/5312366",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "The token factory never sleeps",
+      "source": "The Register",
+      "published": "Fri, 27 Nov 2026 01:00:00 +0000",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/27/sponsored-the-token-factory-never-sleeps/5311612",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "source": "The Register",
+      "published": "Thu, 26 Nov 2026 19:04:00 +0000",
+      "link": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -127,71 +163,6 @@
       "link": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901",
       "matched_keywords": [
         "Nvidia"
-      ]
-    },
-    {
-      "title": "Claude Ship puts AI at the helm of pull request approvals",
-      "source": "The Register",
-      "published": "Tue, 24 Nov 2026 14:29:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
-      "source": "The Register",
-      "published": "Tue, 24 Nov 2026 11:32:41 +0000",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "InferNode gives Bell Labs' Inferno OS a 64-bit second wind",
-      "source": "The Register",
-      "published": "Tue, 24 Nov 2026 10:09:00 +0000",
-      "link": "https://www.theregister.com/os-platforms/2026/11/24/infernode-gives-bell-labs-inferno-os-a-64-bit-second-wind/5311704",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "UK gov invests in defense startup making virtual training ground for AI",
-      "source": "The Register",
-      "published": "Tue, 24 Nov 2026 09:16:00 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
-      "source": "The Register",
-      "published": "Tue, 24 Nov 2026 01:46:56 +0000",
-      "link": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
-      "matched_keywords": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
-      "source": "The Register",
-      "published": "Tue, 24 Nov 2026 00:18:17 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775",
-      "matched_keywords": [
-        "AI",
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
-      "source": "The Register",
-      "published": "Mon, 23 Nov 2026 21:17:15 +0000",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
-      "matched_keywords": [
-        "AI"
       ]
     }
   ]
