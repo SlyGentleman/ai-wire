@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T12:05:01.297665+00:00",
+  "last_updated": "2026-11-28T12:05:01.679149+00:00",
   "entries": [
     {
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -53,6 +53,15 @@
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "matched_keywords": [
         "Anthropic"
+      ]
+    },
+    {
+      "title": "UK government rejects national consultation on AI datacenters",
+      "source": "The Register",
+      "published": "Fri, 27 Nov 2026 12:38:00 +0000",
+      "link": "https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -135,34 +144,6 @@
       "matched_keywords": [
         "AI",
         "Anthropic"
-      ]
-    },
-    {
-      "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
-      "source": "The Register",
-      "published": "Tue, 24 Nov 2026 17:00:00 +0000",
-      "link": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Microsoft refreshes Copilot app search for users without an AI subscription",
-      "source": "The Register",
-      "published": "Tue, 24 Nov 2026 17:00:00 +0000",
-      "link": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895",
-      "matched_keywords": [
-        "AI",
-        "Google"
-      ]
-    },
-    {
-      "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
-      "source": "The Register",
-      "published": "Tue, 24 Nov 2026 15:15:00 +0000",
-      "link": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901",
-      "matched_keywords": [
-        "Nvidia"
       ]
     }
   ]
